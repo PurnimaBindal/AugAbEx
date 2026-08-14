@@ -1,0 +1,68 @@
+TITLE I--HEALTH CARE FRAUD PROSECUTION SEC.
+This title may be cited as the ``Health Care Fraud Prosecution Act of 1995''.
+INCREASED PENALTIES FOR HEALTH CARE FRAUD.
+Offense.--Part I of title 18, United States Code, is amended by inserting after chapter 50A the following new chapter: ``CHAPTER 50B--HEALTH CARE FRAUD ``Sec.
+Health care fraud ``(a) Definition.--In this section, the term `health care provider' means-- ``(1) a physician, nurse, dentist, therapist, pharmacist, or other professional provider of health care; and ``(2) a hospital, health maintenance organization, pharmacy, laboratory, clinic, or other health care facility or a provider of medical services, medical devices, medical equipment, or other medical supplies.
+Offense.--A health care provider that engages in conduct constituting an offense under section 1341 or 1343 of this title for the purpose of or in connection with the provision of health care services or supplies or the payment therefor or reimbursement of the costs thereof, when-- ``(1) the amount of loss caused by the fraudulent conduct exceeds $10,000; or ``(2) the offender had previously been convicted of fraud in Federal or State court, shall be fined under this title, imprisoned in accordance with section 1102 of this title, or both.
+Penalties ``(a) In General.--In the case of an offense under section 1101 of this title not described in subsection (b) or (c) of this section, the offender shall be sentenced to a term of imprisonment of not more than 10 years.
+Serious Physical Injury or Endangerment of Life of Patient.-- In the case of an offense under section 1101 of this title that-- ``(1) caused serious physical injury to a patient; or ``(2) endangered the life of a patient, the offender shall be sentenced to a term of imprisonment of not more than 20 years.
+Death of Patient.--In the case of an offense under section 1101 of this title that caused the death of a patient, the offender shall be sentenced to a term of imprisonment of not more than life.
+Restitution ``(a) In General.--In sentencing a person convicted of an offense under section 1101 of this title, the court shall order the offender to pay restitution to the patient and any payor, such as an insurer, employer health benefit plan, or government program, for economic loss sustained as a result of the offense.
+Restitution Procedure.--Except to the extent inconsistent with this section, sections 3363 and 3364 of this title apply to restitution made under this section.''.
+Clerical Amendment.--The table of chapters at the beginning of part I of title 18, United States Code, is amended by inserting after the item relating to chapter 50A the following new item: ``50B.
+CRIMINAL FORFEITURE OF HEALTH CARE FRAUD PROCEEDS.
+Section 982(a) of title 18, United States Code, is amended by adding at the end the following new paragraph: ``(6) The court, in imposing sentence on a person convicted of an offense under section 1101 of this title, shall order that the offender forfeit to the United States any real or personal property constituting or derived from proceeds that the offender obtained directly or indirectly as the result of the offense.''.
+REWARDS FOR INFORMATION LEADING TO PROSECUTION AND CONVICTION.
+Section 3059(c)(1) of title 18, United States Code, is amended by inserting ``1101 or'' before ``2326''.
+There are authorized to be appropriated for the purposes of carrying out the amendments made by this title-- (1) for fiscal year 1996-- (A) $25,000,000 for the Federal Bureau of Investigation to hire, equip, and train no fewer than 250 special agents and support staff to investigate health-care fraud cases; (B) $5,000,000 to hire, equip, and train no fewer than 50 assistant United States Attorneys and support staff to prosecute health-care fraud cases; and (C) $5,000,000 to hire, equip, and train no fewer than 50 investigators in the Office of Inspector General, Department of Health and Human Services, to be devoted exclusively to health-care fraud cases; and (2) for each fiscal year thereafter, such sums as may be necessary.
+TITLE II--HEALTH CARE FRAUD AND ABUSE COMMISSION SEC.
+This title may be cited as the ``Health Care Fraud and Abuse Commission Act of 1995''.
+ESTABLISHMENT OF HEALTH CARE FRAUD AND ABUSE COMMISSION.
+In General.--There is established a commission to be known as the ``Health Care Fraud and Abuse Commission'' (in this title referred to as the ``Commission'').
+Composition.--The Commission shall be composed of 18 members as follows: (1) Officials.-- (A) The Secretary of Health and Human Services (or the Secretary's designee).
+The Inspector General of the Department of Health and Human Services (or the Inspector General's designee).
+The Attorney General (or the Attorney General's designee).
+The Director of the Federal Bureau of Investigation (or the Director's designee).
+The Administrator of the Health Care Financing Administration (or the Administrator's designee).
+Public members.--Thirteen members, appointed by the President, of which-- (A) one shall be an Attorney General of a State; (B) one shall be a representative of State medicaid fraud control programs; (C) one shall be a State official directly responsible for regulation of health insurance; (D) one shall be a representative of physicians; (E) one shall be a representative of hospital administrators; (F) one shall be a representative of health insurance companies; (G) one shall be a representative of employers who self-fund employee health benefit plans; (H) one shall be a representative of employers who purchase a health benefit plan from a health insurance company; (I) one shall be a representative of medicare carriers; (J) one shall be a representative of medicare peer review organizations; (K) one shall be a representative of health care consumers; (L) one shall be a representative of medicare beneficiaries; and (M) one shall be a representative of labor unions.
+In making appointments under this paragraph of an individual who is a representative of persons or organizations, the President shall consider the recommendations of national organizations that represent such persons or organizations.
+The President shall report to Congress, within 90 days after the date of the enactment of this Act, the names of the members appointed under this paragraph.
+Terms.--Each member shall be appointed for the life of the Commission.
+A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+In General.--The Commission shall-- (1) investigate the nature, magnitude, and cost of health care fraud and abuse in the United States, and (2) identify and develop the most effective methods of preventing, detecting, and prosecuting or litigating such fraud and abuse, with particular emphasis on coordinating public and private prevention, detection, and enforcement efforts.
+Particulars.--Among other items, the Commission shall examine at least the following: (1) Mechanisms to provide greater standardization of claims administration in order to accommodate fraud prevention and detection.
+Mechanisms to allow more freedom of health benefit plans to exchange information for coordinating case development and prosecution or litigation efforts, without undermining patient and provider privacy protections or violating anti- trust laws.
+The extension to private health insurers of administrative remedies currently available to public insurers.
+Mechanisms for private insurers to organize and finance investigation and litigation efforts when more than one insurer may have received fraudulent claims from a provider.
+Creating a model State statute for establishing State insurance fraud units and State laws to strengthen insurers' ability to pursue and recover from fraudulent providers.
+The need for regulation of new types of health care providers.
+Criteria for physician referrals to facilities in which they (or family members) have a financial interest.
+The availability of resources to law enforcement authorities to combat health care fraud and abuse.
+Report.--After approval by a majority vote, a quorum being present, the Commission shall transmit to Congress a report on its activities.
+The report shall be transmitted not later than 18 months after the date that a majority of the public members of the Commission have been appointed.
+The report shall contain a detailed statement of the Commission's findings, together with such recommendations as the Commission considers appropriate.
+Organization.-- (1) Quorum.--A majority of the members of the Commission shall constitute a quorum but a lesser number may hold hearings.
+Chairman.--The Commission shall elect one of its members to serve as chairman of the Commission.
+Meetings.--The Commission shall meet at the call of the chairman or a majority of its members.
+Meetings of the Commission are open to the public under section 10(a)(10) of the Federal Advisory Committee Act, except that the Commission may conduct meetings in executive session but only if a majority of the members of the Commission (a quorum being present) approve going into executive session.
+Compensation of Members.--Members of the Commission shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Commission.
+In General.--The Commission may appoint and fix the compensation of a staff director and such other additional personnel as may be necessary to enable the Commission to carry out its functions, without regard to the laws, rules, and regulations governing appointment and compensation and other conditions of service in the competitive service.
+Detail of Federal Employees.--Upon request of the chairman, any Federal employee who is subject to such laws, rules, and regulations, may be detailed to the Commission to assist it in carrying out its functions under this title, and such detail shall be without interruption or loss of civil service status or privilege.
+Experts and Consultants.--The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, but at rates for individuals not to exceed the daily equivalent of 120 percent of the maximum annual rate of basic pay payable for GS-15 of the General Schedule.
+Hearings and Sessions.--The Commission may, for the purpose of carrying out this title, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
+The Commission may administer oaths or affirmations to witnesses appearing before it.
+Obtaining Official Data.-- (1) In general.--The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this title.
+Upon request of the chairman of the Commission, the head of that department or agency shall furnish that information to the Commission.
+Access to information.--Information obtained by the Commission is available to the public in the same manner in which information may be made available under sections 552 and 552a of title 5, United States Code.
+Gifts, Bequests, and Devises.--The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property for the purpose of aiding or facilitating the work of the Commission.
+Mails.--The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+Administrative Support Services.--Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this title.
+Subpoena Power.-- (1) In general.--The Commission may issue subpoenas requiring the attendance and testimony of witnesses and the production of any evidence relating to any matter which the Commission is authorized to investigate under this title.
+The attendance of witnesses and the production of evidence may be required from any place within the United States at any designated place of hearing within the United States.
+Failure to obey a subpoena.--If a person refuses to obey a subpoena issued under paragraph (1), the Commission may apply to a United States district court for an order requiring that person to appear before the Commission to give testimony, produce evidence, or both, relating to the matter under investigation.
+The application may be made within the judicial district where the hearing is conducted or where that person is found, resides, or transacts business.
+Any failure to obey the order of the court may be punished by the court as civil contempt.
+Service of subpoenas.--The subpoenas of the Commission shall be served in the manner provided for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure for the United States district courts.
+Service of process.--All process of any court to which application is to be made under paragraph (2) may be served in the judicial district in which the person required to be served resides or may be found.
+The Commission shall terminate 90 days after the date the report is submitted under section 203(c).
+There are authorized to be appropriated to the Commission such sums as are necessary to carry out its functions, to remain available until expended.

@@ -1,0 +1,53 @@
+This Act may be cited as the ``Emergency Coverage During an Incident of National Significance Act of 2006''.
+EXTENSION OF FEDERAL EMPLOYEE HEALTH INSURANCE TO CERTAIN INDIVIDUALS AFFECTED BY AN INCIDENT OF NATIONAL SIGNIFICANCE.
+In General.--Subpart G of part III of title 5, United States Code, is amended by redesignating chapters 89A and 89B as chapters 89B and 89C, respectively, and by inserting after chapter 89 the following: ``CHAPTER 89A--EMERGENCY HEALTH INSURANCE FOR CERTAIN INDIVIDUALS AFFECTED BY AN INCIDENT OF NATIONAL SIGNIFICANCE ``Sec.
+Health insurance for eligible individuals.
+Eligibility and identification of individuals.
+Alternative conditions to Federal employee health benefits plans.
+``In this chapter-- ``(1) the terms defined under section 8901 shall have the meanings given such terms under that section; ``(2) the term `eligible individual' means any individual who, at the time of an incident of national significance, resides or is employed in the area identified under section 8954 with respect to such incident; ``(3) the term `incident of national significance' means a domestic catastrophic incident which is designated as an incident of national significance by the President pursuant to the national response plan referred to in section 502(6) of the Homeland Security Act of 2002; and ``(4) the term `Office' means the Office of Personnel Management.
+HEALTH INSURANCE FOR ELIGIBLE INDIVIDUALS.
+The Office of Personnel Management shall administer a health insurance program for eligible individuals in accordance with this chapter.
+Except as provided under this chapter, the Office shall prescribe regulations to apply the provisions of chapter 89 to the greatest extent practicable to eligible individuals covered under this chapter.
+In each calendar year, the Office shall enter into a contract with 3 or more carriers to make available 5 or more health benefits plans (subject to the provisions of this chapter) to eligible individuals under this chapter.
+In carrying out this section, the Office may require 5 or more carriers to enter into a contract described in subsection (a), as a condition of entering into a contract under section 8902.
+ELIGIBILITY AND IDENTIFICATION OF INDIVIDUALS.
+Except as provided in subsection (b), any eligible individual may enroll in a health benefits plan under this chapter.
+An individual may not enroll in a health benefits plan under this chapter, if the individual-- ``(1) is 65 years of age or older; ``(2) is enrolled or eligible to enroll for coverage under a public health insurance program, including coverage under title XVIII of the Social Security Act, coverage under a State plan under title XIX of such Act, coverage under a State plan under title XX of such Act, or coverage under any other program determined by the Office; ``(3) is enrolled or eligible to enroll in a plan under chapter 89; or ``(4) is a member of the uniformed services as defined under section 101(a)(5) of title 10.
+With respect to each incident of national significance, the Secretary of Homeland Security shall, consistent with the President's designation of such incident, identify the area affected by such incident and shall, in consulation with the Office, carry out a program to identify eligible individuals with respect to such incident.
+The period of an individual's enrollment in a health benefits plan under this chapter shall not exceed 24 months with respect to any incident of national significance.
+Such period may be extended by the Office if the Secretary of Homeland Security determines that the area identified under subsection (c) remains affected by the incident.
+ALTERNATIVE CONDITIONS TO FEDERAL EMPLOYEE HEALTH BENEFITS PLANS.
+Rates charged and premiums paid for a health benefits plan under this chapter may differ between or among geographic regions.
+No Government contribution shall be made for any individual under this chapter.
+In the administration of this chapter, the Office shall ensure that individuals covered under this chapter shall be in a risk pool that is separate from the risk pool maintained for individuals covered under chapter 89.''.
+Technical and Conforming Amendments.-- (1) Contract requirement under chapter 89.--Section 8902 of title 5, United States Code, is amended by adding after subsection (o) the following: ``(p) Each contract under this chapter may include, at the discretion of the Office, a provision that the carrier shall enter into a contract to provide 1 or more health benefits plans as described under chapter 89A.''.
+Table of chapters.--The table of chapters for part III of title 5, United States Code, is amended-- (A) by redesignating the items relating to chapters 89A and 89B as items relating to chapters 89B and 89C, respectively; and (B) by inserting after the item relating to chapter 89 the following: ``Chapter 89A--Emergency Health Insurance for Certain Individuals Affected by an Incident of National Significance ``Sec.
+Health insurance for eligible individuals.
+Eligibility and identification of individuals.
+Alternative conditions to Federal employee health benefits plans.''.
+Effective Date.--The amendments made by this section shall take effect on the date of enactment of this Act and shall apply to contracts that take effect with respect to the calendar year following such date of enactment.
+CREDIT FOR EMERGENCY HEALTH INSURANCE COSTS OF CERTAIN INDIVIDUALS AFFECTED BY AN INCIDENT OF NATIONAL SIGNIFICANCE.
+In General.--Subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to refundable credits) is amended by redesignating section 36 as section 37 and inserting after section 35 the following new section: ``SEC.
+EMERGENCY HEALTH INSURANCE COSTS OF CERTAIN INDIVIDUALS AFFECTED BY AN INCIDENT OF NATIONAL SIGNIFICANCE.
+In General.--In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A for the taxable year an amount equal to the applicable percentage of the amount paid during such taxable year by the taxpayer for coverage of the taxpayer and family members under the health insurance plan established under chapter 89A of title 5, United States Code.
+Applicable Percentage.-- ``(1) In general.--For purposes of subsection (a), the applicable percentage shall be determined in accordance with the following table: ``In the case of any taxpayer whose The applicable percentage is: family income is the following percentage of the poverty line: Not more than 100 percent............ 100 percent More than 100 percent, but not more 65 percent than 300 percent.
+More than 300 percent, but not more 40 percent than 500 percent.
+More than 500 percent, but not more 30 percent than 600 percent.
+More than 600 percent................ 0 percent.
+Family income.--For purposes of this subsection, the term `family income' means the aggregate adjusted gross income of the taxpayer and the taxpayer's spouse and dependents.
+Poverty line.--For purposes of this subsection, the term `poverty line' means the poverty line as defined in section 673(2) of the Community Services Block Grant Act, for a family of the size involved.
+Special Rules.-- ``(1) Coordination with advance payments of credit.--With respect to any taxable year, the amount which would (but for this paragraph) be allowed as a credit to the taxpayer under subsection (a) shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section 7529 for such taxable year.
+Coordination with other deductions.--Amounts taken into account under subsection (a) shall not be taken into account in determining any deduction allowed under section 162(l) or 213.
+Treatment of payments.--For purposes of this section, payments made by the Secretary on behalf of any individual under section 7529 (relating to advance payment of credit for emergency health insurance costs of certain individuals affected by an incident of national significance) shall be treated as having been made by the taxpayer.
+Regulations.--The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section and section 7529.''.
+Advance Payment of Credit.--Chapter 77 of the Internal Revenue Code of 1986 (relating to miscellaneous provisions) is amended by adding at the end the following new section: ``SEC.
+ADVANCE PAYMENT OF CREDIT FOR EMERGENCY HEALTH INSURANCE COSTS OF CERTAIN INDIVIDUALS AFFECTED BY AN INCIDENT OF NATIONAL SIGNIFICANCE.
+``Not later than August 1, 2007, the Secretary shall establish a program for making payments on behalf of individuals described in section 36(a) to the health insurance plan established under chapter 89A of title 5, United States Code.''.
+Conforming Amendments.-- (1) Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting ``or 36'' after ``section 35''.
+The table of sections for subpart C of part IV of chapter 1 of the Internal Revenue Code of 1986 is amended by redesignating the item relating to section 36 as an item relating to section 37 and by inserting after the item relating to section 35 the following new item: ``Sec.
+Emergency health insurance costs of certain individuals affected by an incident of national significance.''.
+The table of sections for chapter 77 of such Code is amended by adding at the end the following new item: ``Sec.
+Advance payment of credit for emergency health insurance costs of certain individuals affected by an incident of national significance.''.
+Effective Date.--The amendments made by this section shall apply to taxable years ending after the date of the enactment of this Act.
+PLAN FOR EXTENSION OF FEDERAL EMPLOYEE HEALTH BENEFITS PROGRAM TO CERTAIN INDIVIDUALS AFFECTED BY AN INCIDENT OF NATIONAL SIGNIFICANCE.
+Not later than 3 months after the date of enactment of this Act and after consultation with appropriate experts, the Secretary of Homeland Security, and other Federal officers, the Director of the Office of Personnel Management shall submit a comprehensive plan to Congress that-- (1) provides for the orderly implementation of the amendments made by this Act; and (2) includes a schedule of actions to be taken to provide for that implementation.

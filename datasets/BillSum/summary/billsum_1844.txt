@@ -1,0 +1,9 @@
+Internet Spyware (I-SPY) Prevention Act of 2007 - (Sec.
+Amends the federal criminal code to impose a fine and/or prison term of up to five years for intentionally accessing a protected computer (a computer exclusively for the use of a financial institution or the US government or which is used in or affects interstate or foreign commerce or communication) without authorization, or exceeding authorized access, by causing a computer program or code to be copied onto the protected computer and intentionally using that program or code in furtherance of another federal criminal offense.
+Imposes a fine and/or prison term of up to two years if such unauthorized access of a protected computer is for the purpose of: intentionally obtaining or transmitting personal information (including a Social Security number or other government-issued identification number, a bank or credit card number, or an associated password or access code) with intent to defraud or injure a person or cause damage to a protected computer; or intentionally impairing the security protection of a protected computer with the intent to defraud or injure a person or damage such computer.
+Prohibits any person from bringing a civil action under state law premised upon the defendant's violating this Act.
+Exempts any lawfully authorized investigative, protective, or intelligence activity of the United States, a state, or a local law enforcement agency or of an US intelligence agency from the prohibitions of this Act.
+(Sec.
+Authorizes appropriations for FY2008-FY2011 to the Attorney General for prosecutions needed to discourage the use of spyware and practices commonly called phishing and pharming.
+(Sec.
+Expresses the sense of Congress that the Department of Justice should vigorously prosecute those who use spyware to commit crimes and those that conduct phishing and pharming scams.

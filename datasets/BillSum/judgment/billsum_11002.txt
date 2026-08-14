@@ -1,0 +1,28 @@
+QUALIFIED DISPOSITION OF DAIRY PROPERTY TREATED AS INVOLUNTARY CONVERSION.
+In General.--Section 1033 of the Internal Revenue Code of 1986 (relating to involuntary conversions) is amended by designating subsection (k) as subsection (l) and inserting after subsection (j) the following new subsection: ``(k) Qualified Disposition To Implement Bovine Tuberculosis Eradication Program.-- ``(1) In general.--For purposes of this subtitle, if a taxpayer elects the application of this subsection to a qualified disposition: ``(A) Treatment as involuntary conversion.--Such disposition shall be treated as an involuntary conversion to which this section applies.
+Modification of similar property requirement.--Property to be held by the taxpayer either for productive use in a trade or business or for investment shall be treated as property similar or related in service or use to the property disposed of.
+Extension of period for replacing property.-- Subsection (a)(2)(B)(i) shall be applied by substituting `4 years' for `2 years'.
+Waiver of unrelated person requirement.-- Subsection (i) (relating to replacement property must be acquired from unrelated person in certain cases) shall not apply.
+Expanded capital gain for cattle and horses.--Section 1231(b)(3)(A) shall be applied by substituting `1 month' for `24 months'.
+Qualified disposition.-- ``(A) In general.--For purposes of this subsection, the term `qualified disposition' means the disposition of dairy property which is certified by the Secretary of Agriculture as having been the subject of an agreement under the bovine tuberculosis eradication program, as implemented pursuant to the Declaration of Emergency Because of Bovine Tuberculosis (65 Federal Register 63,227 (2000)).
+Payments received in connection with the bovine tuberculosis eradication program.--For purposes of this subsection, any amount received by a taxpayer in connection with an agreement under such bovine tuberculosis eradication program shall be treated as received in a qualified disposition.
+Transmittal of certifications.--The Secretary of Agriculture shall transmit copies of certifications under this paragraph to the Secretary.
+Allowance of the adjusted basis of certified dairy property as a depreciation deduction.--The adjusted basis of any property certified under paragraph (2)(A) shall be allowed as a depreciation deduction under section 167 for the taxable year which includes the date of the certification described in paragraph (2)(A).
+Dairy property.--For purposes of this subsection, the term `dairy property' means all tangible property used in connection with a dairy business or a dairy processing plant.
+Special rules for certain business organizations.-- ``(A) S corporations.--In the case of an S corporation, gain on a qualified disposition shall not be treated as recognized for the purposes of section 1374 (relating to tax imposed on certain built-in gains).
+Partnerships.--In the case of a partnership which dissolves in anticipation of a qualified disposition (including in anticipation of receiving the amount described in paragraph (2)(B)), the dairy property owned by the partners of such partnership at the time of such disposition shall be treated, for the purposes of this section and notwithstanding any regulation or rule of law, as owned by such partners at the time of such disposition.
+Termination.--This subsection shall not apply to dispositions made after December 31, 2005.''.
+Effective Date.--The amendment made by this section shall apply to dispositions made and amounts received in taxable years ending after May 22, 2001.
+DEDUCTION OF QUALIFIED RECLAMATION EXPENDITURES.
+In General.--Part VI of subchapter B of chapter 1 of the Internal Revenue Code of 1986 (relating to itemized deductions for individuals and corporations) is amended by adding at the end the following new section: ``SEC.
+EXPENSING OF DAIRY PROPERTY RECLAMATION COSTS.
+In General.--Notwithstanding section 280B (relating to demolition of structures), a taxpayer may elect to treat any qualified reclamation expenditure which is paid or incurred by the taxpayer as an expense which is not chargeable to capital account.
+Any expenditure which is so treated shall be allowed as a deduction for the taxable year in which it is paid or incurred.
+Qualified Reclamation Expenditure.-- ``(1) In general.--For purposes of this subparagraph, the term `qualified reclamation expenditure' means amounts otherwise chargeable to capital account and paid or incurred to convert any real property certified under section 1033(k)(2) (relating to qualified disposition) into unimproved land.
+Special rule for expenditures for depreciable property.--A rule similar to the rule of section 198(b)(2) (relating to special rule for expenditures for depreciable property) shall apply for purposes of paragraph (1).
+Deduction Recaptured as Ordinary Income.--Rules similar to the rules of section 198(e) (relating to deduction recaptured as ordinary income on sale, etc.)
+shall apply with respect to any qualified reclamation expenditure.
+Termination.--This section shall not apply to expenditures paid or incurred after December 31, 2005.''.
+Clerical Amendment.--The table of sections for part VI of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item: ``Sec.
+Expensing of dairy property reclamation costs.''.
+Effective Date.--The amendments made by this section shall apply to expenditures paid or incurred in taxable years ending after May 22, 2001.

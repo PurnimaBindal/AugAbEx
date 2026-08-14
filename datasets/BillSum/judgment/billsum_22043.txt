@@ -1,0 +1,43 @@
+SHORT TITLE; TABLE OF CONTENTS.
+Short Title.--This Act may be cited as the ``Middle Class Tax Relief Act of 2006''.
+Table of Contents.--The table of contents of this Act is as follows: Sec.
+Short title; table of contents.
+TITLE I--TAX RELIEF FOR MIDDLE CLASS FAMILIES Sec.
+Middle class families tax relief credits.
+Double the child tax credit for middle class families.
+Eliminate the middle class surcharge.
+TITLE II--SURTAX FOR FAMILIES WITH INCOMES OVER $1 MILLION Sec.
+Surtax for families with incomes over $1 million.
+TITLE I--TAX RELIEF FOR MIDDLE CLASS FAMILIES SEC.
+MIDDLE CLASS FAMILIES TAX RELIEF CREDITS.
+In General.--Subpart A of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to nonrefundable personal credits) is amended by inserting before section 26 the following new section: ``SEC.
+MIDDLE CLASS FAMILIES TAX RELIEF CREDIT.
+10 Percent Tax Reduction for the Middle Class.-- ``(1) In general.--In the case of any natural person, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 10 percent of the amount of such tax.
+Income limitation.--The amount allowable as a credit under paragraph (1) for any taxable year shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph) as-- ``(A) the amount (if any) by which the taxpayer's adjusted gross income exceeds $75,000 ($150,000 in the case of a joint return), bears to ``(B) $5,000 ($10,000 in the case of a joint return).
+Zero Tax Bracket for the Poor.-- ``(1) In general.--In the case of any natural person, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the excess of-- ``(A) the sum of the taxpayer's regular tax liability for the taxable year and the tax imposed by section 55(a) for the taxable year, over ``(B) the sum of the credits allowed under this part (other than this subsection) for the taxable year.
+Income limitation.--The amount allowable as a credit under paragraph (1) for any taxable year shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph) as-- ``(A) the amount (if any) by which the taxpayer's adjusted gross income exceeds $12,500 ($25,000 in the case of a joint return), bears to ``(B) $2,500 ($5,000 in the case of a joint return).''.
+Clerical Amendment.--The table of sections of subpart A of part IV of subchapter A of chapter 1 of such Code is amended by inserting before the item relating to section 26 the following new item: ``Sec.
+Middle class families tax relief credits.''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+DOUBLE THE CHILD TAX CREDIT FOR MIDDLE CLASS FAMILIES.
+In General.--Subsection (a) of section 24 of the Internal Revenue Code of 1986 (relating to child tax credit) is amended to read as follows: ``(a) Allowance of Credit.-- ``(1) In general.--There shall be allowed as a credit against the tax imposed by this chapter for the taxable year with respect to each qualifying child of the taxpayer an amount equal to the sum of-- ``(A) the basic credit for the taxable year, plus ``(B) the additional credit for the taxable year.
+Basic credit.--For purposes of this section, the term `basic credit' means-- ``(A) $1,000 in the case of any taxable year beginning before January 1, 2011, and ``(B) $500 in the case of any other taxable year.
+Additional credit.--For purposes of this section, the term `additional credit' means-- ``(A) $1,000 in the case of any taxable year beginning before January 1, 2011, and ``(B) $500 in the case of any other taxable year.''.
+Limitation on Additional Credit Based on Adjusted Gross Income.--Subsection (b) of section 24 of such Code is amended by adding at the end the following new paragraphs: ``(4) Limitation on additional credit based on adjusted gross income.--The amount of the additional credit determined under subsection (a)(3) shall be reduced (but not below zero) by an amount which bears the same ratio to such amount (determined without regard to this paragraph) as-- ``(A) the amount (if any) by which the taxpayer's adjusted gross income exceeds $75,000 ($150,000 in the case of a joint return), bears to ``(B) $5,000 ($10,000 in the case of a joint return).''.
+Conforming Amendments.--Paragraph (1) of section 24(b) of such Code is amended-- (1) by striking ``the credit allowable under subsection (a)'' and inserting ``the basic credit determined under subsection (a)(2)'', and (2) by inserting ``on basic credit'' after ``Limitation'' in the heading thereof.
+Coordination With EGTRRA Sunset.--Section 901 of the Economic Growth and Tax Relief Reconciliation Act of 2001 shall not apply to the amendment made by section 201(a) of such Act.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+ELIMINATE THE MIDDLE CLASS SURCHARGE.
+In General.--Section 55 of the Internal Revenue Code of 1986 (relating to alternative minimum tax imposed) is amended by adding at the end the following new subsection: ``(f) Exemption for Individuals for Taxable Years Beginning in 2007.--For any taxable year beginning in 2007, in the case of an individual-- ``(1) In general.--The tentative minimum tax of the taxpayer shall be zero if the adjusted gross income of the taxpayer (as determined for purposes of the regular tax) is equal to or less than the threshold amount.
+Phasein of liability above exemption level.--In the case of a taxpayer whose adjusted gross income exceeds the threshold amount but does not exceed $112,500 ($225,000 in the case of a joint return), the tax imposed by subsection (a) shall be the amount which bears the same ratio to such tax (determined without regard to this subsection) as-- ``(A) the excess of-- ``(i) the adjusted gross income of the taxpayer (as determined for purposes of the regular tax), over ``(ii) the threshold amount, bears to ``(B) $12,500 ($25,000 in the case of a joint return).
+Threshold amount.--For purposes of this paragraph, the term `threshold amount' means $100,000 ($200,000 in the case of a joint return).
+Estates and trusts.--This subsection shall not apply to any estate or trust.''.
+Effective Date.--The amendment made by this section shall apply to taxable years beginning after December 31, 2005.
+TITLE II--SURTAX FOR FAMILIES WITH INCOMES OVER $1 MILLION SEC.
+SURTAX FOR FAMILIES WITH INCOMES OVER $1 MILLION.
+General Rule.--Section 1 of the Internal Revenue Code of 1986 (relating to imposition of tax on individuals) is amended by adding at the end the following new subsection: ``(j) Surtax for Families With Incomes Over $1,000,000.-- ``(1) In general.--If the adjusted gross income of a taxpayer exceeds $500,000 ($1,000,000, in the case of a joint return), the tax imposed by this section (determined without regard to this subsection) shall be increased by an amount determined in accordance with the following tables: ``(A) Joint returns.--In the case of a joint return: ``If taxable income is: The tax is: Over $1,000,000 but not over $1,000,000,000.
+7% of the excess over $1,000,000 Over $1,000,000,000............ $69,930,000, plus 10% of the excess over $1,000,000,000 ``(B) Other returns.--In the case of any other return: ``If taxable income is: The tax is: Over $500,000 but not over $500,000,000.
+7% of the excess over $500,000 Over $500,000,000.............. $34,965,000, plus 10% of the excess over $500,000,000 ``(2) Tax not to apply to estates and trusts.--This subsection shall not apply to an estate or trust.
+Special rule.--For purposes of section 55, the amount of the regular tax shall be determined without regard to this subsection.''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+Section 15 Not to Apply.--The amendment made by subsection (a) shall not be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986.

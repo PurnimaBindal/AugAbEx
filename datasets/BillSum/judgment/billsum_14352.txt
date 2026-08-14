@@ -1,0 +1,37 @@
+This Act may be cited as the ``ICCVAM Authorization Act of 1998''.
+INTERAGENCY COORDINATING COMMITTEE ON THE VALIDATION OF ALTERNATIVE METHODS.
+In General.--The Interagency Coordinating Committee on the Validation of Alternative Methods (referred to in this Act as ``ICCVAM'') shall be sustained as a permanent standing committee and continued to be administered by the National Institute of Environmental Health Sciences.
+The purposes of ICCVAM shall be to-- (1) increase the efficiency and effectiveness of Federal agency test method review; (2) eliminate duplicative efforts and share experiences across Federal regulatory agencies; (3) optimize utilization of scientific expertise outside the Federal Government; (4) ensure that new test methods meet the needs of Federal agencies; and (5) reduce, refine, and replace the use of animals in testing.
+Composition.--ICCVAM shall be comprised of a representative from each of the following agencies and organizations: (1) Agency for Toxic Substances and Disease Registry.
+Consumer Product Safety Commission.
+Department of the Interior.
+Food and Drug Administration.
+National Institute for Occupational Safety and Health.
+National Institutes of Health.
+National Institute of Environmental Health Sciences.
+National Library of Medicine.
+Occupational Safety and Health Administration.
+Any other agency that develops, employs, or regulates the use of animals in toxicity testing.
+Scientific Advisory Committee.-- (1) Establishment.--In addition, the National Institute of Environmental Health Sciences shall establish a Scientific Advisory Committee to assist ICCVAM and the National Institute of Environmental Health Sciences.
+The Committee shall be composed of at least one knowledgeable representative having a history of expertise, development, or evaluation in alternatives to animal toxicological tests, from each of the following interests: (A) The personal care, pharmaceutical, industrial chemicals, agriculture, and any other regulated industry.
+A national animal protection organization established under section 501(c)(3) of the Internal Revenue Code of 1986.
+Membership.-- The National Institute of Environmental Health Sciences shall also invite to be members of the Scientific Advisory Committee representatives from other stakeholder organizations such as: (A) An academic institution.
+A State government agency.
+An international regulatory body.
+A corporation developing or marketing alternative test methodologies including contract laboratories.
+Duties.--ICCVAM shall carry out the following duties consistent with the protection of public health and the environment and for the purpose of reducing, refining, and replacing the use of animals in acute and chronic toxicological tests: (1) Review and evaluate existing and new alternative methods, including batteries of tests and test screens, which may be acceptable for specific regulatory uses, including the coordination of technical reviews of proposed new or revised test methods of interagency interest.
+Facilitate interagency and international harmonization of acute chronic toxicological test protocols that encourage the reduction, refinement, or replacement of animal tests.
+Facilitate, promote, and provide guidance on development of validation criteria and processes for new methods and help promote the acceptance of such methods and awareness of accepted methods by Federal agencies and other stakeholders.
+File formal recommendations with each appropriate Federal agency identifying specific agency guidelines, recommendations, or regulations for each new test, battery of tests, test screen, or end point reviewed by ICCVAM that may be appropriate for the reduction, refinement, or replacement of an animal test required or recommended by that Federal agency for compliance with that agency's specific statutes, regulations, or guidelines.
+Tests may be recommended for a certain class of chemicals within that regulatory framework.
+Consider for review and evaluation, petitions received from the public which identify a specific regulation, recommendation, or guideline, and which recommend alternatives and provide scientific evidence of the acceptability of the alternatives for the purpose of carrying out the regulatory mandate in question.
+Make final recommendations to agencies and responses from agencies available to the public.
+Make an annual report to be made available to the public on its progress to promote the regulatory acceptance of new and revised toxicological tests.
+This Act shall not apply to regulations, guidelines, or recommendations related to medical research.
+The term ``medical research'' means research, including research performed using biotechnology, related to the causes, diagnosis, treatment, or control of physical or mental impairments of humans or animals.
+The term does not include the testing of a product to determine its toxicity for the purpose of complying with protocols, recommendations, or guidelines for testing required, recommended, or accepted by a Federal regulatory agency for a product introduced in commerce.
+Identification of Tests.--Within 180 days after the date of enactment of this Act, each Federal agency authorized to carry out a regulatory program which requires or recommends acute or chronic toxicological testing shall identify any regulation or industry-wide guideline which specifically, or in practice requires, recommends, or encourages the use of an animal acute or chronic toxicological test and shall forward to ICCVAM a list of these regulations, guidelines, and recommendations along with the test or tests recommended or required.
+Alternatives.--Each Federal agency shall promote and encourage the development and use of alternatives to animal tests, including batteries of tests and test screens, where appropriate, for the purpose of complying with Federal regulations, guidelines, or recommendations, in each instance, and for each chemical class, for which such tests are found to be effective for generating data at least equivalent for hazard identification or dose-response assessment purposes to the method established under the current regulatory scheme.
+Test Validation.--Each Federal agency shall ensure that any new acute or chronic toxicity test, including animal tests and alternatives, is determined to be valid for its proposed use prior to requiring, recommending, or encouraging its application.
+Reviews.--Each Federal agency shall review any formal recommendations from ICCVAM to promulgate new regulations or draft new guidelines or recommendations to promote the ICCVAM recommendations and notify ICCVAM in writing of its findings within 180 days of receipt of the recommendations.
+Recommendation Adoption.--Each Federal agency shall adopt the ICCVAM recommendations unless it determines that-- (1) the alternative is not adequate in terms of biological relevance for the regulatory goal authorized by the agency; (2) the alternative does not generate data at least equivalent for the appropriate hazard identification or dose- response assessment purpose as the method recommended by the agency; (3) the agency does not employ, recommend, or require testing for that class of chemical or for the recommended end point; or (4) each government agency retains fully the prerogative of deciding whether the new test method is acceptable for satisfactorily fulfilling the test needs for their particular agency and its respective congressional mandate.

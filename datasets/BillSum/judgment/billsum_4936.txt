@@ -1,0 +1,23 @@
+This Act may be cited as the ``Mobilized Reserve Family Health Care Act of 2003''.
+REDUCED HEALTH INSURANCE COSTS FOR FAMILY COVERAGE OF MILITARY RESERVISTS CALLED TO ACTIVE DUTY.
+Refundable Credit for Costs Up to TRICARE Costs.-- (1) In general.--Subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to refundable credits) is amended by inserting after section 35 the following new section: ``SEC.
+CERTAIN FAMILY COVERAGE HEALTH INSURANCE COSTS OF MILITARY RESERVISTS CALLED TO ACTIVE DUTY.
+In General.--In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle an amount equal to the amount paid during the taxable year by the taxpayer for insurance which constitutes medical care for the taxpayer and the taxpayer's spouse and dependents.
+Limitations.-- ``(1) Credit limited to tricare costs.--The credit allowed by subsection (a) for any period shall not exceed an amount equal to the premium-equivalent of the family coverage cost of coverage under TRICARE for such period.
+Limitation to coverage during active duty period.-- The credit allowed by subsection (a) shall apply only to amounts paid for coverage during the period referred to in subsection (c)(2).
+Self-only coverage for reservist not included.--The credit allowed by subsection (a) shall not apply to self-only coverage for the eligible individual.
+Eligible Individual.--For purposes of this section, the term `eligible individual' means any individual-- ``(1) who, as a member of the National Guard or a reserve component of an Armed Force of the United States, has been called or ordered to active duty for a period in excess of 30 days or for an indefinite period, and ``(2) who elects that such individual and all other individuals who would (but for the election) be covered by TRICARE will not be so covered during the period beginning on the date of such call or order and ending on the last day of such active duty.
+Denial of Double Benefit.--Amounts allowed as a credit under this section shall not be taken into account in determining the amount of any deduction or other credit under this chapter.''
+Conforming amendments.-- (A) Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting before the period ``, or from section 35A of such Code''.
+The table of sections for subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 35 the following new item: ``Sec.
+Certain family coverage health insurance costs of military reservists called to active duty.''.
+Deduction for Costs in Excess of TRICARE Costs.-- (1) In general.--Part VII of subchapter B of chapter 1 of such Code (relating to additional itemized deductions for individuals) is amended by redesignating section 223 as section 224 and by inserting after section 222 the following new section: ``SEC.
+CERTAIN FAMILY COVERAGE HEALTH INSURANCE COSTS OF MILITARY RESERVISTS CALLED TO ACTIVE DUTY.
+Allowance of Deduction.--In the case of an eligible individual (as defined in section 35A(c)), there shall be allowed as a deduction an amount equal to the amount paid during the taxable year by the taxpayer for insurance which constitutes medical care for the taxpayer and the taxpayer's spouse and dependents.
+Limitation to Coverage During Active Duty Period.--The deduction under this section shall apply only to amounts paid for coverage during the period referred to in section 35A(c)(2).
+Special Rules.-- ``(1) Self-only coverage for reservist not included.--The deduction under this section shall not apply to self-only coverage for the eligible individual.
+Other rules to apply.--Rules similar to the rules of paragraphs (3), (4), and (5) of section 162(l) shall apply for purposes of this section.''
+Deduction allowed whether or not individual itemizes other deductions.--Subsection (a) of section 62 of such Code is amended by inserting after paragraph (18) the following new paragraph: ``(19) Certain family coverage health insurance costs of military reservists called to active duty.--The deduction allowed by section 223.''
+Clerical amendment.--The table of sections for part VII of subchapter B of chapter 1 of such Code is amended by striking the last item and inserting the following new items: ``Sec.
+Certain family coverage health insurance costs of military reservists called to active duty.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2002.

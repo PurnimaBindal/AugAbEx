@@ -1,0 +1,22 @@
+PREFERENTIAL INCOME TAX TREATMENT FOR POLITICAL ORGANIZATIONS LIMITED TO PRINCIPAL CAMPAIGN COMMITTEES.
+In General.--The text of section 527 of the Internal Revenue Code of 1986 (relating to political organizations) is amended by striking ``political organization'' each place it appears and inserting ``principal campaign committee''.
+Technical and Conforming Amendments.-- (1) Subsection (b) of section 527 of such Code is amended by striking ``the highest rate'' and inserting ``the appropriate rates''.
+Section 527 of such Code is amended by striking paragraph (1) of subsection (e), by moving paragraph (2) of subsection (h) and inserting it before paragraph (2) of subsection (e) and by redesignating such paragraph as paragraph (1), and by striking the remainder of subsection (h).
+Section 527 of such Code is amended by striking subsection (g) (relating to newsletter funds).
+Paragraph (1) of section 527(f) of such Code is amended by adding at the end the following flush sentence: ``In applying subsection (b) for purposes of this subsection, paragraph (1) of subsection (b) shall be applied by substituting `the highest rate' for `the appropriate rates'.''
+The subsection heading for subsection (c) of section 527 of such Code is amended by striking ``Political Organization'' and inserting ``Principal Campaign Committee''.
+(A) The section heading for section 527 of such Code is amended to read as follows: ``SEC.
+The table of sections for part VI of subchapter F of chapter 1 of such Code is amended by striking the item relating to section 527 and inserting the following: ``Sec.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+CANCELLATION OF LOAN TO A PRINCIPAL CAMPAIGN COMMITTEE INCLUDED IN SUCH COMMITTEE'S TAXABLE INCOME.
+In General.--Subsection (c) of section 527 of the Internal Revenue Code of 1986 (defining principal campaign committee taxable income) is amended by adding at the end the following new paragraph: ``(4) Treatment of canceled loans.-- ``(A) In general.--The term `exempt function income' shall not include-- ``(i) a contribution in the form of the cancellation of any loan made to the principal campaign committee, or ``(ii) any other contribution made directly or indirectly from the lender of any loan to the principal campaign committee if such contribution is used directly or indirectly to make payments on such loan.
+Exceptions.--Subparagraph (A) shall not apply with respect to-- ``(i) any loan made by a bank (as defined in section 581), or ``(ii) any loan made by a candidate for Congress to the extent that the amount of contributions referred to in subparagraph (A) with respect to such loan does not exceed $2,000.''
+Effective Date.--The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+INCLUSION IN GROSS INCOME FOR CONTRIBUTIONS IN EXCESS OF $100 TO POLITICAL ORGANIZATIONS.
+In General.--Part VI of subchapter F of chapter 1 of the Internal Revenue Code of 1986 (relating to political organizations) is amended by adding at the end the following new section: ``SEC.
+INCLUSION IN GROSS INCOME FOR CONTRIBUTIONS IN EXCESS OF $100 TO POLITICAL ORGANIZATIONS.
+In General.--Notwithstanding any other provision of law-- ``(1) the gross income of any political organization shall include any amount contributed in cash to such organization during a calendar year by any person to the extent the amount contributed directly or indirectly to such organization by such person during such year exceeds $100, and ``(2) the amount included in gross income under paragraph (1) shall be subject to tax under this chapter.
+Political Organization.--The term `political organization' means a party, committee, association, fund, or other organization (whether or not incorporated) organized and operated primarily for the purpose of directly or indirectly accepting contributions or making expenditures, or both, for an exempt function (as defined in section 527(e)).''
+Clerical Amendment.--The table of sections for such part VI is amended by adding at the end the following new item: ``Sec.
+Inclusion in gross income for contributions in excess of $100 to political organizations.''
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.

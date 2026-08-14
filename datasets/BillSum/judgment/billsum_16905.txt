@@ -1,0 +1,27 @@
+This Act may be cited as the ``Environmental Equalization and Energy Security Act of 1999''.
+EXCISE TAX ON IMPORTED CRUDE OIL AND PETROLEUM PRODUCTS.
+In General.--Subtitle E of the Internal Revenue Code of 1986 (relating to alcohol, tobacco, and certain other excise taxes) is amended by adding at the end thereof the following new chapter: ``CHAPTER 55--IMPORTED CRUDE OIL AND PETROLEUM PRODUCTS ``Sec.
+Imposition of Tax.--In addition to any other tax imposed under this title, an excise tax is hereby imposed on-- ``(1) the first sale within the United States of-- ``(A) any crude oil, or ``(B) any petroleum product, that has been imported into the United States, and ``(2) the use within the United States of-- ``(A) any crude oil, or ``(B) any petroleum product, that has been imported into the United States if no tax has been imposed with respect to such crude oil or petroleum product prior to such use.
+Rates of Tax.-- ``(1) Crude oil.--The taxes imposed by paragraph (1)(A) and (2)(A) of subsection (a) shall be imposed at the rate equal to the applicable environmental equalization fee per barrel of crude oil.
+Petroleum products.--The taxes imposed by paragraph (1)(B) and (2)(B) of subsection (a) shall be imposed at the rate equal to the applicable environmental equalization fee per barrel of petroleum products.
+Fractional parts of barrels.--In the case of a fraction of a barrel, the taxes imposed by subsection (a) shall be the same fraction of the amount of such tax imposed on the whole barrel.
+Liability for Payment of Tax.-- ``(1) Sales.--The taxes imposed by subsection (a)(1) shall be paid by the first person who sells the crude oil or petroleum product within the United States.
+Use.--The taxes imposed by subsection (a)(2) shall be paid by the person who uses the crude oil or petroleum product.
+Exemptions.-- ``(1) Exports.-- ``(A) In general.--Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter on the sale of crude oil or petroleum products for export or for resale by the purchaser to a second purchaser for export.
+Proof of export.--Where any crude oil or petroleum product has been sold free of tax under subparagraph (A), such subparagraph shall cease to apply with respect to the sale of such crude oil or petroleum product unless, within the 6-month period which begins on the date of the sale, the seller receives proof that the crude oil or petroleum product has been exported.
+Products in the national interest.--No tax shall be imposed under this chapter on the sale or use of any petroleum product during any period if the President determines that it is in the national interest not to impose the tax under this chapter on such product during such period.
+Products from canada.--No tax shall be imposed by this chapter on the sale or use of-- ``(A) any crude oil produced from a well located in Canada, or ``(B) any petroleum product produced from crude oil described in subparagraph (A).
+DETERMINATION OF ENVIRONMENTAL EQUALIZATION FEE.
+Environmental Equalization Fee.--For purposes of this chapter, the environmental equalization fee is the amount determined by the Secretary of Energy under subsection (b).
+Determination by Secretary of Energy.--The Secretary of Energy, after conducting a study and in consultation with the Administrator of the Environmental Protection Agency and representatives from the domestic petroleum industry, shall from time to time determine the amount of the environmental equalization fee.
+The amount shall be the Secretary's estimate-- ``(1) in the case of crude oil, of the average amount per barrel of the price of domestic crude oil which is attributable to costs of complying with environmental laws and regulations of the United States; and ``(2) in the case of petroleum products, of the average amount per barrel of the price of domestic petroleum products which is attributable to such costs.
+``For purposes of this chapter-- ``(1) Crude oil.--The term `crude oil' means crude oil (as defined in section 4612(a)(1)) other than crude oil produced from a well located in the United States (as defined in section 4612(a)(4)).
+Domestic crude oil.--The term `domestic crude oil' means crude oil produced from a well located in the United States.
+Barrel.--The term `barrel' means 42 United States gallons.
+Petroleum product.--The term `petroleum product' has the meaning given such term under section 4612(a)(3).
+Export.--The term `export' includes shipment to a possession of the United States, and the term `exported' includes shipment to a possession of the United States.
+``Every person subject to tax under section 5891 shall, before incurring any liability for tax under such section, register with the Secretary.''.
+Conforming Amendment.--The table of chapters for subtitle E of such Code is amended by adding at the end thereof the following new item: ``Chapter 55.
+Imported crude oil and petroleum products.''
+Deductibility of Imported Crude Oil Tax.--The first sentence of section 164(a) of such Code (relating to deduction for taxes) is amended by inserting after paragraph (5) the following new paragraph: ``(6) The taxes imposed by section 5891 (relating to imported crude oil and petroleum products).''
+Effective Date.--The amendments made by this Act shall take effect on the 30th day after the date of the enactment of this Act.

@@ -1,0 +1,43 @@
+This Act may be cited as the ``Taxpayer Bill of Rights III''.
+In General.--Chapter 76 of the Internal Revenue Code of 1986 (relating to judicial proceedings) is amended by adding at the end the following new subchapter: ``Subchapter E--Burden of Proof ``Sec.
+``The Secretary shall have the burden of proof in any court proceeding with respect to any factual issue relevant to ascertaining the tax liability of a taxpayer and the assessment and collection of any such tax.''
+Conforming Amendments.-- (1) Section 6201 is amended by striking subsection (d) and redesignating subsection (e) as subsection (d).
+The table of subchapters for chapter 76 is amended by adding at the end the following new item: ``Subchapter E. Burden of proof.''
+Effective Date.--The amendments made by this section shall apply to court proceedings arising in connection with examinations commencing after the date of the enactment of this Act.
+TAXPAYER RELIANCE ON ORAL ADVICE PROVIDED BY THE INTERNAL REVENUE SERVICE.
+In General.--Subsection (f) of section 6404 of the Internal Revenue Code of 1986 is amended-- (1) in the heading, by striking ``Written'', (2) in paragraph (2)(A), by striking ``specific written request'' and inserting ``specific request'', (3) by redesignating paragraph (3) as paragraph (4) and by inserting after paragraph (2) the following new paragraph: ``(3) Oral requests for advice.--Upon request by a taxpayer, any officer or employee of the Internal Revenue Service who provides advice orally in response to a specific request of the taxpayer shall provide such taxpayer with a transcript or other written evidence of such advice.''
+Effective date.--The amendments made by subsection (a) shall apply to advice provided after 180 days after the date of the enactment of this Act.
+In General.--Section 6861 of the Internal Revenue Code of 1986 is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: ``(h) Affidavit Requirement.--No assessment may be made under this section unless such assessment is based on affidavits of not less than 2 officers or employees of the Internal Revenue Service.
+Each such officer or employee shall make an independent evaluation of the situation giving rise to assessment under this section.''
+Effective Date.--The amendment made by subsection (a) shall apply to assessments made after the date of the enactment of this Act.
+TAXPAYER SUGGESTIONS AND COMPLAINTS WITHOUT RETRIBUTION.
+Establishment of Office.--Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury or the Secretary's delegate shall establish an office within the Internal Revenue Service to receive taxpayer suggestions and complaints.
+Confidentiality of Information.--No information identifying a problem within the Internal Revenue Service provided by a taxpayer to the office established under subsection (a) may be used by the Internal Revenue Service, including selecting such taxpayer for audit.
+MEDIATION OF TAX DISPUTES.
+Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury or the Secretary's delegate shall establish a mediation service within the Internal Revenue Service.
+Such service shall, upon request of a taxpayer, provide an individual to mediate disputes between the taxpayer and the Internal Revenue Service regarding tax liability of the taxpayer and the assessment and collection of such tax.
+STRICT LIABILITY FOR ERRORS BY THE INTERNAL REVENUE SERVICE.
+Failure To Release Lien.--Section 7432(a) of the Internal Revenue Code of 1986 (relating to civil damages for failure to release lien) is amended by striking ``knowingly, or by reason of negligence,''.
+Unauthorized Collection Actions.-- (1) In general.--Section 7433 of such Code (relating to civil damages for certain unauthorized collection actions) is amended to read as follows: ``SEC.
+CIVIL DAMAGES FOR UNAUTHORIZED ACTIONS.
+In General.--If, in connection with any collection of Federal tax with respect to a taxpayer, any officer or employee of the Internal Revenue Service disregards any provision of this title, or any regulation promulgated under this title, such taxpayer may bring a civil action for damages against the United States in a district court of the United States.
+Except as provided in section 7432, such civil action shall be the exclusive remedy for recovering damages resulting from such actions.
+Damages.--In any action brought under subsection (a), upon a finding of liability on the part of the defendant, the defendant shall be liable to the plaintiff in an amount equal to the lesser of $1,000,000 or the sum of-- ``(1) actual, direct economic damages sustained by the plaintiff as a proximate result of the reckless or intentional actions of the officer or employee, and ``(2) the costs of the action.
+Payment Authority.--Claims pursuant to this section shall be payable out of funds appropriated under section 1304 of title 31, United States Code.
+Limitations.-- ``(1) Award for damages may be reduced if administrative remedies not exhausted.--The amount of damages awarded under subsection (b) may be reduced if the court determines that the plaintiff has not exhausted the administrative remedies available to such plaintiff within the Internal Revenue Service.
+Mitigation of damages.--The amount of damages awarded under subsection (b)(1) shall be reduced by the amount of such damages which could have reasonably been mitigated by the plaintiff.
+Period for bringing action.--Notwithstanding any other provision of law, an action to enforce liability created under this section may be brought without regard to the amount in controversy and may be brought only within 2 years after the date the right of action accrues.''
+Clerical amendment.--The item in the table of sections for subchapter B of chapter 76 of such Code relating to section 7433 is amended to read as follows: ``Sec.
+Civil damages for unauthorized actions.''
+Effective Date.--The amendments made by this section shall apply to actions of officers or employees of the Internal Revenue Service after the date of the enactment of this Act.
+PROHIBITION ON USE OF RANDOM AUDITS.
+Section 7602 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: ``(e) Prohibition on Use of Random Audits.--The Secretary shall not use random examination techniques to determine the existence of unreported income of any taxpayer.''
+PERSONAL LIABILITY OF INTERNAL REVENUE SERVICE EMPLOYEES.
+In General.--Subchapter B of chapter 76 of the Internal Revenue Code of 1986 (relating to proceedings by taxpayers and third parties) is amended by redesignating section 7437 as section 7438 and inserting after section 7436 the following new section: ``SEC.
+PERSONAL LIABILITY OF INTERNAL REVENUE SERVICE EMPLOYEES.
+``In any proceeding under this title in which the prevailing party (as defined in section 7430) is awarded a judgment for reasonable litigation costs under such section, the court may assess a portion of such costs against any Internal Revenue Service officer or employee, who shall not be reimbursed by the United States for the costs so assessed, if the court determines that such proceeding resulted from actions of such officer or employee outside established Internal Revenue Service protocol.''
+Clerical Amendment.--The table of sections for subchapter B of chapter 76 of such Code is amended by striking the item relating to section 7437 and inserting the following: ``Sec.
+Personal liability of Internal Revenue Service employees.
+Effective Date.--The amendments made by this section shall apply to actions of officers and employees of the Internal Revenue Service after the date of the enactment of this Act.
+PROHIBITION ON USE OF QUOTAS.
+Officers and employees of the Internal Revenue Service may not establish, and shall not be subject to, any quota regarding the initiation of investigations or otherwise determining the taxpayers found to be delinquent in filing their returns of tax or in remitting their taxes.

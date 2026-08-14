@@ -1,0 +1,8 @@
+Crowdfunding Amendments Act This bill amends the Securities Act of 1933 to allow a crowdfunding issuer to sell shares through a crowdfunding vehicle.
+(Crowdfunding is a method of capital formation in which groups of people pool money to invest in a company or to support an effort to accomplish a specific goal.)
+A "crowdfunding vehicle" is defined as a company that: has purposes limited to acquiring, holding, and disposing only one class of crowdfunding securities issued by a single company; receives no compensation for doing so; and meets&nbsp;other specified requirements, including those&nbsp;related to reporting obligations and the use of investment advisers.
+The bill amends the Investment Advisers Act of 1940 to provide for the registration of crowdfunding vehicle advisers.
+The bill amends the Securities Exchange Act of 1934 to revise the conditions upon which the Securities and Exchange Commission (SEC) shall exempt securities issued in crowdfunding transactions from registration requirements.
+Under current law, holders of crowdfunded shares do not count toward the shareholder threshold beyond which an issuer is required to register its securities with the SEC, provided that the issuer: is current in its annual reporting obligations, retains the services of a registered transfer agent, and has less than $25 million in assets.
+The bill maintains this exemption but alters the&nbsp;conditions upon which it applies.
+Specifically, holders of crowdfunded shares shall not count toward the shareholder threshold if the issuer has: (1)&nbsp;a public float of less than $75 million, or a public float&nbsp;of $0 and annual revenues of less than $50 million.

@@ -1,0 +1,42 @@
+This Act may be cited as the ``Synchronization & Nonadherence Correction (SYNC) Act of 2015''.
+Congress makes the following findings: (1) Between one-half and two-thirds of patients with chronic diseases in the United States do not take medications as prescribed.
+Low rates of medication adherence result in higher health care costs, reduced effectiveness of health care treatments and regimens, negative health effects for patients, and tens of thousands of deaths on an annual basis.
+Medication adherence may be lowest among patients with chronic diseases.
+Improving medication adherence would reduce unnecessary hospital admissions and emergency room visits.
+Nonadherence is estimated to cost the United States health care system over $100,000,000,000 each year.
+Improving medication adherence could improve patient health outcomes, reduce health care costs, and lead to productivity gains.
+In this Act: (1) The term ``applicable individual'' means an applicable individual (as defined in section 1115A(a)(4)(A) of the Social Security Act, 42 United States Code 1315(a)(4)(A)) who has been prescribed 2 or more chronic care medications.
+The term ``medication adherence'' means a patient taking medications according to the prescribed dosage, time, frequency, and direction.
+The term ``medication wastage'' means, with respect to a medication, a switch of the medication or strength of the medication within the same therapeutic class that occurs before the expected refill date.
+The term ``persistence'' means the act of continuing treatment with a medication for the prescribed duration.
+The term ``primary nonadherence'' means the failure to pickup a newly prescribed medication from a pharmacy.
+The term ``Secretary'' means the Secretary of Health and Human Services.
+The term ``synchronization'' means the coordination of medication refills for a patient taking two or more chronic medications such that the patient's medications are refilled on the same schedule for a given time period.
+NATIONAL RESEARCH AND REPORTING STRATEGY FOR IMPROVED MEDICATION ADHERENCE.
+In General.--The Secretary of Health and Human Services, acting through the Agency for Healthcare Research and Quality, the Centers for Medicare & Medicaid Services, the Health Resources and Services Administration, the Director of the National Institutes of Health, and the Director of the Centers for Disease Control and Prevention, and in coordination with the Patient-Centered Outcomes Research Institute, shall conduct research and develop information to better inform decisionmakers regarding medication adherence and medication persistence, and methods to improve medication adherence and persistence in Federal health programs.
+Activities Included.--The activities described in subsection (a) shall include development of annual statistics on recommended medications, the rate of medication adherence, the rate of primary nonadherence, and the rate of medication persistence for patients with chronic diseases such as cardiovascular disease, hypertension, diabetes, autoimmune diseases, chronic obstructive pulmonary disease (COPD), and mental health conditions treated under the following health care programs: (1) Medicare.--The Medicare program under title XVIII of the Social Security Act.
+Medicaid.--The Medicaid program under title XIX of such Act.
+FEHBP.--The Federal Employees Health Benefit Program under chapter 89 of title 5, United States Code.
+Biennial Report on Medication Adherence and Medication Persistence.--Not later than 2 years after the date of enactment of this Act (and annually thereafter), the Secretary shall submit to Congress a report on the statistics collected under subsection (a), together with recommendations for such legislation and administrative action to address problems and improve medication adherence and medication persistence as the Secretary determines appropriate.
+TESTING MODELS FOR IMPROVING MEDICATION ADHERENCE.
+In General.--The Secretary shall test innovative health care delivery models, as described in subsections (b) and (c), to improve medication adherence and medication persistence, with the goal of improving health outcomes and decreasing health costs for chronic care conditions.
+Models To Test Efficacy of Synchronization.-- (1) In general.--The model described in this subsection shall test the efficacy of synchronization of prescription drug medications for applicable enrollees in improving medication adherence, determining cost avoidance, and improving outcomes for those enrollees.
+Participation.--An applicable enrollee who is eligible to participate in the model testing under this subsection shall participate in the model testing, unless the enrollee elects not to participate in the model.
+Models tested.--The following models of synchronization shall be tested under this subsection: (A) Model 1.--Synchronization (synchronization of prescription drug medications and medication reconciliation phone calls or electronic communication with enrollees prior to filling prescriptions).
+Model 2.--Synchronization (as described in subparagraph (A)) and compliance-based packaging.
+Model 3.--Synchronization (as described in subparagraph (A)) and ongoing pharmacist counseling that shall occur at the patient's request and include review of the appropriateness of the medication regimen and any barriers to medication adherence.
+Evaluation.--The Secretary shall evaluate the models in paragraph (3) by collecting and analyzing relevant plan and enrollee data, including at least the following: (A) Synchronization enrollment and drop-out rates.
+Medication adherence and persistence rates.
+Demographic characteristics of applicable enrollees.
+Plan characteristics, such as plan benefit design.
+Impact of the models on applicable enrollees who are-- (i) eligible for benefits under a State plan under title XIX of the Social Security; or (ii) eligible for premium and cost-sharing subsidies under section 1860D-14(a) of the Social Security Act (42 United States Code 1395w-114(a)).
+Prescription drug claims data in comparison to other medical claims data for applicable enrollees in order to examine the effect of synchronization and adherence on overall health spending, including health care costs avoided, and patient outcomes.
+Testing 90-Day Fills at Retail Pharmacies for the First Prescription.-- (1) In general.--The Secretary shall conduct a demonstration that compares the use of 90-day first fills of prescriptions at retail pharmacies or using mail-order for maintenance medications against 30-day first fills for applicable enrollees under part D of title XVIII of the Social Security Act, to determine whether there is an impact on medication persistence, cost avoidance, and improving outcomes for those enrollees in subsequent refill periods.
+Drugs tested.--The model under this subsection shall only pertain to first fills for maintenance drugs treating chronic diseases such as cardiovascular disease, hypertension, diabetes, autoimmune diseases, chronic obstructive pulmonary disease (COPD), and mental health conditions.
+Evaluation of demonstration by gao.-- (A) Provision of data for evaluation.--The Secretary shall make available to the Comptroller General of the United States relevant plan and enrollee data in order to enable an evaluation of the demonstration under this subsection under subparagraph (B).
+Evaluation.--Using data made available under subparagraph (A) and other relevant data, the Comptroller General of the United States shall evaluate the demonstration conducted under this subsection.
+Such evaluation shall examine the effect of long-term fills and adherence on overall health spending, including health care costs avoided, and patient outcome, and shall examine at least the following in relation to part D enrollees using 90-day first fills in comparison with those enrollees using 30-day first fills: (i) Medication adherence and persistence rates.
+Cost differentials in pharmacy costs.
+Prescription drug claims data in comparison to other medical claims.
+Medication wastage (as defined in section 3).
+Report.--The Comptroller General shall submit a report to the Secretary and Congress on the evaluation conducted under this paragraph.

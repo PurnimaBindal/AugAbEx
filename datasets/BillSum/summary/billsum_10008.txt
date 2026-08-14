@@ -1,0 +1,5 @@
+Fairness in IRS Debt Payment Act of 1999 - Amends the Internal Revenue Code to compute interest on the tax portion of underpayments annually (currently daily).
+Allocates payments for taxable period underpayments equally among such periods or as directed by the taxpayer.
+Prohibits the Secretary of the Treasury from modifying certain voluntary installment agreements other than for reasons of nonpayment.
+Requires abatement of aggregate tax interest and penalties in excess of the amount of such tax.
+Requires the Secretary to: prescribe penalty abatement guidelines; and provide a requesting taxpayer with a written explanation for nonabatement of a penalty.

@@ -1,0 +1,63 @@
+This Act may be cited as the ``Bankruptcy Law Technical Corrections Act of 1997''.
+Section 101 of title 11, United States Code, is amended-- (1) by striking ``In this title--'' and inserting ``In this title:'', (2) in paragraph (51B) by inserting ``family farms or'' after ``other than'', (3) in paragraph (35)(B) by striking ``paragraphs (21B) and (33)(A)'' and inserting ``paragraphs (23) and (35)'', (4) in each paragraph by inserting ``The term'' after the paragraph designation, (5) in paragraphs (35A) and (38) by striking ``; and'' at the end and inserting a period, (6) in paragraph (54) by inserting ``, creation of a lien,'' after ``security interest'', (7) in paragraphs (1) through (35), in paragraphs (36) and (37), and in paragraphs (40) through (55), by striking the semicolon at the end and insert a period, and (8) by redesignating paragraphs (4) through (55) in numerical sequence.
+ADJUSTMENT OF DOLLAR AMOUNTS.
+Section 104 of title 11, United States Code, is amended by inserting ``522(f)(3),'' after ``522(d),'' each place it appears.
+Section 108(c)(2) of title 11, United States Code, is amended by striking ``922'' and all that follows through ``or'', and inserting ``922, 1201, or''.
+PENALTY FOR PERSONS WHO NEGLIGENTLY OR FRAUDULENTLY PREPARE BANKRUPTCY PETITIONS.
+Section 110(j)(3) of title 11, United States Code, is amended by striking ``attorney's'' and inserting ``attorneys' ''.
+ELIGIBILITY TO SERVE AS TRUSTEE.
+Paragraphs (1) and (2) of section 321(a) of title 11, United States Code, are amended by striking ``7, 12,'' and inserting ``12''.
+EMPLOYMENT OF PROFESSIONAL PERSONS.
+Authority of Trustee.--Section 327 of title 11, United States Code, is amended-- (1) in subsection (b) by striking ``section 721,,'' and inserting ``721,'', (2) in subsection (c) by striking ``chapter 7'' and all that follows through ``or'' the first place it appears, and inserting ``chapter 7, 12, or'', and (3) in subsection (d) by striking ``act as attorney or accountant'' and inserting ``render professional services of the kind described in subsection (a)''.
+Limitation on Compensation.--Section 328(b) of title 11, United States Code, is amended-- (1) by striking ``serve as an attorney or accountant'' and inserting ``render professional services'', (2) by striking ``such attorney or accountant'' and inserting ``a professional person who renders such services'', (3) by striking ``attorney or accountant'' and inserting ``such professional person'', and (4) by striking ``an attorney or accountant'' and inserting ``such a professional person''.
+LIMITATION ON COMPENSATION OF PROFESSIONAL PERSONS.
+Section 328(a) of title 11, United States Code, is amended in subsection (a) by inserting ``on a fixed or percentage fee basis,'' after ``hourly basis,''.
+Section 330(a) of title 11, United States Code, is amended-- (1) in paragraph (1) by inserting ``, or the debtor's attorney'' after ``1103'', and (2) in paragraph (3) by striking ``(3)(A) In'' and inserting ``(3) In''.
+Section 346(g)(1)(C) of title 11, United States Code, is amended by striking ``, except'' and all that follows through ``1986''.
+Section 348(f)(2) of title 11, United States Code, is amended by inserting ``of the estate'' after ``property'' the first place it appears.
+Section 362 of title 11, United States Code, is amended-- (1) in subsection (b)(3) by inserting ``or is taken with respect to a security interest that is created by a transfer to which section 547(c)(3) of this title applies'' before the semicolon at the end, and (2) in subsection (h) by striking ``individual'' and inserting ``entity''.
+EXECUTORY CONTRACTS AND UNEXPIRED LEASES.
+Section 365 of title 11, United States Code, is amended-- (1) in subsection (b)(2)-- (A) in subparagraph (C) by striking ``or'' at the end, and (B) by striking subparagraph (D) and inserting the following: ``(D) the satisfaction of any penalty rate in any executory contract or unexpired lease; or ``(E) the satisfaction of any provision relating to a default arising from any failure by the debtor to perform nonmonetary obligations under any executory contract or unexpired lease other than an unexpired lease of personal property.
+'', (2) in subsection (c)-- (A) in paragraph (2) by adding ``or'' at the end, (B) in paragraph (3) by striking ``or'' at the end and inserting a period, and (C) by striking paragraph (4), (3) in subsection (d) by striking paragraphs (5) through (9), and (4) in subsection (f)(1) by striking ``; except that'' and all that follows through the end of the paragraph and inserting a period.
+AMENDMENT TO TABLE OF SECTIONS.
+The table of sections for chapter 5 by amending the item relating to section 556 to read as follows: ``556.
+Contractual right to liquidate a commodities contract or forward contract.''.
+ALLOWANCE OF ADMINISTRATIVE EXPENSES.
+Section 503(b)(4) of title 11, United States Code, is amended by inserting ``subparagraph (A), (B), (C), (D), or (E) of'' before ``paragraph (3)''.
+Section 507(a) of title 11, United States Code, is amended-- (1) in paragraph (3)(B) by striking the semicolon at the end and inserting a period, and (2) in paragraph (7) by inserting ``unsecured'' after ``allowed''.
+Section 522 of title 11, United States Code, is amended-- (1) in subsection (f)(1)(A)(ii)(II)-- (A) by striking ``includes a liability designated as'' and inserting ``is for a liability that is designated as, and is actually in the nature of,'', and (B) by striking ``support.''
+and inserting ``support'', and (2) in subsection (g)(2) by striking ``subsection (f)(2)'' and inserting ``subsection (f)(1)(B)''.
+Section 523 of title 11, United States Code, is amended-- (1) in subsection (a)(3) by striking ``or (6)'' each place it appears and inserting ``(6), or (15)'', (2) as amended by section 304(e) of Public Law 103-394 (108 United States Statutes at Large 4133), in paragraph (15)-- (A) by inserting ``or'' after the semicolon at the end, and (B) by transferring such paragraph so as to insert it after paragraph (14) of subsection (a), (3) in subsection (a)(15), as so redesignated by paragraph (2), by inserting ``to a spouse, former spouse, or child of the debtor and'' after ``(15)'', (4) in subsection (a)(17)-- (A) by striking ``by a court'' and inserting ``on a prisoner by a Federal court'', and (B) by striking ``section 1915 (b) or (f)'' and inserting ``subsection (b) or (f)(2) of section 1915'', and (5) in subsection (e) by striking ``a insured'' and inserting ``an insured''.
+Section 524(a)(3) of title 11, United States Code, is amended by striking ``section 523'' and all that follows through ``or that'', and inserting ``section 523, 1228(a)(1), or 1328(a)(1) of this title, or that''.
+PROTECTION AGAINST DISCRIMINATORY TREATMENT.
+Section 525(c) of title 11, United States Code, is amended-- (1) in paragraph (1) by inserting ``student'' before ``grant'' the second place it appears, and (2) in paragraph (2) by striking ``the program operated under part B, D, or E of'' and inserting ``any program operated under''.
+PROPERTY OF THE ESTATE.
+Section 541(b)(4)(B)(ii) of title 11, United States Code (as added by section 208(b) of the Bankruptcy Reform Act of 1994), is amended by inserting ``365 or'' before ``542''.
+LIMITATIONS ON AVOIDING POWERS.
+Section 546 of title 11, United States Code, is amended by redesignating the second subsection (g) as subsection (h).
+LIABILITY OF TRANSFEREE OF AVOIDED TRANSFER.
+In General.--Section 550(c) of title 11, United States Code, is amended-- (1) in paragraph (1) by striking ``avoided under section 547(b)'' and inserting ``avoidable under section 547'', and (2) in the matter following paragraph (2), by striking ``recover under subsection (a) from a transferee that is not an insider'' and inserting ``avoid under section 547 such transfer, to the extent that such transfer was made for the benefit of a transferee that was not an insider at the time of such transfer, or recover under subsection (a) from a transferee that was not an insider at the time of such transfer''.
+Conforming Amendment.--Section 547(b) of title 11, United States Code, is amended by inserting ``or in section 550(c) of this title'' after ``subsection (c) of this section''.
+Section 553(b)(1) of title 11, United States Code, is amended by striking ``362(b)(14)'' and inserting ``362(b)(17)''.
+DISPOSITION OF PROPERTY OF THE ESTATE.
+Section 726(b) of title 11, United States Code, is amended by striking ``1009,''.
+Section 901(a) of title 11, United States Code, is amended by inserting ``1123(d),'' after ``1123(b),''.
+APPOINTMENT OF ELECTED TRUSTEE.
+Section 1104(b) of title 11, United States Code, is amended-- (1) by inserting ``(1)'' after ``(b)'', and (2) by adding at the end the following new paragraph: ``(2)(A) If an eligible, disinterested trustee is elected at a meeting of creditors under paragraph (1), the United States trustee shall file a report certifying that election.
+Upon the filing of a report under the preceding sentence-- ``(i) the trustee elected under paragraph (1) shall be considered to have been selected and appointed for purposes of this section, and ``(ii) the service of any trustee appointed under subsection (d) shall terminate.
+In the case of any dispute arising out of an election under subparagraph (A), the court shall resolve the dispute.''.
+ABANDONMENT OF RAILROAD LINE.
+Section 1170(e)(1) of title 11, United States Code, is amended by striking ``section 11347'' and inserting ``section 11326(a)''.
+Section 1172(c)(1) of title 11, United States Code, is amended by striking ``section 11347'' and inserting ``section 11326(a)''.
+Section 1226(b)(2) of title 11, United States Code, is amended-- (1) by striking ``1202(c) of this title'' and inserting ``586(b) of title 28'', and (2) by striking ``1202(d) of this title'' and inserting ``586(e)(1)(B) of title 28''.
+Subsections (a) and (c) of section 1228 of title 11, United States Code, are amended by striking ``1222(b)(10)'' each place it appears and inserting ``1222(b)(9)''.
+Section 1322 of title 11, United States Code, is amended-- (1) in subsection (b) by striking ``(c)'' and inserting ``(d)'', and (2) in subsection (e) by striking the comma after ``default'' the second place it appears.
+Section 1328(a) of title 11, United States Code, is amended by striking all after ``except any debt--'' and inserting the following: ``(1) provided for under section 1322(b)(5) of this title; ``(2) of the kind specified in paragraph (5), (8), or (9) of section 523(a) of this title; or ``(3) for restitution, or a criminal fine, included in a sentence on the debtor's conviction of a crime.''.
+BANKRUPTCY CASES AND PROCEEDINGS.
+Section 1334(d) of title 28, United States Code, is amended-- (1) by striking ``made under this subsection'' and inserting ``made under subsection (c)'', and (2) by striking ``This subsection'' and inserting ``Subsection (c) and this subsection''.
+Section 604 of the Bankruptcy Reform Act of 1994 (108 United States Statutes at Large 4147) is amended-- (1) by striking subsection (g), and (2) by redesignating subsection (h) as subsection (g).
+KNOWING DISREGARD OF BANKRUPTCY LAW OR RULE.
+Section 156(a) of title 18, United States Code, is amended-- (1) in the first undesignated paragraph-- (A) by inserting ``(1) the term'' before `` `bankruptcy'', and (B) by striking the period at the end and inserting ``; and'', and (2) in the second undesignated paragraph-- (A) by inserting ``(2) the term'' before `` `document'', and (B) by striking ``this title'' and inserting ``title 11''.
+EFFECTIVE DATE; APPLICATION OF AMENDMENTS.
+Effective Date.--Except as provided in subsection (b), this Act and the amendments made by this Act shall take effect on the date of the enactment of this Act.
+Application of Amendments.--The amendments made by this Act shall apply only with respect to cases commenced under title 11 of the United States Code on or after the date of the enactment of this Act.

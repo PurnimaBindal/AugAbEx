@@ -1,0 +1,3 @@
+Consumer Data Protection Act This bill amends the Fair Credit Reporting Act to direct a consumer reporting agency experiencing a data breach to: notify the Federal Trade Commission, the Consumer Financial Protection Bureau (CFPB), other appropriate law enforcement agencies, and affected individuals; provide affected individuals with free credit freezes and credit monitoring services; and establish a consumer assistance unit.
+The bill also establishes legal enforcement provisions concerning data breaches at consumer reporting agencies.
+The CFPB may examine a consumer reporting agency to assess compliance with personal information protection laws.

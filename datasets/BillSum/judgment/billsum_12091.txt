@@ -1,0 +1,46 @@
+In General.--The Department of Energy Organization Act is amended by inserting after section 212 (42 United States Code 7143) the following new section: ``nuclear security administration ``Sec.
+There shall be within the Department an agency to be known as the Nuclear Security Administration, to be headed by an Administrator, who shall report directly to, and shall be accountable directly to, the Secretary.
+The Secretary may not delegate to any Department official the duty to supervise the Administrator.
+(1) The Under Secretary for National Security shall serve as the Administrator.
+The Administrator shall be responsible for the executive and administrative operation of the functions assigned to the Administration, including functions with respect to (A) the selection, appointment, and fixing of the compensation of such personnel as the Administrator considers necessary, (B) the supervision of personnel employed by or assigned to the Administration, (C) the distribution of business among personnel and among administrative units of the Administration, and (D) the procurement of services of experts and consultants in accordance with section 3109 of title 5, United States Code.
+The Secretary shall provide to the Administrator such support and facilities as the Administrator determines are needed to carry out the functions of the Administration.
+(1) The personnel of the Administration, in carrying out any function assigned to the Administrator, shall be responsible to, and subject to the supervision and direction of, the Administrator and shall not be responsible to, or subject to the supervision or direction of, any officer, employee, or agent of any other part of the Department of Energy.
+For purposes of this subsection, the term `personnel of the Administration' means each officer or employee within the Department of Energy, and each officer or employee of any contractor of the Department, whose-- ``(A) responsibilities include carrying out a function assigned to the Administrator; or ``(B) employment is funded under the Weapons Activities budget function of the Department.
+(1) The Administrator shall (A) manage a program designed to ensure the safety and reliability of the nuclear weapons stockpile, (B) direct the nuclear weapons production facilities and the national laboratories, and (C) be primarily responsible for other national security functions of the Department of Energy involving nuclear weapons research and development.
+The Secretary shall assign to the Administrator direct authority over, and responsibility for, the nuclear weapons production facilities and the national laboratories.
+The functions assigned to the Administrator with respect to the nuclear weapons production facilities and the national laboratories shall include authority over, and responsibility for, the following: ``(A) Strategic management.
+Policy development and guidance.
+Budget formulation and guidance.
+Resource requirements determination and allocation.
+Safeguard and security operations.
+Environment, safety, and health operations.
+Administration of contracts to manage and operate the nuclear weapons production facilities and the national laboratories.
+Relationships within the Department of Energy and with other Federal agencies, the Congress, State, tribal, and local governments, and the public.
+Each of the functions described in subsection (f).
+The head of each nuclear weapons production facility and of each national laboratory shall report directly to, and be accountable directly to, the Administrator.
+The Administrator may delegate functions assigned under subsection (d)(2) only within the headquarters office of the Administrator, except that the Administrator may delegate to the head of a specified operations office functions including providing or supporting the following activities at a nuclear weapons production facility or a national laboratory: ``(1) Operational activities.
+Integration of production and research and development activities.
+Interaction with other Federal agencies, State, tribal, and local governments, and the public.
+The head of a specified operations office, in carrying out any function delegated under subsection (f) to that head of that specified operations office, shall report directly to, and be accountable directly to, the Administrator.
+In each annual authorization and appropriation request under this Act, the Secretary shall identify the portion thereof intended for the support of the Administration and include a statement by the Administrator showing (1) the amount requested by the Administrator in the budgetary presentation to the Secretary and the Office of Management and Budget, and (2) an assessment of the budgetary needs of the Administration.
+Whenever the Administrator submits to the Secretary, the President, or the Office of Management and Budget any legislative recommendation or testimony, or comments on legislation prepared for submission to the Congress, the Administrator shall concurrently transmit a copy thereof to the appropriate committees of the Congress.
+This section may not be construed to limit or restrict the ability of a national laboratory to carry out research and development activities for an entity within the Department of Energy other than the Administration or for any other Federal or non-Federal entity.
+As used in this section: ``(1) The term `nuclear weapons production facility' means any of the following facilities: ``(A) The Kansas City Plant, Kansas City, Missouri.
+The Pantex Plant, Amarillo, Texas.
+The Y-12 Plant, Oak Ridge, Tennessee.
+The tritium operations facilities at the Savannah River Site, Aiken, South Carolina.
+The Nevada Test Site, Nevada.
+The term `national laboratory' means any of the following laboratories: ``(A) The Los Alamos National Laboratory, Los Alamos, New Mexico.
+The Lawrence Livermore National Laboratory, Livermore, California.
+The Sandia National Laboratories, Albuquerque, New Mexico, and Livermore, California.
+The term `specified operations office' means any of the following operations offices of the Department of Energy: ``(A) Albuquerque Operations Office, Albuquerque, New Mexico.
+Oak Ridge Operations Office, Oak Ridge, Tennessee.
+Oakland Operations Office, Oakland, California.
+Nevada Operations Office, Nevada Test Site, Las Vegas, Nevada.
+Savannah River Operations Office, Savannah River Site, Aiken, South Carolina.''.
+Under Secretary for National Security.--Section 202 of such Act (42 United States Code 7132) is amended by adding at the end the following new subsection: ``(c)(1) There shall be in the Department an Under Secretary for National Security, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe.
+Notwithstanding section 203(a), the Secretary shall assign to the Under Secretary for National Security the functions described in section 203(a)(5).
+The Under Secretary for National Security shall be a person who, by reason of professional background and experience, is specially qualified-- ``(A) to manage a program designed to ensure the safety and reliability of the nuclear weapons stockpile; ``(B) to manage the nuclear weapons production facilities and the national laboratories; and ``(C) to carry out the functions of the Administrator of the Nuclear Security Administration.''.
+Transition Provision.--The Assistant Secretary assigned the functions under section 203(a)(5) of such Act on the date before the date of the enactment of this Act shall serve as the Under Secretary for National Security until an Under Secretary for National Security is appointed under section 202(c) of such Act.
+Conforming Amendment.--Section 203(a) of such Act is amended by striking ``eight'' and inserting ``seven''.
+Clerical Amendment.--The table of contents in the first section of such Act is amended by inserting after the item relating to section 212 the following new item: ``Sec.

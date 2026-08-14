@@ -1,0 +1,36 @@
+This Act may be cited as the ``Deficit Reduction Check-Off Act''.
+DESIGNATION OF INCOME TAX PAYMENTS TO REDUCE THE DEFICIT.
+Designation.--Subchapter A of chapter 61 of the Internal Revenue Code of 1986 (relating to returns and records) is amended by adding at the end the following new part: ``PART IX--DESIGNATION ON INCOME TAX RETURNS FOR REDUCTION OF DEFICIT ``Sec.
+Designation for reduction of the deficit.
+DESIGNATION FOR REDUCTION OF THE DEFICIT.
+In General.--Every individual, regardless of income tax liability for the taxable year, may designate that an amount (not less than $1 and not more than $10) shall be paid over for the purpose of reducing the deficit of the United States.
+In the case of a joint return of husband and wife, each spouse may so designate an amount.
+Income Tax Liability.--For purposes of subsection (a), the income tax liability of an individual for any taxable year is the amount of the tax imposed by chapter 1 on such individual for such taxable year (as shown on his return), reduced by the sum of the credits (as shown in his return) allowable under part IV of subchapter A of chapter 1 (other than subpart C thereof).
+Manner and Time of Designation.--Rules similar to the rules of section 6096(c) shall apply for purposes of this section, except that the designation shall be accompanied by the following statement: `The Federal budget will be reduced by an amount equal to ten times the amount you elect in the box.'.
+Amount Increase.--In the case of each taxable year beginning after 2011, the maximum dollar amount that may be designated under subsection (a) shall be increased by $1.
+In the case of a joint return of husband and wife, such amount shall increase by $2 each taxable year.''.
+Clerical Amendment.--The table of parts for subchapter A of chapter 61 of such Code is amended by adding at the end the following new item: ``Part IX--Designation of Income Tax Payments To Reduce the Deficit.''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2010.
+TAXPAYER-GENERATED SEQUESTRATION OF FEDERAL SPENDING TO REDUCE THE DEFICIT.
+Sequestration To Reduce Deficit.--Part C of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended by inserting after section 253 the following new section: ``SEC.
+SEQUESTRATION TO REDUCE THE DEFICIT.
+Sequestration.-- ``(1) Timing.--Within 15 calendar days after the date Congress adjourns to end a session, and on the same day as sequestration (if any) under sections 251, 252, and 253, but after any sequestration required by those sections, there shall be a sequestration to eliminate the deficit equivalent to the amount calculated under paragraph (2).
+Calculation.-- ``(A) OMB calculation.--Before October 1st of each calendar year, OMB shall calculate the total amount designated under section 6097 of the Internal Revenue Code of 1986.
+Federal spending reduction.--In accordance with the deadline under paragraph (1), OMB shall apply an across the board reduction in Federal spending in an amount equal to the product of-- ``(i) the amount calculated under subparagraph (A); and ``(ii) 10.
+Carryover.--Any amounts not calculated by OMB by the October 1st deadline, as set forth in subparagraph (2)(A), shall be applied to the following fiscal year Federal spending reduction pursuant to this section.
+Applicability.-- ``(1) In general.--Except as provided by paragraph (2), each account of the United States shall be reduced by a dollar amount calculated by multiplying the level of budgetary resources in that account at that time by the uniform percentage necessary to carry out subsection (a).
+All obligational authority so reduced shall be done in a manner that makes such reductions permanent.
+Exempt accounts.--The following programs shall be exempt from reduction under any order issued under this section: ``(A) Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act.
+Benefits payable under section 3(a), 3(f)(3), 4(a), or 4(f) of the Railroad Retirement Act of 1974.
+Benefits payable under title 18 of the Social Security Act.
+The rate of pay of any judge or justice appointed pursuant to article III of the Constitution of the United States.
+Veteran's benefits listed under sections 905(b) and 905(f) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 United States Code 905(b), 905(f)).
+Effective Date.--This section shall apply to calender years beginning after December 31, 2010.''.
+Reports.--Section 254 of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended-- (1) in subsection (a), by adding at the end of the table the following new item: ``October 1......................... OMB report estimating amount of income tax designated pursuant to section 6097 of the Internal Revenue Code of 1986.''.
+in subsection (c)(1), by inserting ``, and sequestration to reduce the deficit,'' after ``sequestration''; (3) in subsection (c), by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph: ``(5) Reports on sequestration to reduce the deficit.--The preview reports shall set forth for the budget year estimates for each of the following: ``(A) The aggregate amount designated under section 6097 of the Internal Revenue Code of 1986 for the last calendar year ending before the budget year.
+The amount of reductions required under section 253A and the deficit remaining after those reductions have been made.
+The sequestration percentage necessary to achieve the required reduction in accounts under section 253A(a).
+''; and (4) in subsection (f), by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively, and by inserting after paragraph (3) the following new paragraph: ``(4) Reports on sequestration to reduce the deficit.--The final reports shall contain all of the information contained in the deficit taxation designation report required on October 1.''.
+Effective Date.--Notwithstanding section 275(b) of the Balanced Budget and Emergency Deficit Control Act of 1985, the expiration date set forth in that section shall not apply to the amendments made by this Act.
+On the date specified in section 253A of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended by this section, the President shall issue an order fully implementing the sequestration required by section 253A of such Act, as amended by this section.
+This order shall be effective on issuance.

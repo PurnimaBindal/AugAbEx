@@ -1,0 +1,30 @@
+This Act may be cited as the ``Stop Endangering the Records of Veterans (SERVE) Act of 2006''.
+Congress finds as follows: (1) Identity theft remains a critical problem for consumers.
+In May 2006, the Federal Trade Commission revealed that 10,000,000 individuals are subjected to theft of their personal identification licenses and records each year.
+Recent thefts of computer hardware containing sensitive personal information from the Department of Veterans Affairs and its contractors have made millions of veterans vulnerable to identity theft and fraud.
+On May 22, 2006, the Department of Veterans Affairs announced an employee laptop containing personal records of nearly 26,500,000 million veterans and spouses had been stolen.
+On August 7, 2006, a desktop computer containing personal information of more than 38,000 veterans was stolen from a subcontractor hired to assist in insurance collections for medical centers of the Department of Veterans Affairs in Pittsburgh and Philadelphia, Pennsylvania.
+In August 2006, in response to the loss of these records, the Secretary of Veterans Affairs created the office of Special Advisor to the Secretary for Information Security.
+On August 14, 2006, the Secretary announced the award of a $3,700,000 contract to a service-disabled, veteran-owned small business to upgrade all Department computers with enhanced data security encryption systems.
+In order to prevent the Nation's veterans from being exposed to identity theft and fraud, additional Federal safeguards, including those provided by this Act, must be applied to increase accountability of those who handle veterans' records in order to prevent future losses of sensitive personal information.
+DEPARTMENT OF VETERANS AFFAIRS INFORMATION SECURITY.
+Information Security.--Chapter 57 of title 38, United States Code, is amended by adding at the end the following new subchapter: ``SUBCHAPTER III--INFORMATION SECURITY ``Sec.
+Definitions ``For the purposes of this subchapter: ``(1) The term `sensitive personal information' means the name, address, or telephone number of an individual, in combination with any of the following: ``(A) The social security number of the individual.
+The date of birth of the individual.
+Any information not available as part of the public record regarding the individual's military service or health.
+Any financial account or other financial information relating to the individual.
+The driver's license number of the individual.
+The term `encrypt' means to use software to obscure electronic information to make that information unreadable for unauthorized employees and contractors of the Department.
+Physical security of sensitive personal information processed or maintained by the Secretary ``The Secretary shall physically secure all sensitive personal information processed or maintained by the Secretary and all equipment of the Department containing such sensitive personal information.
+Encryption of sensitive personal information processed or maintained by the Secretary ``The Secretary shall encrypt all sensitive personal information processed or maintained by the Secretary.
+Contracts for the processing or maintenance of sensitive personal information ``(a) Contract Requirements.--If the Secretary enters into a contract for the performance of any Department function that requires access to sensitive personal information, the Secretary shall require as a condition of the contract that-- ``(1) the contractor ensures that it will-- ``(A) encrypt or encode any such information to which the contractor has access; and ``(B) physically secure all such information that it processes or maintains and all equipment containing such information; and ``(2) the contractor agrees to reimburse the Secretary for any amount paid by the Secretary to any person as a result of the contractor's unauthorized disclosure of any sensitive personal information to which the contractor has access under the contract.
+Penalty for Violations.--Any contractor who violates any requirement of this subtitle shall be debarred from contracting with the Department for a period of one year.
+Criminal penalty for unauthorized disclosure of sensitive personal information ``Any person who engages in the unauthorized disclosure of sensitive personal information processed or maintained by the Secretary or by a contractor performing a function on behalf of the Secretary shall be fined in accordance with title 18, imprisoned for not more than one year, or both.''.
+Clerical Amendment.--The table of sections at the beginning of such chapter is amended by adding at the end the following new items: ``subchapter iii--information security ``5721.
+Physical security of sensitive personal information processed or maintained by the Secretary.
+Encryption of sensitive personal information processed or maintained by the Secretary.
+Contracts for the processing or maintenance of sensitive personal information.
+Criminal penalty for unauthorized disclosure of sensitive personal information.''.
+Implementation.--The requirement of section 5723 of title 38, United States Code, as added by subsection (a), shall be implemented not later than 90 days after the date of the enactment of this Act.
+DIRECTOR OF OFFICE OF MANAGEMENT AND BUDGET STUDY AND REPORT.
+Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall complete a study of the security of personal information maintained or processed by the Secretary of Veterans Affairs and shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report containing the findings of that study and any recommendations of the Director.

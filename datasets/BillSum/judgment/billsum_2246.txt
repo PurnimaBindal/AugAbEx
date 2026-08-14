@@ -1,0 +1,36 @@
+This Act may be cited as the ``Preserving American Access to Information Act''.
+Congress makes the following findings: (1) The 1994 Joint Security Commission, convened at the request of the Secretary of Defense and the Director of the Central Intelligence Agency stated that ``[t]he classification system, largely unchanged since the Eisenhower administration has grown out of control.
+More information is being classified and for extended periods of time.
+Security rules proliferate, becoming more complex yet remaining unrelated to the threat.
+Indeed, the classification system is not trusted on the inside any more than it is on the outside.
+Insiders do not trust it to protect information that needs protection.
+Outsiders do not trust it to release information that does not need protection''.
+The Public Interest Declassification Board, notes in its 2012 report that ``[a]gencies are currently creating petabytes of classified information annually, which quickly outpaces the amount of information the Government has declassified in total in the previous seventeen years since Executive Order 12958 established the policy of automatic declassification for 25 year old records.
+Without dramatic improvement in the declassification process, the rate at which classified records are being created will drive an exponential growth in the archival backlog of classified records awaiting declassification, and public access to the nation's history will deteriorate further''.
+DECLASSIFICATION OF INFORMATION WITH SHORT-TERM CLASSIFICATION SENSITIVITY.
+Findings.--Congress makes the following findings: (1) Certain information, typically at the predecisional, tactical, or operational level, is classified based on its sensitivity with respect to a pertinent event.
+Following the event, the vast majority of the associated details are no longer sensitive and no longer need be classified.
+This type of time-specific classified information should be identified and marked at the time of classification for automatic declassification without further review.
+Specification of Information To Be Declassified Automatically.-- (1) In general.--The heads of Federal agencies with authority to classify information shall, in consultation with the Information Security Oversight Office, specify the types of information with short-lived sensitivity that could be automatically declassified without further review.
+Exclusion from specification.--The types of information specified pursuant to paragraph (1) shall exclude the following: (A) Information on the sources, methods, tactics, tradecraft, and procedures of members of the Armed Forces, personnel of the intelligence community, or other personnel performing associated or similar security functions or activities for the United States Government.
+Any other information that could endanger the military, intelligence, diplomatic, or law enforcement personnel, operations, or capabilities of the United States.
+Report.--The heads of Federal agencies described in paragraph (1) shall submit to Congress a report setting forth the following: (A) The types of information specified under paragraph (1).
+An assessment of the feasibility of implementing a new classification category for the types of information specified in that paragraph.
+Recommendations, if appropriate, for legislative action to implement the automatic declassification of information as described in that paragraph.
+ENHANCEMENT OF THE NATIONAL DECLASSIFICATION CENTER.
+In General.--The President shall take appropriate actions to enhance the authority and capacity of the National Declassification Center under Executive Order No.
+13526, or any successor Executive order, in order to facilitate, enhance, and advance a government-wide strategy for the declassification of information.
+Required Actions.--The actions taken under subsection (a) shall include the following: (1) A requirement that Federal agencies complete the review of Presidential and Federal records proposed for declassification, in accordance with priorities established by the National Declassification Center, within one year of the start of the declassification process, except that agencies may complete such review within two years of the start of the declassification process upon the written approval of the Director of the National Declassification Center.
+A requirement that Federal agencies with authority to classify information share their declassification guidance with other such Federal agencies and with the National Declassification Center.
+PUBLIC CONSULTATION WITH ADVISORY PANEL TO THE NATIONAL DECLASSIFICATION CENTER.
+In General.--The Director of the National Declassification Center shall provide for consultation between the advisory panel to the National Declassification Center and the public.
+Frequency.--Consultations under subsection (a) shall occur not less frequently than the frequency of the regular meetings of the advisory panel to the National Declassification Center and, to the extent practicable, shall occur concurrently with the meetings of the advisory panel.
+EXTENSION OF PUBLIC INTEREST DECLASSIFICATION BOARD.
+Section 710(b) of the Public Interest Declassification Act of 2000 (50 United States Code 3161 note) is amended by striking ``2014'' and inserting ``2018''.
+PRESERVATION AND ACCESS TO HISTORICALLY VALUABLE RECORDS.
+Federal agencies shall take appropriate actions to identify and designate historically valuable records as soon as possible after their creation in order to ensure the preservation and future accessibility of such documents and records.
+REPORTS ON PILOT PROGRAMS ON IMPROVEMENTS TO THE DECLASSIFICATION PROCESSES.
+Reports.--The heads of Federal agencies that classify information shall, in consultation with the Director of the National Declassification Center, submit to Congress reports setting forth options for various pilot programs to assess the feasibility and advisability of mechanisms to improve the current declassification capabilities of such agencies, including updates of software and procedures relating to declassification of information.
+Mechanisms.--In selecting mechanisms to be assessed pursuant to the pilot programs for purposes of subsection (a), an emphasis shall be afforded to the selection of current technologies and practices that could improve current declassification capabilities, including commercial, off the shelf-technologies and current best practices of Federal agencies and the private sector.
+Not later than one year after the date of the enactment of this Act, the head of each Federal agency that classifies information shall submit to Congress a report that sets forth the following: (1) An assessment of feasibility and advisability of replacing the current classification system of such agency with a two-tiered system, including an analysis and assessment of restructuring necessary to align the level of protection with the level of harm anticipated in the event of unauthorized release of sensitive information.
+If such agency possesses records with classified Formerly Restricted Data (FRD), an assessment of the feasibility and advisability of declassifying such records that have no national security value.

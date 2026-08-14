@@ -1,0 +1,2 @@
+Provides for nonrecognition of derivative gain, loss, or deduction items (as defined by this Act).
+Excepts certain forward contracts from such treatment.

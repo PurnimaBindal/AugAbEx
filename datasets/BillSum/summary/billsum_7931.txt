@@ -1,0 +1,9 @@
+DME Access and Stabilization Act of 2015 This bill amends titles XVIII (Medicare) and XIX (Medicaid) of the Social Security Act to modify provisions relating to payment for durable medical equipment (DME) under the Medicare and Medicaid programs.
+(DME includes&nbsp;certain medically necessary equipment such as walkers, wheelchairs, and hospital beds.)
+With respect to DME furnished in areas that are not competitive acquisition areas, current regulations require the Centers for Medicare &amp; Medicaid (CMS) to phase in, over a two-year period,&nbsp;Medicare payment adjustments using information from competitive&nbsp;acquisition programs.
+(Through such programs, payment amounts for each area are determined based on competitive bids submitted by suppliers, rather than&nbsp;according to an&nbsp;established fee schedule.)
+The bill codifies this requirement and specifies that CMS&nbsp;shall adjust fee schedule amounts to the lesser of: a specified percentage of the regional amount; and the amount that would otherwise be determined according to the fee schedule, with specified&nbsp;adjustments.
+In determining&nbsp;Medicare payment&nbsp;adjustments for areas that are not competitive acquisition areas,&nbsp;CMS shall&nbsp;solicit stakeholder input and take into account several specified factors.
+CMS&nbsp;may not establish&nbsp;a ceiling on competitive bids submitted for DME that is less than the amount that would otherwise be paid under Medicare.
+The Medicare Beneficiary Ombudsman shall evaluate the impact of the competitive&nbsp;acquisition&nbsp;program on beneficiary health status and health outcomes.
+The bill limits federal Medicaid reimbursement rates to states for DME to the rates that would be paid for such items under Medicare.

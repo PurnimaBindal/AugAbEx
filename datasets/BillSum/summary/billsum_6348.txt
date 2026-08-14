@@ -1,0 +1,12 @@
+Department of Energy High-End Computing Revitalization Act of 2004 - (Sec.
+Directs the Secretary of Energy to: implement a research and development program (involving software and hardware development) to advance high-end computing systems; and develop and deploy them for advanced scientific and engineering applications.
+Details program functions, including research in: multiple architectures, which may include vector, reconfigurable logic, streaming, processor-in-memory, and multithreading architectures; and software development on optimal algorithms, programming environments, tools, languages, and operating systems for high-end computing systems, in collaboration with architecture development efforts.
+Directs the Secretary to establish and operate facilities to: conduct advanced scientific and engineering research and development using Leadership Systems; develop potential advancements in high-end computing system hardware and software; and provide access to such Systems on a competitive, merit-reviewed basis to researchers in US industry, institutions of higher education, national laboratories, and other Federal agencies.
+Directs the Secretary to: establish at least one High-End Software Development Center which shall concentrate efforts to develop, test, maintain, and support optimal algorithms, programming environments, tools, languages, and operating systems for high-end computing systems; and use the expertise of a Center to assess research and development in high-end computing system architecture.
+(Sec.
+Authorizes appropriations for FY 2005 through 2007.
+(Sec.
+Amends the National Science Foundation Authorization Act of 2002 to make the Department of Energy, along with the National Science Foundation and the National Aeronautics and Space Administration (NASA) (as under existing law), one of three specified Federal agencies jointly establishing the Astronomy and Astrophysics Advisory Committee.
+Revises Advisory Committee membership to include three members selected by the Secretary of Energy.
+(Sec.
+Amends the the Metric Conversion Act of 1975 and the Savings in Construction Act of 1996 to repeal the expiration date of (thereby making permanent) Federal agency authority to require metric system specifications (subject to certain conditions for specifications that can only be satisfied by hard-metric versions) for concrete masonry units and recessed lighting fixtures in a solicitation for design or construction of a Federal facility within the United States or its territories.

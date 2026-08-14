@@ -1,0 +1,23 @@
+This Act may be cited as the ``Weekend Voting Act''.
+CHANGE IN CONGRESSIONAL ELECTION DAY TO SATURDAY AND SUNDAY.
+Section 25 of the Revised Statutes of the United States (2 United States Code 7) is amended to read as follows: ``Sec.
+The first Saturday and Sunday after the first Friday in November, in every even numbered year, are established as the days for the election, in each of the States and Territories of the United States, of Representatives and Delegates to the Congress commencing on the 3d day of January thereafter.''.
+CHANGE IN PRESIDENTIAL ELECTION DAY TO SATURDAY AND SUNDAY.
+Section 1 of title 3, United States Code, is amended by striking ``Tuesday next after the first Monday'' and inserting ``first Saturday and Sunday after the first Friday''.
+In General.-- (1) Presidential general election.--Chapter 1 of title 3, United States Code, is amended-- (A) by redesignating section 1 as section 1A; and (B) by inserting before section 1A the following: ``Sec.
+Polling place hours ``(a) Definitions.--In this section: ``(1) Continental united states.--The term `continental United States' means a State (other than Alaska and Hawaii) and the District of Columbia.
+Presidential general election.--The term `Presidential general election' means the election for electors of President and Vice President.
+Polling Place Hours.-- ``(1) Polling places in the continental united states.-- Each polling place in the continental United States shall be open, with respect to a Presidential general election, beginning on Saturday at 10:00 a.m. eastern standard time and ending on Sunday at 6:00 p.m. eastern standard time.
+Polling places outside the continental united states.--Each polling place not located in the continental United States shall be open, with respect to a Presidential general election, beginning on Saturday at 10:00 a.m. local time and ending on Sunday at 6:00 p.m. local time.
+Early closing.--A polling place may close between the hours of 10:00 p.m. local time on Saturday and 6:00 a.m. local time on Sunday as provided by the law of the State in which the polling place is located.''.
+Congressional general election.--Section 25 of the Revised Statutes of the United States (2 United States Code 7) is amended-- (A) by redesignating section 25 as section 25A; and (B) by inserting before section 25A the following: ``SEC.
+Definitions.--In this section: ``(1) Continental united states.--The term `continental United States' means a State (other than Alaska and Hawaii) and the District of Columbia.
+Congressional general election.--The term `congressional general election' means the regularly scheduled general election for the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress.
+Polling Place Hours.-- ``(1) Polling places inside the continental united states.--Each polling place in the continental United States shall be open, with respect to a congressional general election, beginning on Saturday at 10:00 a.m. eastern standard time and ending on Sunday at 6:00 p.m. eastern standard time.
+Polling places outside the continental united states.--Each polling place not located in the continental United States shall be open, with respect to a congressional general election, beginning on Saturday at 10:00 a.m. local time and ending on Sunday at 6:00 p.m. local time.
+Early closing.--A polling place may close between the hours of 10:00 p.m. local time on Saturday and 6:00 a.m. local time on Sunday as provided by the law of the State in which the polling place is located.''.
+Conforming Amendments.-- (1) The table of sections for chapter 1 of title 3, United States Code, is amended by striking the item relating to section 1 and inserting the following: ``1.
+Time of appointing electors.''.
+Sections 871(b) and 1751(f) of title 18, United States Code, are each amended by striking ``title 3, United States Code, sections 1 and 2'' and inserting ``sections 1A and 2 of title 3''.
+SENSE OF CONGRESS REGARDING TRANSITION TO WEEKEND VOTING.
+It is the sense of Congress that State and local election officials and the Election Assistance Commission should work together to develop plans to ensure an effective transition to weekend voting in elections for Federal office, as provided under the amendments made by this Act.

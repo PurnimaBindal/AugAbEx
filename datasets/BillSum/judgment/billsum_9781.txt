@@ -1,0 +1,55 @@
+SHORT TITLE; TABLE OF CONTENTS.
+Short Title.--This Act may be cited as the ``Medicare Choice Preservation Act of 2000''.
+Table of Contents.--The table of contents of this Act is as follows: Sec.
+Short title; table of contents.
+TITLE I--IMPROVEMENTS IN PAYMENTS Sec.
+Increase in national per capita medicare+choice growth percentage in 2001 and 2002.
+Increasing minimum payment amount.
+Allowing movement to 50:50 percent blend in 2002.
+Increasing the minimum percentage increase in 2001.
+Increased update for payment areas with only one or no Medicare+Choice contracts.
+Elimination of budget neutrality adjustment for 2001 and 2002.
+Revising calculation of area-specific rate.
+10-year phase in of risk adjustment based on data from all settings.
+TITLE II--ADDITIONAL IMPROVEMENTS Sec.
+Delay from July to November, 15, 2000, in deadline for offering and withdrawing Medicare+Choice plans for 2001.
+Effectiveness of elections and changes of elections.
+Uniform premium and benefits.
+Medicare+Choice program compatibility with employer group or union group health plans.
+TITLE I--IMPROVEMENTS IN PAYMENTS SEC.
+INCREASE IN NATIONAL PER CAPITA MEDICARE+CHOICE GROWTH PERCENTAGE IN 2001 AND 2002.
+Section 1853(c)(6)(B) of the Social Security Act (42 United States Code 1395w- 23(c)(6)(B)) is amended-- (1) in clause (iv), by striking ``for 2001, 0.5 percentage points'' and inserting ``for 2001, 0 percentage points''; and (2) in clause (v), by striking ``for 2002, 0.3 percentage points'' and inserting ``for 2002, 0 percentage points''.
+INCREASING MINIMUM PAYMENT AMOUNT.
+In General.--Section 1853(c)(1)(B)(ii) of the Social Security Act (42 United States Code 1395w-23(c)(1)(B)(ii)) is amended-- (1) by striking ``(ii) For a succeeding year'' and inserting ``(ii)(I) Subject to subclause (II), for a succeeding year''; and (2) by adding at the end the following new subclause: ``(II) For 2001 for any of the 50 States and the District of Columbia, $475.''.
+Effective Date.--The amendments made by subsection (a) apply to years beginning with 2001.
+ALLOWING MOVEMENT TO 50:50 PERCENT BLEND IN 2002.
+Section 1853(c)(2) of the Social Security Act (42 United States Code 1395w- 23(c)(2)) is amended-- (1) by striking the period at the end of subparagraph (F) and inserting a semicolon; and (2) by adding after and below subparagraph (F) the following: ``except that a Medicare+Choice organization may elect to apply subparagraph (F) (rather than subparagraph (E)) for 2002.''.
+INCREASING THE MINIMUM PERCENTAGE INCREASE IN 2001.
+Section 1853(c)(1)(C) of the Social Security Act (42 United States Code 1395w- 23(c)(1)(C)) is amended-- (1) in clause (i) by striking ``For 1998'' and inserting ``For 1998, 1999, and 2000''; and (2) in clause (ii) by striking ``102'' and inserting ``104''.
+INCREASED UPDATE FOR PAYMENT AREAS WITH ONLY ONE OR NO MEDICARE+CHOICE CONTRACTS.
+In General.--Section 1853(c)(1)(C)(ii) of the Social Security Act (42 United States Code 1395w-23(c)(1)(C)(ii)) is amended-- (1) by striking ``(ii) For a subsequent year'' and inserting ``(ii)(I) Subject to subclause (II), for a subsequent year''; and (2) by adding at the end the following new subclause: ``(II) During 2002, 2003, 2004, and 2005, in the case of a Medicare+Choice payment area in which there is no more than one contract entered into under this part as of July 1 before the beginning of the year, 104.5 percent of the annual Medicare+Choice capitation rate under this paragraph for the area for the previous year.''.
+Construction.--The amendments made by subsection (a) do not affect the payment of a first-time bonus under section 1853(i) of the Social Security Act (42 United States Code 1395w-23(i)).
+ELIMINATION OF BUDGET NEUTRALITY ADJUSTMENT FOR 2001 AND 2002.
+Section 1853(c) of the Social Security Act (42 United States Code 1395w-23(c)) is amended-- (1) in paragraph (1)(A) in the matter following clause (ii), by inserting ``for a year (other than 2001 or 2002)'' after ``multiplied''; and (2) in paragraph (5), by inserting ``(other than 2001 or 2002)'' after ``for each year''.
+REVISING CALCULATION OF AREA-SPECIFIC RATE.
+In General.--Section 1853(c)(5) of the Social Security Act (42 United States Code 1395w-23(c)(5)) is amended-- (1) by striking ``for each year'' and inserting ``for each year after 2000''; and (2) by adding at the end the following: ``Such area- specific capitation rates shall be calculated without regard to paragraphs (3)(B) and (3)(C).''.
+Effective Date.--The amendments made by subsection (a) apply with respect to years beginning on or after January 1, 2001.
+10-YEAR PHASE IN OF RISK ADJUSTMENT BASED ON DATA FROM ALL SETTINGS.
+Section 1853(a)(3)(C)(ii) of the Social Security Act (42 United States Code 1395w-23(c)(1)(C)(ii)) is amended-- (1) by striking the period at the end of subclause (II) and inserting a semicolon; and (2) by adding after and below subclause (II) the following: ``and, beginning in 2004, insofar as such risk adjustment is based on data from all (or substantially all) settings, the methodology shall be phased in equal increments over a 10 year period, beginning with 2004 or (if later) the first year in which such data is used.''.
+TITLE II--ADDITIONAL IMPROVEMENTS SEC.
+DELAY FROM JULY TO NOVEMBER, 15, 2000, IN DEADLINE FOR OFFERING AND WITHDRAWING MEDICARE+CHOICE PLANS FOR 2001.
+Notwithstanding any other provision of law, the deadline for a Medicare+Choice organization to withdraw the offering of a Medicare+Choice plan under part C of title XVIII of the Social Security Act (or otherwise to submit information required for the offering of such a plan) for 2001 is delayed from July 1, 2000, to November 15, 2000, and any such organization that provided notice of withdrawal of such a plan during 2000 before the date of the enactment of this Act may rescind such withdrawal at any time before November 15, 2000.
+Prohibition on Requirement To Submit Encounter Data.--Section 1853(a)(3)(B) of the Social Security Act (42 United States Code 1395w-23(a)(3)(B)) is amended-- (1) by designating the matter following ``Data collection.--'' as clause (i) with appropriate indentation and the heading ``In general.--''; and (2) by adding at the end the following new clauses: ``(ii) Issuance of data submission requirements.--The Secretary may not require under clause (i) the submission of encounter data to support a risk adjustment methodology based on all (or substantially all) settings until a reasonable time after the Secretary issues the complete requirements for data submission.
+Such requirements shall be limited to the minimum data elements necessary to support the risk adjustment methodology.
+Such system shall be designed to accept the required minimum data elements in a form and manner compatible with Medicare+Choice organizations' operations.
+Evaluation.--In issuing such data submission requirements, the Secretary must include an evaluation by an outside, independent actuary of whether the proposed data elements are the minimum necessary to support the risk adjustment methodology.''.
+Post-Stabilization Guidelines.--Section 1852(d)(2) of such Act (42 United States Code 1395w-22(d)(2)) is amended by adding at the end the following: ``In prescribing such guidelines-- ``(A) post-stabilization care shall be limited to care related to treatment of the condition that precipitated the provision of emergency services; and ``(B) the provider of emergency services is not authorized to provide post-stabilization care unless-- ``(i) the Medicare+Choice organization has been notified as soon as practicable, but not later than 2 hours after stabilization, in advance of the request to provide such care; ``(ii) the organization has either approved the request or not responded to such request within a reasonable period (of at least 3 hours) after it has been notified; and ``(iii) the emergency services provider maintains a written documentation concerning the notice and the organization's response to such notice.''.
+EFFECTIVENESS OF ELECTIONS AND CHANGES OF ELECTIONS.
+In General.--Section 1851(f)(2) of the Social Security Act (42 United States Code 1395w-21(f)(2)) is amended by striking ``made,'' and all that follows and inserting ``made.''.
+Effective Date.--The amendment made by subsection (a) applies with respect to years beginning on or after on January 1, 2001.
+UNIFORM PREMIUM AND BENEFITS.
+In General.--Subsections (c) and (f)(1)(D) of section 1854 of the Social Security Act (42 United States Code 1395w-24) are each amended by inserting before the period at the end the following: ``, except across counties as approved by the Secretary''.
+Effective Date.--The amendments made by subsection (a) apply with respect to years beginning on or after January 1, 2001.
+MEDICARE+CHOICE PROGRAM COMPATIBILITY WITH EMPLOYER OR UNION GROUP HEALTH PLANS.
+In General.--Section 1857 of the Social Security Act (42 United States Code 1395w-27) is amended by adding at the end the following new subsection: ``(i) M+C Program Compatibility With Employer or Union Group Health Plans.--To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by 1 or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary shall waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.''.
+Effective Date.--The amendment made by subsection (a) applies with respect to years beginning on or after January 1, 2001.

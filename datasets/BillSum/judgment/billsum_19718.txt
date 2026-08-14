@@ -1,0 +1,44 @@
+This Act may be cited at the ``Clean Air and Water Preservation Act of 2001''.
+The Congress finds that: (1) The oxygenate requirement of the reformulated gasoline (``RFG'') program has proven effective in reducing emissions of exhaust hydrocarbons, nitrous oxide and carbon monoxide, known precursors to smog.
+One oxygenate chosen by gasoline refiners to comply with the Clean Air Act regulations, methyl tertiary butyl ether (``MTBE''), has been discovered in water sources throughout the nation.
+MTBE renders water undrinkable and is considered a probable carcinogen by the Environmental Protection Agency.
+MTBE is highly soluble in water and slow to degrade.
+Only one gallon of MTBE is required to contaminate 26 million gallons of water.
+An alternative oxygenate, ethanol, is a biobased product which produces the same reductions in emissions, is not as soluble in water, biodegrades rapidly, and is considered safe for the environment.
+The oxygenate requirement of the RFG program requires 2 percent by weight of an oxygenate be added to gasoline.
+Ethanol contains approximately twice as much as oxygen as MTBE, therefore supplying the RFG program with sufficient ethanol to replace MTBE would require half the volume of MTBE currently used.
+The ethanol industry is expanding rapidly.
+Production capacity in 1998 was estimated at 1.8 billion gallons.
+New production facilities that came on line in 1999 has greatly increased this capacity.
+The Department of Agriculture projects the domestic ethanol industry will be able to produce the approximately 3.1 billion gallons of ethanol necessary to replace MTBE by 2004.
+The United States Reports Department of Agriculture estimates that replacing MTBE with ethanol will (A) increase the demand for corn for ethanol by more than 500 million bushels each year, improving the price of corn by 14 cents per bushel each year and increasing average total farm cash receipts by $1 billion each year; (B) create 13,000 new jobs; and (C) increase average US agricultural net export value by more than $200 million and reduce US import value of MTBE by $1.1 billion for an improved US trade balance of $1.3 billion each year.
+Ethanol is an energy efficient fuel.
+A 1995 report by the USDA estimated one gallon of ethanol provides 25 percent more energy than production requires.
+Other studies show the net energy gain potential of ethanol could exceed 150 percent when state-of-the-art agricultural and production technologies are used.
+Ethanol is proven to enhance the performance of automobiles.
+Currently, all vehicle manufacturers approve the use of 10 percent ethanol blended fuels.
+Replacing MTBE with ethanol would maintain the emissions reductions obtained through the RFG program without the water contamination problems associated with MTBE.
+When implementing the Clean Air Act Amendments of 1990, the Environmental Protection Agency required, by regulation, that each gallon of gasoline sold in the RFG program contain a minimum of 1.5 percent by weight of oxygenate.
+This was not the intent of Congress in passing the oxygenate requirement and prohibits the most efficient use of oxygenates.
+Lifting this regulatory requirement will provide refiners more flexibility for complying with the RFG program and provide high performance gasoline year-round.
+Providing such flexibility in the use of oxygenates could lead to an increase in the use of aromatics, many of which are known carcinogens.
+Therefore, a limit on the amount of aromatics added to gasoline is necessary to protect public health.
+Providing such flexibility in the use of oxygenates could lead to an increase in emissions.
+Therefore, a prohibition against an increase in emissions above the level achieved by RFG gasoline is necessary to protect air quality.
+USE OF MTBE AS A FUEL ADDITIVE.
+MTBE Ban.--Section 211(c) of the Clean Air Act (42 United States Code 7545(c)) is amended by adding at the end of paragraph (1) the following: ``The regulations under this paragraph shall prohibit the use of methyl tertiary butyl ether (MTBE) as a fuel additive.''.
+Regulations.--The Administrator of the Environmental Protection Agency shall amend the regulations under section 211(c)(1) of the Clean Air Act as promptly as practicable after the date of enactment of this Act to conform to the amendment made by subsection (a) of this section.
+Effective Date.--Subsection (a) of this section shall take effect upon the expiration of the three-year period beginning on the date of the enactment of this Act.
+Labeling.--During the period beginning on the date of enactment of this Act and ending three years from the date of enactment, the Administrator of the Environmental Protection Agency shall require any person selling gasoline that contains methyl tertiary butyl ether at retail to prominently label the fuel dispensing system for the gasoline with a notice that the gasoline contains methyl tertiary butyl ether (`MTBE').
+EXISTING MTBE WATER CONTAMINATION.
+State Source Water Assessment Programs.--Section 1453(a) of the Safe Drinking Water Act is amended by adding the following at the end thereof: ``(8) MTBE Contamination.--The Administrator shall amend the guidelines under this subsection to require that State source water assessment programs be revised to prioritize groundwater areas and aquifers that have been contaminated, or are most vulnerable to contamination, by methyl tertiary butyl ether (`MTBE').
+Each such revision shall be submitted and approved or disapproved by the Administrator in accordance with the same deadlines as applicable to the original program under paragraph (3).''.
+EPA Cleanup Guidelines.--Section 1442 of the Safe Drinking Water Act is amended by adding the following at the end thereof: ``(f) Cleanup Guidelines for MTBE.--The Administrator shall develop a clear set of technical guidelines to assist States in the investigation and cleanup of methyl tertiary butyl ether (`MTBE') in groundwater.''.
+ALLOWING FOR OXYGEN AVERAGING WITHIN THE RFG PROGRAM.
+Amendment of Clean Air Act.--Subparagraph (B) of section 211(k)(2) of the Clean Air Act and clause (v) of subparagraph (A) of section 211(k)(3) of such Act are each amended by inserting ``an average of'' before ``2.0 percent''.
+Regulation Invalidated.--The provisions of section 80.41(b) of part 80 of title 40 of the Code of Federal Regulations establishing a per-gallon minimum oxygen content (percent, by weight) shall cease to have any force and effect on the date of the enactment of this Act.
+Ozone Forming Potential.--Section 211(k)(1) of the Clean Air Act is amended by adding the following at the end thereof: ``No later than June 1, 2001, the Administrator shall revise the regulations under this paragraph as necessary to ensure that the ozone forming potential, taking into account all ozone precursors (including volatile organic compounds, oxides of nitrogen, and carbon monoxide), of the aggregate emissions during the high ozone season (as defined by the Administrator) from baseline vehicles when using reformulated gasoline does not exceed the ozone forming potential of the aggregate emissions from such vehicles when using reformulated gasoline that complies with the regulations that were in effect on January 1, 2000, and applicable to reformulated gasoline sold in calendar year 2000 and thereafter.''.
+Aromatic Hydrocarbon Content.--Section 211(k)(2) of the Clean Air Act is amended by adding the following new subparagraph at the end thereof: ``(E) Aromatic hydrocarbon content.--The aromatic hydrocarbon content of the gasoline shall be not greater than the average aromatic hydrocarbon content of reformulated gasoline sold in covered areas for use in such vehicles during the year 2000.''.
+DEVELOPING OXYGENATE ALTERNATIVES TO MTBE.
+The Secretary of Energy and the Administrator of the Environmental Protection Agency shall evaluate by December 31, 2001 and report to the President and the Congress on the potential for development of oxygenate alternatives to methyl tertiary butyl ether (``MTBE'') not otherwise identified in this Act, and shall evaluate what steps, if any, would be appropriate to foster development of such alternatives should they be found to be an acceptable substitute for MTBE.
+It is the Sense of the Congress that the United States should promote renewable ethanol to replace methyl tertiary butyl ether (``MTBE'') and encourage oil refiners to make the transition from MTBE- blended fuel to ethanol-blended fuel as soon as possible.

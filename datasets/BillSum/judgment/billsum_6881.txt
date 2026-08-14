@@ -1,0 +1,42 @@
+SHORT TITLE; AMENDMENT OF 1986 CODE.
+Short Title.--This Act may be cited as ``The Better Bracket Act of 1998''.
+Amendment of 1986 Code.--Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+Section 15 Not To Apply.--No amendment made by section 2 shall be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986.
+REDUCTION IN INDIVIDUAL INCOME TAX RATES.
+General Rule.--Section 1 (relating to tax imposed) is amended by striking subsections (a) through (e) and inserting the following: ``(a) Married Individuals Filing Joint Returns and Surviving Spouses.--There is hereby imposed on the taxable income of-- ``(1) every married individual (as defined in section 7703) who makes a single return jointly with his spouse under section 6013, and ``(2) every surviving spouse (as defined in section 2(a)), a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $58,000............... 15% of taxable income.
+Over $58,000 but not over $102,300.
+$8,700, plus 28% of the excess over $58,000 Over $102,300 but not over $155,950.
+$21,104, plus 31% of the excess over $102,300 Over $155,950 but not over $278,450.
+$37,735.5, plus 36% of the excess over $155,950 Over $278,450.................. $81,835.5, plus 39.6% of the excess over $278,450 ``(b) Heads of Households.--There is hereby imposed on the taxable income of every head of a household (as defined in section 2(b)) a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $47,000............... 15% of taxable income.
+Over $47,000 but not over $87,700.
+$7,050, plus 28% of the excess over $47,000 Over $87,700 but not over $142,000.
+$18,446, plus 31% of the excess over $87,700 Over $142,000 but not over $278,450.
+$35,279, plus 36% of the excess over $142,000 Over $278,450.................. $84,401, plus 39.6% of the excess over $278,450 ``(c) Unmarried Individuals (Other Than Surviving Spouses and Heads of Households).--There is hereby imposed on the taxable income of every individual (other than a surviving spouse as defined in section 2(a) or the head of a household as defined in section 2(b)) who is not a married individual (as defined in section 7703) a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $35,000............... 15% of taxable income.
+Over $35,000 but not over $61,400.
+$5,250, plus 28% of the excess over $35,000.
+Over $61,400 but not over $128,100.
+$12,642, plus 31% of the excess over $61,400.
+Over $128,100 but not over $278,450.
+$33,319, plus 36% of the excess over $128,100.
+Over $278,450.................. $87,445, plus 39.6% of the excess over $278,450.
+Married Individuals Filing Separate Returns.--There is hereby imposed on the taxable income of every married individual (as defined in section 7703) who does not make a single return jointly with his spouse under section 6013, a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $29,000............... 15% of taxable income.
+Over $29,000 but not over $51,150.
+$4,350, plus 28% of the excess over $29,000 Over $51,150 but not over $77,975.
+$10,552, plus 31% of the excess over $51,150 Over $77,975 but not over $139,225.
+$18,867.75, plus 36% of the excess over $77,975 Over $139,225.................. $40,917.75, plus 39.6% of the excess over $139,225 ``(e) Estates and Trusts.--There is hereby imposed on the taxable income of-- ``(1) every estate, and ``(2) every trust, taxable under this subsection a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $1,700................ 15% of taxable income.
+Over $1,700 but not over $4,000 $255, plus 28% of the excess over $1,700.
+Over $4,000 but not over $6,100 $899, plus 31% of the excess over $4,000.
+Over $6,100 but not over $8,350 $1,550, plus 36% of the excess over $6,100.
+Over $8,350.................... $2,360, plus 39.6% of the excess over $8,350.''.
+Inflation Adjustment To Apply in Determining Rates for 1999.-- Subsection (f) of section 1 is amended-- (1) by striking ``1993'' in paragraph (1) and inserting ``1998'', (2) by striking ``1992'' in paragraph (3)(B) and inserting ``1997'', and (3) by striking paragraph (7).
+Conforming Amendments.-- (1) The following provisions are each amended by striking ``1992'' and inserting ``1997'' each place it appears: (A) Section 25A(h).
+Subparagraph (B) of section 59(j)(2) is amended by striking ``, determined by substituting `1997' for `1992' in subparagraph (B) thereof''.
+Subparagraph (B) of section 63(c)(4) is amended by striking ``by substituting for'' and all that follows and inserting ``by substituting for `calendar year 1997' in subparagraph (B) thereof `calendar year 1987' in the case of the dollar amounts contained in paragraph (2) or (5)(A) or subsection (f).''
+Subparagraph (B) of section 132(f)(6) is amended by inserting before the period ``, determined by substituting `calendar year 1992' for `calendar year 1997' in subparagraph (B) thereof''.
+Paragraph (2) of section 220(g) of such Code is amended by striking ``by substituting `calendar year 1997' for `calendar year 1992' in subparagraph (B) thereof''.
+Subparagraph (B) of section 685(c)(3) is amended by striking ``, by substituting `calendar year 1997' for `calendar year 1992' in subparagraph (B) thereof''.
+Subparagraph (B) of section 2032A(a)(3) is amended by striking ``by substituting `calendar year 1997' for `calendar year 1992' in subparagraph (B) thereof''.
+Subparagraph (B) of section 2503(b)(2) is amended by striking ``by substituting `calendar year 1997' for `calendar year 1992' in subparagraph (B) thereof''.
+Paragraph (2) of section 2631(c) is amended by striking ``by substituting `calendar year 1997' for `calendar year 1992' in subparagraph (B) thereof''.
+Subparagraph (B) of section 6601(j)(3) is amended by striking ``by substituting `calendar year 1997' for `calendar year 1992' in subparagraph (B) thereof''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 1998.

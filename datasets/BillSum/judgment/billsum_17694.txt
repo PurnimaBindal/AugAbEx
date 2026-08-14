@@ -1,0 +1,26 @@
+This Act may be cited as the ``Copyright Technical Corrections Act of 2001''.
+CORRECTIONS TO 1999 ACT.
+Title I of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106- 113, is amended as follows: (1) Section 1007 is amended-- (A) in paragraph (2), by striking ``paragraph (2)'' and inserting ``paragraph (2)(A)''; and (B) in paragraph (3), by striking ``1005(e)'' and inserting ``1005(d)''.
+Section 1006(b) is amended by striking ``119(b)(1)(B)(iii)'' and inserting ``119(b)(1)(B)(ii)''.
+(A) Section 1006(a) is amended-- (i) in paragraph (1), by adding ``and'' after the semicolon; (ii) by striking paragraph (2); and (iii) by redesignating paragraph (3) as paragraph (2).
+Section 1011(b)(2)(A) is amended to read as follows: ``(A) in paragraph (1), by striking `primary transmission made by a superstation and embodying a performance or display of a work' and inserting `performance or display of a work embodied in a primary transmission made by a superstation or by the Public Broadcasting Service satellite feed';''.
+AMENDMENTS TO TITLE 17, UNITED STATES CODE.
+Title 17, United States Code, is amended as follows: (1) Section 119(a)(6) is amended by striking ``of performance'' and inserting ``of a performance''.
+(A) The section heading for section 122 is amended by striking ``rights; secondary'' and inserting ``rights: Secondary''.
+The item relating to section 122 in the table of contents for chapter 1 is amended to read as follows: ``122.
+Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets.''.
+(A) The section heading for section 121 is amended by striking ``reproduction'' and inserting ``Reproduction''.
+The item relating to section 121 in the table of contents for chapter 1 is amended by striking ``reproduction'' and inserting ``Reproduction''.
+(A) Section 106 is amended by striking ``107 through 121'' and inserting ``107 through 122''.
+Section 501(a) is amended by striking ``106 through 121'' and inserting ``106 through 122''.
+Section 511(a) is amended by striking ``106 through 121'' and inserting ``106 through 122''.
+Section 101 is amended-- (A) by moving the definition of ``computer program'' so that it appears after the definition of ``compilation''; and (B) by moving the definition of ``registration'' so that it appears after the definition of ``publicly''.
+Section 110(4)(B) is amended in the matter preceding clause (i) by striking ``conditions;'' and inserting ``conditions:''.
+Section 118(b)(1) is amended in the second sentence by striking ``to it''.
+Section 119(b)(1)(A) is amended-- (A) by striking ``transmitted'' and inserting ``retransmitted''; and (B) by striking ``transmissions'' and inserting ``retransmissions''.
+Section 203(a)(2) is amended-- (A) in subparagraph (A)-- (i) by striking ``(A) the'' and inserting ``(A) The''; and (ii) by striking the semicolon at the end and inserting a period; (B) in subparagraph (B)-- (i) by striking ``(B) the'' and inserting ``(B) The''; and (ii) by striking the semicolon at the end and inserting a period; and (C) in subparagraph (C), by striking ``(C) the'' and inserting ``(C) The''.
+Section 304(c)(2) is amended-- (A) in subparagraph (A)-- (i) by striking ``(A) the'' and inserting ``(A) The''; and (ii) by striking the semicolon at the end and inserting a period; (B) in subparagraph (B)-- (i) by striking ``(B) the'' and inserting ``(B) The''; and (ii) by striking the semicolon at the end and inserting a period; and (C) in subparagraph (C), by striking ``(C) the'' and inserting ``(C) The''.
+The item relating to section 903 in the table of contents for chapter 9 is amended by striking ``licensure'' and inserting ``licensing''.
+Amendment to Title 18.--Section 2319(e)(2) of title 18, United States Code, is amended by striking ``107 through 120'' and inserting ``107 through 122''.
+Standard Reference Data.--(1) Section 105(f) of Public Law 94- 553 is amended by striking ``section 290(e) of title 15'' and inserting ``section 6 of the Standard Reference Data Act (15 United States Code 290e)''.
+Section 6(a) of the Standard Reference Data Act (15 United States Code 290e) is amended by striking ``Notwithstanding'' and all that follows through ``United States Code,'' and inserting ``Notwithstanding the limitations under section 105 of title 17, United States Code,''.

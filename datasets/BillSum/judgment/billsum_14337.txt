@@ -1,0 +1,45 @@
+This Act may be cited as the ``General Accounting Office Reform and Reorganization Act of 1993''.
+The purpose of this Act is to ensure that in conducting evaluations and preparing reports pursuant to an order or request of the Congress, the General Accounting Office performs its functions in an impartial, complete, and timely manner.
+REVIEW AND APPROVAL OF GENERAL ACCOUNTING OFFICE INVESTIGATIONS AND REPORTS.
+In General.--Subchapter II of chapter 7 of title 31, United States Code, is amended-- (1) by redesignating section 720 as section 721; and (2) by inserting after section 719 the following new section: ``Sec.
+720. Review, approval, and conduct of investigations, evaluations, assessments, and reports requested by Congress ``(a) Notwithstanding any other provision of law, the Comptroller General may not make a report pursuant to a request of a Member or committee of the Congress, unless-- ``(1) the Oversight Board approves in accordance with this section a methodology for preparing the report; and ``(2) the report is prepared in accordance with the methodology as approved by the Oversight Board.
+Upon receiving a request from a committee of the Congress for a report, the Comptroller General shall notify the ranking minority member of that committee that the request has been received.
+A Member of Congress who requests that the Comptroller General make a report, the staff of the Member, and a Member and the staff of a committee of the Congress that requests that the Comptroller General make a report, may not advise, consult, confer, or otherwise communicate with the Comptroller General or any personnel of the General Accounting Office regarding the report until after the date on which the final report is issued.
+The Comptroller General may not issue any final report pursuant to a request of a Member or committee of Congress unless the final report is approved-- ``(1) by the subcommittee under subsection (h)(3) that has responsibility for the subject area of the report; and ``(2) after approval under subparagraph (A), by the Oversight Board.
+(1) Any Member of Congress may submit to the Oversight Board comments challenging the findings or recommendations of any final report issued by the Comptroller General.
+Upon receipt of comments under paragraph (1), the Oversight Board may-- ``(A) refer the comments to the Comptroller General for further investigation; or ``(B) refer the final report and comments to an outside entity (including a college or university) for peer review of the findings of the report and the data used.
+(1) Except as provided in paragraph (2), there shall be printed in the Congressional Record-- ``(A) on a quarterly basis, a list of the names of all Members of Congress who requested, in the quarter covered by the list, that the Comptroller General make any report; and ``(B) by not later than 90 days after the last day of each session of the Congress, a brief summary of the status and results of each investigation conducted by the General Accounting Office in that session.
+Paragraph (1) shall not apply to requests by Members of Congress for a report dealing with a national security issue.
+(1) No hearing may be held by a committee or subcommittee of the Congress regarding a report by the General Accounting Office before the end of the 7-day period beginning on the date of the release of the final report.
+Before the 7-day period ending on the date on which a person is required to testify to a committee or subcommittee of the Congress regarding an investigation conducted by the General Accounting Office, the Chairman of the committee or subcommittee shall provide to the person a copy of the final report of the General Accounting Office relating to the investigation.
+(1) There is established the General Accounting Office Oversight Board.
+The Oversight Board shall review in accordance with this section requests by Members and committees of the Congress for the performance of investigations by the Comptroller General.
+The Oversight Board shall be comprised of 21 members appointed as follows: ``(A) 5 Members of the House of Representatives appointed by the Speaker of the House of Representatives.
+5 Members of the House of Representatives appointed by the minority leader of the House of Representatives.
+5 Members of the Senate appointed by the majority leader of the Senate.
+5 Members of the Senate appointed by the minority leader of the Senate.
+The Comptroller General, who shall be a nonvoting member.
+(A) The Oversight Board shall have a subcommittee for each division in the General Accounting Office, and each subcommittee shall be responsible for the subject area of that division.
+Each subcommittee shall consist of 9 members of the Oversight Board, of whom-- ``(i) 2 shall be members of the Oversight Board appointed by each of the officials referred to in paragraph (2)(A) through (D); and ``(ii) one shall be the Comptroller General, who shall be a nonvoting member.
+Each subcommittee shall select a chairman and a vice chairman from among its members.
+No member of the Oversight Board may serve as chairman or vice chairman of more than one subcommittee.
+No member of the Oversight Board may serve on more than 2 subcommittees at any time unless granted a waiver by the Oversight Board.
+A vacancy in the membership of the Oversight Board shall not affect the power of the remaining members to execute the functions of the Oversight Board and shall be filled in the same manner as in the case of the original appointment.
+The Oversight Board shall select a chairman and a vice chairman from among its members at the beginning of each Congress.
+The vice chairman shall act in the place of the chairman in the absence of the chairman.
+The chairmanship and vice chairmanship shall alternate between the Senate and the House of Representatives with each Congress.
+The chairman during each even-numbered Congress shall be selected by the members of the House of Representatives on the Oversight Board, from among those members.
+The chairman during each odd-numbered Congress shall be selected by the members of the Senate on the Oversight Board, from among those members.
+The vice chairman during each Congress shall be selected by the members on the Oversight Board who are members of the House of Congress of which the chairman for that Congress is not a Member.
+In this section, the term `report' includes an investigation, evaluation, assessment, or report, including one under section 712(4) or (5) or section 717.''.
+Initial Subcommittees.-- (1) Number.--The General Accounting Office Oversight Board established by section 720 of title 31, United States Code, as amended by this Act, shall have 7 subcommittees until such time as there is a different number of divisions in the General Accounting Office.
+Subject areas.--Each subcommittee of the General Accounting Office Oversight Board shall be responsible for one of the following subject areas, until such time as there is any change in the subject areas of the divisions of the General Accounting Office and the Oversight Board alters the subject areas of the subcommittee to coincide with that change: (A) Accounting and financial management.
+Information management and technology.
+National security and international affairs.
+Program evaluation and methodology.
+Resources, community, and economic development.
+Oversight Board Defined.--Section 701 of title 31, United States Code, is amended by adding at the end the following: ``(3) `Oversight Board' means the General Accounting Office Oversight Board established by section 720.''.
+Clerical Amendment.--Title 31, United States Code, is amended in the table of sections at the beginning of chapter 7 by striking the item relating to section 720 and inserting the following: ``720. Review, approval, and conduct of investigations, evaluations, assessments, and reports requested by Congress.
+GAO DETAILEES AND ASSIGNEES.
+Section 734 of title 31, United States Code, is amended-- (1) by inserting ``(a)'' before ``The Comptroller''; and (2) by adding at the end the following: ``(b) The Comptroller General may not detail or assign an officer or employee of the General Accounting Office to a committee of the Congress-- ``(1) more than twice in any Congress; or ``(2) for a period longer than 3 months.
+Notwithstanding any other provision of this title, the Comptroller General may not make any investigation, evaluation, assessment, or report pursuant to a request from a committee of the Congress or the Chairman of a committee of the Congress if an officer or employee of the General Accounting Office was detailed or assigned to the committee in the 3-month period ending on the date of the submittal of the request.

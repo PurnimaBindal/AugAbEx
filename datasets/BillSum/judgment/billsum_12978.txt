@@ -1,0 +1,30 @@
+SHORT TITLE; AMENDMENT OF 1986 CODE.
+Short Title.--This Act may be cited as the ``S Corporation Investment Act of 1995''.
+Amendment of 1986 Code.--Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+S CORPORATIONS PERMITTED TO HAVE 40 SHAREHOLDERS.
+Subparagraph (A) of section 1361(b)(1) (defining small business corporation) is amended by striking ``35 shareholders'' and inserting ``40 shareholders''.
+MEMBERS OF FAMILY TREATED AS 1 SHAREHOLDER.
+Paragraph (1) of section 1361(c) (relating to special rules for applying subsection (b)) is amended to read as follows: ``(1) Members of family treated as 1 shareholder.-- ``(A) In general.--For purposes of subsection (b)(1)(A)-- ``(i) except as provided in clause (ii), a husband and wife (and their estates) shall be treated as 1 shareholder, and ``(ii) in the case of a family with respect to which an election is in effect under subparagraph (E), all members of the family shall be treated as 1 shareholder.
+Members of the family.--For purposes of subparagraph (A)(ii), the term `members of the family' means the lineal descendants of the common ancestor and the spouses (or former spouses) of such lineal descendants or common ancestor.
+Common ancestor.--For purposes of this paragraph, an individual shall not be considered a common ancestor if, as of the later of the effective date of this paragraph or the time the election under section 1362(a) is made, the individual is more than 4 generations removed from the youngest generation of shareholders.
+Effect of adoption, etc.--In determining whether any relationship specified in subparagraph (B) or (C) exists, the rules of section 152(b)(2) shall apply.
+Election.--An election under subparagraph (A)(ii)-- ``(i) must be made with the consent of all shareholders, ``(ii) shall remain in effect until terminated, and ``(iii) shall apply only with respect to 1 family in any corporation.''
+INCREASE IN PASSIVE INCOME PERMITTED.
+Termination Provision.--Paragraph (3) of section 1362(d) (relating to termination) is amended by striking ``25 percent'' in the heading and in subparagraph (A)(i) and inserting ``40 percent''.
+Tax on Former C Corporations.-- (1) Subsections (a)(2) and (b)(1)(A)(i) of section 1375 (relating to tax imposed when passive investment income of corporation having subchapter C earnings and profits exceeds 25 percent of gross receipts) are each amended by striking ``25 percent'' and inserting ``40 percent''.
+The heading of section 1375 is amended by striking ``25 percent'' and inserting ``40 percent''.
+The table of sections for part III of subchapter S of chapter 1 is amended by striking ``25 percent'' and inserting ``40 percent'' in the item relating to section 1375.
+In General.--Part III of subchapter S of chapter 1 (relating to special rules) is amended by adding at the end the following new section: ``SEC.
+In General.--In the case of an S corporation, at the election of such corporation, there shall be allowed as a deduction for the taxable year an amount equal to the payments made by the corporation during such taxable year to a reinvestment reserve.
+Limitation.--The amount which an S corporation may pay into its reinvestment reserve for any taxable year shall not exceed an amount equal to 3 percent of its taxable income (determined without regard to this section) for such taxable year.
+Reinvestment Reserve.-- ``(1) In general.--Each S corporation which elects the application of this section shall establish a reinvestment reserve.
+No tax on reserve earnings.--Earnings (including gains and losses) from the investment of amounts in the reserve shall not be taken into account under this title.
+Use of reserve.--The reinvestment reserve shall be used exclusively for the acquisition, construction, reconstruction, or erection of tangible property to which section 168 applies for use in the active conduct of a trade or business of the S corporation.
+Contributions to reserve.--The reinvestment reserve shall not accept any payments (or other amounts) other than payments with respect to which a deduction is allowable under subsection (a).
+Distributions from reserve.--There shall be includible in the gross income of the S corporation for any taxable year any amount distributed from the reinvestment reserve during such taxable year.
+Treatment of amounts not withdrawn within 3 years.-- ``(A) In general.--Any amount not withdrawn from the reinvestment reserve within the 3-year period beginning on the date of its deposit shall be treated as distributed as of the close of such period.
+Deemed distributions taxed at highest marginal rate.--If any amount is treated under subparagraph (A) as distributed during any taxable year-- ``(i) such amount shall be excluded from the gross income of the corporation, and ``(ii) there is hereby imposed on such amount a tax equal to the product of such amount and the highest rate of tax specified in section 1.
+Certain rules to apply.--Rules similar to the rules of subparagraphs (B) and (C) of paragraphs (5) and (6) of section 7518(g) shall apply for purposes of this paragraph.
+Time When Payments Deemed Made.--For purposes of this section, a taxpayer shall be deemed to have made a payment to the reinvestment reserve on the last day of a taxable year if such payment is made on account of such taxable year and is made with 2\1/2\ months after the close of such taxable year.''
+Clerical Amendment.--The table of sections for part III of subchapter S of chapter 1 is amended by adding at the end the following new section: ``Sec.
+The amendments made by this Act shall apply to taxable years beginning after the date of the enactment of this Act.

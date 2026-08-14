@@ -1,0 +1,48 @@
+This Act may be cited as the ``Alternative Fuels Promotion Act''.
+The Senate finds the following: (1)(A) Since 1994, the United States has imported over half its oil.
+Without efforts to mitigate this dependence on foreign oil, the percentage of oil imported is expected to grow to all- time highs.
+This reliance on foreign oil presents a national security risk, which Congress should address through policy changes designed to increase the use of domestically-available alternative transportation fuels.
+(A) The importing of a majority of the oil used in the United States contributes negatively to the balance of trade of the United States.
+Assuring the Nation's economic security demands the development and promotion of domestically-available alternative transportation fuels.
+(A) The reliance on oil as a transportation fuel has numerous negative environmental consequences, including increasing air pollution and greenhouse gas emissions.
+Developing alternative transportation fuels will help address these environmental impacts by reducing emissions.
+In order to encourage installation of alternative fueling infrastructure, and make alternative fuels economically favorable to the producer, distributor, marketer, and consumer, tax credits provided at the point of distribution into an alternative fuel vehicle are necessary.
+(A) In the short-term, United States alternative fuel policy must be made fuel neutral.
+Fuel neutrality will foster private innovation and commercialization using the most technologically feasible and economic fuels available.
+This will allow market forces to decide the alternative fuel winners and losers.
+(A) Tax credits which have been in place have led to increases in the quantity and quality of alternative fuel technology available today.
+Extending these credits is an efficient means of promoting alternative fuel vehicles and alternative fueling infrastructures.
+(A) The Federal fleet is one of the best customers for alternative fuel vehicles due to its combination of large purchasing power, tight record keeping, geographic diversity, and high fuel usage.
+For these reasons, the National Energy Policy Act of 1991 required Federal fleets to purchase certain numbers of alternatively-fueled vehicles.
+In most cases, these requirements have not been met.
+Efforts must be made to ensure that all Federal agencies comply with Federal fleet purchase requirement laws and executive orders.
+TITLE I--TAX INCENTIVES SEC.
+101. CREDIT FOR QUALIFIED ELECTRIC VEHICLES.
+Increased Credit for Vehicles Which Meet Certain Range Requirements.-- (1) In general.--Section 30(a) of the Internal Revenue Code of 1986 (relating to allowance of credit) is amended to read as follows: ``(a) Allowance of Credit.-- ``(1) In general.--There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of-- ``(A) 10 percent of the cost of any qualified electric vehicle placed in service by the taxpayer during the taxable year, plus ``(B) in the case of any such vehicle also meeting the requirement described in paragraph (2), $5,000.
+Range requirement.--The requirement described in this paragraph is a driving range of at least 100 miles-- ``(A) on a single charge of the vehicle's rechargeable batteries, fuel cells, or other portable source of electrical current, and ``(B) measured pursuant to the urban dynamometer schedules under appendix I to part 86 of title 40, Code of Federal Regulations.''.
+Conforming amendment.--Section 30(b)(1) of the Internal Revenue Code of 1986 is amended by striking ``subsection (a)'' and inserting ``subsection (a)(1)(A)''.
+Credit Extended Through 2010.-- (1) In general.--Section 30(e) of the Internal Revenue Code of 1986 (relating to termination) is amended by striking ``2004'' and inserting ``2010''.
+Conforming amendments.--Section 30(b)(2) of such Code (relating to phaseout) is amended-- (A) by striking ``2002'' in subparagraph (A) and inserting ``2008'', (B) by striking ``2003'' in subparagraph (B) and inserting ``2009'', and (C) by striking ``2004'' in subparagraph (C) and inserting ``2010''.
+Effective Date.--The amendments made by this section shall apply to property placed in service after the date of enactment of this Act.
+ADDITIONAL DEDUCTION FOR COST OF INSTALLATION OF ALTERNATIVE FUELING STATIONS.
+In General.--Subparagraph (A) of section 179A(b)(2) of the Internal Revenue Code of 1986 (relating to qualified clean-fuel vehicle refueling property) is amended to read as follows: ``(A) In general.--The aggregate cost which may be taken into account under subsection (a)(1)(B) with respect to qualified clean-fuel vehicle refueling property placed in service during the taxable year at a location shall not exceed the sum of-- ``(i) with respect to costs not described in clause (ii), the excess (if any) of-- ``(I) $100,000, over ``(II) the aggregate amount of such costs taken into account under subsection (a)(1)(B) by the taxpayer (or any related person or predecessor) with respect to property placed in service at such location for all preceding taxable years, plus ``(ii) the lesser of-- ``(I) the cost of the installation of such property, or ``(II) $30,000.''.
+Effective Date.--The amendment made by this section shall apply to property placed in service after the date of enactment of this Act.
+103. CREDIT FOR RETAIL SALE OF CLEAN BURNING FUELS AS MOTOR VEHICLE FUEL.
+In General.--Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to business related credits) is amended by inserting after section 40 the following: ``SEC.
+CREDIT FOR RETAIL SALE OF CLEAN BURNING FUELS AS MOTOR VEHICLE FUEL.
+General Rule.--For purposes of section 38, the clean burning fuel retail sales credit of any taxpayer for any taxable year is 50 cents for each gasoline gallon equivalent of clean burning fuel sold at retail by the taxpayer during such year as a fuel to propel any qualified motor vehicle.
+Definitions.--For purposes of this section-- ``(1) Clean burning fuel.--The term `clean burning fuel' means natural gas, compressed natural gas, liquefied natural gas, liquefied petroleum gas, hydrogen, and any liquid at least 85 percent of which consists of methanol.
+Gasoline gallon equivalent.--The term `gasoline gallon equivalent' means, with respect to any clean burning fuel, the amount (determined by the Secretary) of such fuel having a Btu content of 114,000.
+Qualified motor vehicle.--The term `qualified motor vehicle' means any motor vehicle (as defined in section 179A(e)) which meets any applicable Federal or State emissions standards with respect to each fuel by which such vehicle is designed to be propelled.
+Sold at retail.-- ``(A) In general.--The term `sold at retail' means the sale, for a purpose other than resale, after manufacture, production, or importation.
+Use treated as sale.--If any person uses clean burning fuel as a fuel to propel any qualified motor vehicle (including any use after importation) before such fuel is sold at retail, then such use shall be treated in the same manner as if such fuel were sold at retail as a fuel to propel such a vehicle by such person.
+No Double Benefit.--The amount of the credit determined under subsection (a) shall be reduced by the amount of any deduction or credit allowable under this chapter for fuel taken into account in computing the amount of such credit.
+Termination.--This section shall not apply to any fuel sold at retail after December 31, 2007.''.
+Credit Treated as Business Credit.--Section 38(b) of the Internal Revenue Code of 1986 (relating to current year business credit) is amended by striking ``plus'' at the end of paragraph (11), by striking the period at the end of paragraph (12) and inserting ``, plus'', and by adding at the end the following: ``(13) the clean burning fuel retail sales credit determined under section 40A(a).''.
+Transitional Rule.--Section 39(d) of the Internal Revenue Code of 1986 (relating to transitional rules) is amended by adding at the end the following: ``(9) No carryback of section 40a credit before effective date.--No portion of the unused business credit for any taxable year which is attributable to the clean burning fuel retail sales credit determined under section 40A(a) may be carried back to a taxable year ending before January 1, 1999.''.
+Clerical Amendment.--The table of sections for subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 40 the following: ``Sec.
+Credit for retail sale of clean burning fuels as motor vehicle fuel.''.
+Effective Date.--The amendments made by this section shall apply to fuel sold at retail after December 31, 1999, in taxable years ending after such date.
+TITLE II--PROGRAM EFFICIENCIES SEC.
+EXCEPTION TO HOV PASSENGER REQUIREMENTS FOR ALTERNATIVE FUEL VEHICLES.
+Section 102(a) of title 23, United States Code, is amended by inserting ``(unless, at the discretion of the State highway department, the vehicle operates on, or is fueled by, an alternative fuel (as defined in section 301 of Public Law 102-486 (42 United States Code 13211(2)))'' after ``required''.

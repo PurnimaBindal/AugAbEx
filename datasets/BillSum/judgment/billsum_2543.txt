@@ -1,0 +1,23 @@
+This Act may be cited as the ``Patient Safety Act of 2001''.
+PUBLIC DISCLOSURE OF STAFFING AND OUTCOMES DATA.
+Disclosure of Staffing and Outcomes.--Any provider under the medicare program shall, as a condition of continued participation in such program, make publicly available information regarding nurse staffing and patient outcomes as specified by the Secretary.
+Such information shall include at least the following: (1) The number of registered nurses providing direct care.
+This information shall be expressed both in raw numbers, in terms of total hours of nursing care per patient (including adjustment for case mix and acuity), and as a percentage of nursing staff, and shall be broken down in terms of the total nursing staff, each unit, and each shift.
+The number of licensed practical nurses or licensed vocational nurses providing direct care.
+This information shall be expressed both in raw numbers, in terms of total hours of nursing care per patient (including adjustment for case mix and acuity), and as a percentage of nursing staff, and shall be broken down in terms of the total nursing staff, each unit, and each shift.
+Numbers of unlicensed personnel utilized to provide direct patient care.
+This information shall be expressed both in raw numbers and as a percentage of nursing staff and shall be broken down in terms of the total nursing staff, each unit, and each shift.
+The average number of patients per registered nurse providing direct patient care.
+This information shall be broken down in terms of the total nursing staff, each unit, and each shift.
+Risk-adjusted patient mortality rate (in raw numbers and by diagnosis or diagnostic-related group).
+Incidence of adverse patient care incidents, including as such incidents at least medication errors, patient injury, pressure ulcers, nosocomial infections, and nosocomial urinary tract infections.
+Methods used for determining and adjusting staffing levels and patient care needs and the provider's compliance with these methods.
+Disclosure of Complaints.--Data regarding complaints filed with the State agency, the Health Care Financing Administration, or an accrediting agency, compliance with the standards of which have been deemed to demonstrate compliance with conditions of participation under the medicare program, and data regarding investigations and findings as a result of those complaints and the findings of scheduled inspection visits, shall be made publicly available.
+Information on Data.--All data made publicly available under this section shall indicate the source and currency of the data provided.
+Waiver for Small Providers.--The Secretary may waive or reduce reporting requirements under this section in the case of a small provider (as defined by the Secretary) for whom the imposition of the requirements would be unduly burdensome.
+Definitions.--For purposes of this section: (1) Licensed practical nurse or licensed vocational nurse.--The term ``licensed practical nurse or licensed vocational nurse'' means an individual who is entitled under State law or regulation to practice as a licensed practical nurse or a licensed vocational nurse.
+Made publicly available.--The term ``made publicly available'' means, with respect to information of a provider, information that is-- (A) provided to the Secretary and to any State agency responsible for licensing or accrediting the provider; (B) provided to any State agency which approves or oversees health care services delivered by the provider directly or through an insuring entity or corporation; and (C) provided to any member of the public which requests such information directly from the provider.
+Medicare program.--The term ``medicare program'' means the programs under title XVIII of the Social Security Act.
+Provider.--The term ``provider'' means an entity that is-- (A) a psychiatric hospital described in section 1861(f) of the Social Security Act (42 United States Code 1395x(f)); (B) a provider of services described in section 1861(u) of such Act (42 United States Code 1395x(u)); (C) a rural health clinic described in section 1861(aa)(2) of such Act (42 United States Code 1395x(aa)(2)); (D) an ambulatory surgical center described in section 1832(a)(2)(F)(i) of such Act (42 United States Code 1395k(a)(2)(F)(i)); or (E) a renal dialysis facility described in section 1881(b)(1)(A) of such Act (42 United States Code 1395rr(b)(1)(A)).
+Registered nurse.--The term ``registered nurse'' means an individual who is entitled under State law or regulation to practice as a registered nurse.
+Secretary.--The term ``Secretary'' means the Secretary of Health and Human Services.

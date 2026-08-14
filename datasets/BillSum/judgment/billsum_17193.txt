@@ -1,0 +1,43 @@
+Short Title.--This Act may be cited as the ``Taxing Speculators out of the Oil Market Act''.
+Findings.--Congress finds the following: (1) The price of oil has risen and fallen dramatically over the last decade without a clear connection to the laws of supply and demand.
+The price of a barrel of oil predictably stayed beneath $20 a barrel of oil for decades.
+In the beginning of 1999, the price was under $10 a barrel of oil, but since then the oil market has been plagued by speculation and fluctuated wildly.
+In late 2004, the price of oil exceeded $40 a barrel of oil, up 400 percent in 5 years.
+In late 2007, the price exceeded $80 a barrel of oil, up 800 percent in 8 years.
+In mid 2008, the price of oil peaked at $145 a barrel, up 1,450 percent in under ten years.
+The price of oil collapsed in 2008 to just over $30 a barrel of oil.
+By early 2011, the price of oil rebounded to almost $115 per barrel of oil.
+These large price swings coincide with drop in demand since 2005.
+In 2010, the United States consumed 2.1 million barrels of oil per day less than it did 6 years ago.
+Many economists have attributed this irrational behavior of the oil market to the large increase in speculative trading in oil derivatives.
+A transaction tax on speculative trading can deter short-term speculation which will reduce the volatility and price of oil.
+TAX ON TRANSACTIONS IN OIL FUTURES, OPTIONS, AND SWAPS.
+In General.--Chapter 36 of the Internal Revenue Code of 1986 is amended by inserting after subchapter B the following new subchapter: ``Subchapter C--Tax on Transactions in Oil Futures, Options, and Swaps ``Sec.
+Tax on transactions in oil futures, options, and swaps.
+TAX ON TRANSACTIONS IN OIL FUTURES, OPTIONS, AND SWAPS.
+Imposition of Tax.-- ``(1) Futures.--There is hereby imposed a tax on each covered transaction in an oil futures contract of 0.01 percent of the value of the futures instruments involved in such transaction.
+Options.--There is hereby imposed a tax on each covered transaction in an oil option of 0.01 percent of the premium paid on the option for a futures instruments involved in such transaction.
+Swaps.--There is hereby imposed a tax on each covered transaction in an oil swap of 0.01 percent of the value of the underlying assets involved in such transaction for each year until the swap contact maturity.
+By Whom Paid.-- ``(1) In general.--The tax imposed by this section shall be paid by-- ``(A) the trading facility on which the transaction occurs, or ``(B) if such transaction does not occur on a trading facility, by the buyer of the transaction.
+Withholding if buyer not united states person.--See section 1447 for withholding by seller if buyer is a foreign person.
+Exception for Commercial Traders.--The tax imposed by this section shall not apply to any transaction if-- ``(1) either party to the transaction is-- ``(A) classified by the Commodity Futures Trading Commission as a commercial trader with respect to oil, or ``(B) a financial institution acting on behalf of such a party (but only if the financial institution does not at any time acquire ownership of the security), and ``(2) the transaction is a bona fide hedging transaction (within the meaning of section 4a(c) of the Commodity Exchange Act).
+Definitions.--For purposes of this section-- ``(1) Covered transaction.--The term `covered transaction' means any purchase or sale of an oil futures contract, an oil option or oil swap contract if-- ``(A) such purchase or sale on a trading facility is located in the United States, or ``(B) the purchaser or seller is a United States person.
+Oil futures contract.--The term `oil futures contract' means any contract of sale of oil for future delivery (within the meaning of the Commodity Exchange Act).
+Oil option.--The term `oil option' means any option on an oil futures transaction.
+Oil swap contract.--The term `oil swap contract' means any contract of sale of oil involving a swap.
+Trading facility.--The term `trading facility' has the meaning given to such term by the Commodity Exchange Act.
+Administration.--The Secretary shall carry out this section in consultation with the Commodity Futures Trading Commission.''.
+Withholding.--Subchapter A of chapter 3 of such Code is amended by adding at the end the following new section: ``SEC.
+WITHHOLDING OF TAX ON TRANSACTIONS IN OIL FUTURES, OPTIONS, AND SWAPS.
+``In the case of any acquisition of an oil futures contract, an oil option, or an oil swap contract (as such terms are defined in section 4475) by a foreign person, the transferor shall be required to deduct and withhold a tax equal to the tax which would be imposed on such acquisition under section 4475 if the transferee were a United States person.''.
+Clerical Amendments.-- (1) The table of subchapters for chapter 36 of such Code is amended by inserting after the item relating to subchapter B the following new item: ``subchapter c. tax on transactions in oil futures, options, and swaps.''.
+The table of sections for subchapter A of chapter 3 of such Code is amended by adding at the end the following new section: ``Sec.
+Withholding of tax on transactions in oil futures, options, and swaps.''.
+Effective Date.--The amendments made by this section shall apply to transactions occurring on or after 90 days after the date of the enactment of this Act.
+AVAILABILITY TO THE COMMODITY FUTURES TRADING COMMISSION OF REVENUE FROM TAXES ON TRANSACTIONS IN OIL FUTURES, OPTIONS, AND SWAPS.
+The Commodity Exchange Act (7 United States Code 1 et sequentes) is amended by inserting after section 10 the following: ``SEC.
+AVAILABILITY TO THE COMMISSION OF REVENUE FROM TAXES ON TRANSACTIONS IN OIL FUTURES, OPTIONS, AND SWAPS.
+Tax Revenue Deposited as Offsetting Collections to CFTC Appropriations Account.--All taxes collected pursuant to sections 4475 and 1447 of the Internal Revenue Code of 1986 for any fiscal year shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission.
+Use of Unexpended Funds for Public Debt Reduction.--Any amount credited under paragraph (1) that remains unexpended as of the end of any fiscal year shall be transferred to the Treasury and used to reduce the public debt of the United States.''.
+DUTIES OF COMMODITY FUTURES TRADING COMMISSION.
+The Commodity Futures Trading Commission (referred to in this section as the ``Commission'') shall use the authority of the Commission, including the emergency authority of the Commission-- (1) to subject each bank holding company (as defined in section 2(a) of the Bank Holding Company Act of 1956) that engages in trading subject to section 4475 of the Internal Revenue Code of 1986, and each hedge fund (as defined in section 13(h)(2) of the Bank Holding Company Act of 1956) that buys or sells a contract of sale of oil for future delivery (within the meaning of the Commodity Exchange Act) for its own account or on behalf of a third party, to the rules applicable to noncommercial participants in the markets for the contracts; and (2) to revoke immediately each staff no-action letter that covers a foreign board of trade that-- (A) has established a trading terminal in the United States for the purpose of selling the contracts to, or buying the contracts from, United States investors; and (B) engages in trading subject to such section 4475.

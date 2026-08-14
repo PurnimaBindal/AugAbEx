@@ -1,0 +1,50 @@
+``The State Administrator shall establish a Problem Resolution Office.
+Problem Resolution Officers shall have the authority to investigate taxpayer complaints and enjoin collection activity if, in the opinion of the Problem Resolution Officer, said collection activity is reasonably likely to not be in compliance with law.
+Said administrative injunction may only be reversed by the highest official in the relevant State or Federal taxing authority or by its General Counsel upon a finding that the collection activity is justified by clear and convincing evidence.
+The authority to reverse this administrative injunction may not be delegated.
+Problem Resolution Officers shall not be disciplined or adversely affected for the issuance of administrative injunctions unless a pattern or issuing injunctions that are manifestly unreasonable is proven in an administrative hearing.
+Nothing in this section shall limit the authority of the State Administrators or the taxpayer to pursue any legal remedy in any court with jurisdiction over the dispute at issue.
+JURISDICTION AND INTERSTATE ALLOCATION.
+Allocation Rules.--For purposes of allocating revenue between or among administering states from taxes imposed by this subtitle, the revenue shall be allocated to those states that are the destination of the taxable property or services.
+The destination of the purchase of taxable property and services shall be determined in accordance with this section.
+Federal Office of Revenue Allocation.--The Secretary shall establish an Office of Revenue Allocation to arbitrate any claims or disputes among administering states as to the destination of taxable property and services for purposes of allocating revenue between or among the states from taxes imposed by this subtitle.
+The determination of the Administrator of the Office of Revenue Allocation shall be subject to judicial review in any federal court with competent jurisdiction provided, however, that the standard of review shall be abuse of discretion.
+Tangible Personal Property.--The destination of tangible personal property shall be the state or territory in which the property was first delivered to the purchaser.
+Tangible personal property shipped by means of the mail or common carrier shall be deemed delivered to the location of the purchaser for purposes of this subsection upon shipment by mail or common carrier.
+Real Property.--The destination of real property or rents or leaseholds on real property shall be state or territory in which the real property is located.
+Other Property.--The destination of other property shall be residence of the purchaser.
+Services.-- ``(1) General rule.--The destination of services shall be state or territory in which the use, consumption or enjoyment of the services occurred.
+Allocation of service invoices relating to more than one jurisdiction shall be on the basis of time.
+Telecommunications services.--The destination of telecommunications services shall be the residence of the purchaser.
+Telecommunications services shall include telephone, telegraph, cable television, satellite and computer on-line or network services.
+Domestic transportation services.--For transportation services where all of the final destinations are within the United States, the destination of transportation services shall be the final destination of the trip (in the case of round or multiple trip fares, the services amount shall be equally allocated among the final destinations).
+International transportation services.--For transportation services where the final destination or origin of the trip is without the United States, the service amount shall be deemed 50 percent attributable to the United States destination and origin.
+Financial Intermediation Services.--The destination of financial intermediation services shall be the residence of the purchase.
+A State Tax Administrator shall have jurisdiction over any gross payments made which have a destination (as determined in accordance with this section) within the state of said State Tax Administrator.
+This grant of jurisdiction is not exclusive of other jurisdiction that said State Tax Administrator may have.
+Rents and Royalties Paid for the Lease of Tangible Property.-- ``(1) General rule.--The destination of rents and royalties paid for the lease of tangible property shall be where the property is located.
+Vehicles.--The destination of rent and lease payments on vehicles shall be-- ``(A) in the case of rentals and leases of a term one month or less, the location where the vehicle was originally delivered to the lessee; and ``(B) in the case of rentals and leases of a term greater than one month, the residence of the lessee.
+Royalties for the License of Intangible Property.--The destination of royalties for the license of intangible is where the property is used.
+TAX TO BE STATED AND CHARGED SEPARATELY.
+In General.--For each purchase of taxable property or services for which a tax is imposed pursuant to section 1, the sales tax shall be charged separately from the purchase price by the vendor or seller.
+For purchase of taxable property or services for which a tax is imposed pursuant to section 1, the vendor shall provide to the purchaser a receipt that sets forth at least the following information-- ``(1) the property or services price exclusive of tax; ``(2) the amount of tax paid; ``(3) the property or service price inclusive of tax; ``(4) the tax rate (the amount of tax paid (per subparagraph 2) divided by the property or service price inclusive of tax (per subparagraph 3)); ``(5) the date that the good or service was sold; ``(6) the name of the vendor; and ``(7) the vendor registration number.
+Vending Machine Exception.--The requirements of subsection (a) shall be inapplicable in the case of sales by vending machines.
+Vending machines for purposes of this subsection shall mean machines-- ``(1) that dispense taxable property in exchange for coins, one, five, ten or twenty dollar bills, and ``(2) that sell no single item exceeding ten dollars per unit in price.''
+PHASE-OUT OF THE INTERNAL REVENUE SERVICE.
+Appropriations for any expenses of the Internal Revenue Service including processing income tax returns for years prior to the repeal of the income tax, revenue accounting, management, transfer of payroll tax data to the Social Security Administration and otherwise for years after fiscal year 2000 are not authorized.
+The Secretary shall establish an Excise Tax Bureau to collect excise taxes formerly collected and administered by the Internal Revenue Service that are not repealed by this Act.
+SOCIAL SECURITY ADMINISTRATION TO COLLECT PAYROLL TAXES.
+Commencing January 1, 1998, the Social Security Administration shall collect and administer the taxes imposed pursuant to chapter 2 of subtitle A (relating to self employment income taxes) and subtitle C (relating to employment taxes) of the Internal Revenue Code of 1986.
+Cross References.-- For revised rules relating to the self- employment tax, see section 57.
+For rules relating to revised withholding tax schedules and family consumption refund, see section 15.
+For rules relating to trust fund accounting and payroll tax revenues, see section 6(b) of this act.
+Subsection 1402(a) of the Internal Revenue Code of 1986 is amended to read as follows: ``(a) In General.--`Self employment income' shall mean gross payments received in a calendar year from the sale of taxable property or services (without regard to exemption) less the sum in a calendar year of-- ``(1) purchases of taxable property or services (without regard to exemption) in furtherance of a business purpose, ``(2) any wages paid (whether to the self-employed person or others) in furtherance of a business purpose, ``(3) unused transition amounts, and ``(4) undeducted negative self employment income amounts from prior periods.
+Transition Amounts.-- ``(1) General rule.--The transition amount for the ten calendar years commencing in 1998 shall be the unrecovered basis amount as of the end of December 31, 1997 divided by ten.
+Unrecovered basis amount.--The unrecovered basis amount shall be remaining income tax basis relating to-- ``(A) prior law section 167 property placed in service prior to January 1, 1998, and ``(B) inventory held as of the end of 1997 (including any amounts capitalized in accordance with prior law section 263A).''
+Conforming Amendments.--Subsection 1402(b) and 1402(c) are hereby repealed.
+Subsections 1402(d) et sequentes are hereby renumbered as subsections 1402(b) et sequentes SEC.
+Section 6621 of the Internal Revenue Code of 1986 is amended by striking the last sentence in section 6621(a)(1) and by striking ``3'' in section 6621(a)(2)(B) and substituting in its stead ``2''.
+SUPERMAJORITY REQUIRED TO RAISE RATE.
+In General.--It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment thereto, or conference report thereon that includes any provision that-- (1) increases any federal sales tax rate, (2) provides any exemption, deduction, credit or other benefit which results in a reduction in federal revenues.
+Waiver or Suspension.--This section may be waived or suspended in the House of Representatives or the Senate only by the affirmative vote of two-thirds of the Members, duly chosen and sworn.
+HR 3039 IH----2 HR 3039 IH----3 HR 3039 IH----4

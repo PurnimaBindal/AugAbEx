@@ -1,0 +1,34 @@
+Short Title.--This Act may be cited as the ``Tax Revision Act of 2005''.
+Amendment of 1986 Code.--Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+Table of Contents.--The table of contents for this Act is as follows: Sec.
+Election to include combat pay as earned income for purposes of earned income credit.
+Cover over of tax on distilled spirits.
+Authority for undercover operations.
+Disclosures of certain tax return information.
+Deduction allowable with respect to income attributable to domestic production activities in Puerto Rico.
+Technical corrections to regional value-content methods for rules of origin under Public Law 109-53.
+ELECTION TO INCLUDE COMBAT PAY AS EARNED INCOME FOR PURPOSES OF EARNED INCOME CREDIT.
+In General.--Subclause (II) of section 32(c)(2)(B)(vi) is amended by striking ``January 1, 2006'' and inserting ``January 1, 2007''.
+Effective Date.--The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2005.
+COVER OVER OF TAX ON DISTILLED SPIRITS.
+In General.--Paragraph (1) of section 7652(f) (relating to limitation on cover over of tax on distilled spirits) is amended by striking ``January 1, 2006'' and inserting ``January 1, 2007''.
+Effective Date.--The amendment made by subsection (a) shall apply to articles brought into the United States after December 31, 2005.
+AUTHORITY FOR UNDERCOVER OPERATIONS.
+Paragraph (6) of section 7608(c) (relating to application of section) is amended by striking ``January 1, 2006'' both places is appears and inserting ``January 1, 2007''.
+DISCLOSURES OF CERTAIN TAX RETURN INFORMATION.
+Disclosures to Facilitate Combined Employment Tax Reporting.-- (1) In general.--Subparagraph (B) of section 6103(d)(5) (relating to termination) is amended by striking ``December 31, 2005'' and inserting ``December 31, 2006''.
+Effective date.--The amendment made by paragraph (1) shall apply to disclosures after December 31, 2005.
+Disclosures Relating to Terrorist Activities.-- (1) In general.--Clause (iv) of section 6103(i)(3)(C) and subparagraph (E) of section 6103(i)(7) are each amended by striking ``December 31, 2005'' and inserting ``December 31, 2006''.
+Effective date.--The amendments made by paragraph (1) shall apply to disclosures after December 31, 2005.
+Disclosures Relating to Student Loans.-- (1) In general.--Subparagraph (D) of section 6103(l)(13) (relating to termination) is amended by striking ``December 31, 2005'' and inserting ``December 31, 2006''.
+Effective date.--The amendment made by paragraph (1) shall apply to requests made after December 31, 2005.
+DEDUCTION ALLOWABLE WITH RESPECT TO INCOME ATTRIBUTABLE TO DOMESTIC PRODUCTION ACTIVITIES IN PUERTO RICO.
+In General.--Subsection (d) of section 199 (relating to definitions and special rules) is amended by redesignating paragraph (7) as paragraph (8) and by inserting after paragraph (6) the following new paragraph: ``(7) Treatment of activities in puerto rico.-- ``(A) In general.--In the case of any taxpayer with gross receipts for any taxable year from sources within the Commonwealth of Puerto Rico, if all of such receipts are taxable under section 1 or 11 for such taxable year, then for purposes of determining the domestic production gross receipts of such taxpayer for such taxable year under subsection (c)(4), the term `United States' shall include the Commonwealth of Puerto Rico.
+Termination.--Subparagraph (A) shall not apply to any taxable year beginning after December 31, 2006.''.
+Effective Date.--The amendments made by subsection (a) shall apply to taxable years beginning after December 31, 2005.
+TECHNICAL CORRECTIONS TO REGIONAL VALUE-CONTENT METHODS FOR RULES OF ORIGIN UNDER PUBLIC LAW 109-53.
+Section 203(c) of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act (Public Law 109-53; 19 United States Code 4033(c)) is amended as follows: (1) In paragraph (2)(A), by striking all that follows ``the following build-down method:'' and inserting the following: av-vnm ``rvc = -------- &lt;greek-e&gt; 100''.
+av (2) In paragraph (3)(A), by striking all that follows ``the following build-up method:'' and inserting the following: vom ``rvc = -------- &lt;greek-e&gt; 100''.
+av (3) In paragraph (4)(A), by striking all that follows ``the following net cost method:'' and inserting the following: nc-vnm ``rvc = -------- &lt;greek-e&gt; 100''.
+nc Passed the House of Representatives December 7, 2005.
+Attest: KAREN L. HAAS, Clerk.

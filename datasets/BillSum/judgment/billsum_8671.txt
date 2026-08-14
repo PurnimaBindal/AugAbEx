@@ -1,0 +1,54 @@
+Short Title.--This Act may be cited as the ``Economic Insurance Tax Cut of 2001''.
+Amendment of 1986 Code.--Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+Section 15 Not To Apply.--No amendment made by this Act shall be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986.
+10-PERCENT INCOME TAX RATE BRACKET FOR INDIVIDUALS.
+Rates for 2001.--Section 1 (relating to tax imposed) is amended by striking subsections (a) through (d) and inserting the following: ``(a) Married Individuals Filing Joint Returns and Surviving Spouses.--There is hereby imposed on the taxable income of-- ``(1) every married individual (as defined in section 7703) who makes a single return jointly with his spouse under section 6013, and ``(2) every surviving spouse (as defined in section 2(a)), a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $19,000............... 10% of taxable income.
+Over $19,000 but not over $45,200.
+$1,900, plus 15% of the excess over $19,000.
+Over $45,200 but not over $109,250.
+$5,830, plus 28% of the excess over $45,200.
+Over $109,250 but not over $166,500.
+$23,764, plus 31% of the excess over $109,250.
+Over $166,500 but not over $297,350.
+$41,511.50, plus 36% of the excess over $166,500.
+Over $297,350.................. $88,617.50, plus 39.6% of the excess over $297,350.
+Heads of Households.--There is hereby imposed on the taxable income of every head of a household (as defined in section 2(b)) a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $14,250............... 10% of taxable income.
+Over $14,250 but not over $36,250.
+$1,425, plus 15% of the excess over $14,250.
+Over $36,250 but not over $93,650.
+$4,725, plus 28% of the excess over $36,250.
+Over $93,650 but not over $151,650.
+$20,797, plus 31% of the excess over $93,650.
+Over $151,650 but not over $297,350.
+$38,777, plus 36% of the excess over $151,650.
+Over $297,350.................. $91,229, plus 39.6% of the excess over $297,350.
+Unmarried Individuals (Other Than Surviving Spouses and Heads of Households).--There is hereby imposed on the taxable income of every individual (other than a surviving spouse as defined in section 2(a) or the head of a household as defined in section 2(b)) who is not a married individual (as defined in section 7703) a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $9,500................ 10% of taxable income.
+Over $9,500 but not over $27,050.
+$950, plus 15% of the excess over $9,500.
+Over $27,050 but not over $65,550.
+$3,582.50, plus 28% of the excess over $27,050.
+Over $65,550 but not over $136,750.
+$14,362.50, plus 31% of the excess over $65,550.
+Over $136,750 but not over $297,350.
+$36,434.50, plus 36% of the excess over $136,750.
+Over $297,350.................. $94,250.50, plus 39.6% of the excess over $297,350.
+Married Individuals Filing Separate Returns.--There is hereby imposed on the taxable income of every married individual (as defined in section 7703) who does not make a single return jointly with his spouse under section 6013, a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $9,500................ 10% of taxable income.
+Over $9,500 but not over $22,600.
+$950, plus 15% of the excess over $9,500.
+Over $22,600 but not over $54,625.
+$2,915, plus 28% of the excess over $22,600.
+Over $54,625 but not over $83,250.
+$11,882, plus 31% of the excess over $54,625.
+Over $83,250 but not over $148,675.
+$20,755.75, plus 36% of the excess over $83,250.
+Over $148,675.................. $44,308.75, plus 39.6% of the excess over $148,675.''.
+Inflation Adjustment To Apply in Determining Rates for 2002.-- Subsection (f) of section 1 is amended-- (1) by striking ``1993'' in paragraph (1) and inserting ``2001'', (2) by striking ``1992'' in paragraph (3)(B) and inserting ``2000'', and (3) by striking paragraph (7).
+Conforming Amendments.-- (1) The following provisions are each amended by striking ``1992'' and inserting ``2000'' each place it appears: (A) Section 25A(h).
+Subclause (II) of section 42(h)(6)(G)(i) is amended by striking ``1987'' and inserting ``2000''.
+Additional Conforming Amendments.-- (1) Section 1(g)(7)(B)(ii)(II) is amended by striking ``15 percent'' and inserting ``10 percent''.
+Section 1(h) is amended by striking paragraph (13).
+Section 3402(p)(1)(B) is amended by striking ``7, 15, 28, or 31 percent'' and inserting ``5, 10, 15, 28, or 31 percent''.
+Section 3402(p)(2) is amended by striking ``15 percent'' and inserting ``10 percent''.
+Determination of Withholding Tables.--Section 3402(a) (relating to requirement of withholding) is amended by adding at the following new paragraph: ``(3) Changes made by section 2 of the economic insurance tax cut of 2001.--Notwithstanding the provisions of this subsection, the Secretary shall modify the tables and procedures under paragraph (1) through the reduction of the amount of withholding required with respect to taxable years beginning in calendar year 2001 to reflect the effective date of the amendments made by section 2 of the Economic Insurance Tax Cut of 2001, and such modification shall take effect on the first day of the first month beginning after the date of the enactment of such Act.''
+Effective Dates.-- (1) In general.--Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2000.
+Amendments to withholding provisions.--The amendments made by paragraphs (3) and (4) of subsection (d) shall apply to amounts paid after December 31, 2000.

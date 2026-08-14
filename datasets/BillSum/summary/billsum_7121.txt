@@ -1,0 +1,2 @@
+Provides for the establishment of the Rails to Resources Fund to pay for the costs of commission activities.
+Authorizes appropriations.

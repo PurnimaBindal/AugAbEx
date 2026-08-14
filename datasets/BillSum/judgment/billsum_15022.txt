@@ -1,0 +1,85 @@
+SHORT TITLE; REFERENCES TO TITLE 38, UNITED STATES CODE.
+Short Title.--This Act may be cited as the ``Veterans' Adjudication and Appeals Improvements Act of 1993''.
+References to Title 38, United States Code.--Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 38, United States Code.
+TITLE I--ADJUDICATION IMPROVEMENTS SEC.
+ELIMINATION OF REQUIREMENT FOR ANNUAL INCOME QUESTIONNAIRES.
+Section 1506 is amended-- (1) in paragraph (2), by striking out ``shall'' and inserting in lieu thereof ``may''; and (2) in paragraph (3), by striking out ``file a revised report'' and inserting in lieu thereof ``notify the Secretary''.
+TIME PERIOD FOR RESPONDING TO NOTICE OF INCOMPLETE APPLICATION.
+Section 5103(a) is amended by striking out ``one year'' and inserting in lieu thereof ``120 days''.
+RESTATEMENT OF BURDEN OF PROOF, DUTY TO ASSIST, AND BENEFIT OF DOUBT.
+The text of section 5107 is amended to read as follows: ``(a) Except as otherwise provided in this title, a person who submits a claim for benefits under a law administered by the Secretary shall bear the burden of establishing such claim by submitting evidence sufficient to justify a belief by a fair and impartial individual that the claim is well grounded.
+A claim shall be considered to be well grounded if the evidence presented is sufficient to evoke a reasonable probability that the claim is valid.
+Mere allegations, unsupported by evidence, shall not form the basis for a conclusion that the claim is well grounded.
+The Secretary shall provide reasonable assistance to a claimant in developing the facts pertinent to the claim.
+Except in the case of evidence or information within the control of the Department or other Federal department or agency, the duty to provide such assistance shall be considered to be met upon a showing of a good faith effort by the Secretary to obtain such evidence.
+Nothing in this subsection shall be construed as shifting from the claimant to the Secretary the burden specified in subsection (a).
+When, after consideration of all evidence and material of record in a case before the Department with respect to benefits under law administered by the Secretary, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of doubt in resolving each such issue shall be given to the claimant.''.
+CLARIFICATION OF REVIEW ON REOPENED CLAIMS.
+Section 5108 is amended by adding at the end the following: ``Such review shall be limited to the issue to which the new and material evidence is related.''.
+LIMIT ON RETROACTIVE AWARDS.
+Section 5110 is amended by adding at the end the following: ``(o) The effective date of an award or an increased award based on a finding of clear and unmistakable error in fact or law in a prior decision shall be in accordance with the facts found, but shall not be retroactive for more than ten years before receipt of the allegation of error.''.
+PLAN FOR REORGANIZATION OF ADJUDICATION DIVISIONS IN REGIONAL OFFICES.
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a plan to provide for the reorganization of adjudication divisions located within the regional offices of the Veterans Benefits Administration to a number of such divisions that would result in greater efficiency in the processing of claims filed by veterans, their survivors, or other eligible persons for benefits administered by the Secretary.
+TRANSFER OF MILITARY MEDICAL RECORDS FROM DEPARTMENT OF DEFENSE.
+The Secretary of Veterans Affairs shall, not later than 90 days after the date of the enactment of this Act, seek to enter into an agreement with the Secretary of Defense to implement a plan to provide for the immediate transfer to the Department of Veterans Affairs, upon the separation of a member of the Armed Forces from active duty, of the service medical records of that member.
+TITLE II--BOARD OF VETERANS' APPEALS IMPROVEMENTS- SEC.
+COMPOSITION OF BOARD OF VETERANS' APPEALS.
+Repeal of Limitation on Size of Board.--Section 7101(a) is amended by striking out ``(not more than 65)''.
+Ethical and Legal Limitations on Chairman.--Section 7101(b)(1) is amended by inserting after the first sentence the following: ``The Chairman shall be subject to the same ethical and legal limitations and restrictions concerning involvement in partisan political activities as apply to judges of the United States Court of Veterans Appeals.''.
+Temporary Members of the Board.--Section 7101(c)(1) is amended to read as follows: ``(1) The number of temporary members of the Board may not exceed 10 percent of the total number of Board members at any time.''.
+Repeal of Report Requirement.--Paragraph (3) of section 7101(c) is repealed.
+ASSIGNMENT OF MATTERS BEFORE THE BOARD.
+Section 7102 is redesignated as section 7103 and is amended to read as follows: ``Sec.
+Assignment of matters before the Board ``(a) Subject to subsection (b), the Chairman may determine any matter before the Board, rule on any motion in connection therewith, or may assign any such matter or motion to any other Board member or a panel of members for determination.
+Any such assignment by the Chairman shall not be reviewed by any other official or by any court, whether by an action in the nature of mandamus or otherwise.
+The authority granted under subsection (a) shall expire on September 30, 1995.''.
+DETERMINATIONS BY THE BOARD.
+Section 7103 is redesignated as section 7104 and the text thereof is amended to read as follows: ``(a) When the Chairman retains a matter or submits it to another Board member or panel of members for determination in accordance with section 7102 of this title, or to a panel of Board members in accordance with subsection (e), the Board member or members shall do the following: ``(1) Issue an order dismissing any appeal, in whole or in part, which fails to allege specific error of fact or law in the determination being appealed or in which the determination being appealed has become moot.
+Each order of dismissal shall include a written statement of the Board's findings and conclusions, and the reasons and bases for those findings and conclusions, in support of the dismissal.
+Issue an order remanding the case, in whole or in part, to the agency of original jurisdiction for such additional development as the member or panel of members may consider necessary for proper disposition of the case.
+Render a written decision with respect to any issues not dismissed or remanded, which shall constitute the Board's final disposition of the issues so decided.
+Such decision shall be based on the entire record in the proceeding, upon consideration of all evidence and material of record, and upon applicable provisions of law and regulation.
+Each decision of a Board member or of a panel of members shall include-- ``(1) a written statement of the Board's findings and conclusions, and the reasons and bases for those findings and conclusions, on all material issues of fact and law presented on the record; and ``(2) an order granting appropriate relief or denying relief.
+(1) Decisions by a panel of Board members under this section shall be based on a majority vote of the members of the panel.
+The decision of a Board member or of a panel of members is final unless the Chairman grants an administrative allowance as authorized under subsection (d) or orders reconsideration of the case pursuant to subsection (e).
+Except in the case of a claim which has been the subject of reconsideration pursuant to subsection (e), if a Board member other than the Chairman is of the opinion that an otherwise final denial of a claim should be revised or amended to allow the claim in whole or in part based on a difference of opinion as to how the evidence should be evaluated rather than on any error in the prior decision, the Board member may recommend allowance of the claim to the Chairman.
+If the Chairman agrees with the Board member, the Chairman shall approve the award of any benefit or increase therein, on the basis of such difference of opinion.
+(1) A claimant may seek reconsideration of a final decision of the Board by filing a motion for reconsideration with the Board within 120 days after the date on which notice of the Board's decision is mailed pursuant to section 7104(e) of this title.
+The Chairman or Vice Chairman shall review each motion for reconsideration and may order such reconsideration upon a showing of good cause.
+The decision of the Chairman or Vice Chairman to order reconsideration or to deny such reconsideration shall not be reviewed by any other official or by any court by an action in the nature of mandamus or otherwise.
+If a motion for reconsideration is granted, there shall be no further review by the Board of the matter except as provided in this subsection.
+If the Chairman or Vice Chairman orders reconsideration of an appeal, the matter shall be referred to a panel of not less than three Board members, not including the Board member who rendered the initial decision, which shall render its decision after reviewing the entire record before the Board.
+The standard of review upon reconsideration shall be whether the decision under consideration involved an obvious error in fact or law affecting the result.
+After reaching a determination under any of the provisions of this section, the Board shall promptly mail a copy of its written decision to the claimant and the claimant's authorized representative (if any) at the last known address of the claimant and the last known address of such representative (if any).
+The Board shall be bound in its decisions by regulations of the Department, and precedent opinions of the chief legal officer of the Department.
+A claim disallowed by the Board may not thereafter be reopened except as provided in section 5108 of this title.''.
+JURISDICTION OF THE BOARD.
+Section 7104 is transferred so as to appear after section 7101, redesignated as section 7102, and amended to read as follows: ``Sec.
+Jurisdiction of the Board ``All questions in a matter which under section 511(a) of this title is subject to decision by the Secretary shall be subject to one review on appeal to the Secretary.
+Final decisions on such appeals shall be made by the Board.''.
+FILING OF NOTICE OF DISAGREEMENT AND APPEAL.
+Period for Filing Notice of Disagreement.--Section 7105(b)(1) is amended-- (1) by striking out ``one year'' in the first sentence and inserting in lieu thereof ``120 days''; and (2) by striking out ``one-year'' in the second sentence and inserting in lieu thereof ``120-day''.
+Finality of Action or Determination.--Section 7105(d)(3) is amended by adding after the third sentence the following: ``If no formal appeal is received within this time period, the action or determination shall become final and the claim may not thereafter be reopened or allowed, except as may otherwise be provided by regulations not inconsistent with this title.''.
+Repeal of Grounds for Dismissal.--Section 7105(d) is amended by striking out paragraph (5).
+PERIOD FOR ADMINISTRATIVE APPEAL.
+Section 7106 is amended by striking out ``one-year'' and inserting in lieu thereof ``120-day''.
+Section 7110 is amended to read as follows: ``Sec.
+Hearings ``(a) The Board shall decide an appeal only after affording a claimant an opportunity for a hearing.
+A hearing docket shall be maintained and formal recorded hearings shall be held by such member or members of the Board as the Chairman may designate.
+Such Board member or members conducting such hearing shall participate in the final determination in the claim.
+A claimant may request a personal hearing before the Board at either its principal location or at a regional office of the Department.
+Any hearing held at a regional office of the Department shall be scheduled for hearing in the order in which the requests for hearings in that area are received by the Department.
+Other than a hearing authorized under subsection (d), the Chairman may not authorize more than 1,000 hearings by Board members at regional offices in any fiscal year.
+At the request of the Chairman, the Secretary may provide suitable facilities and equipment to the Board or other components of the Department to enable a claimant located at a regional office to participate, through picture or voice transmission (or both) by electronic or other means, in a hearing with a Board member or members sitting at the Board's principal location.
+When such facilities and equipment are available, the Chairman may afford a claimant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a personal appearance before the Board member or members.
+Any such hearing shall be conducted in the same manner as, and be considered the equivalent of, a personal hearing.''.
+The table of sections at the beginning of chapter 71 is amended-- (1) by striking out the items relating to sections 7102, 7103, and 7104 and inserting in lieu thereof the following: ``7102.
+Jurisdiction of the Board.
+Assignment of matters before the Board.
+Filing of notice of disagreement and appeal.
+''; and (2) by striking out the item relating to section 7110 and inserting in lieu thereof the following: ``7110.
+The amendments made by this title shall take effect 60 days after the date of the enactment of this Act.
+TITLE III--COURT OF VETERANS APPEALS IMPROVEMENTS SEC.
+Section 7252(b) is amended by inserting ``entire'' after ``shall be on the''.
+Section 7261(c) is amended by striking out the period at the end and inserting in lieu thereof the following: ``, nor shall the Court consider an issue not presented on appeal to the Board of Veterans' Appeals.''.
+The amendments made by this title shall apply with respect to cases for which an appeal is filed with the United States Court of Veterans Appeals after the end of the 60-day period beginning on the date of the enactment of this Act.

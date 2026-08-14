@@ -1,0 +1,5 @@
+Amends the Internal Revenue Code to permit an income tax deduction in the amount of dividends paid by domestic corporations, except S corporations, regulated investment companies, real estate investment trusts, and personal holding companies.
+Repeals the income tax deductions currently permitted in connection with: dividends received by a corporation; dividends received by a corporation on the preferred stock of a public utility; and dividends paid by a public utility on its preferred stock.
+Revises the deductible percentage of amounts received by a corporation from a qualified ten-percent owned foreign corporation.
+Revises the maximum capital gains rate to limit such tax to the sum of: a tax computed at the rates and in the same manner as if capital gains provisions had not been enacted on taxable income reduced by the qualified net capital gain; and a tax equal to the sum of specified percentages of net gains based on number of years (with a maximum percentage of 23 percent of three-to-six year net gains and lower percentages of gains of more than six years).
+Restores the investment tax credit for manufacturing equipment.

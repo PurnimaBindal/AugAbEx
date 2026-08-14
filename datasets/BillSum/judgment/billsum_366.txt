@@ -1,0 +1,26 @@
+This Act may be cited as the ``Public Safety and Protection Investment Act of 2005''.
+BUSINESS DEDUCTION FOR PURCHASE AND INSTALLATION OF SECURITY DEVICES.
+In General.--Part VI of subchapter B of chapter 1 of the Internal Revenue Code of 1986 (relating to itemized deductions for individuals and corporations) is amended by inserting after section 179B the following new section: ``SEC.
+Allowance of Deduction.--A taxpayer may elect to treat the cost of any qualifying security device as an expense which is not chargeable to capital account.
+Any cost so treated shall be allowed as a deduction for the taxable year in which such device is placed in service.
+Definitions.--For purposes of this section-- ``(1) Qualifying security device.--The term `qualifying security device' means a security device (to which section 168 applies) which is acquired by purchase (as defined in section 179(d)(2)) and which is installed or placed in service in a building which is owned or occupied by the taxpayer and which is located in the United States.
+Security device.--The term `security device' means any of the following: ``(A) An electronic access control device or system.
+Biometric identification or verification device or system.
+Closed-circuit television or other surveillance and security cameras and equipment.
+Locks for doors and windows, including tumbler, key, and numerical or other coded devices.
+Computers and software used to combat cyberterrorism.
+Electronic alarm systems to provide detection notification and off-premises transmission of an unauthorized entry, attack, or fire.
+An electronic device capable of tracking or verifying the presence of assets.
+High efficiency air filtering systems.
+Mechanical and non-mechanical vehicle arresting barricades.
+Signal repeating devices for emergency response personnel wireless communication systems.
+Components, wiring, system displays, terminals, auxiliary power supplies, computer systems, software, networking infrastructure and other equipment necessary or incidental to the operation of any item described in any of the preceding subparagraphs.
+Building.--The term `building' includes any structure or part of a structure used for commercial, retail, or business purposes.
+Special Rules.-- ``(1) Basis reduction.--For purposes of this subtitle, if a deduction is allowed under this section with respect to the purchase of a qualifying security device, the basis of such device shall be reduced by the amount of the deduction so allowed.
+Certain rules to apply.--Rules similar to the rules of section 179(b)(3), section 179(c), and paragraphs (3), (4), (8), and (10) of section 179(d), shall apply for purposes of this section.''.
+Conforming and Clerical Amendments.-- (1) Section 263(a)(1) of such Code is amended by striking ``or'' at the end of subparagraph (H), by striking the period at the end of subparagraph (I) and inserting ``, or'', and by inserting after subparagraph (I) the following new subparagraph: ``(J) expenditures for which a deduction is allowed under section 179C.''.
+Section 312(k)(3)(B) of such Code is amended by striking ``or 179B'' each place it appears in the heading and text and inserting ``179B, or 179C''.
+Section 1016(a) of such Code is amended by striking ``and'' at the end of paragraph (30), by striking the period at the end of paragraph (31) and inserting ``, and'', and by inserting after paragraph (31) the following new paragraph: ``(32) to the extent provided in section 179C(d)(1),''.
+Section 1245(a) of such Code is amended by inserting ``179C,'' after ``179B,'' both places it appears in paragraphs (2)(C) and (3)(C).
+The table of sections for part VI of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 179B the following new item: ``Sec.
+Effective Date.--The amendments made by this Act shall apply to taxable years ending after the date of the enactment of this Act.

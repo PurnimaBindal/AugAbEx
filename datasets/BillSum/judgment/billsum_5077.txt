@@ -1,0 +1,28 @@
+This Act may be cited as the ``Children and Incapacitated Dependents Care Annual Refund (CIDCARE) Act''.
+DEPENDENT CARE CREDIT TO BE REFUNDABLE; ADVANCE PAYMENTS OF CREDIT.
+Credit To Be Refundable.-- (1) In general.--Section 21 of the Internal Revenue Code of 1986 (relating to expenses for household and dependent care services necessary for gainful employment) is hereby moved to subpart C of part IV of subchapter A of chapter 1 of such Code (relating to refundable credits) and inserted after section 34.
+Technical amendments.-- (A) Section 35 of such Code is redesignated as section 36.
+Section 21 of such Code is redesignated as section 35.
+Paragraph (1) of section 35(a) of such Code (as redesignated by subparagraph (B)) is amended by striking ``this chapter'' and inserting ``this subtitle''.
+Subparagraph (C) of section 129(a)(2) of such Code is amended by striking ``section 21(e)'' and inserting ``section 35(e)''.
+Paragraph (2) of section 129(b) of such Code is amended by striking ``section 21(d)(2)'' and inserting ``section 35(d)(2)''.
+Paragraph (1) of section 129(e) of such Code is amended by striking ``section 21(b)(2)'' and inserting ``section 35(b)(2)''.
+Subsection (e) of section 213 of such Code is amended by striking ``section 21'' and inserting ``section 35''.
+Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting before the period ``or from section 35 of such Code''.
+The table of sections for subpart C of part IV of subchapter A of chapter 1 of such Code is amended by striking the item relating to section 35 and inserting the following: ``Sec.
+Expenses for household and dependent care services necessary for gainful employment.
+The table of sections for subpart A of such part IV is amended by striking the item relating to section 21.
+Higher-Income Taxpayers Ineligible for Credit.--Subsection (a) of section 35 of such Code, as redesignated by subsection (a), is amended by adding at the end the following new paragraph: ``(3) Phaseout of credit for higher-income taxpayers.--The amount of the credit which would (but for this paragraph) be allowed by this section shall be reduced (but not below zero) by an amount which bears the same ratio to such amount of credit as the excess of the taxpayer's adjusted gross income for the taxable year over $110,000 bears to $10,000.
+Any reduction determined under the preceding sentence which is not a multiple of $10 shall be rounded to the nearest multiple of $10.''
+Advance Payment of Credit.-- (1) In general.--Chapter 25 of such Code (relating to general provisions relating to employment taxes) is amended by inserting after section 3507 the following new section: ``SEC.
+ADVANCE PAYMENT OF DEPENDENT CARE CREDIT.
+General Rule.--Except as otherwise provided in this section, every employer making payment of wages to an employee with respect to whom a dependent care credit eligibility certificate is in effect shall, at the time of paying such wages, make an additional payment equal to such employee's dependent care credit advance amount.
+Dependent Care Credit Eligibility Certificate.--For purposes of this title, a dependent care credit eligibility certificate is a statement furnished by an employee to the employer which-- ``(1) certifies that the employee will be eligible to receive the credit provided by section 35 for the taxable year, ``(2) certifies that the employee does not have a dependent care credit eligibility certificate in effect for the calendar year with respect to the payment of wages by another employer, ``(3) states whether or not the employee's spouse has a dependent care credit eligibility certificate in effect, and ``(4) estimates the amount of dependent care credit of the employee for the calendar year.
+For purposes of this section, a certificate shall be treated as being in effect with respect to a spouse if such a certificate will be in effect on the first status determination date following the date on which the employee furnishes the statement in question.
+Dependent Care Credit Advance Amount.-- ``(1) In general.--For purposes of this title, the term `dependent care credit advance amount' means, with respect to any payroll period, the amount determined-- ``(A) on the basis of the employee's wages from the employer for such period, ``(B) on the basis of the employee's estimated amount of dependent care credit included in the dependent care credit eligibility certificate, and ``(C) in accordance with tables provided by the Secretary.
+Advance amount tables.--The tables referred to in paragraph (1)(C) shall be similar in form to the tables prescribed under section 3402 and, to the maximum extent feasible, shall be coordinated with such tables and the tables prescribed under section 3507(c).
+Other Rules.--For purposes of this section, rules similar to the rules of subsections (d) and (e) of section 3507 shall apply.
+Regulations.--The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.''.
+Clerical amendment.--The table of sections for chapter 25 of such Code is amended by inserting after the item relating to section 3507 the following new item: ``Sec.
+Advance payment of dependent care credit.''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 1994.

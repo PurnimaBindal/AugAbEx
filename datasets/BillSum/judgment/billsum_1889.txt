@@ -1,0 +1,38 @@
+Reference.--Whenever in this section an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 5, United States Code.
+Time Period for Decision.--Section 8118 is amended by adding at the end the following: ``(f) An initial decision by the Secretary of Labor shall be made within 90 days of the date the claim is filed by the employee.
+If an initial decision is not made within such 90 days, the claimant shall be authorized further payment of full and normal salary until at such time an initial decision is reached.
+An employer may not hold or delay the filing of the claim.
+An agency may not withhold the filing of a claim, deny forms to file a claim, or obstruct, threaten, or induce a claimant to forego filing a claim.
+An agent of an agency may not falsify, induce, or compel false testimony to deny or controvert a claim.''.
+Claimant's Physician.--Section 8123(a) is amended to read as follows: ``(a) An employee shall submit to an actual physical examination by a physician designated or approved by the Secretary of Labor, when so ordered by the administrative law judge.
+In cases of surgery, a second opinion examination shall be required before such surgery, except in life threatening circumstances or where additional disability will result if there is a delay.
+A medical report from a treating physician is predominant and sufficient for a case unless there are serious and legal reasons to suspect the medical evidence.
+Legal and medical examinations and reports, ordered by administrative law judges, will only be required where there are legal questions to be resolved with regard to the nature of the injury or with regard to whether the event that caused the injury was work-related or work-caused.
+The claimant shall have the right to have the claimant's own physician or a witness or representative present during the exam.
+The employee may have a physician designated and paid by the employee present to participate in the examination.
+If there is any disagreement between the physician for the Secretary and the claimant's physician, a list of 3 physicians of the appropriate Board Certified Specialty shall be tendered to the claimant who shall choose the physician to conduct the final examination with respect to the medical and legal issues in disagreement.
+The Secretary shall provide the claimant's physician with the same opportunity and information as is provided to the physician acting for the Secretary, including the statement of accepted facts and all medical information in the claimant's file.''.
+Physician Fees.--Section 8123(c) is amended to read as follows: ``(c) The Secretary shall fix the fees for physicians under this section such that the physicians representing the Secretary shall be limited to the same structure and amounts allowed to claimants' physicians.
+All medical bills shall be paid within 60 days of billing, except during the initial claims processing, and in that case they shall be paid within 60 days of acceptance of the claim.''.
+Hearing Date.--Section 8124(b)(1) is amended to read as follows: ``(b)(1) Administrative review of an initial decision of which the claimant is not satisfied may be appealed for an oral hearing before the administrative law judges of the Department of Labor.
+A request for an oral hearing must be made within 180 days of the date of the initial decision being appealed.
+A hearing must be held within 90 days of the date requested, or compensation denied or reduced shall be reinstated until such time as the hearing is given and a decision reached.
+Decisions regarding the issues brought on appeal shall be rendered within 30 days of the hearing or benefits will be reinstated if denied or reduced until a decision is reached.''.
+Claimant's Authority.--Section 8124(b)(2) is amended to read as follows: ``(2) In conducting the hearing, the Secretary shall follow the requirements of chapter 5.
+The claimant shall have the right to confront and cross examine all adverse witnesses and present such evidence as the claimant feels necessary for consideration of the claim.
+The claimant's employer shall not be present at the hearing but shall be provided an opportunity to comment on the transcript of the hearing.''.
+Representation; Representative Fees.--Section 8127 is amended by adding at the end the following: ``(c) Except as provided in subsection (d), claimant's attorney or representative shall be entitled to receive a fee of 15 percent of the benefits awarded to the claimant.
+If the claimant prevails in a decision of a Federal court under chapter 7, the claimant's attorney shall be paid by the Secretary, but not from the claimant's award for the work of such attorney if the position of the Secretary with respect to such claimant was found under section 2412(c) of title 28 to be not substantially justified.''.
+Review of Award.--Section 8128 is amended by striking subsections (a) and (b) and insert the following: ``Once a claim for compensation has been accepted, the Secretary may only end, decrease, or increase compensation by meeting a burden of proof standard that there was sufficient cause to perform a review.
+The claimant shall have the right to petition for review of adverse decisions at any time upon the submission of a new legal argument or new factual evidence not previously considered.
+Any denial of a petition for review or adverse decision arising out of a petition for review shall be reviewable under section 8124.
+Decisions on petitions for review shall be rendered no later than 90 days from the date received by the Secretary or his designee.''.
+Reemployment and Vocational Rehabilitation.--(1) Section 8104 is amended to read as follows: ``Sec.
+Reemployment and vocational rehabilitation ``(a) The Secretary of Labor shall provide vocational rehabilitation services to any permanently disabled claimant who requests or whose physician requests such services.
+The claimant shall choose the vocational service provider, and insofar as practicable use the State services already funded by the Secretary of Health and Human Services.
+If a private counselor is used, the claimant shall have sole right to pick the provider and the fees shall be paid out of the Employees' Compensation Fund.
+Federal employers shall give first priority of placement to injured Federal workers in positions commensurate with their pay at time of injury and disability.
+Such positions include any positions for which the claimant may already have experience or ones that they can be trained in.
+No person may retaliate, punish, deny work, deny promotion, or carry out any other discriminatory act against a claimant for filing a claim for compensation.''.
+The table of sections for chapter 81 of title 5, United States Code, is amended by striking the item relating to section 8104 and inserting the following: ``8104.
+Reemployment and vocational rehabilitation.

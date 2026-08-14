@@ -1,0 +1,47 @@
+This Act may be cited as the ``Immigration Security and Efficiency Enhancement Act of 2002''.
+Findings.--The Congress makes the following findings: (1) The length of time it takes to process immigration applications within the Immigration and Naturalization Service of the Department of Justice has created a serious national security problem.
+This is demonstrated by the granting of student visas to Mohamed Atta and Marwan Alshehhi six months after their involvement in the World Trade Center bombings.
+The mistake was attributed to delays in processing the paperwork, huge backlogs of applicants, and antiquated computer systems.
+The INS currently has a backlog of immigration requests estimated to be 5,000,000 applications.
+Currently 40 percent of all requests made to the INS to obtain permanent resident status are filled out incorrectly.
+This means that 40 percent of the files the INS receives must be processed twice.
+There is currently no certified means of identifying organizations that provide fair services.
+Many organizations compete to sell immigration services to immigrants, but there is no reliable way to distinguish between good and bad information sources.
+It is estimated that in southern California, immigrants often pay between $500 and $3,000 just to submit their applications.
+At the low cost end, preparing a naturalization application (form N-400) routinely costs about $500-$800.
+At the high cost end, preparing the family-sponsored green card application can cost between $2,000 and $3,000.
+President Clinton signed the Electronic Signatures in Global and National Commerce Act into law in June of 2000, making electronic signatures the legal equivalent of physical signatures.
+The Internal Revenue Service (IRS) has implemented electronic filing for sensitive tax information, requiring verifiable electronic identification.
+The State Department is introducing a web-based arms export license application system that will allow companies to submit license applications and supporting technical documents, blueprints, and other complex data over the Internet.
+This information will be shared with the Commerce, Defense, and Energy Departments.
+The State Department claims that this will help strengthen inter-agency cooperation and cut down on illegal arms trafficking.
+Purpose.--It is the purpose of this Act to enhance the security procedures and efficiency of the immigration, visa, border patrol, and naturalization services of the United States Government by mandating the implementation of an electronic application process utilizing certified filing entities and e-file applications.
+IMPLEMENTATION OF SECURITY AND EFFICIENCY ENHANCEMENTS.
+Plan.--Not later than 90 days after the date of the enactment of this Act, the Attorney General shall submit to the Congress a plan for the implementation of security and efficiency enhancements described in subsection (b).
+The plan shall include a timetable for implementation with appropriate information concerning the importance and impact of technology, funding, and other factors on the timetable.
+Security and Efficiency Enhancements.--Immigration security and efficiency enhancements are as follows: (1) Establishment of a central computer database and network for processing immigration applications and forms.
+Identification of applications and forms appropriate for electronic submission.
+Implementation of a pilot project for elective electronic submission of designated immigration applications and forms.
+Implementation of elective electronic submission of designated immigration applications and forms.
+Within 4 to 5 years after the date of the enactment of this Act, electronic submission of designated immigration applications and forms which comprise not less than 25 percent of the total by volume.
+Within 6 years after the date of the enactment of this Act, electronic submission of designated immigration applications and forms comprising not less than 50 percent of the total by volume.
+Within 8 years after the date of the enactment of this Act, electronic submission of designated immigration applications and forms comprising not less than 75 percent of the total by volume.
+Wherever feasible, electronic submission of designated immigration applications and forms.
+Limitations.--Notwithstanding any other provision of this Act, the Attorney General shall implement an electronic application process only with respect to immigration, visa, border patrol, and naturalization services of the United States Government that the Attorney General determines to be appropriate.
+The Attorney General may not implement an electronic application process with respect to applications by aliens who have been convicted of a felony or aliens who are residing in the United States illegally.
+Annual Report.--Not later than 1 year after the date of the submission of the plan under subsection (a) and annually thereafter, the Attorney General shall submit to the Congress an annual report which outlines the progress in implementing the plan, together with any modifications in the projections of the plan.
+ESTABLISHMENT OF ELECTRONIC FILE MANAGEMENT SYSTEM.
+The Attorney General shall establish within the visa, immigration, border patrol, and naturalization functions under the jurisdiction of the Department of Justice a computer network composed of a state-of- the-art electronic file management system and computer information system to efficiently receive and process files submitted electronically and securely share information within the network.
+ESTABLISHMENT OF IMMIGRATION AND NATURALIZATION FILING SYSTEM THROUGH CERTIFIED SERVICE PROVIDERS.
+In General.--The Attorney General shall establish within the visa, immigration, and naturalization functions under the jurisdiction of the Department of Justice a system which provides for the electronic filing and submission of applications only from organizations and entities certified by the department to perform immigration and naturalization services on behalf of applicants.
+Certification of Service Providers.--The Attorney General develop criteria and procedures for the certification of organizations and entities as service providers.
+In the certification of service providers the Attorney General shall consider the promotion of competition and do everything possible to prevent monopolies.
+Criteria for Certification of Service Providers.--The Attorney General shall promulgate regulations which provide for the criteria for certification of service providers which shall include the following: (1) Submission security--the ability to verify that a secure link is established for transmitting applicant information.
+Quality control by the private entity/organization--the ability to determine that the service providers are competent and qualified to provide reliable information to applicants on visa, immigration, and naturalization requirements and procedures necessary to successfully complete applications.
+User identification verification--the ability to determine that the service provider conducts an adequate initial identity verification.
+The logistical capabilities to participate in the system.
+GRANTS FOR TECHNOLOGY ENHANCEMENT OF IMMIGRATION SERVICE PROVIDERS.
+The Attorney General is authorized to establish a program of grants to nonprofit service providers under section 5 to assist such entities in obtaining electronic technologies compatible with those utilized by the visa, immigration, and naturalization functions under the jurisdiction of the Department of Justice.
+ELECTRONIC DATABASE OF CLOSED INS FILES.
+The National Records Center shall create and maintain an electronic database of all closed files of the Immigration and Naturalization Service to speed up the request process on past records for all Federal agencies that access such files.
+There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out this Act.

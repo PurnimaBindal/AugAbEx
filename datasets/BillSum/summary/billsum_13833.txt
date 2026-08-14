@@ -1,0 +1,13 @@
+Computer Security Enhancement Act of 2001 - Amends the National Institute of Standards and Technology Act to require the Institute to provide assistance to Federal agencies in the protection of computer networks, promote Federal compliance with computer information security and privacy guidelines, and assist Federal response efforts to unauthorized access to Federal systems(Sec.
+Requires the Institute to develop uniform standards for the cost-effective security and privacy of sensitive information in certain Federal systems, provide a list of certified commercial computer system security products, and report annually on Federal computer system evaluations.(Sec.
+Directs the Institute to solicit Computer System Security and Privacy Advisory Board recommendations regarding standards.
+Authorizes appropriations for FY 2002 and 2003 to enable the Board to identify emerging computer security, privacy, and cryptography issues.(Sec.
+Prohibits the Institute from adopting encryption and electronic authentication standards for other than Federal computer systems.(Sec.
+Authorizes (current law requires) the Institute to draw upon National Security Agency computer security guidelines(Sec.
+Amends the Computer Security Act of 1987 to require Federal computer security training to emphasize protecting information accessible through public networks.(Sec.
+Authorizes appropriations for FY 2002 and 2003 for fellowships to students in computer security(Sec.
+10) Requires a National Research Council of the National Academy of Sciences to: conduct a study of electronic authentication technologies; and report to specified congressional committees on its findings, conclusions, and recommendations for public policy related to such technologies.
+Authorizes appropriations for FY 2002(Sec.
+11) Directs the Under Secretary of Commerce for Technology to promote an increased use of security technologies for the nation's information infrastructure, establish a central repository of information on security vulnerability and risks, and promote the development of national infrastructures for encryption technologies(Sec.
+12) Directs the Institute's Director to develop technology-neutral electronic authentication infrastructure standards for Federal agencies, provide a list of commercially available authentication products, establish core specifications for Federal electronic certification and management technologies, provide a list of conforming systems, and report annually on infrastructure implementation.(Sec.
+13) Authorizes appropriations for FY 2002 and 2003.

@@ -1,0 +1,8 @@
+Internet Spyware (I-SPY) Prevention Act of 2005 - (Sec.
+Amends the federal criminal code to prohibit intentionally accessing a protected computer without authorization, or exceeding authorized access, by causing a computer program or code to be copied onto the protected computer and intentionally using that program or code: in furtherance of another federal criminal offense; to obtain or transmit personal information (including a Social Security number or other government-issued identification number, a bank or credit card number, or an associated password or access code) with intent to defraud or injure a person or cause damage to a protected computer; or to impair the security protection of that computer.
+Prohibits any person from bringing a civil action under state law premised upon the defendant's violating this Act.
+Provides that this Act does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency or a US intelligence agency.
+(Sec.
+Authorizes appropriations to the Attorney General for prosecutions needed to discourage the use of spyware and the practices commonly called phishing and pharming.
+(Sec.
+Expresses the sense of Congress that the Department of Justice should vigorously prosecute those who use spyware to commit crimes and those that conduct phishing or pharming scams.

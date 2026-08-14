@@ -1,0 +1,57 @@
+This Act may be cited as the ``National Commission on Telemedicine Act''.
+There is established a commission to be known as the National Commission on Telemedicine (in this Act referred to as the ``Commission'').
+The Commission shall carry out the following duties: (1) Conduct a complete assessment of the use of existing and emerging wired and wireless telecommunications and information systems technologies: (A) in the provision of health care and in the performance of health research-- (i) to transmit, compress, and archive data; and (ii) to perform examinations and procedures, and to conduct consultations, relating to the diagnosis and treatment of illnesses, injuries, and other physical and mental conditions; (B) in the training of students of health professions and the continuing education of practicing health care providers; and (C) in the monitoring of medical conditions by individuals at home.
+Assess whether such technologies are effective in improving the quality and accessibility of health care and reducing the costs of such care.
+Identify obstacles that may impede such technologies from being widely used and accepted by health care providers.
+Develop a model definition of the term ``telemedicine'' that may be used by health care providers, persons that provide payment for health care services, and other participants in the health care system.
+Establish terms for appropriate reimbursement for such ``telemedicine'' services by public agencies that, and private persons who, provide payments for health care services.
+Size and Composition.--The Commission shall be composed of 37 members appointed in accordance with subsection (b) from individuals who are not officers or employees of any government.
+The membership shall include the following: (1) A physician specializing in emergency medicine.
+A representative of the insurance industry who is experienced in reimbursement issues.
+A representative of the wireless communication and data transfer industry.
+A representative of the wire and fiber-optic communication and data transfer industry.
+A representative of the computer technology and data compression industry.
+Three members of the emergency medical technician, trauma nursing, and physician assistant professions (one member from each such profession).
+A physician whose practice consists exclusively of providing consultations.
+A medical school educator.
+A health care provider who practices in a correctional facility.
+A rural health care provider.
+A health care lawyer.
+A health care administrator.
+A public health educator.
+A small businessman involved in the design, manufacture, or sale of telecommunications or information systems hardware used in the provision of health care.
+Appointment.--Not later than the expiration of the 60-day period beginning on the date of the enactment of this Act, the President, the Speaker of the House of Representatives, and the majority leader of the Senate shall each submit to the Secretary of Commerce a list of individuals recommended for appointment to the Commission.
+Not later than the expiration of the 90-day period beginning on the date of the enactment of this Act, such Secretary shall appoint the members of the Commission after consulting with the individuals who have submitted the lists.
+The Commission shall be composed of at least 12 individuals recommended by the President, at least 12 individuals recommended by the Speaker of the House of Representatives, and at least 12 individuals recommended by the majority leader of the Senate.
+Terms.--Each member shall be appointed for the life of the Commission.
+Vacancies.--A vacancy in the Commission shall be filled by the Secretary of Commerce, in consultation with the President, the Speaker of the House of Representatives, and the majority leader of the Senate.
+Compensation.-- (1) Rates of pay.--Members of the Commission shall be paid at a rate fixed by the Secretary of Commerce not to exceed the maximum rate of basic pay payable for GS-15 of the General Schedule.
+A member of the Commission who is detailed by a private person to serve on the Commission and who continues to receive the member's usual salary and benefits from such person while serving on the Commission shall serve without pay.
+Travel expenses.--Each member of the Commission shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+Quorum.--19 members of the Commission shall constitute a quorum, but a lesser number may hold hearings, take testimony, or receive evidence.
+Chairperson.--The chairperson of the Commission shall be designated by the Secretary of Commerce at the time of appointment.
+Meetings.--The Commission shall meet at the call of the chairperson of the Commission or a majority of its members.
+STAFF AND SUPPORT SERVICES.
+Director.--The Commission shall have a director appointed by the Commission and paid at a rate fixed by the Secretary of Commerce not to exceed the maximum rate of basic pay payable for GS-13 of the General Schedule.
+Staff.--The Commission may appoint additional personnel as it considers appropriate.
+Pay for such personnel shall be fixed by the Secretary of Commerce at rates that do not exceed the maximum rate of basic pay payable for GS-11 of the General Schedule.
+Exception.--A member of the staff of the Commission who is detailed by a public or private person to assist the Commission and who continues to receive the member's usual salary and benefits from such person while assisting the Commission shall not receive pay under subsection (a) or (b).
+Applicability of Certain Civil Service Laws.--The director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except as provided in subsections (a) and (b).
+Staff of Federal Agencies.--Upon request of the Commission, the head of any Federal agency may detail, on a nonreimbursable basis, any of the personnel of the agency to the Commission to assist it in carrying out its duties under this Act.
+Experts and Consultants.--The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, but at rates for individuals fixed by the Secretary of Commerce not to exceed the daily equivalent of the minimum annual rate of basic pay payable for GS-13 of the General Schedule.
+Administrative Support Services.--The Secretary of Commerce, acting through the National Telecommunications and Information Administration, shall provide to the Commission on a nonreimbursable basis such administrative support services as are necessary for the Commission to carry out its responsibilities under this Act.
+Hearings and Sessions.--The Commission may, for the purpose of carrying out this Act, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
+The Commission may administer oaths or affirmations to witnesses appearing before it.
+Public Comment.--The Commission shall solicit and consider public comments in the performance of the duties of the Commission.
+Delegation of Authority.--Any member or agent of the Commission may, if authorized by the Commission, take any action that the Commission is authorized to take by this section.
+Information.-- (1) In general.--The Commission may secure directly from any Federal agency information necessary to enable it to carry out this Act.
+Upon request of the Commission, the head of the Federal agency shall furnish the information to the Commission.
+Exception.--Paragraph (1) shall not apply to any information that the Commission is prohibited to secure or request by another law.
+Mails.--The Commission may use the United States mails in the same manner and under the same conditions as other Federal agencies.
+Contract Authority.--The Commission may contract with and compensate government and private agencies or persons for supplies or services without regard to section 3709 of the Revised Statutes (41 United States Code 5).
+Submission.--Not later than the expiration of the 1-year period beginning on the date of the appointment of the last member of the Commission to be appointed under section 4, the Commission shall submit to the President and the Congress a report containing the findings, conclusions, and recommendations of the Commission.
+Public Dissemination.--Not later than the expiration of the 30- day period beginning on the date of the submission of the report under subsection (a), the Secretary of Commerce, acting through the National Telecommunications and Information Administration, shall make copies of the report available to the public.
+Presidential Response.--Not later than the expiration of the 120-day period beginning on the date of the submission of the report under subsection (a), the President shall submit to the Congress a response to the recommendations of the Commission, including, if the President determines it to be appropriate, a plan for implementing 1 or more of such recommendations.
+The Commission shall terminate not later than the expiration of the 60-day period beginning on the date on which the Commission submits its report under section 7.
+There are authorized to be appropriated, from amounts otherwise appropriated for the National Telecommunications and Information Administration of the Department of Commerce, such sums as may be necessary to carry out this Act.
+Any spending authority (as defined in subparagraphs (A) and (C) of section 401(c)(2) of the Congressional Budget Act of 1974 (2 United States Code 651(c)(2)(A))) authorized by this title shall be effective only to such extent or in such amounts as are provided in appropriation Acts.

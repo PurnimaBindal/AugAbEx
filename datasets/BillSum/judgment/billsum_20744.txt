@@ -1,0 +1,47 @@
+This Act may be cited as the ``Information Classification Act of 1994''.
+CLASSIFICATION AND DECLASSIFICATION OF INFORMATION.
+In General.--The National Security Act of 1947 (50 United States Code 401 et sequentes) is amended by adding at the end the following new title: ``TITLE VIII--CLASSIFICATION OF INFORMATION ``classification criteria ``Sec.
+Information may be classified under this title only if the interest of the public in knowing such information is outweighed by the damage to the national security of the United States which demonstrably could be expected to result from the public release of such information.
+If there is reasonable doubt about the need to classify information, it shall not be classified.
+Information that may be considered for classification is information that includes (but is not limited to) any of the following concerns: ``(1) The ability of the United States military to defend the Nation from armed aggression, engage in armed conflict, or participate in peacekeeping or multinational operations abroad.
+The vulnerability of United States Government personnel, facilities, weapons technology, or related systems to armed attack, loss or compromise, or measures that would weaken their effectiveness or counter their capabilities.
+Diplomatic relations between the United States and another country or international organization of governments.
+Intelligence sources and methods, including those related to covert actions and cryptologic activities.
+The ability of the United States to apply critical research or technology to the national defense or foreign relations of the United States.
+In no case shall information be classified in order to-- ``(1) conceal violations of law, inefficiency, or administrative error; ``(2) prevent embarrassment to a person, organization, or agency; ``(3) restrain competition; ``(4) prevent or delay the release of information that does not require protection in the interests of national security; ``(5) control access to basic scientific research information not clearly related to the national security; ``(6) control information after it has been released to the public or a member thereof under proper authority; or ``(7) prevent the public release of a compilation of items of information which individually are not classified.
+Information may be classified if at the time the original classification decision is made either of the following is identified or described: ``(1) Exceptionally grave damage to the national security of the United States which could demonstrably be expected to result from the public release of such information.
+Serious damage to the national security of the United States which could demonstrably be expected to result from the public release of such information.
+Information shall be classified under subsection (a)(2) if there is a reasonable doubt about the appropriate level of classification.
+(1) Information obtained directly from a foreign government may retain the classification assigned by that foreign government if the foreign government is on the list published under section 805(b)(3).
+Information obtained directly from a foreign government that is not on the list published under section 805(b)(3) may only be classified under this title.
+Original classification authority may only be exercised by the President and such other officials as the President may designate.
+The President shall publish annually in the Federal Register the officials designated under this section to exercise original classification authority.
+``duration of classification ``Sec.
+To the extent possible, the original classification authority shall determine the date when or event upon which declassification shall occur, based on the duration of the national security sensitivity of the information.
+The date or event may not exceed the periods specified in subsection (b), except as provided in subsection (c).
+Except as provided in subsection (c)-- ``(1) information classified under section 802(a)(1) shall be marked for declassification not later than the end of the 10-year period beginning on the date of the original classification decision; and ``(2) information classified under section 802(a)(2) shall be marked for declassification not later than the end of the 6- year period beginning on the date of the original classification decision.
+(1) Not earlier than 180 days before the scheduled date of declassification of information, the original classification authority or successor may extend the period for which such information is to remain classified.
+Any such extension shall be based on the continued existence of the basis for the original classification, as specified in the original classification determination.
+The period of extension of the classification of information under paragraph (1) may not exceed the original period for which such information was classified.
+Additional periods of extension of classification of information under this subsection may be made in accordance with this subsection.
+Whenever information classified under this title is requested for release under any other provision of law, the original classification authority or successor shall review the basis for the original classification decision and determine whether the information can be declassified or whether the classification level can be reduced.
+(1) Except as provided in paragraph (3), information classified under Executive Order 12356, as in effect on the day before the date of approval of the joint resolution under section 806, may remain classified for the shorter of-- ``(A) the original period specified in the original classification of the information, beginning on the date of such original classification, or ``(B) the 25-year period beginning on the date of the original classification of such information.
+Upon the expiration of the period applicable under paragraph (1) to information, the information shall be declassified unless the period of classification is extended under subsection (c).
+In the case that, with respect to information, both periods specified under paragraph (1) either have expired or will expire within 180 days after the date of approval of the joint resolution under section 806, the information shall be declassified on the date that is 180 days after such date unless the period of classification is extended under subsection (c).
+``information security oversight office ``Sec.
+There shall be the Information Security Oversight Office, to be headed by a director appointed by the President.
+The Office shall be responsible for the following: ``(1) All functions and responsibilities exercised by the Information Security Oversight Office as such functions and responsibilities existed on the day before the date of enactment of this title.
+(A) A periodic review of the classification of information under this title, including-- ``(i) the appropriateness of the level of classification to the information classified; and ``(ii) the basis for the classification decision with respect to the information.
+Referring to the original classification authority or successor for reconsideration of questions concerning information raised pursuant to paragraph (2).
+The annual determination of, and publication of a list of, foreign governments that have written procedures generally applicable to the classification of information that are available to the public.
+This section shall take effect on the date of approval of the joint resolution under section 806.
+``congressional approval of implementing actions ``Sec.
+The President shall develop a proposal for implementing this title and shall submit such proposal to the Congress for approval in accordance with subsection (b).
+(1) The proposal referred to in subsection (a) may not take effect until after Congress approves the proposal by joint resolution in accordance with this section.
+Any such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+For the purpose of expediting the consideration and enactment of joint resolutions under this subsection, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
+For the purposes of this title: ``(1) The term `information' means any knowledge that can be communicated or documentary material, regardless of its physical form or characteristics, that is owned by, produced by or for, or is under the control of the United States Government.
+The term `original classification' means an initial determination that information requires, in the interest of national security, protection against public release.''.
+Conforming Amendment.--The table of contents of the National Security Act of 1947 is amended by adding at the end the following: ``TITLE VIII--CLASSIFICATION OF INFORMATION ``Sec.
+Information Security Oversight Office.
+Congressional approval of implementing actions.

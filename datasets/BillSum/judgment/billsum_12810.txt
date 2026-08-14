@@ -1,0 +1,34 @@
+Short Title.--This Act may be cited as the ``Estate Tax Elimination Act of 2001''.
+Amendment of 1986 Code.--Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+REPEAL OF ESTATE, GIFT, AND GENERATION-SKIPPING TAXES.
+In General.--Subtitle B is hereby repealed.
+Effective Date.--The repeal made by subsection (a) shall apply to the estates of decedents dying, and gifts and generation-skipping transfers made, after the date of the enactment of this Act.
+PRESERVATION OF STEP UP IN BASIS OF CERTAIN PROPERTY ACQUIRED FROM A DECEDENT.
+In General.--Subsection (a) of section 1014 (relating to basis of property acquired from a decedent) is amended to read as follows: ``(a) Step up in Basis.-- ``(1) In general.--Except as otherwise provided in this section, the basis of property in the hands of a person acquiring the property from a decedent or to whom the property passed from a decedent shall, if not sold, exchanged, or otherwise disposed of before the decedent's death by such person, be the fair market value of the property at the date of the decedent's death.
+Limitation.--The aggregate fair market value of property which may be taken into account under paragraph (1) shall not exceed the sum of-- ``(A) the aggregate basis of all property described in paragraph (1) in the hands of the decedent, plus ``(B) $2,800,000.
+Allocation of amount.--The executor shall allocate the limitation under paragraph (2)(B) to the extent the aggregate fair market value exceeds the aggregate basis under paragraph (2).
+Inflation adjustment of excepted amounts.--In the case of decedents dying in a calendar year after 2001, the dollar amount in paragraph (2)(B) shall be increased by an amount equal to the product of-- ``(A) such dollar amount, and ``(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting `2000' for `1992' in subparagraph (B) thereof.
+If any increase determined under the preceding sentence is not a multiple of $10,000, such increase shall be rounded to the nearest multiple of $10,000.''.
+Regulations.--Section 1014 is amended by adding at the end the following new subsection: ``(f) Regulations.--The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.''.
+Conforming Amendments.-- (1) Adjustment to basis.--Subsection (a) of section 1016 (relating to adjustments to basis) is amended by striking ``and'' at the end of paragraph (26), by striking the period at the end of paragraph (27) and inserting ``, and'', and by adding at the end the following: ``(28) to the extent provided in section 1014 (relating to step up in basis of certain property acquired from a decedent).''.
+The heading for section 1014 is amended by striking ``basis of property'' and inserting ``step up in basis of certain property''.
+The item relating to section 1014 in the table of sections for part II of subchapter O of chapter 1 is amended by striking ``Basis of property'' and inserting ``Step up in basis of certain property''.
+Effective Date.--The amendments made by this section shall apply to the estates of decedents dying after the date of the enactment of this Act.
+CARRYOVER BASIS FOR CERTAIN PROPERTY ACQUIRED FROM A DECEDENT.
+General Rule.--Part II of subchapter O of chapter 1 (relating to basis rules of general application) is amended by inserting after section 1021 the following new section: ``SEC.
+CARRYOVER BASIS FOR CERTAIN PROPERTY ACQUIRED FROM A DECEDENT.
+Carryover Basis.--Except as otherwise provided in this section, the basis of carryover basis property in the hands of a person acquiring such property from a decedent shall be determined under section 1015.
+Carryover Basis Property Defined.-- ``(1) In general.--For purposes of this section, the term `carryover basis property' means any property-- ``(A) which is acquired from or passed from a decedent who died after the date of the enactment of this section, and ``(B) which is not excluded pursuant to paragraph (2).
+The property taken into account under subparagraph (A) shall be determined under section 1014(b) without regard to subparagraph (A) of the last sentence of paragraph (9) thereof.
+Certain property not carryover basis property.--The term `carryover basis property' does not include-- ``(A) any item of gross income in respect of a decedent described in section 691, and ``(B) any property for which basis is provided by section 1014.''.
+Information Returns.-- (1) In general.--Subpart A of part III of subchapter A of chapter 61 (relating to information concerning persons subject to special provisions) is amended by adding after section 6039G the following: ``SEC.
+INFORMATION REGARDING PROPERTY ACQUIRED FROM A DECEDENT.
+``Every executor shall furnish the Secretary such information with property to which section 1014 or 1022 applies as the Secretary may by regulations prescribe.''.
+Conforming amendment.--The table of sections for subpart A of part III of subchapter A of chapter 61 of such Code is amended by adding after the item relating to section 6039G the following: ``Sec.
+Information regarding property acquired from a decedent.''.
+Miscellaneous Amendments Related To Carryover Basis.-- (1) Capital gain treatment for inherited art work or similar property.-- (A) In general.--Subparagraph (C) of section 1221(a)(3) (defining capital asset) is amended by inserting ``(other than by reason of section 1022)'' after ``is determined''.
+Coordination with section 170.--Paragraph (1) of section 170(e) (relating to certain contributions of ordinary income and capital gain property) is amended by adding at the end the following: ``For purposes of this paragraph, the determination of whether property is a capital asset shall be made without regard to the exception contained in section 1221(a)(3)(C) for basis determined under section 1022.''.
+Definition of executor.--Section 7701(a) (relating to definitions) is amended by adding at the end the following: ``(47) Executor.--The term `executor' means the executor or administrator of the decedent, or, if there is no executor or administrator appointed, qualified, and acting within the United States, then any person in actual or constructive possession of any property of the decedent.''.
+Clerical amendment.--The table of sections for part II of subchapter O of chapter 1 is amended by adding at the end the following new item: ``Sec.
+Carryover basis for certain property acquired from a decedent.''.
+Effective Date.--The amendments made by this section shall apply to estates of decedents dying after the date of the enactment of this Act.

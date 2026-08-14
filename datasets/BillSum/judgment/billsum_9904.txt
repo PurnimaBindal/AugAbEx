@@ -1,0 +1,30 @@
+This Act may be cited as the ``Prescription Privacy Protection Act of 1998''.
+RESTRICTION ON DISSEMINATION OF PRESCRIPTION INFORMATION.
+Except as provided in section 3, a pharmacy owner, pharmacist, or employee of a pharmacy may not disclose prescription data to any person or governmental agency, other than the individual who is the subject of the data or another owner or employee of the pharmacy, without having obtained from such individual a written consent to the disclosure that satisfies the requirements of section 4.
+A pharmacy owner, pharmacist, or employee of a pharmacy may make a disclosure of prescription data otherwise prohibited under section 2, if the disclosure is made under one of the following conditions: (1) To the physician who wrote the prescription that is the subject of the prescription data.
+To a parent or guardian of the individual who is the subject of the prescription data, or to a court-appointed attorney representing the individual, but only where the individual is a minor.
+To a guardian of the individual who is the subject of the prescription data, or to a court-appointed attorney representing the individual, but only where the individual is not capable, because of a physical or mental condition, to effect a written consent that satisfies the requirements of section 4.
+To an agent of the individual who is the subject of the prescription data, where the agent is acting under authority granted in a power of attorney.
+In the case of a pharmacy owner, to an agent of the owner, where the disclosure is necessary for the purpose of a carrying out a written contract between the agent and the owner under which the agent-- (A) is required to perform administrative services for the owner; and (B) is prohibited from disclosing the prescription data to any person other than the owner.
+For purposes of complying with a judicial or administrative subpoena or a court order.
+For purposes of providing information requested in a law enforcement investigation, an audit, a pharmacist licensure procedure, or a professional review.
+In the course of oral testimony in a deposition or court proceeding.
+Where the disclosure is necessary to support an application for receipt of health care benefits from a health insurance provider or a governmental agency.
+Where the disclosure is made for the purpose of permitting any person to carry out a duty or authority under title XVIII or XIX of the Social Security Act.
+A pharmacy owner, pharmacist, or employee of a pharmacy may make a disclosure of prescription data to any person or governmental agency other than the individual who is the subject of the data, if the owner, pharmacist, or employee has obtained from such individual a written consent to the disclosure that includes the following information: (1) The name of the individual who is the subject of the data.
+The name of the physician who wrote the prescription that is the subject of the data.
+The nature of the data authorized to be disclosed.
+The date on which the consent expires.
+The date on which the consent is executed.
+The signature of the individual who is the subject of the data.
+Regulations.--The Secretary of Health and Human Services and the Secretary of Labor shall jointly promulgate regulations to enforce this Act.
+Violation.-- (1) In general.--Any person who the Secretary of Health and Human Services or the Secretary of Labor determines has substantially and materially failed to comply with this Act, or a regulation promulgated by such Secretary under this Act, shall be subject, in addition to any other penalties that may be prescribed by law, to a civil penalty of not more than $10,000 for each such violation.
+Procedures for imposition of penalties.--Section 1128A of the Social Security Act, other than subsections (a) and (b) and the second sentence of subsection (f) of that section, shall apply to the imposition of a civil monetary penalty under paragraph (1) in the same manner as such provisions apply with respect to the imposition of a penalty under section 1128A of such Act.
+This Act shall not preempt any State law that is not inconsistent with this Act, but that imposes additional requirements with respect to a prohibition under this Act.
+For purposes of this Act: (1) Guardian.--The term ``guardian'' means a court-approved or court-appointed guardian of an individual.
+Parent.--The term ``parent'' means a biological, adoptive, or foster parent.
+Pharmacist.--The term ``pharmacist'' means a person who is licensed to engage in the practice of pharmacology.
+Pharmacy owner.--The term ``pharmacy owner'' means any person that operates a licensed pharmacy.
+Physician.--The term ``physician'' means a health care professional who is legally authorized to write prescriptions for pharmaceutical products.
+Prescription data.--The term ``prescription data'' means any written, printed, or electronically recorded information maintained by a pharmacist or pharmacy owner that indicates the pharmaceutical product or drug therapy prescribed by a physician.
+Such term includes information such as brand name, scientific name, manufacturer, and medical use of the pharmaceutical product or drug therapy.

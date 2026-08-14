@@ -1,0 +1,14 @@
+Safe and Secure Federal Websites Act of 2015 This bill establishes security and privacy requirements for new federal websites that collect personally identifiable information (PII) (i.e., information that can be used to distinguish or trace the identity of an individual or that is linked or linkable to an individual).
+(Sec.
+A federal agency may not deploy or make available to the public a new federal PII website until the agency's chief information officer (CIO) certifies to Congress that the website is fully functional and secure.
+The CIO must make such certification within 90 days after enactment of this Act.
+After such 90-day period, any new federal PII website that has not been certified must be rendered inaccessible until certification is submitted.
+The prohibition does not apply to a website that is: operated entirely by an entity that is independent of the federal government, or in a development or testing phase (beta website).
+The exemption for beta websites applies only if: a member of the public may access PII-related portions of the website only after executing an agreement that acknowledges the risks involved; and no agency compelled, enjoined, or otherwise provided incentives for a member of the public to access such website.
+The bill defines a "new federal PII website" as a website that: is operated by (or under contract with) an agency; elicits, collects, stores, or maintains PII and is accessible to the public; and is first made accessible to the public and collects or stores PII on or after October 1, 2012.
+The bill also sets forth requirements that must be met to deem a new federal PII website as "secure."
+(Sec.
+The Director of the Office of Management and Budget (OMB) must establish and oversee policies and procedures for federal agencies to follow in the event of a breach of information security involving the disclosure of PII, including: notice, not later than 72 hours after discovery of a breach or possible breach, to individuals whose PII could be compromised; and timely reporting to a federal cybersecurity center designated by the OMB and defined in this Act.
+Agency heads must ensure that agency actions taken in response to a breach of information security involving the disclosure of PII comply with OMB policies and procedures established by this Act.
+The OMB must report to Congress, not later than March 1 of each year, on agency compliance with such policies and procedures.
+A "federal cybersecurity center" is defined to include: the Department of Defense Cyber Crime Center, the Intelligence Community Incident Response Center, the US Cyber Command Joint Operations Center, the National Cyber Investigative Task Force, the Central Security Service Threat Operations Center of the National Security Agency, the US Computer Emergency Readiness Team, and any center that the OMB determines is appropriate to carry out privacy breach notice and reporting requirements.

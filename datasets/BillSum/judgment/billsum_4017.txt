@@ -1,0 +1,30 @@
+TITLE I--TELEMARKETING FRAUD AND SENIORS PROTECTION ACT SEC.
+This title may be cited as the ``Telemarketing Fraud and Seniors Protection Act''.
+Congress makes the following findings: (1) Telemarketing fraud costs consumers nearly $40,000,000,000 each year.
+Senior citizens are often the target of telemarketing fraud.
+Fraudulent telemarketers compile into so-called ``mooch lists'' the names of consumers who are potentially vulnerable to telemarketing fraud.
+According to the American Association of Retired Persons, 56 percent of the names on such ``mooch lists'' are individuals age 50 or older.
+The Department of Justice has undertaken successful investigations and prosecutions of telemarketing fraud through various operations, including ``Operation Disconnect'', ``Operation Senior Sentinel'', and ``Operation Upload''.
+The Federal Bureau of Investigation has helped provide resources to assist organizations such as the American Association of Retired Persons to operate outreach programs designed to warn senior citizens whose names appear on confiscated ``mooch lists''.
+The Administration on Aging was formed, in part, to provide senior citizens with the resources, information, and assistance their special circumstances require.
+The Administration on Aging has a system in place to inform senior citizens of the dangers of telemarketing fraud.
+Senior citizens need to be warned of the dangers of telemarketing fraud before they become victims of such fraud.
+It is the purpose of this title to protect senior citizens, through education and outreach, from the dangers of telemarketing fraud and fraud over the Internet and to facilitate the investigation and prosecution of fraudulent telemarketers.
+In General.--The Secretary of Health and Human Services, acting through the Assistant Secretary of Health and Human Services for Aging, shall publicly disseminate in each State information designed to educate senior citizens and raise awareness about the dangers of telemarketing fraud and fraud over the Internet.
+Information.--In carrying out subsection (a), the Secretary shall-- (1) inform senior citizens of the prevalence of telemarketing fraud targeted against them; (2) inform senior citizens how telemarketing fraud works; (3) inform senior citizens how to identify telemarketing fraud; (4) inform senior citizens how to protect themselves against telemarketing fraud, including an explanation of the dangers of providing bank account, credit card, or other financial or personal information over the telephone to unsolicited callers; (5) inform senior citizens how to report suspected attempts at telemarketing fraud; (6) inform senior citizens of their consumer protection rights under Federal law; and (7) provide such other information as the Secretary considers necessary to protect senior citizens against fraudulent telemarketing.
+Means of Dissemination.--The Secretary shall determine the means to disseminate information under this section.
+In making such determination, the Secretary shall consider-- (1) public service announcements; (2) a printed manual or pamphlet; (3) an Internet website; and (4) telephone outreach to individuals whose names appear on so-called ``mooch lists'' confiscated from fraudulent telemarketers.
+Priority.--In disseminating information under this section, the Secretary shall give priority to areas with high concentrations of senior citizens.
+AUTHORITY TO ACCEPT GIFTS.
+The Secretary of Health and Human Services may accept, use, and dispose of unconditional gifts, bequests, or devises of services or property, both real and personal, in order to carry out this title.
+For purposes of this title, the term ``State'' includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+TITLE II--TELEMARKETING FRAUD OVER THE INTERNET SEC.
+EXTENSION OF CRIMINAL FRAUD STATUTE TO INTERNET.
+Extension.--Section 1343 of title 18, United States Code, is amended by-- (1) by inserting ``(a)'' before ``Whoever''; (2) in subsection (a), as so designated, by striking ``or television communication'' and inserting ``television, or Internet communication''; and (3) by adding at the end thereof the following: ``(b) For purposes of this section, the term `Internet' means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.''.
+Conforming and Clerical Amendments.--(1) The section heading of such section is amended to read as follows: ``Sec.
+Fraud by wire, radio, television, or Internet''.
+The table of sections at the beginning of chapter 63 of that title is amended by striking the item relating to section 1343 and inserting the following new item: ``1343.
+Fraud by wire, radio, television, or Internet.''.
+FEDERAL TRADE COMMISSION SANCTIONS.
+Rulemaking to Apply Sanctions.--The Federal Trade Commission shall initiate a rulemaking proceeding to set forth the application of section 5 of the Federal Trade Commission Act (15 United States Code 45), and other statutory provisions within its jurisdiction, to deceptive acts or practices in or affecting the commerce of the United States in connection with the promotion, advertisement, offering for sale, or sale of goods or services through use of the Internet, including the initiation, transmission, and receipt of unsolicited commercial electronic mail.
+Internet Defined.--In this section, the term ``Internet'' means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.

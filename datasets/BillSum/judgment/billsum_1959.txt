@@ -1,0 +1,51 @@
+This Act may be cited as the ``Robin Danielson Act''.
+TITLE I--RESEARCH REGARDING RISKS POSED BY DIOXIN, SYNTHETIC FIBERS, AND OTHER ADDITIVES IN FEMININE HYGIENE PRODUCTS SEC.
+The Congress finds as follows: (1) Tampons are used by approximately 73,000,000 women in the United States today, and the average woman may use as many as 16,800 tampons in her lifetime.
+A woman on estrogen replacement therapy may use as many as 24,360 tampons in her lifetime.
+The Environmental Protection Agency and the International Agency for Research on Cancer, an arm of the World Health Organization, have concluded that dioxins are a probable human carcinogen (cancer causing agent).
+According to the Food and Drug Administration, dioxins are formed as a result of combustion processes such as commercial and municipal waste incineration and from burning fuels (like wood, coal, or oil).
+Dioxins are a byproduct of chlorine bleaching of pulp and paper.
+Tampons currently sold in the United States are composed of cotton, rayon, or of a combination of cotton and rayon.
+Rayon is produced from cellulose fibers derived from bleached wood pulp.
+While bleaching processes that do not produce dioxin in any amount are available, most wood pulp manufacturers currently use elemental-chlorine free bleaching processes.
+This process uses chlorine dioxide as a bleaching agent and still produces dioxins.
+The Food and Drug Administration has not explicitly forbidden the use of chlorine in tampon manufacturing.
+Trace amounts of dioxins can also be found in tampons that use a chlorine-free bleaching process as well as 100 percent cotton tampons as the Environmental Protection Agency states that due to decades of pollution, dioxin can be found in the air, water, and ground and thus can be found in both cotton and wood pulp raw materials used in tampon production.
+The effects of dioxin from various sources are cumulative.
+Women may be exposed to dioxin in tampons and other menstrual products for as long as 60 years over the course of their reproductive lives.
+The Food and Drug Administration has historically relied on data provided by manufacturers of feminine hygiene products in determining product safety.
+Although the Food and Drug Administration currently requires tampon manufacturers to monitor dioxin levels in their finished products, they do not generally collect this information and it is not readily available to the public.
+Recent studies have produced conflicting information about the link between dioxin exposure and increased risks for endometriosis.
+The Environmental Protection Agency has concluded that people with high levels of exposure to dioxins may be at risk for other noncancer effects that could suppress the immune system, increase the risk of pelvic inflammatory disease, reduce fertility, and interfere with fetal and childhood development.
+Toxic Shock Syndrome (TSS) has been linked to tampon use especially those tampons containing synthetic fibers and the absorbency of the tampon.
+TSS is a rare bacterial illness that occurs mostly in menstruating women.
+During 1979 and 1980, the syndrome was responsible for at least 55 deaths and 1,066 nonfatal cases.
+In response to a 1988 lawsuit, the Food and Drug Administration has required tampons to be labeled with reference to an absorbency standard (e.g., super tampons must absorb between 9 and 12 grams of liquid).
+As a result of independent research that showed that synthetic fiber additives in tampons amplify toxin production, which is associated with toxic shock syndrome, manufacturers have ceased to include three of the four synthetic ingredients once often used to increase tampon absorbency.
+Highly absorbent viscose rayon is still used in tampon production.
+According to some TSS researchers incidence of menstrually related TSS is creeping up and strains of Staphylococcus aureus causing it are becoming more antibiotic resistant and more virulent.
+NATIONAL INSTITUTES OF HEALTH; RESEARCH ON DIOXIN PURSUANT TO OFFICE OF RESEARCH ON WOMEN'S HEALTH.
+Part F of title IV of the Public Health Service Act (42 United States Code 287d et sequentes) is amended by adding at the end the following section: ``SEC.
+CERTAIN PROJECTS REGARDING WOMEN'S HEALTH.
+Dioxin in Feminine Hygiene Products.-- ``(1) In general.--The Director of NIH, in collaboration with the Director of the Office, shall provide for the conduct or support of research to determine the extent to which the presence of dioxin, synthetic fibers, and other additives in tampons and other feminine hygiene products-- ``(A) poses any risks to the health of women who use the products, including risks relating to cervical cancer, endometriosis, infertility, ovarian cancer, breast cancer, immune system deficiencies, pelvic inflammatory disease, and toxic shock syndrome; and ``(B) poses any risks to the health of children of women who used such products during or before the pregnancies involved, including risks relating to fetal and childhood development.
+Requirement regarding data from manufacturers.-- Research under paragraph (1) shall include research to confirm the data on tampons and other feminine hygiene products submitted to the Commissioner of Food and Drugs by manufacturers of such products.
+Definition.--For purposes of paragraph (1), the term `feminine hygiene products' means tampons, pads, liners, and similar products used by women with respect to menstruation or other genital-tract secretions.
+Reports.--Reports on the results of research under subsection (a) shall be periodically submitted to the Congress, the Commissioner of Food and Drugs, the Administrator of the Environmental Protection Agency, and the Chairman of the Consumer Product Safety Commission.
+Such reports shall be made available to the public through the data system and clearinghouse program established under section 486A, or through other appropriate means.''.
+TITLE II--COLLECTION AND ANALYSIS OF DATA ON TOXIC SHOCK SYNDROME SEC.
+The Congress finds as follows: (1) Of the cases of toxic shock syndrome in the United States, approximately 50 percent are related to tampon use and approximately 50 percent occur in nonmenstruating women and in men and children.
+The Centers for Disease Prevention and Control has estimated that between one and two of every 100,000 women 15 to 44 years of age will develop the syndrome.
+Epidemiological data on cases of toxic shock syndrome are not systematically collected in the United States, and information on cases seldom travels beyond the victim's circle of family and friends.
+Toxic Shock Syndrome is a nationally notifiable disease that States report to the Centers for Disease Prevention and Control, but the reporting by the States is voluntary.
+According to the Council of State and Territorial Epidemiologists, as of 2006, only 39 States required reporting of streptococcal and non-streptococcal toxic shock syndrome to State health officials.
+The last active surveillance of toxic shock syndrome occurred in 1987 only in four States and surveying 12 million people.
+National surveillance is conducted through the National Electronic Telecommunications Systems.
+The Centers for Disease Prevention and Control and the States should cooperate to collect and analyze such data.
+Increasing the amount of information on toxic shock syndrome will lead to increased awareness about the disease in the medical community, and may also lead to an increased understanding of the causes of the syndrome.
+CENTERS FOR DISEASE CONTROL AND PREVENTION; ESTABLISHMENT OF PROGRAM FOR COLLECTION AND ANALYSIS OF DATA ON TOXIC SHOCK SYNDROME.
+Part B of title III of the Public Health Service Act (42 United States Code 243 et sequentes) is amended by inserting after section 317T the following section: ``SEC.
+COLLECTION AND ANALYSIS OF DATA ON TOXIC SHOCK SYNDROME.
+In General.--The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out a program to collect, analyze, and make available data on toxic shock syndrome, including data on the causes of such syndrome.
+National Incidence and Prevalence.--In carrying out the program under subsection (a), the Secretary shall to the extent practicable determine the national incidence and prevalence of toxic shock syndrome.
+Cooperation With States.--The Secretary may carry out the program under subsection (a) directly and through grants to States and local health departments.
+Authorization of Appropriations.--For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2012 through 2016.

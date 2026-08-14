@@ -1,0 +1,69 @@
+This Act may be cited as the ``Citizens' Privacy Commission Act of 2001''.
+Congress finds the following: (1) Americans are increasingly concerned about their civil liberties and the security, collection, use, and distribution of their personal information by government, including medical records and genetic information, educational records, health records, tax records, library records, driver's license numbers, and other records.
+The shift from a paper based government to an information technology reliant government calls for a reassessment of the most effective way to balance personal privacy and information use, keeping in mind the potential for unintended effects on technology development and privacy needs.
+Concerns have been raised about the adequacy of existing government privacy laws and the adequacy of their enforcement in light of new technologies.
+There is established a commission to be known as the ``Citizens' Privacy Commission'' (in this Act referred to as the ``Commission'').
+Study.--The Commission shall conduct a study of issues relating to protection of individual privacy and the appropriate balance to be achieved between protecting individual privacy and allowing appropriate uses of information, including the following: (1) The collection, use, and distribution of personal information by Federal, State, and local governments.
+Current efforts and proposals to address the collection, use, and distribution of personal information by Federal and State governments, including-- (A) existing statutes and regulations relating to the protection of individual privacy, including section 552a of title 5, United States Code (commonly referred to as the Privacy Act of 1974) and section 552 of that title (commonly referred to as the Freedom of Information Act); and (B) privacy protection efforts undertaken by the Federal Government, State governments, foreign governments, and international governing bodies.
+The extent to which individuals in the United States can obtain redress for privacy violations by government.
+Field Hearings.--The Commission shall conduct at least 3 field hearings in different geographical regions of the United States.
+Report.-- (1) In general.--Not later than 18 months after the appointment of all members of the Commission-- (A) a majority of the members of the Commission shall approve a report; and (B) the Commission shall submit the approved report to the Congress and the President.
+Contents.--The report shall include a detailed statement of findings, conclusions, and recommendations regarding government collection, use and disclosure of personal information, including the following: (A) Findings on potential threats posed to individual privacy.
+Analysis of purposes for which sharing of information is appropriate and beneficial to the public.
+Analysis of the effectiveness of existing statutes, regulations, technology advances, third-party verification, and market forces in protecting individual privacy.
+Recommendations on whether additional legislation or regulation is necessary, and if so, specific suggestions on proposals to reform or augment current laws and regulations relating to citizens' privacy.
+Analysis of laws, regulations, or proposals which may impose unreasonable costs or burdens, raise constitutional concerns, or cause unintended harm in other policy areas, such as security, law enforcement, medical research and treatment, employee benefits, or critical infrastructure protection.
+Cost analysis of legislative or regulatory changes proposed in the report.
+Recommendations on non-legislative solutions to individual privacy concerns, including new technology, education, best practices, and third party verification.
+Recommendations on alternatives to government collection of information, including private sector retention.
+Review of the effectiveness and utility of third-party verification.
+Additional Report.--Together with the report under subsection (c), the Commission shall submit to the Congress and the President any additional report of dissenting opinions or minority views by a member of the Commission.
+Interim Report.--The Commission may submit to the Congress and the President an interim report approved by a majority of the members of the Commission.
+Number and Appointment.--The Commission shall be composed of 11 members appointed as follows: (1) 2 members appointed by the President.
+2 members appointed by the Majority Leader of the Senate.
+2 members appointed by the Minority Leader of the Senate.
+2 members appointed by the Speaker of the House of Representatives.
+2 members appointed by the Minority Leader of the House of Representatives.
+1 member, who shall serve as Chairperson of the Commission, appointed jointly by the President, the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House of Representatives, and the Minority Leader of the House of Representatives.
+Diversity of Views.--The appointing authorities under subsection (a) shall seek to ensure that the membership of the Commission has a diversity of experiences and expertise on the issues to be studied by the Commission, such as views and experiences of Federal, State, and local governments, the media, the academic community, consumer groups, public policy groups and other advocacy organizations, civil liberties experts, and business and industry (including small business, the information technology industry, the health care industry, and the financial services industry).
+Date of Appointment.--The appointment of the members of the Commission shall be made not later than 30 days after the date of the enactment of this Act.
+Terms.--Each member of the Commission shall be appointed for the life of the Commission.
+Vacancies.--A vacancy in the Commission shall be filled in the same manner in which the original appointment was made.
+Compensation; Travel Expenses.--Members of the Commission shall serve without pay, but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+Quorum.--A majority of the members of the Commission shall constitute a quorum, but a lesser number may hold hearings.
+Meetings.-- (1) In general.--The Commission shall meet at the call of the Chairperson or a majority of its members.
+Initial meeting.--Not later than 45 days after the date of the enactment of this Act, the Commission shall hold its initial meeting.
+DIRECTOR; STAFF; EXPERTS AND CONSULTANTS.
+Director.-- (1) In general.--Not later than 40 days after the date of enactment of this Act, the Chairperson of the Commission shall appoint a Director without regard to the provisions of title 5, United States Code, governing appointments to the competitive service.
+Pay.--The Director shall be paid at the rate payable for level III of the Executive Schedule established under section 5314 of such title.
+Staff.--The Director may appoint staff as the Director determines appropriate.
+Applicability of Certain Civil Service Laws.-- (1) In general.--The staff of the Commission shall be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service.
+Pay.--The staff of the Commission shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, but at rates not in excess of the maximum rate for grade GS-15 of the General Schedule under section 5332 of that title.
+Experts and Consultants.--The Director may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
+Staff of Federal Agencies.-- (1) In general.--Upon request of the Director, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out this Act.
+Notification.--Before making a request under this subsection, the Director shall give notice of the request to each member of the Commission.
+Hearings and Sessions.--The Commission may, for the purpose of carrying out this Act, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
+The Commission may administer oaths or affirmations to witnesses appearing before it.
+Powers of Members and Agents.--Any member or agent of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take by this section.
+Obtaining Official Information.-- (1) In general.--Except as provided in paragraph (2), if the Chairperson of the Commission submits a request to a Federal department or agency for information necessary to enable the Commission to carry out this Act, the head of that department or agency shall furnish that information to the Commission.
+Exception for national security.--If the head of that department or agency determines that it is necessary to guard that information from disclosure to protect the national security interests of the United States, the head shall not furnish that information to the Commission.
+Website.--The Commission shall establish a website to facilitate public participation and the submission of public comments.
+Mails.--The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+Administrative Support Services.--Upon the request of the Director, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out this Act.
+Gifts and Donations.--The Commission may accept, use, and dispose of gifts or donations of services or property to carry out this Act, but only to the extent or in the amounts provided in advance in appropriation Acts.
+Contracts.--The Commission may contract with and compensate persons and government agencies for supplies and services, without regard to section 3709 of the Revised Statutes (41 United States Code 5).
+Subpoena Power.-- (1) In general.--The Commission may issue subpoenas requiring the attendance and testimony of witnesses and the production of any evidence relating to any matter that the Commission is empowered to investigate by section 4.
+The attendance of witnesses and the production of evidence may be required by such subpoena from any place within the United States and at any specified place of hearing within the United States.
+Failure to obey a subpoena.--If a person refuses to obey a subpoena issued under paragraph (1), the Commission may apply to a United States district court for an order requiring that person to appear before the Commission to give testimony, produce evidence, or both, relating to the matter under investigation.
+The application may be made within the judicial district where the hearing is conducted or where that person is found, resides, or transacts business.
+Any failure to obey the order of the court may be punished by the court as civil contempt.
+Service of subpoenas.--The subpoenas of the Commission shall be served in the manner provided for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure for the United States district courts.
+Service of process.--All process of any court to which application is made under paragraph (2) may be served in the judicial district in which the person required to be served resides or may be found.
+Destruction or Return of Information Required.--Upon the conclusion of the matter or need for which individually identifiable information was disclosed to the Commission, the Commission shall either destroy the individually identifiable information or return it to the person or entity from which it was obtained, unless the individual that is the subject of the individually identifiable information has authorized its disclosure.
+Disclosure of Information Prohibited.--The Commission-- (1) shall protect individually identifiable information from improper use; and (2) may not disclose such information to any person, including the Congress or the President, unless the individual that is the subject of the information has authorized such a disclosure.
+Proprietary Business Information and Financial Information.-- The Commission shall protect from improper use, and may not disclose to any person, proprietary business information and proprietary financial information that may be viewed or obtained by the Commission in the course of carrying out its duties under this Act.
+Individually Identifiable Information Defined.--In this section, the term ``individually identifiable information'' means any information, whether oral or recorded in any form or medium, that identifies an individual, or with respect to which there is a reasonable basis to believe that the information can be used to identify an individual.
+Any new contract authority authorized by this Act shall be effective only to the extent or in the amounts provided in advance in appropriation Acts.
+The Commission shall terminate 30 days after submitting a report under section 4(c).
+In General.--There are authorized to be appropriated to the Commission $3,000,000 to carry out this Act.
+Availability.--Any sums appropriated pursuant to the authorization in subsection (a) shall remain available until expended.

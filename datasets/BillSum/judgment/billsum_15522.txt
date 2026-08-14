@@ -1,0 +1,22 @@
+REPEAL OF 1993 INCREASE IN TAX ON SOCIAL SECURITY BENEFITS.
+In General.--Paragraph (2) of section 86(a) of the Internal Revenue Code of 1986 (relating to social security and tier 1 railroad retirement benefits) is amended by adding at the end the following new sentence: ``This paragraph shall not apply to any taxable year beginning after December 31, 2000.''
+Conforming Amendments.-- (1) Paragraph (3) of section 871(a) of such Code is amended by striking ``85 percent'' in subparagraph (A) and inserting ``50 percent''.
+(A) Subparagraph (A) of section 121(e)(1) of the Social Security Amendments of 1983 (Public Law 98-21) is amended-- (i) by striking ``(A) There'' and inserting ``There''; (ii) by striking ``(i)'' immediately following ``amounts equivalent to''; and (iii) by striking ``, less (ii)'' and all that follows and inserting a period.
+Paragraph (1) of section 121(e) of such Act is amended by striking subparagraph (B).
+Paragraph (3) of section 121(e) of such Act is amended by striking subparagraph (B) and by redesignating subparagraph (C) as subparagraph (B).
+Paragraph (2) of section 121(e) of such Act is amended in the first sentence by striking ``paragraph (1)(A)'' and inserting ``paragraph (1)''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2000.
+Rebate of 2000 Taxes Attributable to 1993 Increase.-- (1) In general.--Subchapter B of chapter 65 of such Code (relating to abatements, credits, and refunds) is amended by adding at the end the following new section: ``SEC.
+REBATE OF 2000 TAXES ATTRIBUTABLE TO 1993 INCREASE IN TAX ON SOCIAL SECURITY BENEFITS.
+In General.--In the case of an individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxpayer's first taxable year beginning in 2001 an amount equal to the amount by which the tax imposed by chapter 1 for the taxpayer's first taxable year beginning in 2000 would be reduced if paragraph (2) of section 86(a) had not applied for such taxable year.
+Coordination With Advance Refunds of Credit.-- ``(1) In general.--The amount of credit which would (but for this paragraph) be allowable under this section shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer under subsection (d).
+Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+Joint returns.--In the case of a refund or credit made or allowed under subsection (d) with respect to a joint return, such refund or credit shall be treated as having been made or allowed to each individual filing such return in proportion to their respective amounts of social security benefits (as defined in section 86(d)) received during the taxpayer's first taxable year beginning in 2000.
+Coordination With Estimated Tax.--The credit under this section shall be treated for purposes of section 6654(f) in the same manner as a credit under subpart A of part IV of subchapter A of chapter 1.
+Advance Refunds of Credit.-- ``(1) In general.--Each individual shall be treated as having made a payment against the tax imposed by chapter 1 for such individual's first taxable year beginning in 2000 in an amount equal to the advance refund amount for such taxable year.
+Advance refund amount.--For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (b) and this subsection) had applied to such taxable year.
+Timing of payments.--In the case of any overpayment attributable to this subsection, the Secretary shall, subject to the provisions of this title, refund or credit such overpayment as rapidly as possible and, to the extent practicable, before October 1, 2001.
+No refund or credit shall be made or allowed under this subsection after December 31, 2001.
+No interest.--No interest shall be allowed on any overpayment attributable to this subsection.''.
+Clerical amendment.--The table of sections for subchapter B of chapter 65 is amended by adding at the end the following new item: ``Sec.
+Rebate of 2000 taxes attributable to 1993 increase in tax on social security benefits.

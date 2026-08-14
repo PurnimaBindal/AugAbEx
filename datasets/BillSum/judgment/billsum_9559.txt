@@ -1,0 +1,36 @@
+This Act shall be cited as the ``Renewable Energy and Energy Efficiency Stimulus Act of 2006''.
+TITLE I--ENERGY TAX INCENTIVES Subtitle A--Energy Infrastructure Tax Incentives SEC.
+EXTENSION OF CREDIT FOR ELECTRICITY PRODUCED FROM CERTAIN RENEWABLE RESOURCES.
+Section 45(d) of the Internal Revenue Code of 1986 (relating to qualified facilities) is amended by striking ``2008'' each place it appears and inserting ``2011''.
+EXTENSION AND EXPANSION OF CREDIT TO HOLDERS OF CLEAN RENEWABLE ENERGY BONDS.
+In General.--Section 54(m) of the Internal Revenue Code of 1986 (relating to termination) is amended by striking ``2007'' and inserting ``2010''.
+Annual Volume Cap for Bonds Issued During Extension Period.-- Paragraph (1) of section 54(f) of the Internal Revenue Code of 1986 (relating to limitation on amount of bonds designated) is amended to read as follows: ``(1) National limitation.-- ``(A) Initial national limitation.--With respect to bonds issued after December 31, 2005, and before January 1, 2008, there is a national clean renewable energy bond limitation of $800,000,000.
+Annual national limitation.--With respect to bonds issued after December 31, 2007, and before January 1, 2011, there is a national clean renewable energy bond limitation for each calendar year of $800,000,000.''.
+Effective Date.--The amendments made by this section shall apply to bonds issued after the date of the enactment of this Act.
+Subtitle B--Conservation and Energy Efficiency Provisions SEC.
+EXTENSION OF ENERGY EFFICIENT COMMERCIAL BUILDINGS DEDUCTION.
+Section 179D(h) of the Internal Revenue Code of 1986 (relating to termination) is amended by striking ``2007'' and inserting ``2010''.
+EXTENSION OF NEW ENERGY EFFICIENT HOME CREDIT.
+In General.--Subsection (g) of section 45L of the Internal Revenue Code of 1986 (relating to new energy efficient home credit) is amended to read as follows: ``(g) Termination.--This section shall not apply to-- ``(1) any qualified new energy efficient home meeting the energy saving requirements of subsection (c)(1) acquired after December 31, 2010, and ``(2) any qualified new energy efficient home meeting the energy saving requirements of paragraph (2) or (3) of subsection (c) acquired after December 31, 2007.''.
+Effective Date.--The amendment made by this section shall take effect as if included in the amendments made by section 1332 of the Energy Policy Act of 2005.
+EXTENSION OF RESIDENTIAL ENERGY EFFICIENT PROPERTY CREDIT.
+Section 25D(g) of the Internal Revenue Code of 1986 (relating to termination) is amended by striking ``2007'' and inserting ``2010''.
+EXTENSION OF BUSINESS SOLAR INVESTMENT TAX CREDIT.
+Sections 48(a)(2)(A)(i)(II) and 48(a)(3)(A)(ii) of the Internal Revenue Code of 1986 (relating to termination) are each amended by striking ``2008'' and inserting ``2011''.
+Subtitle C--Alternative Fuels and Vehicles Incentives SEC.
+EXTENSION OF EXCISE TAX PROVISIONS AND INCOME TAX CREDIT FOR BIODIESEL AND ALTERNATIVE FUELS.
+Biodiesel.--Sections 40A(g), 6426(c)(6), and 6427(e)(5)(B) of the Internal Revenue Code of 1986 are each amended by striking ``2008'' and inserting ``2010''.
+Alternative Fuel.-- (1) Fuels.--Sections 6426(d)(4) and 6427(e)(5)(C) of the Internal Revenue Code of 1986 are each amended by striking ``September 30, 2009'' and inserting ``December 31, 2010''.
+Refueling property.--Section 30C(g) of such Code is amended by striking ``2009'' and inserting ``2010''.
+Effective Date.--The amendments made by this section shall take effect on January 1, 2007.
+EXCEPTION FROM DEPRECIATION LIMITATION FOR CERTAIN ALTERNATIVE AND ELECTRIC PASSENGER AUTOMOBILES.
+In General.--Paragraph (1) of section 280F(a) of the Internal Revenue Code of 1986 (relating to limitation) is amended by adding at the end the following new subparagraph: ``(D) Special rule for certain alternative motor vehicles and qualified electric vehicles.--Subparagraph (A) shall not apply to any motor vehicle for which a credit is allowable under section 30 or 30B.''.
+Conforming Amendment.--Subparagraph (C) of section 280F(a)(1) of the Internal Revenue Code of 1986 is amended by striking clause (ii) and by redesignating clause (iii) as clause (ii).
+Effective Date.--The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act.
+TITLE II--WEATHERIZATION ASSISTANCE SEC.
+Establishment.--The Secretary of Energy shall establish a program to provide assistance to States for consultations with respect to weatherization and energy efficiency of residences and small businesses.
+Under the program, States shall provide information and recommendations for achieving greater energy efficiency, but shall not provide equipment or labor to achieve energy efficiency improvements.
+Eligibility.-- (1) States.--A State shall be eligible for assistance under this section if it receives funding under the Low-Income Home Energy Assistance Act of 1981 (42 United States Code 8621 et sequentes).
+Recipients.--Residential consultations shall be provided through the program established under this section only with respect to residences for which the household income does not exceed 200 percent of the State median income for households of the same size.
+Definition.--For purposes of this section, the term ``small businesses'' means small business concerns within the meaning of section 3 of the Small Business Act (15 United States Code 632).
+There are authorized to be appropriated to the Secretary of Energy for carrying out this title $200,000,000 for each of the fiscal years 2007 through 2011.

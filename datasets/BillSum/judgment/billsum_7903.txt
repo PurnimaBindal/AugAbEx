@@ -1,0 +1,50 @@
+This Act may be cited as the ``Tax Simplification for Americans Act of 2004''.
+HEAD OF HOUSEHOLD FILING STATUS CHANGED TO SINGLE HEAD OF HOUSEHOLD.
+In General.--The following provisions of the Internal Revenue Code of 1986 are each amended by striking ``head of a household'' each place it appears and inserting ``single head of household'': (1) Subsection (b) of section 1.
+Paragraphs (1) and (3) of section 2(b).
+The table in section 25B(b).
+Clause (iii) of section 151(c)(6)(B).
+Clauses (ii) and (iii) of section 151(d)(3)(C).
+Subparagraph (A) of section 6012(a)(1).
+Other Conforming Amendments.-- (1) Subparagraph (B) of section 63(c)(2) of such Code is amended by striking ``head of household'' and inserting ``single head of household''.
+Section 1 of such Code is amended-- (A) in the heading for subsection (b) by inserting ``Single'' before ``Heads'' , (B) in subsection (c) by inserting ``single'' before ``head'', and (C) in the heading of subsection (c) by inserting ``single'' before ``heads''.
+The heading for section 2(b) of such Code is amended to read as follows: ``Definition of Single Head of Household''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2004.
+EXPANDED AVAILABILITY OF 1040EZ AND 1040A.
+In General.--Chapter 77 of the Internal Revenue Code of 1986 (relating to miscellaneous provisions) is amended by adding at the end the following new section: ``SEC.
+DOLLAR THRESHOLD FOR THE USE OF FORMS 1040EZ AND 1040A.
+In General.--An individual shall not be ineligible to use Form 1040EZ and Form 1040A for filing individual income tax returns on the basis of-- ``(1) the amount of the taxpayer's taxable interest income, or ``(2) the amount of the taxpayer's taxable income, so long as the taxpayer's taxable income does not exceed $100,000.
+Inflation Adjustment.--In the case of any taxable year beginning in a calendar year after 2004, the $100,000 dollar amount in subsection (a) shall be increased by an amount equal to-- ``(1) such dollar amount, multiplied by ``(2) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting `calendar year 2003' for `calendar year 1992' in subparagraph (B) thereof.
+If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.''.
+Clerical Amendment.--The table of sections for chapter 77 of such Code is amended by adding at the end the following new item: ``Sec.
+Dollar threshold for the use of forms 1040EZ and 1040A.''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2003.
+SIMPLIFICATION THROUGH ELIMINATION OF INOPERATIVE PROVISIONS.
+In General.-- (1) Adjustments in tax tables so that inflation will not result in tax increases.--Paragraph (7) of section 1(f) of the Internal Revenue Code of 1986 is amended to read as follows: ``(7) Special rule for certain brackets.--In prescribing tables under paragraph (1) which apply to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate bracket begins shall be determined under paragraph (3) by substituting `1993' for `1992'.''.
+Earned income credit.--Paragraph (1) of section 32(b) of such Code is amended-- (A) by striking subparagraphs (B) and (C), and (B) in subparagraph (A) by striking ``(A) In general.--In the case of taxable years beginning after 1995'' and moving the table 2 ems to the left.
+Annuities; certain proceeds of endowment and life insurance contracts.--Section 72 of such Code is amended-- (A) in subsection (c)(4) by striking ``; except that if such date was before January 1, 1954, then the annuity starting date is January 1, 1954'', and (B) in subsection (g)(3) by striking ``January 1, 1954, or'' and ``, whichever is later''.
+Accident and health plans.--Section 105(f) of such Code is amended by striking ``or (d)''.
+Flexible spending arrangements.--Section 106(c)(1) of such Code is amended by striking ``Effective on and after January 1, 1997, gross'' and inserting ``Gross''.
+Certain combat zone compensation of members of the armed forces.--Subsection (c) of section 112 of such Code is amended-- (A) by striking ``(after June 24, 1950)'' in paragraph (2), and (B) striking ``such zone;'' and all that follows in paragraph (3) and inserting ``such zone.''.
+Principal residence.--Section 121(b)(3) of such Code is amended-- (A) by striking subparagraph (B), and (B) in subparagraph (A) by striking ``(A) In general.--'' and moving the text 2 ems to the left.
+Certain reduced uniformed services retirement pay.-- Section 122(b)(1) of such Code is amended by striking ``after December 31, 1965,''.
+Mortgage revenue bonds for residences in federal disaster areas.--Section 143(k) of such Code is amended by striking paragraph (11).
+State legislators' travel expenses away from home.-- Paragraph (4) of section 162(h) of such Code is amended by striking ``For taxable years beginning after December 31, 1980, this'' and inserting ``This''.
+Health insurance costs of self-employed individuals.-- Paragraph (1) of section 162(l) of such Code is amended to read as follows: ``(1) Allowance of deduction.--In the case of an individual who is an employee within the meaning of section 401(c)(1), there shall be allowed as a deduction under this section an amount equal to 100 percent of the amount paid during the taxable year for insurance which constitutes medical care for the taxpayer and the taxpayer's spouse and dependents.''.
+Interest.-- (A) Section 163 of such Code is amended-- (i) by striking paragraph (6) of subsection (d), and (ii) by striking paragraph (5) of subsection (h).
+Section 56(b)(1)(C) of such Code is amended by striking clause (ii) and by redesignating clauses (iii), (iv), and (v) as clauses (ii), (iii), and (iv), respectively.
+Amounts received by surviving annuitant under joint and survivor annuity contract.--Subparagraph (A) of section 691(d)(1) of such Code is amended by striking ``after December 31, 1953, and''.
+Income taxes of members of armed forces on death.-- Section 692(a)(1) of such Code is amended by striking ``after June 24, 1950''.
+Tax on nonresident alien individuals.--Subparagraph (B) of section 871(a)(1) of such Code is amended to read as follows: ``(B) gains described in subsection (b) or (c) of section 631,''.
+Old-age, survivors, and disability insurance.-- Subsection (a) of section 1401 of such Code is amended by striking ``the following percent'' and all that follows and inserting ``12.4 percent of the amount of the self-employment income for such taxable year.''.
+Hospital insurance.--Subsection (b) of section 1401 of such Code is amended by striking ``the following percent'' and all that follows and inserting ``2.9 percent of the amount of the self-employment income for such taxable year.''.
+Ministers, members of religious orders, and christian science practitioners.--Paragraph (3) of section 1402(e) of such Code is amended by striking ``whichever of the following dates is later: (A)'' and by striking ``; or (B)'' and all that follows and inserting a period.
+Withholding of tax on nonresident aliens.--The first sentence of subsection (b) of section 1441 of such Code and the first sentence of paragraph (5) of section 1441(c) of such Code are each amended by striking ``gains subject to tax'' and all that follows through ``October 4, 1966'' and inserting ``and gains subject to tax under section 871(a)(1)(D)''.
+Retirement.--Section 7447(i)(3)(B)(ii) of such Code is amended by striking ``at 4 percent per annum to December 31, 1947, and at 3 percent per annum thereafter'', and inserting ``at 3 percent per annum''.
+Annuities to surviving spouses and dependent children of judges.-- (A) Paragraph (2) of section 7448(a) of such Code is amended by striking ``or under section 1106 of the Internal Revenue Code of 1939'' and by striking ``or pursuant to section 1106(d) of the Internal Revenue Code of 1939''.
+Subsection (g) of section 7448 of such Code is amended by striking ``or other than pursuant to section 1106 of the Internal Revenue Code of 1939''.
+Subsections (g), (j)(1), and (j)(2) of section 7448 of such Code are each amended by striking ``at 4 percent per annum to December 31, 1947, and at 3 percent per annum thereafter'' and inserting ``at 3 percent per annum''.
+Effective Date.-- (1) General rule.--Except as otherwise provided in paragraph (2), the amendments made by subsection (a) shall take effect on the date of enactment of this Act.
+Savings provision.--If-- (A) any provision amended or repealed by subsection (a) applied to-- (i) any transaction occurring before the date of the enactment of this Act, (ii) any property acquired before such date of enactment, or (iii) any item of income, loss, deduction, or credit taken into account before such date of enactment, and (B) the treatment of such transaction, property, or item under such provision would (without regard to the amendments made by subsection (a)) affect the liability for tax for periods ending after such date of enactment, nothing in the amendments made by subsection (a) shall be construed to affect the treatment of such transaction, property, or item for purposes of determining liability for tax for periods ending after such date of enactment.
+Passed the House of Representatives July 21, 2004.
+Attest: JEFF TRANDAHL, Clerk.

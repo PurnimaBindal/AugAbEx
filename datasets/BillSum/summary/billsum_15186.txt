@@ -1,0 +1,3 @@
+Department of Homeland Security Chief Data Officer Authorization Act (Sec.
+This bill amends the Homeland Security Act of 2002 to direct the Chief Information Officer of the Department of Homeland Security (DHS) to designate a career appointee of DHS as its Chief Data Officer.
+The bill sets forth the responsibilities of the Chief Data Officer, including: ensuring that DHS conforms with recognized data management best practices, coordinating the release of data for public use after privacy reviews, promoting the use of modern data systems to improve DHS operations, and serving as the liaison to other federal agencies and the Office of Management and Budget on data.

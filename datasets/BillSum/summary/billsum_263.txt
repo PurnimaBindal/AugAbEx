@@ -1,0 +1,27 @@
+Cyber-Security Enhancement and Consumer Data Protection Act of 2006 - (Sec.
+Amends the federal criminal code to prohibit obtaining without authorization: a means of identification from a protected computer (a computer exclusively for the use of a financial institution or the federal government); or the capability to gain access to or remotely control a protected computer.
+(Sec.
+Revises the definition of "protected computer" to include a computer the use of which affects interstate or foreign commerce or communication.
+Eliminates the criminal law requirement that conduct constituting computer fraud involve an interstate or foreign communication.
+(Sec.
+Includes computer fraud within the definition of racketeering for purposes of the Racketeer Influenced and Corrupt Organizations Act (RICO).
+(Sec.
+Includes threats to access a protected computer without authorization or to exceed such authorized access within the definition of computer-related extortion.
+(Sec.
+Expands the crime of computer fraud to include conspiracy to commit computer fraud.
+(Sec.
+Imposes a fine and/or prison term of up to five years for failure to notify the US Secret Service or Federal Bureau of Investigation (FBI) of a major security breach in a database containing identification information with the intent to prevent, obstruct, or impede a lawful investigation of such breach.
+Defines "major security breach" as any security breach that involves: the acquisition of the identification information of 10,000 or more individuals causing a significant risk of identity theft; databases owned by the federal government; and data containing identification information of federal employees or contractors involved in national security matters or law enforcement.
+Directs the Attorney General and the Secretary of Homeland Security to jointly issue regulations on the form, content, and timing of notices of major security breaches.
+Requires that such regulations provide that notice of a security breach be provided to the Secret Service or FBI before notice is provided to consumers and within 14 days after discovery of such breach.
+Grants immunity to law enforcement entities or to any person who notifies law enforcement of a security breach.
+Imposes a civil penalty of $50,000 for each day any individual fails to provide notice of a major security breach (not to exceed $1 million).
+(Sec.
+Increases the prison term for computer fraud to a maximum of 30 years.
+Requires forfeiture of any personal property used to commit computer fraud.
+(Sec.
+Directs the US Sentencing Commission to review and amend its guidelines and policy statements to reflect congressional intent to increase criminal penalties for computer fraud.
+(Sec.
+10) Imposes criminal penalties for damage affecting ten or more protected computers during any one-year period.
+(Sec.
+11) Authorizes additional funding in FY2007-FY2011 to the Director of the Secret Service, the Attorney General for the Criminal Division of the Department of Justice, and the Director of the FBI to investigate and prosecute crimes committed through the use of computers.

@@ -1,0 +1,3 @@
+Credit Information Protection Act of 2017 This bill amends the Fair Credit Reporting Act to require, after a data security breach, a consumer reporting agency to provide a security freeze to a consumer upon request.
+(A security freeze prohibits the consumer reporting agency from releasing a report without the consumer's express authorization.)
+The consumer reporting agency must, without a fee: place a freeze on any consumer's report, and provide unlimited security freezes and freeze removals to a consumer affected by the breach.

@@ -1,0 +1,33 @@
+INCREASE OF ALTERNATIVE SIMPLIFIED CREDIT.
+In General.--Subparagraph (A) of section 41(c)(5) of the Internal Revenue Code of 1986 is amended by striking ``14 percent (12 percent in the case of taxable years ending before January 1, 2009)'' and inserting ``20 percent''.
+Conforming Amendment.--Clause (ii) of section 41(c)(5)(B) of the Internal Revenue Code of 1986 is amended by striking ``6 percent'' and inserting ``10 percent''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2017.
+ALLOCATION OF RESEARCH EXPENSES AMONG BUSINESS COMPONENTS.
+In General.--Subparagraph (A) of section 41(d)(2) of the Internal Revenue Code of 1986 is amended by inserting ``, and may be applied using a method that relies on reasonable estimation techniques in lieu of contemporaneous accounting to measure employee hours per business component'' before the period.
+Effective Date.--The amendment made by this section shall apply to taxable years beginning after December 31, 2017.
+INCLUSION OF QUALIFIED UPPER-LEVEL EMPLOYEES IN RESEARCH EXPENSE CALCULATION.
+In General.--Clause (ii) of section 41(b)(2)(B) of the Internal Revenue Code of 1986 is amended by inserting ``, without regard to the employee's position or management level'' before the period.
+Effective Date.--The amendment made by this section shall apply to taxable years beginning after December 31, 2017.
+REPEAL OF EXCLUSION OF ADAPTIVE RESEARCH.
+In General.--Paragraph (4) of section 41(d) of the Internal Revenue Code of 1986 is amended by striking subparagraph (B) and by redesignating subparagraphs (C), (D), (E), (F), (G), and (H) as subparagraphs (B), (C), (D), (E), (F), and (G), respectively.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2017.
+INCLUSION OF COST REDUCTION RESEARCH.
+In General.--Subparagraph (A) of section 41(d)(3) of the Internal Revenue Code of 1986 is amended-- (1) by striking ``or'' at the end of clause (ii); (2) by striking the period at the end of clause (iii) and inserting ``, or''; and (3) by adding at the end the following new clause: ``(iv) reduction of costs associated with-- ``(I) a business component of the taxpayer, or ``(II) research relating to a purpose described in clause (i), (ii), or (iii).''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2017.
+INCLUSION OF OBSOLESCENCE MITIGATION.
+In General.--Clause (iv) of section 41(d)(3)(A) of the Internal Revenue Code of 1986, as added by section 5, is amended by inserting ``or obsolescence mitigation'' after ``reduction of costs''.
+Effective Date.--The amendment made by this section shall apply to taxable years beginning after December 31, 2017.
+ELECTION OF REDUCED CREDIT MAY BE MADE ON AMENDED RETURN.
+In General.--Subparagraph (C) of section 280C(c)(3) of the Internal Revenue Code of 1986 is amended to read as follows: ``(C) Election.--An election under this paragraph shall made in such manner as the Secretary may prescribe and, once made with respect to a taxable year, shall be irrevocable.
+Such election may be made on the return of tax for the taxable year to which it applies or on an amended return.''.
+Effective Date.--The amendment made by this section shall apply to amended returns which are permitted to be filed under the applicable provisions of the Internal Revenue Code of 1986 after the date of the enactment of this Act.
+INVESTMENT IN CONNECTED MANUFACTURING EQUIPMENT.
+In General.--Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: ``SEC.
+Amount of Credit.--For purposes of section 38, the connected manufacturing equipment credit for any taxable year is an amount equal to 10 percent of the qualified connected manufacturing equipment expenditures made by the taxpayer during such year.
+Qualified Connected Manufacturing Equipment Expenditures.-- ``(1) In general.--Subject to paragraph (2), for purposes of this section, the term `qualified connected manufacturing equipment expenditures' means an expenditure relating to the purchase or installation of-- ``(A) industrial equipment components which contain a microprocessor and can be connected to an electronic communication network, and ``(B) any software, routing, or local area network components necessary to connect components described in subparagraph (A) to an electronic communication network.
+Eligibility.--The Secretary, in consultation with the Secretary of Commerce, shall identify the types of components described in paragraph (1) which are eligible for the credit under this section.
+Basis Adjustment.--For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.''.
+Conforming Amendments.-- (1) Section 38(b) of the Internal Revenue Code of 1986 is amended-- (A) by striking ``plus'' at the end of paragraph (35); (B) by striking the period at the end of paragraph (36) and inserting ``, plus''; and (C) by adding at the end the following new paragraph: ``(37) the connected manufacturing equipment credit determined under section 45S(a).''.
+The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item: ``Sec.
+Connected manufacturing equipment credit.''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2018.

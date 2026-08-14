@@ -1,0 +1,34 @@
+TITLE I--EXCLUSION OF NONNATIVE SPECIES FROM MIGRATORY BIRD TREATY ACT SEC.
+This title may be cited as the ``Migratory Bird Treaty Reform Act of 2004''.
+EXCLUSION OF NON-NATIVE SPECIES FROM APPLICATION OF CERTAIN PROHIBITIONS UNDER MIGRATORY BIRD TREATY ACT.
+Section 2 of the Migratory Bird Treaty Act (16 United States Code 703) is amended-- (1) in the first sentence by striking ``That unless and except as permitted'' and inserting the following: ``(a) In General.--Unless and except as permitted''; and (2) by adding at the end the following: ``(b) Limitation on Application to Introduced Species.-- ``(1) In general.--This section applies only to migratory bird species that are native to the United States and whose occurrence in the United States is entirely the result of natural biological or ecological conditions.
+Treatment of introduced species.--For purposes of paragraph (1)-- ``(A) a bird species shall not be treated as native to the United States if it occurs in the United States solely as a result of intentional or unintentional human-assisted introduction; and ``(B) a migratory bird species shall be treated as native to the United States if-- ``(i) it was native to the United States and extant in 1918; ``(ii) it was extirpated after 1918 throughout its range in the United States; and ``(iii) after such extirpation, it was reintroduced in the United States as a part of a program carried out by a Federal agency.''.
+The Secretary of the Interior shall publish in the Federal Register within 3 months after the date of enactment of this Act a list of all non-native, human introduced bird species to which the Migratory Bird Treaty Act does not apply that belong to biological families of migratory birds covered under any of the migratory bird conventions with Great Britain (for Canada), Mexico, Russia, or Japan.
+The Secretary shall provide adequate time for public comment.
+Nothing in this section concerning the publication of the list shall delay implementation of other provisions of this Act that exclude non-native, human introduced bird species from the application of the Migratory Bird Treaty Act.
+TITLE II--CONSERVATION OF NEOTROPICAL MIGRATORY BIRDS SEC.
+This title may be cited as the ``Neotropical Migratory Bird Conservation Improvement Act of 2004''.
+AMENDMENTS TO NEOTROPICAL MIGRATORY BIRD CONSERVATION ACT.
+Findings.--Section 2(1) of the Neotropical Migratory Bird Conservation Act (16 United States Code 6101(1)) is amended by inserting ``but breed in Canada and the United States'' after ``the Caribbean''.
+Purposes.--Section 3(2) of the Neotropical Migratory Bird Conservation Act (16 United States Code 6102(2)) is amended by inserting ``Canada,'' after ``United States,''.
+Definition of Caribbean.--Section 4 of the Neotropical Migratory Bird Conservation Act is amended by redesignating paragraphs (2) and (3) in order or paragraphs (3) and (4), and by inserting paragraph (1) the following: ``(2) Caribbean.--The term `Caribbean' includes Puerto Rico and the United States Virgin Islands.''.
+Cost Sharing.--Section 5(e) of the Neotropical Migratory Bird Conservation Act (16 United States Code 6104(e)) is amended-- (1) in paragraph (1) by striking ``25 percent'' and inserting ``50 percent''; and (2) in paragraph (2) by amending subparagraph (B) to read as follows: ``(B) Form of payment.-- ``(i) Projects in the united states and canada.--The non-Federal share required to be paid for a project carried out in the United States or Canada shall be paid in cash.
+Projects in latin america and the caribbean.--The non-Federal share required to be paid for a project carried out in Latin America or the Caribbean may be paid in cash or in kind.''.
+Report.--Section 8 of the Neotropical Migratory Bird Conservation Act (16 United States Code 6107) is amended-- (1) by striking ``October 1, 2002,'' and inserting ``12 months after the date of the enactment of the Neotropical Migratory Bird Conservation Improvement Act of 2004,''; and (2) by inserting before the period the following: ``, and a description of the activities of the advisory committee convened under section 7(b)''.
+Neotropical Migratory Bird Conservation Fund.-- (1) In general.-- Section 9 of the Neotropical Migratory Bird Conservation Act (16 United States Code 6108) is amended by striking so much as precedes subsection (c) and inserting the following: ``SEC.
+NEOTROPICAL MIGRATORY BIRD CONSERVATION FUND.
+Establishment.--There is established in the Treasury a separate account, which shall be known as the `Neotropical Migratory Bird Conservation Fund'.
+The Fund shall consist of amounts deposited into the Fund by the Secretary of the Treasury under subsection (b).
+Deposits Into the Fund.--The Secretary of the Treasury shall deposit into the Fund-- ``(1) all amounts received by the Secretary in the form of donations under subsection (d); and ``(2) other amounts appropriated to the Fund.''.
+Administrative expenses.--Section 9(c)(2) of the Neotropical Migratory Bird Conservation Act (16 United States Code 6108(c)(2)) is amended by striking ``$80,000'' and inserting ``$150,000''.
+Conforming amendments.--The Neotropical Migratory Bird Conservation Act is amended as follows: (A) In section 4 (16 United States Code 6103), by striking paragraph (1) and inserting the following: ``(1) Fund.--The term `Fund' means the Neotropical Migratory Bird Conservation Fund established by section 9(a).''.
+In section 9(d) (16 United States Code 6108(d)), by striking ``Account'' and inserting ``Fund''.
+Transfer.--The Secretary of the Treasury may transfer to the Neotropical Migratory Bird Conservation Fund amounts that were in the Neotropical Migratory Bird Conservation Account immediately before the enactment of this Act.
+Authorization of Appropriations.--Section 10 of the Neotropical Migratory Bird Conservation Act (16 United States Code 6109) is amended to read as follows: ``SEC.
+In General.--There is authorized to be appropriated to the Fund to carry out this Act the following amounts: ``(1) $5,000,000 for fiscal year 2005.
+$5,000,000 for fiscal year 2006.
+$10,000,000 for fiscal year 2007.
+$15,000,000 for fiscal year 2008.
+Availability.--Amounts appropriated under this section may remain available until expended.
+Allocation.--Of amounts appropriated under this section for each fiscal year, not less than 75 percent shall be expended for projects carried out outside the United States.
+Limitation on Expenditures for Projects in Canada.--Amounts appropriated under this section for a fiscal year may not be used for any project in Canada unless the amount available to carry out this Act for that fiscal year is greater than $10,000,000.

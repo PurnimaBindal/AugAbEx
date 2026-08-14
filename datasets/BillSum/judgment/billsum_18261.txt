@@ -1,0 +1,57 @@
+This Act may be cited as the ``Restore Open Government Act of 2004''.
+The table of contents for this Act is as follows: Sec.
+TITLE I--FREEDOM OF INFORMATION Sec.
+Revocation of the Ashcroft Memo and the Card Memo.
+Findings and policy relating to disclosure of information under the Freedom of Information Act.
+Protection of voluntarily furnished confidential information.
+TITLE II--PRESIDENTIAL RECORDS Sec.
+Revocation of Executive Order of November 1, 2001.
+TITLE III--ADVISORY COMMITTEES Sec.
+Presidential inter-agency advisory committees.
+TITLE IV--CLASSIFICATION OF INFORMATION Sec.
+Reducing excessive classification of information.
+TITLE V--OTHER PROVISIONS Sec.
+TITLE I--FREEDOM OF INFORMATION SEC.
+REVOCATION OF THE ASHCROFT MEMO AND THE CARD MEMO.
+The ``Memorandum for Heads of all Federal Departments and Agencies'' on ``The Freedom of Information Act'' issued by Attorney General John Ashcroft on October 12, 2001, and the ``Memorandum for the Heads of Executive Department and Agencies'' on ``Action to Safeguard Information Regarding Weapons of Mass Destruction and Other Sensitive Documents Related to Homeland Security'' issued by Andrew H. Card, Jr., Assistant to the President and Chief of Staff on March 19, 2002, shall have no force or effect.
+FINDINGS AND POLICY RELATING TO DISCLOSURE OF INFORMATION UNDER THE FREEDOM OF INFORMATION ACT.
+Findings.--Congress finds the following: (1) Public access to information held by the Federal Government is vitally important to the functioning of a democratic society.
+The Freedom of Information Act was enacted to ensure such public access to information.
+The Freedom of Information Act specifies limited exemptions to the general requirement for disclosure, where disclosure could potentially threaten other important public policy goals.
+In establishing the categories of exempt information under the Freedom of Information Act, Congress allowed agencies to withhold information in those categories, but did not in any way mandate or encourage such withholding.
+Policy.--The policy of the Federal Government is to release information to the public in response to a request under the Freedom of Information Act-- (1) if such release is required by law; or (2) if such release is allowed by law and the agency concerned does not reasonably foresee that disclosure would be harmful to an interest protected by an applicable exemption.
+Guidance.--All guidance provided to Federal Government employees responsible for carrying out the Freedom of Information Act shall be consistent with the policy set forth in subsection (b).
+PROTECTION OF VOLUNTARILY FURNISHED CONFIDENTIAL INFORMATION.
+In General.--Title II of the Homeland Security Act of 2002 (Public Law 107-296) is amended by striking subtitle B and inserting the following: ``Subtitle B--Protection of Voluntarily Furnished Confidential Information ``SEC.
+PROTECTION OF VOLUNTARILY FURNISHED CONFIDENTIAL INFORMATION.
+Definitions.--In this section: ``(1) Critical infrastructure.--The term `critical infrastructure' has the meaning given that term in section 1016(e) of the USA PATRIOT ACT of 2001 (42 United States Code 5195c(e)).
+Furnished voluntarily.-- ``(A) Definition.--The term `furnished voluntarily' means a submission of a record that-- ``(i) is made to the Department in the absence of authority of the Department requiring that record to be submitted; and ``(ii) is not submitted or used to satisfy any legal requirement or obligation or to obtain any grant, permit, benefit (such as agency forbearance, loans, or reduction or modifications of agency penalties or rulings), or other approval from the Government.
+Benefit.--In this paragraph, the term `benefit' does not include any warning, alert, or other risk analysis by the Department.
+In General.--Notwithstanding any other provision of law, a record pertaining to the vulnerability of and threats to critical infrastructure (such as attacks, response, and recovery efforts) that is furnished voluntarily to the Department shall not be made available under section 552 of title 5, United States Code, if-- ``(1) the provider would not customarily make the record available to the public; and ``(2) the record is designated and certified by the provider, in a manner specified by the Department, as confidential and not customarily made available to the public.
+Records Shared With Other Agencies.-- ``(1) In general.-- ``(A) Response to request.--An agency in receipt of a record that was furnished voluntarily to the Department and subsequently shared with the agency shall, upon receipt of a request under section 552 of title 5, United States Code, for the record-- ``(i) not make the record available; and ``(ii) refer the request to the Department for processing and response in accordance with this section.
+Segregable portion of record.--Any reasonably segregable portion of a record shall be provided to the person requesting the record after deletion of any portion which is exempt under this section.
+Disclosure of independently furnished records.-- Notwithstanding paragraph (1), nothing in this section shall prohibit an agency from making available under section 552 of title 5, United States Code, any record that the agency receives independently of the Department, regardless of whether or not the Department has a similar or identical record.
+Withdrawal of Confidential Designation.--The provider of a record that is furnished voluntarily to the Department under subsection (b) may at any time withdraw, in a manner specified by the Department, the confidential designation.
+Procedures.--The Secretary shall prescribe procedures for-- ``(1) the acknowledgement of receipt of records furnished voluntarily; ``(2) the designation, certification, and marking of records furnished voluntarily as confidential and not customarily made available to the public; ``(3) the care and storage of records furnished voluntarily; ``(4) the protection and maintenance of the confidentiality of records furnished voluntarily; and ``(5) the withdrawal of the confidential designation of records under subsection (d).
+Effect on State and Local Law.--Nothing in this section shall be construed as preempting or otherwise modifying State or local law concerning the disclosure of any information that a State or local government receives independently of the Department.
+Report.-- ``(1) Requirement.--Not later than 18 months after the date of the enactment of the Restore Open Government Act of 2004, the Comptroller General of the United States shall submit to the committees of Congress specified in paragraph (2) a report on the implementation and use of this section, including-- ``(A) the number of persons in the private sector, and the number of State and local agencies, that furnished voluntarily records to the Department under this section; ``(B) the number of requests for access to records granted or denied under this section; and ``(C) such recommendations as the Comptroller General considers appropriate regarding improvements in the collection and analysis of sensitive information held by persons in the private sector, or by State and local agencies, relating to vulnerabilities of and threats to critical infrastructure, including the response to such vulnerabilities and threats.
+Committees of congress.--The committees of Congress specified in this paragraph are-- ``(A) the Committees on the Judiciary and Governmental Affairs of the Senate; and ``(B) the Committees on the Judiciary and Government Reform and Oversight of the House of Representatives.
+Form.--The report shall be submitted in unclassified form, but may include a classified annex.''.
+Technical and Conforming Amendment.--The table of contents for the Homeland Security Act of 2002 (Public Law 107-296) is amended by striking the items relating to subtitle B of title II and sections 211 through 215 and inserting the following: ``Subtitle B--Protection of Voluntarily Furnished Confidential Information ``Sec.
+Protection of voluntarily furnished confidential information.''.
+TITLE II--PRESIDENTIAL RECORDS SEC.
+REVOCATION OF EXECUTIVE ORDER OF NOVEMBER 1, 2001.
+Executive Order number 13233, dated November 1, 2001 (66 Fed.
+56025), shall have no force or effect, and Executive Order number 12667, dated January 18, 1989 (54 Fed.
+3403), shall apply by its terms.
+TITLE III--ADVISORY COMMITTEES SEC.
+PRESIDENTIAL INTER-AGENCY ADVISORY COMMITTEES.
+Definition.--The term ``Presidential inter-agency advisory committee'' is any committee or task force that-- (1) is composed wholly of full-time, or permanent part- time, officers or employees of the Federal Government; (2) includes officers or employees of at least two separate Federal agencies; (3) is established or utilized to provide advice, ideas, or recommendations to the President or Vice President on a specified topic or topics; and (4) has at least one officer or employee assigned full-time as a staff member of the committee to support the functions of the committee.
+Requirements.-- (1) The President shall ensure that the names of the members of the committee are published in the Federal Register.
+The committee must make public each substantive contact between the advisory committee, or individual members of the advisory committee acting on the committee's behalf, and any person who is not a full-time or permanent part-time officer or employee of the Federal Government, including-- (A) the date of the contact; (B) the form of the contact (in person, by telephone, by e-mail, or in writing); (C) the names and affiliations of the parties involved; and (D) the substance of the communication and the communication itself, if in electronic or written form.
+For purposes of this subsection, a contact shall be considered substantive if the information conveyed influenced or was reflected in any way in the committee's advice, recommendations, or report to the President or Vice President.
+TITLE IV--CLASSIFICATION OF INFORMATION SEC.
+REDUCING EXCESSIVE CLASSIFICATION OF INFORMATION.
+As soon as possible, but in no event later than 180 days after the date of the enactment of this Act, the President shall require Federal departments and agencies to promote a culture of information sharing by reducing disincentives to information sharing, including overclassification of information and unnecessary requirements for originator approval.
+TITLE V--OTHER PROVISIONS SEC.
+Section 552(a)(4)(E) of title 5, United States Code, is amended-- (1) by inserting ``, or in any case seeking information from a Federal agency or official under any other Federal law,'' after ``case under this section''; and (2) by adding at the end the following: ``For purposes of this section, a complainant has `substantially prevailed' if the complainant has obtained some of its requested relief through a judicial or administrative order or an enforceable written agreement, or if the complainant's pursuit of a nonfrivolous claim or defense has been a catalyst for a voluntary or unilateral change in position by the opposing party that provides any significant part of the relief sought.

@@ -1,0 +1,27 @@
+This Act may be cited as the ``Social Security Protection and Tax Relief Act of 2001''.
+Congress finds the following: (1) Working people are subject to social security taxes as well as income taxes, and for over 90 percent of the population the combined tax on earned income is higher than the income tax rates of 15 percent and 28 percent that apply to unearned income.
+There is no logical reason why social security taxes should be imposed only on earnings and not on unearned income (such as dividends, interest, rent income, and capital gains).
+SOCIAL SECURITY TAX ON CERTAIN UNEARNED INCOME.
+In General.--Subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to determination of tax liability) is amended by adding at the end the following new part: ``PART VIII--SOCIAL SECURITY TAX ON CERTAIN UNEARNED INCOME ``Sec.
+Social security tax on certain unearned income.
+SOCIAL SECURITY TAX ON CERTAIN UNEARNED INCOME.
+Imposition of Tax.--In the case of an individual, there is hereby imposed (in addition to any other tax imposed by this subtitle) for each taxable year a tax equal to 12 percent of such individual's social security taxable income for such taxable year.
+Definitions.--For purposes of this section-- ``(1) Social security taxable income.--The term `social security taxable income' means adjusted gross income reduced by the greater of-- ``(A) the sum of-- ``(i) the standard deduction applicable to the taxpayer (or which would be applicable if the taxpayer did not elect to itemize deductions for the taxable year), and ``(ii) the deduction for personal exemptions under section 151 (determined without regard to subsection (d)(3) thereof), or ``(B) the aggregate exempt income of the taxpayer for the taxable year.
+Exempt income.--The term `exempt income' means the following amounts to the extent included in gross income: ``(A) Amounts received as a pension or annuity from a qualified plan (as defined in section 4980(c)(1)).
+Amounts received as a social security benefit (as defined in section 86(d)).
+Amounts received as earned income (within the meaning of section 911(d)).
+Credits Not Allowed, Etc.--The tax imposed by this section shall not be treated as a tax imposed by this chapter for purposes of determining-- ``(1) the amount of any credit allowable under this chapter, or ``(2) the amount of the minimum tax imposed by section 55.''.
+Clerical Amendment.--The table of parts for subchapter A of chapter 1 of such Code is amended by adding at the end the following new item: ``Part VIII.
+Social security tax on certain unearned income.''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2001.
+Transfers to Trust Funds.-- (1) In general.--There are hereby appropriated to the payor funds amounts equivalent to the tax imposed by section 59B of such Code (as added by this section).
+The Secretary of the Treasury shall make appropriate allocations of revenue received in the general fund of the Treasury to each payor fund.
+Transfers.--The amounts appropriated by paragraph (1) to any payor fund shall be transferred from time to time (but not less frequently than quarterly) from the general fund of the Treasury on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in such paragraph.
+Any such quarterly payment shall be made on the first day of such quarter and shall take into account revenue estimated to be received during such quarter.
+Proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+Definitions.--For purposes of this subsection-- (A) Payor fund.--The term ``payor fund'' means any trust fund or account from which payments of social security benefits are made.
+Social security benefits.--The term ``social security benefits'' has the meaning given such term by section 86(d) of the Internal Revenue Code of 1986.
+CHANGE IN RATES OF SOCIAL SECURITY TAXES.
+Decrease in Rate of OASDI Tax on Employees.--The table in section 3101(a) of the Internal Revenue Code of 1986 is amended by striking the last item and inserting the following: ``1990 or any year before 2002................ 6.2 percent ``2002 or thereafter.......................... 4.95 percent.''
+Decrease in Rate of OASDI Tax on Employers.--The table in section 3111(a) of such Code is amended by striking the last item and inserting the following: ``1990 or any year before 2002................ 6.2 percent ``2002 or thereafter.......................... 4.95 percent.''
+Decrease in Rate of OASDI Tax on Self-Employment Income.--The table in section 1401(a) of such Code is amended by striking the last item and inserting the following: ``December 31, 1989................. January 1, 2002........ 12.4 ``December 31, 2001................. .......................

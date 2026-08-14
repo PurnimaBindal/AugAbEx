@@ -1,0 +1,58 @@
+This Act may be cited as the ``Postal Service Enhancement Act''.
+TITLE I--RATEMAKING FLEXIBILITIES SEC.
+COMPETITIVE AND NONCOMPETITIVE PRODUCTS DEFINED.
+Section 102 of title 39, United States Code, is amended by striking ``and'' at the end of paragraph (3), by striking the period at the end of paragraph (4) and inserting a semicolon, and by adding at the end the following: ``(5) `competitive product' refers to any postal product which the Postal Rate Commission has determined, based on appropriate economic factors prescribed by the Commission, competes for business in a competitive market; and ``(6) `noncompetitive product' refers to any postal product that is not a competitive product.''.
+RATES AND FEES FOR NONCOMPETITIVE PRODUCTS.
+Current Ratemaking Procedures Cease To Apply With Respect to Competitive Products.--Section 3622(a) of title 39, United States Code, is amended by adding at the end the following: ``This section shall apply only in the case of noncompetitive products.''.
+Prohibition on Subsidizing Competitive Products.--Section 3622(b) of title 39, United States Code, is amended by striking ``and'' at the end of paragraph (8), by redesignating paragraph (9) as paragraph (10), and by inserting after paragraph (8) the following: ``(9) the requirement that no rate or fee for a noncompetitive product shall subsidize any rate or fee for a competitive product; and''.
+AUTHORITY TO INCREASE RATES FOR NONCOMPETITIVE PRODUCTS INCREMENTALLY.
+Section 3624 of title 39, United States Code, is amended by adding at the end the following: ``(e) If a request made by the Postal Service under section 3622 proposes that one or more rates of postage or fees for postal services be changed incrementally, the recommended decision of the Commission may include provisions responsive to that proposal.''.
+Title 39, United States Code, is amended by inserting after section 3642 the following: ``Sec.
+Negotiated service agreements ``(a) The Postal Service may enter into negotiated service agreements with mail users under this section and in accordance with the policies of this title.
+A negotiated service agreement may not be entered into unless each of the following conditions is met: ``(1) The agreement can reasonably be expected to result in net benefits to the operation of a nationwide postal system.
+The Postal Service remains willing and able to enter into similar negotiated service agreements with other similarly situated mail users (determined without regard to size).
+Rates and fees payable during the term of the negotiated service agreement are reasonably calculated to yield to the Postal Service total revenues (after taking into account any costs avoided, and any additional costs incurred, by the Postal Service pursuant to the agreement) at least equal to the revenues that would be generated over that same period of time by application of the rate or rates chargeable under the classification or classifications of mail service most similar to the services performed under the agreement.
+A negotiated service agreement that involves one or more noncompetitive products shall not become effective unless the Postal Rate Commission first certifies, in accordance with such expedited procedures as the Commission shall by regulation establish, that the agreement meets the requirements of this section.
+Certifications under this subsection may, notwithstanding section 3628, be appealed to any court of appeals of the United States.
+For purposes of this section, the term `negotiated service agreement' means an agreement between a mail user and the Postal Service requiring performance by the mail user, the Postal Service, or both, of any combination of activities that, with respect to one or more classes of mail, differs significantly from those that would otherwise apply.''.
+Subchapter II of chapter 36 of title 39, United States Code, is amended by adding at the end the following: ``Sec.
+Competitive products ``(a) The Postal Service may offer competitive products under this section and in accordance with the policies of this title.
+A competitive product may not be offered unless each of the following conditions is met: ``(1) The product can reasonably be expected to result in net benefits to the operation of a nationwide postal system.
+The rates or fees for the product-- ``(A) comply with the factors specified in section 3622(b); and ``(B) are not subsidized by any rates or fees for noncompetitive products.
+(1) Interested parties who believe the Postal Service is offering a competitive product which does not conform to the policies set out in this title may lodge a complaint with the Postal Rate Commission in such form and in such manner as it may prescribe.
+The Commission may, in its discretion, hold hearings on such complaint and may issue an order providing for such interim relief as the Commission considers appropriate.
+The Commission shall issue an order deciding the complaint as expeditiously as possible.
+The Postal Service shall comply with orders of the Commission under this subsection.
+Such orders may, notwithstanding section 3628, be appealed to any court of appeals of the United States.
+Section 3662 shall not apply to complaints relating to competitive products.''.
+TECHNICAL AND CONFORMING AMENDMENTS.
+The heading for section 3622 of title 39, United States Code, is amended to read as follows: ``Sec.
+Rates and fees for noncompetitive products''.
+The table of sections for chapter 36 of title 39, United States Code, is amended-- (1) by striking the item relating to section 3622 and inserting the following: ``3622.
+Rates and fees for noncompetitive products.
+''; (2) by adding after the item relating to section 3629 the following: ``3630.
+''; and (3) by inserting after the item relating to section 3642 the following: ``3643.
+Postal Products; Rates and Fees.--Until otherwise provided in accordance with title 39, United States Code (as amended by this title or as deemed to have remained in effect under subsection (b), as the case may be)-- (1) all postal products offered immediately before this Act takes effect shall continue being offered; and (2) all rates and fees in effect under such title immediately before this Act takes effect shall remain in effect.
+Proceedings Pending.--This title shall not affect any proceedings pending immediately before the date of enactment of this Act, and any such proceedings shall continue under applicable provisions of title 39, United States Code, as last in effect before such date of enactment, until completed or terminated in accordance therewith.
+TITLE II--NATIONAL COMMISSION ON POSTAL EFFICIENCY AND ENHANCEMENT SEC.
+There is established a commission to be known as the ``National Commission on Postal Efficiency and Enhancement'' (hereinafter in this title referred to as the ``Commission'').
+FUNCTIONS OF THE COMMISSION.
+The Commission shall review the present practices and organizational structure of the United States Postal Service, with a view toward identifying-- (1) areas of inefficiency or waste; and (2) methods for improving operations involved in the collection, processing, or delivery of mail.
+Number and Appointment.--The Commission shall be composed of 8 members appointed by the President, except that of those members-- (1) 2 shall be appointed from among individuals recommended by the majority leader of the Senate; and (2) 2 shall be appointed from among individuals recommended by the Speaker of the House of Representatives.
+Qualifications.--An individual appointed to serve on the Commission shall have expertise in mail delivery, organizational efficiency, labor relations, or other relevant subject areas.
+Initial Appointments.--It is the sense of the Congress that the members of the Commission should be appointed within 90 days after the date of enactment of this Act.
+Chairman.--The Chairman of the Commission shall be designated by the President.
+Pay.--Members shall be paid at a rate to be established by the President, not to exceed the rate payable for level I of the Executive Schedule under section 5312 of title 5, United States Code.
+In General.--The Chairman of the Commission shall exercise the executive and administrative functions of the Commission, and may appoint such staff as may be necessary for the operation of the Commission.
+Information From Agencies.--The Commission may secure from any department, agency, independent establishment, or other instrumentality of the United States, any information necessary to enable it to carry out its functions under this title.
+Upon receiving a request under the preceding sentence, the head of the instrumentality involved shall, to the extent authorized by law, furnish such information directly to the Commission.
+The Commission shall transmit to the President and the Congress, within 2 years after the date of enactment of this Act, a report containing a detailed statement of the findings and conclusions of the Commission, together with its recommendations for any legislation or administrative actions which the Commission considers appropriate.
+The Commission shall terminate as of the date on which the work of the Commission has been completed.
+TITLE III--ENHANCED AUTHORITIES FOR THE POSTAL RATE COMMISSION SEC.
+Section 3604 of title 39, United States Code, is amended by adding at the end the following: ``(f)(1) Any Commissioner of the Postal Rate Commission, any administrative law judge appointed by the Commission under section 3105 of title 5, and any employee of the Commission designated by the Commission, may administer oaths, examine witnesses, take depositions, and receive evidence.
+The Chairman of the Commission, any Commissioner designated by the Chairman, and any administrative law judge appointed by the Commission under section 3105 of title 5 may, with respect to any proceeding conducted by the Commission under this title-- ``(A) issue subpoenas requiring the attendance and presentation of testimony, or the production of documentary or other evidence in the possession, of any covered individual; and ``(B) order the taking of depositions or responses to written interrogatories by a covered individual.
+In the case of contumacy or failure to obey a subpoena or order issued under this subsection, upon application by the Commission, the district court of the United States for the district in which the person to whom the subpoena or order is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or produce documentary or other evidence.
+Any failure to obey the order of the court may be punished by the court as a contempt thereof.
+For purposes of this subsection, the term `covered individual' means an officer or employee or agent of the Postal Service or of a contractor of the Postal Service.
+(1) If the Postal Service determines that any testimony, document, or other matter provided pursuant to a subpoena or order issued under subsection (f), or otherwise provided by the Postal Service to the Postal Rate Commission in connection with any proceeding or other purpose under this title, contains information which is described in section 410(c) of this title, or exempt from public disclosure under section 552(b) of title 5, the Postal Service shall, at the time such matter is provided to the Commission, notify the Commission, in writing, of its determination (and the reasons therefor).
+The Commission shall establish procedures for ensuring, where appropriate, the confidentiality of any information as to which it has been notified under paragraph (1).

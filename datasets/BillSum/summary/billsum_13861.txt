@@ -1,0 +1,4 @@
+Department of Energy Veterans' Health Initiative Act (Sec.
+This bill directs the Department of Energy (DOE) to establish a research program in artificial intelligence and high-performance computing that is focused on the development of tools to: solve big data challenges associated with veterans' health care, and support the Department of Veterans Affairs in identifying potential health risks and challenges.
+(Sec.
+DOE shall carry out a pilot program to develop tools for big data analytics in order to advance artificial intelligence technologies to solve complex big data challenges.

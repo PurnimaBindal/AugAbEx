@@ -1,0 +1,24 @@
+EXCISE TAX ON IMPORTED CRUDE OIL AND REFINED PETROLEUM PRODUCTS.
+In General.--Subtitle E of the Internal Revenue Code of 1986 (relating to alcohol, tobacco, and certain other excise taxes) is amended by adding at the end thereof the following new chapter: ``CHAPTER 55--IMPORTED CRUDE OIL AND REFINED PETROLEUM PRODUCTS ``Sec.
+Definitions and special rules.
+General Rule.--If the average international price of crude oil for any 4-week period is less than $24, then there is hereby imposed an excise tax on any petroleum product entered into the United States for use, consumption, or warehousing during the week following such 4-week period.
+Amount of Tax.-- ``(1) In general.--The amount of tax imposed by subsection (a) with respect to any barrel shall be equal to the excess of-- ``(A) $24, over ``(B) the average international price of crude oil for the preceding 4-week period.
+Fractional part of barrel.--In the case of a fraction of a barrel, the tax imposed by subsection (a) shall be the same fraction of the amount of such tax imposed on a whole barrel.
+Time Tax Is Imposed.-- ``(1) In general.--The tax imposed by subsection (a) shall be on the first sale within the United States of the petroleum product.
+Tax on certain uses.--If-- ``(A) any petroleum product entered into the United States is used within the United States, and ``(B) before such use, no tax was imposed under subsection (a), then the tax imposed by subsection (a) shall be on such use.
+Liability for Payment of Tax.-- ``(1) Sales.--The tax imposed on the first sale described in subsection (c)(1) shall be paid by the seller thereof.
+Use.--The tax imposed on any use described in subsection (c)(2) shall be paid by the person using the petroleum product.
+In General.--For purposes of this subchapter, the average international price of crude oil for any 4-week period shall be the average of the weighted average price per barrel of crude oil for each week in such period, as estimated and published in the Weekly Petroleum Status Report prepared by the Secretary of Energy or his delegate.
+Publication.--The Secretary shall publish for each week the average international price determined under subsection (a) for the preceding 4-week period.
+DEFINITIONS AND SPECIAL RULES.
+Definitions.--For purposes of this chapter-- ``(1) Crude oil.--The term `crude oil' includes crude oil condensates and natural gasoline but does not include domestic crude oil (within the meaning of section 4612(a)(2)).
+Barrel.--The term `barrel' means 42 United States gallons.
+Export.--The term `export' includes shipment to a possession of the United States.
+Petroleum product.--The term `petroleum product' includes-- ``(A) crude oil, and ``(B) refined oil, fuels, and chemical feedstocks which are refined or derived from crude oil.
+Tax-Free Exports.-- ``(1) In general.--Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter on the sale of any petroleum product for export or for resale by the purchaser to a second purchaser for export.
+Proof of export.--Where any petroleum product has been sold free of tax under paragraph (1), such paragraph shall cease to apply with respect to the sale of such petroleum product unless, within the 6-month period which begins on the date of the sale, the seller receives proof that the petroleum product has been exported.
+``Every person subject to tax under section 5885 shall register with the Secretary at such time and in such manner as the Secretary may prescribe.''
+Conforming Amendment.--The table of chapters for subtitle E of such Code is amended by adding at the end thereof the following new item: ``Chapter 55.
+Imported crude oil and refined petroleum products.''
+Deductibility of Imported Crude Oil Tax.--The first sentence of section 164(a) of such Code (relating to deductions for taxes) is amended by inserting after paragraph (5) the following new paragraph: ``(6) The tax on imported petroleum products imposed by section 5885.''
+Effective Date.--The amendments made by this section shall apply with respect to sales of imported crude oil and imported refined petroleum products in calendar quarters beginning more than 30 days after the date of the enactment of this Act.

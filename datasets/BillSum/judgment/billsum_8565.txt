@@ -1,0 +1,23 @@
+In General.--Part III of subchapter A of chapter 11 of the Internal Revenue Code of 1986 (relating to gross estate) is amended by inserting after section 2033 the following new section: ``SEC.
+EXCLUSION FOR SMALL BUSINESSES AND FAMILY FARMS.
+In General.--The value of the gross estate shall not include the value of the qualified small business or family farm interests of the decedent otherwise includible in the estate.
+Qualified Small Business or Family Farm Interest.-- ``(1) In general.--For purposes of this section, the term `qualified small business or family farm interest' means-- ``(A) any interest in a closely held business which is the business of farming, if the decedent was actively engaged in such business, and ``(B) any interest in a small business, if more than 40 percent of the adjusted value of the gross estate consists of the value of interests in a closely held business.
+Limitation.--Such term shall not include any interest in a trade or business not described in section 542(c)(2), if more than 35 percent of the adjusted ordinary gross income of such trade or business for the taxable year which includes the date of the decedent's death would qualify as personal holding company income (as defined in section 543(a)).
+Rules regarding ownership.-- ``(A) Ownership of entities.--For purposes of paragraph (1)-- ``(i) Corporations.--Ownership of a corporation shall be determined by the holding of stock possessing the appropriate percentage of the total combined voting power of all classes of stock entitled to vote and the appropriate percentage of the total value of shares of all classes of stock.
+Partnerships.--Ownership of a partnership shall be determined by the owning of the appropriate percentage of the capital interest in such partnership.
+Ownership of tiered entities.--For purposes of this section, if by reason of holding an interest in a trade or business, a decedent or any member of the decedent's family is treated as holding an interest in any other trade or business-- ``(i) such ownership interest in the other trade or business shall be disregarded in determining if the ownership interest in the first trade or business is a qualified small business interest, and ``(ii) this section shall be applied separately in determining if such interest in any other trade or business is a qualified small business interest.
+Individual ownership rules.--For purposes of this section, an interest owned, directly or indirectly, by or for an entity described in paragraph (1) shall be considered as being owned proportionately by or for the entity's shareholders, partners, or beneficiaries.
+A person shall be treated as a beneficiary of any trust only if such person has a present interest in such trust.
+Definitions and Special Rules.--For purposes of this section-- ``(1) Interest in closely held business.--The term `interest in a closely held business' has the meaning given such term by section 6166(b).
+Interest in a small business.--The term `interest in a small business' means an interest in a closely held business, as defined in section 6166(b), provided such a business has 100 or fewer employees.
+For purposes of the preceding sentence, any persons whose relationship is described in section 267(b) or section 707(b) shall be treated as one business.
+Adjusted gross estate.--The term `adjusted value of the gross estate' means the value of the gross estate (determined without regard to this section) reduced by any amount deductible under paragraph (3) or (4) of section 2053(a).
+Applicable rules.--Rules similar to the following rules shall apply: ``(A) Section 2032A(b)(4) (relating to decedents who are retired or disabled).
+Section 2032A(b)(5) (relating to special rules for surviving spouses).
+Section 2032A(e)(10) (relating to community property).
+Section 2032A(e)(14) (relating to treatment of replacement property acquired in section 1031 or 1033 transactions).
+Section 6166(b)(3) (relating to farmhouses and certain other structures taken into account).
+Coordination with other estate tax benefits.--If there is a reduction in the value of the gross estate under this section-- ``(A) the dollar limitation applicable under section 2032A(a)(2), and ``(B) the $1,000,000 dollar amount under section 6601(j)(2) (as adjusted), shall each be reduced (but not below zero) by the amount of such reduction.''
+Clerical Amendment.--The table of sections for part III of subchapter A of chapter 11 is amended by inserting after the item relating to section 2033 the following new item: ``Sec.
+Exclusion for small businesses and family farms.''
+Effective Date.--The amendments made by this section shall apply to estates of decedents dying after December 31, 2000.

@@ -1,0 +1,43 @@
+This Act may be cited as the ``21st Century Election Rules and Technology Act''.
+ESTABLISHMENT OF COMMISSION; MEMBERSHIP.
+Establishment.--There is established the Federal Elections Review Commission (hereafter in this Act referred to as the ``Commission'').
+Purpose.--The purpose of the Commission shall be to study the nature and consequences of the Federal electoral process and make recommendations to ensure the integrity of, and public confidence in, Federal elections.
+Membership.--The Commission shall be composed of 12 members, who shall be appointed as follows: (1) Three members shall be appointed by the President pro tempore of the Senate based on recommendations by the majority leader of the Senate.
+Three members shall be appointed by the President pro tempore of the Senate based on recommendations of the minority leader of the Senate.
+Three members shall be appointed by the Speaker of the House of Representatives.
+Three members shall be appointed by the minority leader of the House of Representatives.
+Qualifications of Members.--Members shall be appointed to the Commission from among individuals who-- (1) have expertise in Federal election laws, election and information technology, the United States Constitution, and the history of the United States, or other pertinent qualifications or experience; and (2) are not officers or employees of the United States.
+Other Considerations.--In appointing members of the Commission, every effort shall be made to ensure that the members-- (1) represent a broad cross section of regional and political perspectives in the United States; and (2) are individuals who will provide fresh insights to analyzing the Federal electoral process in order to maintain the integrity and accuracy of, and public confidence in, such process.
+Period of Appointment; Vacancies.--(1) Members of the Commission shall be appointed not later than 60 days after the date of enactment of this Act.
+Appointments shall be for the life of the Commission.
+Any vacancy in the Commission shall not affect the powers of the Commission, and shall be filled in the same manner as the original appointment.
+Initial Meeting.--Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
+Chairperson and Vice Chairperson.--The members of the Commission shall elect a chairperson and vice chairperson from among the members of the Commission.
+Additional Meetings.--The Commission shall meet at the call of the chairperson.
+Quorum.--A majority of the members of the Commission shall constitute a quorum for the transaction of business.
+Voting.--A vote of a member of the Commission with respect to the duties of the Commission shall have the same weight as the vote of any other member of the Commission.
+DUTIES OF THE COMMISSION.
+In General.--The Commission shall examine and report on the nature and consequences of the Federal electoral process, and shall include in its report recommendations to ensure the integrity of, and public confidence in, Federal elections.
+Specific Issues To Be Addressed.--In conducting its examination and preparing its report under this Act, the Commission shall address (at a minimum) the following issues: (1) The current election technology used by States and local governments across the Nation, the current best practices of election technology, and the need for research and development regarding new election technologies.
+The need for new practices and technologies to aid voters with disabilities.
+Voter registration issues, including same-day registration, universal registration, the impact of the voter registration requirements of the National Voter Registration Act of 1993 (commonly known as the ``Motor Voter Act''), and the accuracy of voter registration rolls.
+Ballot access issues, including the role of mail-in balloting in Federal elections, the distinction between mail-in and absentee balloting, the uniformity or lack of uniformity in the deadlines established for the receipt of such ballots, and the possibility of fraud associated with the use of such ballots.
+The financial, training, and resource needs of State and local election agencies.
+The feasibility and advisability of voting through the Internet.
+The impact of polling place closing times (including an analysis of the feasibility and advisability of establishing a uniform national poll closing time for Presidential elections), the number and accessibility of polling places, and training of poll workers.
+The impact of the physical ballot design, including the technology used to cast and count votes and the uniformity of such technology and a consideration of a uniform design standard, and the impact of the language used on ballots, including the need for simplicity of language and the feasibility and advisability of using foreign language.
+The adequacy of the options available to voters and candidates to seek redress for electoral irregularities.
+In General.--Not later than 12 months after the date of the initial meeting of the Commission, the Commission shall submit to the President, the Federal Election Commission, and the Congress a final report including-- (1) the findings and conclusions of the Commission; and (2) recommendations of the Commission for addressing the problems identified by its analysis.
+Separate Views.--Any member of the Commission may submit additional findings and recommendations as part of the final report.
+Hearings.--The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission may find advisable to fulfill the requirements of this Act.
+The Commission shall hold at least one hearing in the District of Columbia, and at least four hearings in other regions of the United States.
+Information From Federal Agencies.--The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this Act.
+Upon request of the chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission.
+Postal Services.--The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+Compensation.--Each member of the Commission shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission.
+Staff.--(1) The chairperson of the Commission may appoint staff of the Commission, request the detail of Federal employees, and accept temporary and intermittent services in accordance with section 3161 of title 5, United States Code.
+The employment of an executive director of the Commission shall be subject to the approval of the Commission.
+The rate of pay for the executive director and other personnel of the Commission may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+The Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
+The Commission shall terminate not later than the date that is 30 days after the date the Commission submits its final report under section 4.
+There are authorized to be appropriated $2,000,000 for the Commission to carry out this Act.

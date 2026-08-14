@@ -1,0 +1,24 @@
+Short Title.--This Act may be cited as the ``Economic Stimulus Act of 2001''.
+Amendment of 1986 Code.--Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+REDUCTION IN INCOME TAX RATES FOR INDIVIDUALS.
+In General.--Section 1 is amended by adding at the end the following new subsection: ``(i) Rate Reductions in 2001.-- ``(1) New lowest rate bracket.-- ``(A) In general.--In the case of taxable years beginning in 2001-- ``(i) the rate of tax under subsections (a), (b), (c), and (d) on taxable income not over the initial bracket amount shall be 10 percent, and ``(ii) the 15 percent rate of tax shall apply only to taxable income over the initial bracket amount.
+Initial bracket amount.--For purposes of this subsection, the initial bracket amount is-- ``(i) $20,000 in the case of subsection (a), ``(ii) $16,000 in the case of subsection (b), and ``(iii) \1/2\ the amount applicable under clause (i) in the case of subsections (c) and (d).
+Adjustment of tables.--The Secretary shall adjust the tables prescribed under subsection (f) to carry out this subsection.''.
+Conforming Amendments.-- (1) Subparagraph (B) of section 1(g)(7) is amended-- (A) by striking ``15 percent'' in clause (ii)(II) and inserting ``the first bracket percentage'', and (B) by adding at the end the following flush sentence: ``For purposes of clause (ii), the first bracket percentage is the percentage applicable to the lowest income bracket in the table under subsection (c).''.
+Section 1(h) is amended by striking paragraph (13).
+Section 15 is amended by adding at the end the following new subsection: ``(f) Rate Reductions Enacted by Economic Stimulus Act of 2001.-- This section shall not apply to any change in rates under subsection (i) of section 1 (relating to rate reductions in 2001).''.
+Section 3402(p)(2) is amended by striking ``equal to 15 percent of such payment'' and inserting ``equal to the product of the lowest rate of tax under section 1(c) and such payment''.
+Effective Dates.-- (1) In general.--Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2000.
+Amendment to withholding provision.--The amendment made by subsection (b)(4) shall apply to amounts paid after the 60th day after the date of the enactment of this Act.
+CREDIT AGAINST INDIVIDUAL EMPLOYMENT TAXES.
+In General.--Subchapter B of chapter 65 (relating to rules of special application in the case of abatements, credits, and refunds) is amended by adding at the end the following new section: ``SEC.
+6428. CREDIT AGAINST INDIVIDUAL EMPLOYMENT TAXES.
+General Rule.--Except as otherwise provided in this section, each individual shall be treated as having made a payment against the tax imposed by chapter 1 for any taxable year beginning in 2001, in an amount equal to the lesser of-- ``(1) the amount of the taxpayer's liability for tax for the taxpayer's last taxable year beginning in calendar year 2000, or ``(2) $500.
+Liability for Tax.--For purposes of this section, the liability for tax for the taxable year shall be the taxpayer's social security taxes (within the meaning of section 24(d)(3)) for the taxable year.
+Date Payment Deemed Made.-- ``(1) In general.--The payment provided by this section shall be deemed made on July 1, 2001.
+Remittance of payment.--The Secretary shall remit to each taxpayer the payment described in paragraph (1) on July 1, 2001.
+Certain Persons Not Eligible.--This section shall not apply to-- ``(1) any individual with taxable income (as defined in section 63) for the taxable year beginning in 2001, ``(2) any estate or trust, nor ``(3) any nonresident alien individual.''.
+Conforming Amendment.--Section 1324(b)(2) of title 31, United States Code, is amended by inserting before the period ``, or enacted by the Economic Stimulus Act of 2001''.
+Clerical Amendment.--The table of sections for subchapter B of chapter 65 is amended by adding at the end the following new item: ``Sec.
+6428. Credit against individual employment taxes.''.
+Effective Date.--The amendments made by this section shall take effect on the date of the enactment of this Act.

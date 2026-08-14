@@ -1,0 +1,29 @@
+This Act may be cited as the ``Local Community Radio Act of 2005''.
+Congress makes the following findings: (1) The passage of the Telecommunications Act of 1996 led to increased ownership consolidation in the radio industry.
+At a hearing before the Senate Committee on Commerce, Science, and Transportation, on June 4, 2003, all 5 members of the Federal Communications Commission testified that there has been, in at least some local radio markets, too much consolidation.
+A commitment to localism--local operations, local research, local management, locally-originated programming, local artists, and local news and events--would bolster radio listening.
+Local communities have sought to launch radio stations to meet their local needs.
+However, due to the scarce amount of spectrum available and the high cost of buying and running a large station, many local communities are unable to establish a radio station.
+In 2003, the average cost to acquire a commercial radio station was more than $2,500,000.
+In January, 2000, the Federal Communications Commission authorized a new, affordable community radio service called ``low-power FM'' or ``LPFM'' to ``enhance locally focused community-oriented radio broadcasting''.
+Through the creation of LPFM, the Commission sought to ``create opportunities for new voices on the air waves and to allow local groups, including schools, churches, and other community-based organizations, to provide programming responsive to local community needs and interests''.
+The Commission made clear that the creation of LPFM would not compromise the integrity of the FM radio band by stating, ``We are committed to creating a low-power FM radio service only if it does not cause unacceptable interference to existing radio service.''.
+Currently, FM translator stations can operate on the second- and third-adjacent channels to full power radio stations, up to an effective radiated power of 250 watts, pursuant to part 74 of title 47, Code of Federal Regulations, using the very same transmitters that LPFM stations will use.
+The FCC based its LPFM rules on the actual performance of these translators that already operate without undue interference to FM stations.
+The actual interference record of these translators is far more useful than any results that further testing could yield.
+Small rural broadcasters were particularly concerned about a lengthy and costly interference complaint process.
+Therefore, in September, 2000, the Commission created a simple process to address interference complaints regarding LPFM stations on an expedited basis.
+In December, 2000, Congress delayed the full implementation of LPFM until an independent engineering study was completed and reviewed.
+This delay was due to some broadcasters' concerns that LPFM service would cause interference in the FM band.
+The delay prevented millions of Americans from having a locally operated, community based radio station in their neighborhood.
+Approximately 300 LPFM stations were allowed to proceed despite the congressional action.
+These stations are currently on the air and are run by local government agencies, groups promoting arts and education to immigrant and indigenous peoples, artists, schools, religious organizations, environmental groups, organizations promoting literacy, and many other civically-oriented organizations.
+After 2 years and the expenditure of $2,193,343 in taxpayer dollars to conduct this study, the broadcasters' concerns were demonstrated to be unsubstantiated.
+REPEAL OF PRIOR LAW.
+Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (Public Law 106-553; 114 United States Statutes at Large 2762A-111), is repealed.
+MINIMUM DISTANCE SEPARATION REQUIREMENTS.
+The Federal Communications Commission shall modify its rules to eliminate third-adjacent minimum distance separation requirements between-- (1) low-power FM stations; and (2) full-service FM stations, FM translator stations, and FM booster stations.
+PROTECTION OF RADIO READING SERVICES.
+The Federal Communications Commission shall retain its rules that provide third-adjacent channel protection for full-power non-commercial FM stations that broadcast radio reading services via a subcarrier frequency from potential low-power FM station interference.
+ENSURING AVAILABILITY OF SPECTRUM FOR LPFM STATIONS.
+The Federal Communications Commission when licensing FM translator stations shall ensure-- (1) that licenses are available to both FM translator stations and low-power FM stations; and (2) that such decisions are made based on the needs of the local community.

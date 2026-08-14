@@ -1,0 +1,35 @@
+This Act may be cited as the ``Federal Railroad Administration Performance, Personnel, and Enforcement Act of 1996''.
+Section 103(a) of title 49, United States Code, is amended by striking the second and third sentences.
+Section 103(b) of title 49, United States Code, is amended by inserting after ``consent of the Senate.''
+the following new sentence: ``The Administrator shall be appointed on the basis of technical qualification, professional standing, and demonstrated knowledge in transportation, transportation regulation, or transportation safety.''.
+CONSULTATION WITH FEDERAL TRANSIT ADMINISTRATION.
+Section 103(c) of title 49, United States Code, is amended by inserting after paragraph (2) the following: ``The Administrator shall consult with the Federal Transit Administration on all commuter rail passenger service matters within the jurisdiction of the Administrator, and shall establish procedures for regular oversight of such matters.''.
+Subsection (d) of section 103 of title 49, United States Code, is amended to read as follows: ``(d) A decision of the Administrator in carrying out a duty or power specified by subsection (c)(1) and involving notice and hearing required by law is administratively final.
+A failure by the Secretary, by the Administrator, or by any person acting on behalf of the Secretary or the Administrator, to comply with a statutory deadline for regulatory action within the jurisdiction of the Administration shall be considered a final agency action for purposes of judicial review.''.
+STUDY OF RULEMAKING PROCESS.
+The Comptroller General shall, before October 1, 1997, complete and transmit to the Congress a report detailing the results of a study of the rulemaking process employed by the Federal Railroad Administration.
+The study shall address-- (1) the adequacy of resources devoted to that rulemaking process; and (2) improvements that could be made in that process, including achieving timely issuance of regulations required by statute and adhering to statutory deadlines.
+CONVERSION OF HOURS OF SERVICE PROVISIONS TO ADMINISTRATIVE REGULATIONS.
+Repeal.--(1) Chapter 211 of title 49, United States Code, and the item relating thereto in the table of chapters of subtitle V of title 49, are repealed.
+Paragraph (1) shall take effect on October 1, 1996.
+Conversion to Administrative Regulations.--On the repeal of chapter 211 under subsection (a), the provisions of sections 21101 through 21107 of that chapter shall continue in effect with full force and effect as if issued as administrative regulations by the Secretary of Transportation under that chapter.
+Such provisions, and any regulations issued by the Secretary relating thereto, shall be subject to modification to the full extent of the Secretary's authority over railroad safety matters under section 20103(a) of title 49, United States Code.
+HOURS OF SERVICE PILOT PROJECTS.
+Amendment.--Chapter 201 of title 49, United States Code, is amended by adding at the end the following new section: ``Sec.
+Hours of service pilot projects ``(a) Authority.--The Secretary of Transportation may approve the implementation of pilot projects to demonstrate the possible benefits of implementing alternatives to the strict application of the requirements of chapter 211, regulations issued thereunder, and successor regulations thereto, including requirements concerning maximum on-duty and minimum off-duty periods.
+If, as of August 1, 1996, less than 3 such projects are underway with projected completion dates of not later than June 30, 1998, the Secretary shall order the implementation of sufficient projects to ensure that at least 3 such projects are underway no later than December 1, 1996.
+Report.--Not later than June 30, 1998, the Secretary shall transmit to the Congress a report that-- ``(1) explains and analyzes the effectiveness of all pilot projects established pursuant to subsection (a); and ``(2) recommends appropriate modifications to the Secretary's hours of service regulations.''.
+Conforming Amendment.--The table of sections of chapter 201 of title 49, United States Code, is amended by adding at the end the following new item: ``20154.
+Hours of service pilot projects.''.
+TRAIN CONTROL SYSTEMS REPORTS.
+Amendment.--Chapter 201 of title 49, United States Code, as amended by section 8 of this Act, is further amended by adding at the end the following new section: ``Sec.
+Train control systems reports ``(a) Application of Train Control Systems to Commuter Corridors.-- Not later than December 31, 1997, the Secretary of Transportation shall transmit to the Congress a report-- ``(1) evaluating the current state of train control technology suitable for application to commuter rail corridors; and ``(2) proposing a practicable schedule for the installation of such train control technology on key commuter rail corridors.
+Application of Advanced Train Control to the National Rail Freight System.--Not later than June 30, 1998, the Secretary shall transmit to the Congress a report-- ``(1) evaluating the suitability of advanced train control systems (including systems that employ radio frequency data links and systems using the Global Positioning System) for immediate use where appropriate on freight railroads' route systems; ``(2) outlining a feasible schedule for installation of any such suitable systems on major rail freight corridors; and ``(3) evaluating the costs and benefits of advanced train control systems, including business benefits.''.
+Conforming Amendment.--The table of sections of chapter 201 of title 49, United States Code, is amended by adding at the end the following new item: ``20155.
+Train control systems reports.''.
+RAIL SAFETY PERFORMANCE-BASED STANDARDS.
+Amendment.--Section 20103 of title 49, United States Code, is amended by adding at the end the following new subsection: ``(g) Performance-Based Standards.--The Secretary shall, to the maximum extent feasible, adopt performance-based standards for achieving rail safety in all activities to which this part applies.
+The Secretary shall adopt a performance-based standard whenever-- ``(1) the performance-based standard can reasonably be expected to achieve an equal or greater level of safety than alternative proposed or existing standards; and ``(2) the administrative and enforcement costs are not significantly greater than those of other types of standards.''.
+Report.--Not later than June 30, 1998, the Secretary of Transportation shall transmit to the Congress a report on progress made in implementing section 20103(g).
+Such report shall include an estimate of the savings achieved, as a result of such implementation, in administering rail safety programs as of the reporting date, as well as a projection of savings expected to be achieved for each fiscal year through September 30, 2002.
+Such report shall also include an analysis of the effects of adopting performance-based standards on-- (1) railroad safety; and (2) administrative and enforcement costs.

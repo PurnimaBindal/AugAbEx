@@ -1,0 +1,31 @@
+The purpose of this Act is to assist municipalities and local communities to explore and determine options for the alternative provision of electricity and, at their discretion, to create or expand public power systems.
+COMMUNITY POWER INVESTMENT REVOLVING LOAN FUND.
+Revolving Loan Fund.--There is established in the Treasury of the United States a revolving loan fund to be known as the ``Community Power Investment Revolving Loan Fund'' consisting of such amounts as may be appropriated or credited to such Fund as provided in this section.
+Expenditures From Loan Funds.-- (1) In general.--The Secretary of Energy, under such rules and regulations as the Secretary may prescribe, may make loans from the Community Power Investment Revolving Loan Fund, without further appropriation, to a State or local government, including any municipality.
+Purpose.--Loans provided under this section shall be used only for any of the following: (A) Feasibility studies to investigate options for the creation or expansion of public power systems.
+Community development assistance programs to stem rising energy costs, including low-income customer payment programs.
+Energy efficiency programs and other local conservation measures.
+Incentives for new renewable energy resources, including research and development programs, purchases from alternative energy providers, and construction of new generation facilities.
+Increased and rapid deployment of distributed energy generation resources, including the following: (i) Microturbines.
+Combined heat and power systems.
+Advanced internal combustion engine generators.
+Advanced natural gas turbines.
+Distributed generation research and development for local communities, including interconnection standards and equipment, and dispatch and control services that preserve appropriate local control authority to protect distribution system safety, reliability, and new and backup power quality.
+Purchase of existing electricity generation and transmission systems of private power companies.
+Construction of new electricity generation and transmission facilities.
+Education and public information programs.
+Restrictions.--No loan may be made under this section to any entity that is financially distressed, delinquent on any Federal debt, or in current bankruptcy proceedings.
+No loan shall be made under this section unless the Secretary determines that-- (A) there is reasonable assurance of repayment of the loan; and (B) the amount of the loan, together with other funds provided by or available to the recipient, is adequate to assure completion of the facility or facilities for which the loan is made.
+Loan Repayments.-- (1) Length of repayment.-- (A) In general.--Before making a loan under this section, the Secretary shall determine the period of time within which a State must repay such loan.
+Limitation.--Except as provided in subparagraph (C), the Secretary shall in no case allow repayment of such loan-- (i) to begin later than the date that is one year after the date on which the loan is made; and (ii) to be completed later than the date that is 30 years after the date on which the loan is made.
+Moratorium.--The Secretary may grant a temporary moratorium on the repayment of a loan provided under this section if, in the determination of the Secretary, continued repayment of such loan would cause a financial hardship on the State that received the loan.
+Interest.--The Secretary may not impose or collect interest on a loan provided under this section in excess of one percent above the current United States Reports Treasury rate for obligations of similar maturity.
+Credit to loan fund.--Repayment of amounts loaned under this section shall be credited to the Community Power Investment Revolving Loan Fund and shall be available for the purposes for which the fund is established.
+Finance charges.--The Secretary may assess finance charges of 5 percent on loans under this section that are repaid within 5 to 10 years, 3 percent on such loans that are repaid within 3 to 5 years, and one percent for loans repaid within 3 years.
+Administration Expenses.--The Secretary may defray the expenses of administering the loans provided under this section.
+Authorization of Appropriations.--There are authorized to be appropriated to the Community Power Investment Revolving Loan Fund $5,000,000,000 for each of the fiscal years 2002 through 2007.
+Section 206 of the Federal Power Act is amended by adding the following new subsection after subsection (d): ``(e) Stranded Cost Recovery.--The Commission shall prohibit any public utility or State regulatory authority from imposing, after the enactment of this subsection, any fee or charge (including any exit fee) on any electric consumer or State or municipality (or entity established by a State or municipality) for the purpose of recovering any wholesale stranded costs of such public utility that may occur when retail electric consumers cease to be served by that public utility by reason of the provision of electric service to such consumers by a State or a political subdivision of a State (or by any entity established by such State or political subdivision).
+As promptly as practical after the enactment of this subsection, the Commission shall amend such rules and orders of the Commission as may be necessary to carry out this subsection.''.
+REPEAL OF RESTRICTION ON USE OF TAX-EXEMPT BONDS TO ACQUIRE OUTPUT FACILITIES.
+In General.--Section 141 of the Internal Revenue Code of 1986 (relating to private activity bond; qualified bond) is amended by striking subsection (d) and by redesignating subsection (e) and subsection (d).
+Effective Date.--The amendment made by subsection (a) shall apply to obligations issued after the date of the enactment of this Act.

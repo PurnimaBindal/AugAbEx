@@ -1,0 +1,36 @@
+That this Act may be cited as the ``Federal Forage Fee Act of 1993''.
+Findings.--Congress finds and declares that-- (1) it is in the national interest that the public lands are producing and continue to produce water and soil conservation benefits, livestock forage, wildlife forage and recreation and other multiple use opportunities; (2) rangelands will continue to be stabilized and improved long term by providing for cooperative agreements, private, public partnerships and flexibility in management programs and agreements; (3) to assure sound management and stewardship of the renewable resources it is imperative to charge a fee that is reasonable and equitable and represents the fair value of the forage provided; (4) the intermingled private-public land ownership patterns prevailing in much of the west create a strong interdependence between public and private lands for forage, water, and habitat for both wildlife and livestock; (5) the social and economic infrastructure of many rural communities and stability of job opportunities in many areas of rural America are highly independent on the protection of the value of privately held production units on Federal lands.
+ENVIRONMENTAL AND LAND USE REQUIREMENTS.
+Unless contrary to this statute, all grazing operations conducted on any Federal lands shall be subject to all applicable Federal, State, and local laws, including but not limited to: (1) Animal Damage Control Act (7 United States Code 426-426b).
+Bankhead-Jones Farm Tenant Act (50 United States Statutes at Large 522) as amended.
+Clean Air Act (42 United States Code 7401-7642) as amended.
+Endangered Species Act of 1973 (16 United States Code 1531-1544) as amended.
+Federal Advisory Committee Act (86 United States Statutes at Large 770), as amended.
+Federal Grant and Cooperative Agreement Act of 1977 (92 United States Statutes at Large 3).
+Federal Insecticide, Fungicide, and Rodenticide Act (7 United States Code 136-136y), as amended.
+Federal Land Policy and Management Act of 1976 (43 United States Code 1701 et sequentes).
+Federal Water Pollution Control Act (33 United States Code 1251 1387), as amended.
+Forest and Rangeland Renewable Resources Planning Act of 1974 (16 United States Code 1600-1614).
+Granger-Thye Act (64 United States Statutes at Large 82).
+Independent Offices Appropriations Act of 1952 (31 United States Code 9701), as amended, title V. (13) Multiple Use Sustained Yield Act of 1960 (16 United States Code 528-531).
+National Environmental Policy Act of 1969 (42 United States Code 4321-4370a), as amended.
+(15 National Forest Management Act of 1976 (16 United States Code 1600, 1611-1614).
+Public Rangelands Improvement Act of 1978 (92 United States Statutes at Large 1803).
+Taylor Grazing Act (48 United States Statutes at Large 1269), as amended.
+Wilderness Act (78 United States Statutes at Large 890), as amended.
+For the purpose of this section the terms: (1) ``Sixteen Western States'' means WA, CA, ID, NV, NM, WY, CO, KS, SD, ND, NE, OR, OK, AZ, UT and MT.
+``AUM'' means an animal unit month as that term is used in the Public Rangeland Improvement Act (92 United States Statutes at Large 1803); (3) ``Authorized Federal AUMs'' means all ``allotted AUMs'' reported by BLM and ``permitted to graze AUMs'' reported by USFS.
+``WAPLLR'' means the weighted average private land lease rate determined by multiplying the private land lease rate reported by the Economic Research Service for the previous calendar year for each of the sixteen Western States by the total number of authorized Federal AUMs, as defined in section 3(a)(3), in each State for the previous fiscal year, then that result divided by the total number of authorized Federal AUMs for the sixteen Western States.
+These individual State results are then added together and divided by 16 to yield a weighted average private land lease rate for that year.
+``Report'' means the report titled ``Grazing Fee Review and Evaluation Update of the 1986 Final Report'' dated April 30, 1992 and prepared by the Departments of the Interior and Agriculture.
+``Nonfee cost differential'' means a value calculated annually by the Secretaries by multiplying the weighted difference in nonfee costs per AUM between public land and private land by the Input Cost Index (ICI) determined annually by the Department of Agriculture.
+The weighted difference in nonfee costs is a factor of 0.552 determined by deducting the private AUM nonfee costs (as outlined on page 58 of the report) from the public AUM nonfee costs for cattle times 4, added to the result of deducting private AUM nonfee costs from public AUM nonfee costs for sheep times 1, then that result divided by 5.''
+``Net production differential'' is the percentage calculated annually by dividing the cash receipts per cow for Federal permittee livestock producers by the cash receipts per cow for western non-Federal livestock producers in the sixteen Western States as surveyed by the Economic Research Service in annual cost of production surveys (COPS).
+``PLFVR'' means the private lease forage value ratio determined by dividing the average of the 1964-1968 base years' private land lease rate into the forage value portion of the private land lease rate of $1.78 as determined in the 1966 western livestock grazing survey.
+The Secretaries of the Department of Agriculture and the Department of the Interior shall calculate annually the Federal forage fee by calculating the average of the WALLPR for the preceding three years; multiplying it by the PLFVR; then deducting from that result the nonfee cost differential; and multiplying that result by the net production differential.
+For each year that this calculation is made, all data used for calculating this fee shall come from the calendar year previous to the year for which the fee is being calculated unless specified otherwise in the above calculations.
+The Federal forage fee shall apply to all authorized Federal AUMs under the jurisdiction of the United States Department of Agriculture and the United States Department of the Interior.
+For the first year that the Secretaries calculate the Federal forage fee, the fee shall not be greater than 125 percent, or less than 75 percent of the fee calculated for the previous year pursuant to Executive Order 12548 dated February 14, 1986.
+For each year after the first year that the Secretaries calculate the Federal forage fee, the fee shall not be greater than 125 percent, or less than 75 percent of the Federal forage fee calculated for the previous year.
+The survey of nonfee costs used to calculate the nonfee cost differential shall be updated periodically by the Secretaries so as to reflect as accurately as possible the actual nonfee costs incurred by the cattle and sheep industry that utilizes public lands in the sixteen Western States.
+The results of the updated survey shall be incorporated into the calculation of the Non Fee Cost Differential as they become available.

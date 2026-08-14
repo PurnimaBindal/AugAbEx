@@ -1,0 +1,25 @@
+This Act may be cited as the ``Parolee LEADS Public Safety Grant Program Act of 2001''.
+Authorization of Grants.--From amounts made available to carry out this section, the Attorney General may make grants to eligible States for use by the State to carry out an automated data system to provide information regarding parolees to local law enforcement agencies within the State.
+Eligibility.--For a State to be eligible to receive a grant under this section, the chief executive officer of the State shall submit to the Attorney General an application in such form and containing such information as the Attorney General may require.
+Required Elements of System.--An automated data system referred to in subsection (a) shall include the following elements: (1) Information about parolees.--For each person incarcerated by that State who is to be released from incarceration by reason of probation or parole, the system shall, to the extent available, include the following information: (A) Last, first, and middle name.
+Sex, race, height, weight, hair color, and eye color.
+Date of release from custody.
+Whether the person is required to register as a result of a State or Federal law and, if so, the status of that registration.
+Social Security number, driver's license number, and any identification number assigned to the person by the State criminal justice system or the Federal Bureau of Investigation.
+Whether the person has any distinctive scar, mark, or tattoo and, if so, a description.
+The offense or offenses by reason of which the person is incarcerated.
+Place of residence, including street name and number (not a post office box), city or town, and zip code, and the date on which that place of residence is to become effective.
+A geographic coordinate for that place of residence, in a format for use with a geographic information system or comparable satellite location system.
+Contact officer, including name and telephone number, and an identification of that officer's unit.
+A digitized picture of the person.
+A digitized fingerprint of the person.
+Computer database.--The information shall be maintained in a database that can be accessed and processed by a local law enforcement agency using a remote desktop computer system.
+Access to information upon release.--Each local law enforcement agency having jurisdiction over the place of residence of a person referred to in paragraph (1) shall-- (A) upon the release from incarceration of that person by reason of probation or parole, be provided the information included in the system with respect to that person; and (B) thereafter, on a continuing basis, have access to such information upon request of that agency.
+Restrictions on Use of Funds.-- (1) Matching.--The Federal share of a grant made under this section may not exceed 50 percent of the total costs of the system for the fiscal year for which the system receives that grant.
+Nonsupplanting.--Funds made available pursuant to this section shall not be used to supplant State funds, but shall be used to increase the amount of funds that would, in the absence of Federal funds, be made available from State sources for the purposes of this Act.
+Administrative costs.--A State may not use more than five percent of the funds it receives from this section for administrative expenses.
+Reports to the Attorney General.--Each State which receives a grant under this section shall submit to the Attorney General, for each fiscal year in which funds from a grant received under this section are expended, a report at such time and in such manner as the Attorney General may reasonably require.
+Reports to Congress.--Not later than 90 days after the end of each fiscal year for which grants are made under this section, the Attorney General shall submit to the Congress a report that includes-- (1) the aggregate amount of grants made under this section to each State for such fiscal year; and (2) a summary of the information provided by States receiving grants under this section.
+Expenditure Records.-- (1) In general.--Each State which receives a grant under this section shall keep records as the Attorney General may require to facilitate an effective audit of the receipt and use of grant funds received under this section.
+Access.--Each State which receives a grant under this section shall make available, for the purpose of audit and examination, such records as are related to the receipt or use of any such grant.
+Definition.--For purposes of this section, the term ``State'' means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.

@@ -1,0 +1,21 @@
+This Act may be cited as the ``Community and Rural Medical Residency Preservation Act of 2005''.
+Congress finds the following: (1) The Medicare program has a long history of supporting residency training in ambulatory sites.
+These sites include physician offices, nursing homes, and community health centers, all of which are cornerstones of ambulatory training for graduate medical education programs.
+Such sites provide an important educational experience due to the broad range of patients treated.
+Training in ambulatory settings is critical to residents' medical education, ensuring they will be exposed to practice settings similar to those in which they may ultimately practice.
+It is particularly important for residency programs in primary care specialties.
+Beginning in 1987, hospitals were allowed to count the time resident physicians spent in non-hospital settings for the purpose of direct graduate medical education (DGME) payments, subject to agreements between the hospital and the non-hospital site where training occurred.
+To qualify, the hospital was required to incur ``all or substantially all'' of the costs associated with the resident.
+In 1989, the Health Care Financing Administration (HCFA) defined ``all or substantially all'' of costs as the resident salaries and benefits.
+Through the Balanced Budget Act of 1997, Congress further reinforced its commitment to ambulatory training by altering the financial formula to include payments for indirect medical education (IME) costs.
+This requirement was met if the hospital paid the residents' stipends and benefits.
+Effective January 1, 1999, the Center for Medicare & Medicaid Services (CMS), on its own authority, changed its regulatory definition of ``all or substantially all'' to require hospitals to also incur ``the portion of the cost of teaching physicians' salaries and fringe benefits attributable to direct graduate medical education''.
+Despite the fact that CMS recognized the use of volunteer supervisory physicians in the preambles of two regulations and a program memorandum, CMS intermediaries have begun denying, retroactively through audits, the time residents spend in non-hospital settings in situations where faculty are volunteering their services.
+This has the effect of significantly reducing the IME and DGME payments a hospital or teaching program receives for residents training in non- hospital settings.
+CLARIFICATION OF CONGRESSIONAL INTENT REGARDING THE COUNTING OF RESIDENTS IN A NONHOSPITAL SETTING.
+Direct Graduate Medical Education (DGME) Payments.-- (1) In general.--Section 1886(h)(4)(E) of the Social Security Act (42 United States Code 1395ww(h)(4)(E)) is amended by adding at the end the following new sentences: ``For purposes of the preceding sentence, the term `all, or substantially all, of the costs for the training program' means the stipends and benefits provided to the resident and other amounts, if any, as determined by the hospital and the entity operating the nonhospital setting.
+The hospital is not required to pay the entity any amounts other than those determined by the hospital and the entity in order for the hospital to be considered to have incurred all, or substantially all, of the costs for the training program in that setting.''.
+Effective date.--The amendment made by paragraph (1) shall apply to portions of cost reporting periods occurring after the date of the enactment of this Act.
+Indirect Medical Education (IME) Payments.-- (1) In general.--Section 1886(d)(5)(B)(iv) of such Act (42 United States Code 1395ww(d)(5)(B)(iv)) is amended by adding at the end the following new sentences: ``For purposes of the preceding sentence, the term `all, or substantially all, of the costs for the training program' means the stipends and benefits provided to the resident and other amounts, if any, as determined by the hospital and the entity operating the nonhospital setting.
+The hospital is not required to pay the entity any amounts other than those determined by the hospital and the entity in order for the hospital to be considered to have incurred all, or substantially all, of the costs for the training program in that setting.''.
+Effective date.--The amendment made by paragraph (1) shall apply to discharges occurring after the date of the enactment of this Act.

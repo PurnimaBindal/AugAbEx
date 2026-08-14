@@ -1,0 +1,66 @@
+INCREASE IN MAXIMUM TAXABLE INCOME FOR 15 PERCENT RATE BRACKET.
+In General.--Section 1(f) of the Internal Revenue Code of 1986 (relating to adjustments in tax tables so that inflation will not result in tax increases) is amended-- (1) in paragraph (2)-- (A) by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), (B) by inserting after subparagraph (A) the following: ``(B) for taxable years beginning in any calendar year after 1999 and before 2010-- ``(i) in the case of the table contained in subsection (c), by increasing the maximum dollar amount for the 15 percent rate bracket and the minimum dollar amount for the 28 percent rate bracket otherwise determined under subparagraph (A) by the applicable dollar amount for such calendar year, and ``(ii) in the case of the tables contained in subsections (a), (b), and (d), by increasing the maximum and minimum dollar amounts for the 15 and 28 percent rate brackets, respectively, by an amount which maintains the same proportionate differential in such dollar amounts among the tables in subsections (a), (b), (c), and (d) as existed in calendar year 1999,'', and (C) by striking ``subparagraph (A)'' in subparagraph (C) (as so redesignated) and inserting ``subparagraphs (A) and (B)'', and (2) by adding at the end the following: ``(8) Applicable dollar amount.-- ``(A) In general.--For purposes of paragraph (2)(B), the applicable dollar amount for any calendar year is equal to the applicable percentage of the excess of-- ``(i) the contribution and benefit base (as determined under section 230 of the Social Security Act) for the calendar year, over ``(ii) the maximum dollar amount for the 15 percent rate bracket for the table contained in subsection (c) for the calendar year otherwise determined under paragraph (2)(A).
+Applicable percentage.--For purposes of subparagraph (A), the applicable percentage for any calendar year shall be determined as follows: Applicable ``Calendar year: Percentage: 2000.......................................... 10 2001.......................................... 20 2002.......................................... 30 2003.......................................... 40 2004.......................................... 50 2005.......................................... 60 2006.......................................... 70 2007.......................................... 80 2008.......................................... 90 2009..........................................
+Effective Date.--The amendments made by this section shall take effect on the date of the enactment of this Act.
+USE OF NATIONAL AVERAGE WAGE INDEX FOR COST-OF-LIVING ADJUSTMENTS.
+In General.--Section 1(f) of the Internal Revenue Code of 1986 (relating to adjustments in tax tables so that inflation will not result in tax increases) is amended by striking paragraphs (3), (4), and (5) and inserting the following: ``(3) Cost-of-living adjustment.--For purposes of paragraph (2), the cost-of-living adjustment for any calendar year is the percentage (if any) by which-- ``(A) the national average wage index for the preceding calendar year, exceeds ``(B) such index for calendar year 1998.
+National average wage index for any calendar year.-- For purposes of paragraph (3), the national average wage index for any calendar year is the average of such index as of the close of the 12-month period ending on August 31 of such calendar year.
+National average wage index.--For purposes of this subsection, the term `national average wage index' has the meaning given such term by section 209(k)(1) of the Social Security Act, as in effect on the date of the enactment of this paragraph.''
+Conforming Amendments to Tax Tables To Restart Inflation Adjustment.--Section 1 of the Internal Revenue Code of 1986 (relating to tax imposed) is amended by striking subsections (a) through (e) and inserting the following: ``(a) Married Individuals Filing Joint Returns and Surviving Spouses.--There is hereby imposed on the taxable income of-- ``(1) every married individual (as defined in section 7703) who makes a single return jointly with his spouse under section 6013, and ``(2) every surviving spouse (as defined in section 2(a)), a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $43,050............... 15% of taxable income.
+Over $43,050 but not over $104,050.
+$6,457.50, plus 28% of the excess over $43,050.
+Over $104,050 but not over $158,550.
+$23,537.50, plus 31% of the excess over $104,050.
+Over $158,550 but not over $283,150.
+$40,432.50, plus 36% of the excess over $158,550.
+Over $283,150.................. $85,288.50 plus 39.6% of the excess over $283,150.
+Heads of Households.--There is hereby imposed on the taxable income of every head of a household (as defined in section 2(b)) a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $34,550............... 15% of taxable income.
+Over $34,550 but not over $89,150.
+$5,182.50, plus 28% of the excess over $34,550.
+Over $89,150 but not over $144,400.
+$20,470.50, plus 31% of the excess over $89,150.
+Over $144,400 but not over $283,150.
+$37,598, plus 36% of the excess over $144,400.
+Over $283,150.................. $87,548 plus 39.6% of the excess over $283,150.
+Unmarried Individuals (Other Than Surviving Spouses and Heads of Households).--There is hereby imposed on the taxable income of every individual (other than a married individual (as defined in section 7703) filing a joint return or a separate return, a surviving spouse as defined in section 2(a), or a head of household as defined in section 2(b)) a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $25,750............... 15% of taxable income.
+Over $25,750 but not over $62,450.
+$3,862.50, plus 28% of the excess over $25,450.
+Over $62,450 but not over $130,250.
+$14,138.50, plus 31% of the excess over $62,450.
+Over $130,250 but not over $283,150.
+$35,156.50, plus 36% of the excess over $130,250.
+Over $283,150.................. $90,200.50 plus 39.6% of the excess over $283,150.
+Married Individuals Filing Separate Returns.--There is hereby imposed on the taxable income of every married individual (as defined in section 7703) who does not make a single return jointly with his spouse under section 6013, a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $21,175............... 15% of taxable income.
+Over $21,175 but not over $52,025.
+$3,228.75, plus 28% of the excess over $21,175.
+Over $52,025 but not over $79,275.
+$11,768.75, plus 31% of the excess over $52,025.
+Over $79,275 but not over $141,575.
+$20,216.20, plus 36% of the excess over $79,275.
+Over $141,575.................. $42,644.25 plus 39.6% of the excess over $141,575.
+Estates and Trusts.--There is hereby imposed on the taxable income of-- ``(1) every estate, and ``(2) every trust, taxable under this subsection a tax determined in accordance with the following table: ``If taxable income is: The tax is: Not over $1,750................ 15% of taxable income.
+Over $1,750 but not over $4,050 $262.50, plus 28% of the excess over $1,750.
+Over $4,050 but not over $6,200 $906.50, plus 31% of the excess over $4,050.
+Over $6,200 but not over $8,450 $1,573, plus 36% of the excess over $6,200.
+Over $8,450.................... $2,383, plus 39.6% of the excess over $8,450.''
+Inflation Adjustment To Apply in Determining Rates for 2000.-- Section 1(f) of the Internal Revenue Code of 1986 is amended-- (1) by striking ``1993'' in paragraph (1) and inserting ``1999'', (2) by striking ``1992'' in paragraph (3)(B) and inserting ``1998'', and (3) by striking paragraph (7).
+Conforming Amendments.-- (1) The following provisions of the Internal Revenue Code of 1986 are each amended by striking ``1992'' and inserting ``1998'' each place it appears: (A) Section 25A(h).
+Subclause (II) of section 42(h)(6)(G)(i) of such Code is amended by striking ``1987'' and inserting ``1998''.
+Clause (ii) of section 132(f)(6)(A) of such Code, as amended by section 9010(b)(1) of the Transportation Equity Act for the 21st Century, is amended by striking ``, by substituting `calendar year 1998' for `calendar year 1992'.''
+and by inserting a period.
+Subparagraph (A) of section 132(f)(6) of such Code, as amended by section 9010(c)(2) of the Transportation Equity Act for the 21st Century, is amended by striking clause (ii) and all that follows through ``paragraph (2)(A).''
+and inserting: ``(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins.
+In the case of any taxable year beginning in a calendar year after 2002, section 1(f)(3) shall be applied by substituting `calendar year 2001' for `calendar year 1998' for purposes of adjusting the dollar amount contained in paragraph (2)(A).''.
+Subparagraph (B) of section 6334(g)(1) of such Code is amended by striking ``, by substituting `calendar year 1998' for `calendar year 1992' in subparagraph (B) thereof''.
+Additional Conforming Amendments.-- (1) Section 42(h)(6)(G)(ii) of the Internal Revenue Code of 1986 is amended-- (A) by striking ``the CPI'' the first and third places it appears and inserting ``the national average wage index'', (B) by striking ``the CPI'' the second place it appears and inserting ``such index'', and (C) by striking ``section 1(f)(4)'' and inserting ``section 1(f)(5)''.
+Section 162(p)(2) of such Code is amended by striking ``(as defined in section 1(f)(5))''.
+Section 213(d)(10)(B)(ii)(I) of such Code is amended by striking ``(as defined in section 1(f)(5))''.
+The last sentence of section 936(j)(4)(C) of such Code is amended by inserting ``, as in effect for taxable years beginning before January 1, 1999'' before the period.
+Effective Date.-- (1) In general.--Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 1998.
+Conforming amendment.--The amendment made by subsection (d)(4) shall apply to taxable years beginning after December 31, 2001.
+INFLATION ADJUSTMENT FOR INDIVIDUAL ALTERNATIVE MINIMUM TAX EXEMPTION AMOUNTS.
+In General.--Section 55(d) of the Internal Revenue Code of 1986 (relating to exemption amount) is amended by adding at the end the following: ``(4) Inflation adjustment.-- ``(A) In general.--In the case of any taxable year beginning after 1999, each of the dollar amounts contained in paragraph (1) and paragraph (3) (other than subparagraph (A)(ii) thereof) shall be increased by an amount equal to-- ``(i) such dollar amount, multiplied by ``(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year.
+Rounding.--If any increase determined under subparagraph (A) is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.''
+Conforming Amendment.--Section 55(d)(3)(A) of the Internal Revenue Code of 1986 is amended to read as follows: ``(A) $150,000 in the case of a taxpayer described in-- ``(i) paragraph (1)(A), or ``(ii) paragraph (2),''.
+Effective Dates.-- (1) In general.--The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 1999.
+Conforming amendment.--The amendment made by subsection (b) shall apply to taxable years beginning after December 31, 1998.

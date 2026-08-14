@@ -1,0 +1,57 @@
+SHORT TITLE; TABLE OF CONTENTS.
+Short Title.--This Act may be cited as the ``Election Infrastructure and Security Promotion Act of 2016''.
+Table of Contents.--The table of contents of this Act is as follows: Sec.
+Short title; table of contents.
+TITLE I--ELECTION INFRASTRUCTURE AND SECURITY Sec.
+Definition of critical infrastructure.
+Designation of voting systems as critical infrastructure.
+Voting system threat and research and development.
+TITLE II--NATIONAL STANDARDS FOR VOTING SYSTEM SECURITY Sec.
+Requiring States to comply with standards in administration of elections for Federal office.
+Incorporation of standards into certification and testing of voting systems.
+TITLE III--NATIONAL STANDARDS FOR TRANSPARENCY AND VERIFICATION OF BALLOT COUNTING Sec.
+Requiring States to comply with standards in administration of elections for Federal office.
+TITLE IV--RESEARCH AND DEVELOPMENT Sec.
+Innovative election technology research and development.
+TITLE I--ELECTION INFRASTRUCTURE AND SECURITY SEC.
+DEFINITION OF CRITICAL INFRASTRUCTURE.
+In this title, the term ``critical infrastructure'' has the meaning given such term in section 1016 of the Critical Infrastructure Protection Act of 2001 (42 United States Code 5195c(e)).
+DESIGNATION OF VOTING SYSTEMS AS CRITICAL INFRASTRUCTURE.
+The Secretary of Homeland Security, acting through the Assistant Secretary of the National Protection and Programs Directorate, shall-- (1) designate voting systems used in the United States as critical infrastructure; (2) include threats of compromise, disruption, or destruction of voting systems in national planning scenarios; and (3) conduct a campaign to proactively educate local election officials about the designation of voting systems as critical infrastructure and election officials at all levels of government of voting system threats.
+VOTING SYSTEM THREAT AND RESEARCH AND DEVELOPMENT.
+In General.--In furtherance of local election official preparedness and response, the Secretary of Homeland Security, acting through the Under Secretary for Science and Technology, and in consultation with other relevant agencies and departments of the Federal Government and relevant State and local election official operators of election infrastructure, shall conduct research and development to mitigate the consequences of voting systems threats.
+Scope.--The scope of the research and development under subsection (a) shall include the following: (1) An objective scientific analysis of the risks to critical election infrastructures from a range of threats.
+Determination of the voting system assets and infrastructures that are at risk from intrusion, compromise, disruption or destruction.
+An evaluation of emergency planning and response technologies that would address the findings and recommendations of experts, including those of a Commission to Assess the Threat to the United States from election administration or voting system attack.
+An analysis of technology options that are available to improve the resiliency of critical infrastructure to voting system threats.
+The restoration and recovery capabilities of critical infrastructure under differing levels of damage and disruption.
+Comprehensive Plan.-- (1) In general.--The Secretary of Homeland Security shall prepare and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a comprehensive plan to protect and prepare the critical infrastructure of the voting systems used in the United States against threats, including from acts of terrorism.
+Plan requirements.--The comprehensive plan shall-- (A) be based on findings of the research and development conducted under subsection (a); (B) be developed in consultation with the relevant Federal sector-specific agencies (as defined under Homeland Security Presidential Directive for critical infrastructures); and (C) be developed in consultation with State and local election officials.
+Updates.--The Secretary shall update the plan required under this subsection biennially.
+TITLE II--NATIONAL STANDARDS FOR VOTING SYSTEM SECURITY SEC.
+Development.--The Director of the National Institute of Standards and Technology shall develop standards for ensuring the operational security of the voting systems used in elections for Federal office, including the physical and cybersecurity of such systems and security requirements for the personnel who operate such systems.
+Contents of Standards.--In developing standards under this title, the Director shall ensure the following: (1) The standards shall set forth specific, evidence-based security requirements for the operation of each individual component of voting systems, including components for marking ballots, scanning ballots, aggregating vote tallies from vote counters, and electronic poll books.
+The standards shall set forth specific, evidence-based requirements for the interoperability of the components, based on data standards established by the National Institute of Standards and Technology.
+No system or device upon which ballots or votes are cast or tabulated shall be connected to the Internet at any time through any publicly accessible network.
+No system or device upon which ballots or votes are cast or tabulated shall contain, use, or be accessible by any wireless, power-line, or concealed communication device.
+Deadline; Updates.-- (1) Deadline for initial standards.--The Director shall develop the standards under this title not later than 1 year after the date of the enactment of this Act.
+Updates.--The Director may update the standards under this title at such times as the Director considers appropriate.
+REQUIRING STATES TO COMPLY WITH STANDARDS IN ADMINISTRATION OF ELECTIONS FOR FEDERAL OFFICE.
+Section 301(a) of the Help America Vote Act of 2002 (52 United States Code 21081(a)) is amended by adding at the end the following new paragraph: ``(7) Compliance with security standards.--In operating the voting system, the State shall comply with the applicable standards developed by the Director of the National Institute of Standards and Technology under title II of the Election Infrastructure and Security Promotion Act of 2016 for ensuring the operational security of voting systems.''.
+INCORPORATION OF STANDARDS INTO CERTIFICATION AND TESTING OF VOTING SYSTEMS.
+Section 231(a) of the Help America Vote Act of 2002 (52 United States Code 20971(a)) is amended by adding at the end the following new paragraph: ``(3) Ensuring compliance with operational security standards.--The testing and certification of voting system hardware and software carried out under this subtitle shall test whether voting systems are in compliance with the applicable standards developed by the Director of the National Institute of Standards and Technology under title II of the Election Infrastructure and Security Promotion Act of 2016 for ensuring the operational security of voting systems, including testing whether the components of voting systems meet the component-specific security requirements and the system interoperability requirements under such standards.''.
+TITLE III--NATIONAL STANDARDS FOR TRANSPARENCY AND VERIFICATION OF BALLOT COUNTING SEC.
+Development.--The Director of the National Institute of Standards and Technology shall develop standards for ensuring that the process by which ballots are counted in elections for Federal office is transparent and permits voters to verify that votes in such elections are counted correctly.
+Contents of Standards.--In developing standards under this title, the Director shall ensure the following: (1) Election officials will provide the public with sufficient evidence to verify the results of an election for Federal office, including through the establishment of tracking procedures that permit members of the public to track the ballots counted in the election, so long as such procedures ensure the anonymity of the individuals who cast the ballots.
+All of the data used or produced by the relevant components of a voting system used in an election for Federal office.
+Election officials shall make all of the relevant components of a voting system used in an election for Federal office available to other parties (such as other officials of the State, research organizations, and institutions of higher education) to duplicate the testing procedures used to certify the use of the system for use in such elections.
+Deadline; Updates.-- (1) Deadline for initial standards.--The Director shall develop the standards under this title not later than 1 year after the date of the enactment of this Act.
+Updates.--The Director may update the standards under this title at such times as the Director considers appropriate.
+Relevant Components Defined.--In this section, the term ``relevant components'' means, with respect to a voting system, each component of the system which is involved with counting ballots and producing a tally of the ballots cast, including the source code, build tools, build procedure documentation, test plans, test fixtures, and software and hardware specifications.
+REQUIRING STATES TO COMPLY WITH STANDARDS IN ADMINISTRATION OF ELECTIONS FOR FEDERAL OFFICE.
+Section 301(a) of the Help America Vote Act of 2002 (52 United States Code 21081(a)), as amended by section 202, is amended by adding at the end the following new paragraph: ``(8) Compliance with transparency and ballot verification standards.--In operating the voting system, the State shall comply with the applicable standards developed by the Director of the National Institute of Standards and Technology under title III of the Election Infrastructure and Security Promotion Act of 2016 for ensuring that the process by which ballots are counted in elections for Federal office is transparent and permits voters to verify that votes in such elections are counted correctly.''.
+TITLE IV--RESEARCH AND DEVELOPMENT SEC.
+INNOVATIVE ELECTION TECHNOLOGY RESEARCH AND DEVELOPMENT.
+In General.--The National Science Foundation, in cooperation with the Defense Advanced Research Projects Agency, shall establish an election technology innovation research and development program.
+Such program-- (1) shall support the development of hardware and software technologies and systems for marking ballots, scanning ballots, aggregating tallies from counters, and electronic poll books; and (2) may also support research and development on other elements of technology for voting, election administration, auditing, and other election-critical operations.
+Requirements.--The National Science Foundation shall, to the extent practicable and in consultation with the Election Assistance Commission and the National Institute of Standards and Technology, ensure that technologies developed through assistance provided under this section-- (1) conform to any applicable standards and guidelines for design and for data interoperability established by the National Institute of Standards and Technology; and (2) are made available for use by Federal, State, and local governments at no cost.

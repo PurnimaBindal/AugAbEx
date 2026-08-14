@@ -1,0 +1,56 @@
+SHORT TITLE; TABLE OF CONTENTS.
+Short Title.--This Act may be cited as the ``Driver's License Security and Modernization Act''.
+Table of Contents.--The table of contents for this Act is as follows: Sec.
+Short title; table of contents.
+Minimum document requirements and issuance standards for Federal recognition.
+Trafficking in authentication features for use in false identification documents.
+In this Act, the following definitions apply: (1) Driver's license.--The term ``driver's license'' means a motor vehicle operator's license, as defined in section 30301 of title 49, United States Code.
+Identification card.--The term ``identification card'' means a personal identification card, as defined in section 1028(d) of title 18, United States Code, issued by a State.
+Secretary.--The term ``Secretary'' means the Secretary of Homeland Security.
+State.--The term ``State'' means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+MINIMUM DOCUMENT REQUIREMENTS AND ISSUANCE STANDARDS FOR FEDERAL RECOGNITION.
+Minimum Standards for Federal Use.-- (1) In general.--Beginning 3 years after the date of the enactment of this Act, a Federal agency may not accept, for any official purpose, a driver's license or identification card issued by a State to any person unless the State is meeting the requirements of this section.
+State certifications.--The Secretary shall determine whether a State is meeting the requirements of this section based on certifications made by the State to the Secretary.
+Such certifications shall be made at such times and in such manner as the Secretary, in consultation with the Secretary of Transportation, may prescribe by regulation.
+Minimum Document Requirements.--To meet the requirements of this section, a State shall include, at a minimum, the following information and features on each driver's license and identification card issued to a person by the State: (1) The person's full legal name.
+The person's date of birth.
+The person's driver license or identification card number.
+A digital photograph of the person.
+The person's address of principal residence.
+Physical security features designed to prevent tampering, counterfeiting, or duplication of the document for fraudulent purposes.
+A common machine-readable technology, with defined minimum data elements.
+Minimum Issuance Standards.-- (1) In general.--To meet the requirements of this section, a State shall require, at a minimum, presentation and verification of the following information before issuing a driver's license or identification card to a person: (A) A photo identity document, except that a non- photo identity document is acceptable if it includes both the person's full legal name and date of birth.
+Documentation showing the person's date of birth.
+Proof of the person's social security account number or verification that the person is not eligible for a social security account number.
+Documentation showing the person's name and address of principal residence.
+Special requirements.-- (A) In general.--To meet the requirements of this section, a State shall comply with the minimum standards of this paragraph.
+Evidence of legal status.--A State shall require, before issuing a driver's license or identification card to a person, valid documentary evidence that the person-- (i) is a citizen of the United States; (ii) is an alien lawfully admitted for permanent or temporary residence in the United States; (iii) has conditional permanent resident status in the United States; (iv) has a valid, unexpired nonimmigrant visa or nonimmigrant visa status for entry into the United States; (v) has a pending or approved application for asylum in the United States; (vi) has entered into the United States in refugee status; (vii) has a pending or approved application for temporary protected status in the United States; (viii) has approved deferred action status; or (ix) has a pending application for adjustment of status to that of an alien lawfully admitted for permanent residence in the United States or conditional permanent resident status in the United States.
+Temporary drivers' licenses and identification cards.-- (i) In general.--If a person presents evidence under any of clauses (iv) through (ix) of subparagraph (B), the State may only issue a temporary driver's license or temporary identification card to the person.
+Expiration date.--A temporary driver's license or temporary identification card issued pursuant to this subparagraph shall be valid only during the period of time of the applicant's authorized stay in the United States or if there is no definite end to the period of authorized stay a period of one year.
+Display of expiration date.--A temporary driver's license or temporary identification card issued pursuant to this subparagraph shall clearly indicate that it is temporary and shall state the date on which it expires.
+Renewal.--A temporary driver's license or temporary identification card issued pursuant to this subparagraph may be renewed only upon presentation of valid documentary evidence that the status by which the applicant qualified for the temporary driver's license or temporary identification card has been extended by the Secretary of Homeland Security.
+Applications for renewal, duplication, or reissuance.-- (A) Presumption.--For purposes of paragraphs (1) and (2), a State shall presume that any driver's license or identification card for which an application has been made for renewal, duplication, or reissuance has been issued in accordance with the provisions of such paragraphs if, at the time the application is made, the driver's license or identification card has not expired or been canceled, suspended, or revoked.
+Limitation.--Subparagraph (A) shall not apply to a renewal, duplication, or reissuance if the State is notified by a local, State, or Federal government agency that the person seeking such renewal, duplication, or reissuance is neither a citizen of the United States nor legally in the United States.
+Verification of documents.--To meet the requirements of this section, a State shall implement the following procedures: (A) Before issuing a driver's license or identification card to a person, the State shall verify, with the issuing agency, the issuance, validity, and completeness of each document required to be presented by the person under paragraph (1) or (2).
+The State shall not accept any foreign document, other than an official passport, to satisfy a requirement of paragraph (1) or (2).
+Not later than September 11, 2005, the State shall enter into a memorandum of understanding with the Secretary of Homeland Security to routinely utilize the automated system known as Systematic Alien Verification for Entitlements, as provided for by section 404 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (110 United States Statutes at Large 3009-664), to verify the legal presence status of a person, other than a United States citizen, applying for a driver's license or identification card.
+Other Requirements.--To meet the requirements of this section, a State shall adopt the following practices in the issuance of drivers' licenses and identification cards: (1) Employ technology to capture digital images of identity source documents so that the images can be retained in electronic storage in a transferable format.
+Retain paper copies of source documents for a minimum of 7 years or images of source documents presented for a minimum of 10 years.
+Subject each person applying for a driver's license or identification card to mandatory facial image capture.
+Establish an effective procedure to confirm or verify a renewing applicant's information.
+Confirm with the Social Security Administration a social security account number presented by a person using the full social security account number.
+In the event that a social security account number is already registered to or associated with another person to which any State has issued a driver's license or identification card, the State shall resolve the discrepancy and take appropriate action.
+Refuse to issue a driver's license or identification card to a person holding a driver's license issued by another State without confirmation that the person is terminating or has terminated the driver's license.
+Ensure the physical security of locations where drivers' licenses and identification cards are produced and the security of document materials and papers from which drivers' licenses and identification cards are produced.
+Subject all persons authorized to manufacture or produce drivers' licenses and identification cards to appropriate security clearance requirements.
+Establish fraudulent document recognition training programs for appropriate employees engaged in the issuance of drivers' licenses and identification cards.
+In General.--To be eligible to receive any grant or other type of financial assistance made available under this Act, a State shall participate in the interstate compact regarding sharing of driver license data, known as the ``Driver License Agreement'', in order to provide electronic access by a State to information contained in the motor vehicle databases of all other States.
+Requirements for Information.--A State motor vehicle database shall contain, at a minimum, the following information: (1) All data fields printed on drivers' licenses and identification cards issued by the State.
+Motor vehicle drivers' histories, including motor vehicle violations, suspensions, and points on licenses.
+TRAFFICKING IN AUTHENTICATION FEATURES FOR USE IN FALSE IDENTIFICATION DOCUMENTS.
+Section 1028(a)(8) of title 18, United States Code, is amended by striking ``false authentication features'' and inserting ``false or actual authentication features''.
+In General.--The Secretary may make grants to a State to assist the State in conforming to the minimum standards set forth in this Act.
+Authorization of Appropriations.--There are authorized to be appropriated to the Secretary for each of the fiscal years 2005 through 2009 such sums as may be necessary to carry out this Act.
+Participation of Secretary of Transportation and States.--All authority to issue regulations, certify standards, and issue grants under this Act shall be carried out by the Secretary, in consultation with the Secretary of Transportation and the States.
+Extensions of Deadlines.--The Secretary may grant to a State an extension of time to meet the requirements of section 3(a)(1) if the State provides adequate justification for noncompliance.
+Section 7212 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108-458) is repealed.

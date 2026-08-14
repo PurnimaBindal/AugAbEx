@@ -1,0 +1,85 @@
+SHORT TITLE; TABLE OF CONTENTS.
+Short Title.--This Act may be cited as the ``American Small Business Innovation Act''.
+Table of Contents.--The table of contents for this Act is as follows: Sec.
+Short title; table of contents.
+TITLE I--NEW MARKETS VENTURE CAPITAL PROGRAM Sec.
+Expansion of New Markets Venture Capital Program.
+Increased investment in small manufacturers.
+Updating definition of low-income geographic area.
+Study on availability of equity capital.
+Expanding operational assistance to conditionally approved companies.
+Streamlined application for New Markets Venture Capital Program.
+Elimination of matching requirement.
+Simplified formula for operational assistance grants.
+TITLE II--ANGEL INVESTMENT PROGRAM Sec.
+Establishment of Angel Investment Program.
+TITLE I--NEW MARKETS VENTURE CAPITAL PROGRAM SEC.
+EXPANSION OF NEW MARKETS VENTURE CAPITAL PROGRAM.
+Administration Participation Required.--Section 353 of the Small Business Investment Act of 1958 (15 United States Code 689b) is amended by striking ``under which the Administrator may'' and inserting ``under which the Administrator shall''.
+Report to Congress.--Not later than 1 year after the date of the enactment of this Act, the Administrator of the Small Business Administration shall submit to Congress a report evaluating the success of the expansion of the New Markets Venture Capital Program under this section.
+Section 354 of the Small Business Investment Act of 1958 (15 United States Code 689c) is amended by adding at the end the following: ``(f) Geographic Expansion.--From among companies submitting applications under subsection (b), the Administrator shall consider the selection criteria and nationwide distribution under subsection (c) and shall, to the maximum extent practicable, approve at least one company from each geographic region of the Small Business Administration.''.
+INCREASED INVESTMENT IN SMALL MANUFACTURERS.
+Section 354(d)(1) of the Small Business Investment Act of 1958 (15 United States Code 689c(d)(1)) is amended-- (1) by striking ``Each'' and inserting the following: ``(A) In general.--Except as provided in subparagraph (B), each''; and (2) by adding at the end the following: ``(B) Small manufacturer investment capital requirements.--Each conditionally approved company engaged primarily in development of and investment in small manufacturers shall raise not less than $3,000,000 of private capital or binding capital commitments from one or more investors (other than agencies or departments of the Federal Government) who meet criteria established by the Administrator.''.
+UPDATING DEFINITION OF LOW-INCOME GEOGRAPHIC AREA.
+Section 351 of the Small Business Investment Act of 1958 (15 United States Code 689) is amended-- (1) by striking paragraphs (2) and (3); (2) by inserting after paragraph (1) the following: ``(2) Low-income geographic area.--The term `low-income geographic area' has the same meaning given the term `low- income community' in section 45D(e) of the Internal Revenue Code of 1986 (26 United States Code 45D(e)).
+''; and (3) by redesignating paragraphs (4) through (8) as paragraphs (3) through (7), respectively.
+STUDY ON AVAILABILITY OF EQUITY CAPITAL.
+Study Required.--Before the expiration of the 180-day period that begins on the date of the enactment of this Act, the Chief Counsel for Advocacy of the Small Business Administration shall conduct a study on the availability of equity capital in low-income urban and rural areas.
+Report.--Not later than 90 days after the completion of the study under subsection (a), the Administrator of the Small Business Administration shall submit to Congress a report containing the findings of the study required under subsection (a) and any recommendations of the Administrator based on such study.
+EXPANDING OPERATIONAL ASSISTANCE TO CONDITIONALLY APPROVED COMPANIES.
+Operational Assistance Grants to Conditionally Approved Companies.--Section 358(a) of the Small Business Investment Act of 1958 (15 United States Code 689g(a)) is amended by adding at the end the following: ``(6) Grants to conditionally approved companies.-- ``(A) In general.--Subject to subparagraphs (B), (C), and (D), upon the request of a company conditionally approved under section 354(c), the Administrator shall make a grant to the company under this subsection.
+Repayment by companies not approved.--If a company receives a grant under this paragraph and does not enter into a participation agreement for final approval, the company shall repay the amount of the grant to the Administrator.
+Deduction from grant to approved company.--If a company receives a grant under this paragraph and receives final approval under section 354(e), the Administrator shall deduct the amount of the grant under this paragraph from the total grant amount that the company receives for operational assistance.
+Amount of grant.--No company may receive a grant of more than $50,000 under this paragraph.''.
+Limitation on Time for Final Approval.--Section 354(d) of the Small Business Investment Act of 1958 (15 United States Code 689c(d)) is amended in the matter preceding paragraph (1) by striking ``a period of time, not to exceed 2 years,'' and inserting ``2 years''.
+Expanded Definition of Operational Assistance.--Section 351(4) of the Small Business Investment Act of 1958, as so redesignated by section 104 of this Act, is amended by inserting before the period at the end the following: ``, including assistance on how to implement energy efficiency and sustainable practices that reduce the use of non- renewable resources or minimize environmental impact and reduce overall costs and increase health of employees''.
+STREAMLINED APPLICATION FOR NEW MARKETS VENTURE CAPITAL PROGRAM.
+Not later than 60 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall prescribe standard documents for the final New Markets Venture Capital company approval application under section 354(e) of the Small Business Investment Act of 1958 (15 United States Code 689c(e)).
+The Administrator shall assure that the standard documents shall be designed to substantially reduce the cost burden of the application process on the companies involved.
+ELIMINATION OF MATCHING REQUIREMENT.
+Section 354(d)(2)(A)(i) of the Small Business Investment Act of 1958 (15 United States Code 689c(d)(2)(A)(i)) is amended-- (1) in subclause (I) by adding ``and'' at the end; (2) in subclause (II) by striking ``and'' at the end; and (3) by striking subclause (III).
+SIMPLIFIED FORMULA FOR OPERATIONAL ASSISTANCE GRANTS.
+Section 358(a)(4)(A) of the Small Business Investment Act of 1958 (15 United States Code 689g(a)(4)(A)) is amended-- (1) by striking ``shall be equal to'' and all that follows through the period at the end and by inserting ``shall be equal to the lesser of--''; and (2) by adding at the end the following: ``(i) 10 percent of the resources (in cash or in kind) raised by the company under section 354(d)(2); or ``(ii) $1,000,000.''.
+Section 368(a) of the Small Business Investment Act of 1958 (15 United States Code 689q(a)) is amended by striking ``fiscal years 2001 through 2006'' and inserting ``fiscal years 2010 through 2012''.
+TITLE II--ANGEL INVESTMENT PROGRAM SEC.
+ESTABLISHMENT OF ANGEL INVESTMENT PROGRAM.
+Title III of the Small Business Investment Act of 1958 (15 United States Code 681 et sequentes) is amended by adding at the end the following: ``PART D--ANGEL INVESTMENT PROGRAM ``SEC.
+OFFICE OF ANGEL INVESTMENT.
+Establishment.--There is established, in the Small Business Investment Division of the Small Business Administration, the Office of Angel Investment.
+Director.--The head of the Office of Angel Investment is the Director of Angel Investment.
+Duties.--Subject to the direction of the Administrator, the Director shall perform the following functions: ``(1) Provide support for the development of angel investment opportunities for small business concerns.
+Administer the Angel Investment Program under section 399C.
+Administer the Federal Angel Network under section 399D.
+Administer the grant program for the development of angel groups under section 399E.
+Perform such other duties consistent with this section as the Administrator shall prescribe.
+``In this part: ``(1) The term `angel group' means a group including 10 or more angel investors organized for the purpose of making investments in local or regional small business concerns that-- ``(A) consists primarily of angel investors; ``(B) requires angel investors to be accredited investors; and ``(C) actively involves the angel investors in evaluating and making decisions about making investments.
+The term `angel investor' means an individual who-- ``(A) qualifies as an accredited investor (as that term is defined under section 230.501 of title 17, Code of Federal Regulations); and ``(B) provides capital to or makes investments in a small business concern.
+The term `small business concern owned and controlled by veterans' has the meaning given that term under section 3(q)(3) of the Small Business Act (15 United States Code 632(q)(3)).
+The term `small business concern owned and controlled by women' has the meaning given that term under section 8(d)(3)(D) of the Small Business Act (15 United States Code 637(d)(3)(D)).
+The term `socially and economically disadvantaged small business concern' has the meaning given that term under section 8(a)(4)(A) of the Small Business Act (15 United States Code 637(a)(4)(A)).
+In General.--The Director of Angel Investment shall establish and carry out a program, to be known as the Angel Investment Program, to provide financing to approved angel groups for the purpose of providing venture capital investment in small business concerns in the communities of such groups.
+Eligibility.--To be eligible to receive financing under this section, an angel group shall-- ``(1) have demonstrated experience making investments in local or regional small business concerns; ``(2) have established protocols and a due diligence process for determining its investment strategy; ``(3) have an established code of ethics; and ``(4) submit an application to the Director at such time and containing such information and assurances as the Director may require.
+Use of Funds.--An angel group that receives financing under this section shall use the amounts received to make investments in small business concerns-- ``(1) that have been in existence for less than 5 years as of the date on which the investment is made; ``(2) that have fewer than 75 employees as of the date on which the investment is made; ``(3) more than 50 percent of the employees of which perform substantially all of their services in the United States as of the date on which the investment is made; and ``(4) within the geographic area determined by the Director under subsection (e).
+Limitation on Amount.--No angel group receiving financing under this section shall receive more than $2,000,000.
+Limitation on Geographic Area.--For each angel group receiving financing under this section, the Director shall determine the geographic area in which a small business concern must be located to receive an investment from that angel group.
+Priority in Providing Financing.--In providing financing under this section, the Director shall give priority to angel groups that invest in small business concerns owned and controlled by veterans, small business concerns owned and controlled by women, and socially and economically disadvantaged small business concerns.
+Nationwide Distribution of Financing.--In providing financing under this section, the Director shall, to the extent practicable, provide financing to angel groups that are located in a variety of geographic areas.
+Matching Requirement.--As a condition of receiving financing under this section, the Director shall require that for each small business concern in which the angel group receiving such financing invests, the angel group shall invest an amount from a source other than the Federal Government that is equal to or greater than the amount of the financing provided under this section that the angel group invests in that small business concern.
+Repayment of Financing.--As a condition of receiving financing under this section, the Director shall require an angel group to repay the Director for any investment on which the angel group makes a profit an amount equal to the percentage of the returns that is equal to the percentage of the total amount invested by the angel group that consisted of financing received under this section.
+Angel Investment Fund.-- ``(1) Establishment.--There is established in the Treasury a fund to be known as the Angel Investment Fund.
+Deposit of certain amounts.--Amounts collected under subsection (i) shall be deposited in such fund.
+Use of deposits.--Deposits in such fund shall be available for the purpose of providing financing under this section in the amounts specified in annual appropriations Acts without regard to fiscal year limitations.
+Authorization of Appropriations.--There is authorized to be appropriated to carry out this section-- ``(1) $10,000,000 for fiscal year 2010; ``(2) $20,000,000 for fiscal year 2011; and ``(3) $20,000,000 for fiscal year 2012.
+In General.--Subject to the succeeding provisions of this section, the Director of Angel Investment shall establish and maintain a searchable database, to be known as the Federal Angel Network, to assist small business concerns in identifying angel investors.
+Network Contents.--The Federal Angel Network shall include-- ``(1) a list of the names and addresses of angel groups and angel investors; ``(2) information about the types of investments each angel group or angel investor has made; and ``(3) information about other public and private resources and registries that provide information about angel groups or angel investors.
+Collection of Information.-- ``(1) In general.--The Director shall collect the information to be contained in the Federal Angel Network and shall ensure that such information is updated regularly.
+Request for exclusion of information.--The Director shall not include information concerning an angel investor if that investor contacts the Director to request that such information be excluded from the Network.
+Availability.--The Director shall make the Federal Angel Network available on the Internet website of the Administration and shall do so in a manner that permits others to download, distribute, and use the information contained in the Federal Angel Network.
+Authorization of Appropriations.--There is authorized to be appropriated to carry out this section $1,000,000, to remain available until expended.
+GRANT PROGRAM FOR DEVELOPMENT OF ANGEL GROUPS.
+In General.--The Director of Angel Investment shall establish and carry out a grant program to make grants to eligible entities for the development of new or existing angel groups and to increase awareness and education about angel investing.
+Eligible Entities.--In this section, the term `eligible entity' means-- ``(1) a State or unit of local government; ``(2) a nonprofit organization; ``(3) a State mutual benefit corporation; ``(4) a Small Business Development Center established pursuant to section 21 of the Small Business Act (15 United States Code 648); or ``(5) a women's business center established pursuant to section 29 of the Small Business Act (15 United States Code 656).
+Matching Requirement.--The Administrator shall require, as a condition of any grant made under this section, that the eligible entity receiving the grant provide from resources (in cash or in kind), other than those provided by the Administrator or any other Federal source, a matching contribution equal to 50 percent of the amount of the grant.
+Application.--To receive a grant under this section, an eligible entity shall submit an application that contains-- ``(1) a proposal describing how the grant would be used; and ``(2) any other information or assurances as the Director may require.
+Report.--Not later than 3 years after the date on which an eligible entity receives a grant under this section, such eligible entity shall submit a report to the Administrator describing the use of grant funds and evaluating the success of the angel group developed using the grant funds.
+Authorization of Appropriations.--There is authorized to be appropriated to carry out this section $1,500,000, for each of fiscal years 2010 through 2012.

@@ -1,0 +1,3 @@
+Amends the Internal Revenue Code to allow the use of tax-exempt redevelopment bonds for the costs of environmental remediation.
+Defines "environmental remediation" as: abatement or control of hazardous substances; demolition of existing contaminated structures, permit fees necessary for remediation, and environmental audits; health assessments or health effects studies related to a contaminated site; and remediation of off-site contamination caused by activity on a contaminated site.
+Denies an income tax deduction for interest paid on redevelopment bonds for environmental remediation if the Administrator of the Environmental Protection Agency determines that a remediation plan financed with redevelopment bonds was not satisfactorily completed.

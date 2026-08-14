@@ -1,0 +1,44 @@
+This Act may be cited as the ``Human Cloning Prohibition Act of 2002''.
+Congress makes the following findings: (1) Human cloning is unsafe, immoral, and unacceptable.
+Federal legislation should be enacted to prohibit anyone from attempting to conduct human cloning, whether using Federal or non-Federal funds.
+To deter human cloning, any attempt to create a human clone should be a felony subject to severe punishment.
+The National Academies (including the National Academy of Sciences and the Institute of Medicine) and the National Bioethics Advisory Commission recommended that any legislative action undertaken to ban human cloning should be careful not to interfere with important areas of scientific research, such as nuclear transplantation to produce stem cells.
+The National Academies found that there are significant differences between human cloning and nuclear transplantation.
+Specifically, the Academies determined that, unlike human cloning, the creation of embryonic stem cells by nuclear transplantation does not involve implantation of an embryo in a uterus and thus cannot produce a complete, live-born animal (that is, a ``clone'').
+The National Academies found that scientific and medical considerations that justify a ban on human cloning are not applicable to nuclear transplantation.
+The National Academies concluded that nuclear transplantation has great potential to increase the understanding and potential treatment of various diseases and debilitating disorders, as well as our fundamental biological knowledge.
+These diseases and disorders include Lou Gehrig's disease, Parkinson's disease, Alzheimer's disease, spinal-cord injury, cancer, cardiovascular diseases, diabetes, rheumatoid arthritis, and many others.
+The National Academies determined that nuclear transplantation research could improve our ability to transplant healthy tissue derived from stem cells into patients with damaged or diseased organs.
+Such research could greatly reduce the likelihood that a person's body would reject that tissue and also help obviate the need for immunosuppressive drugs, which often have severe and potentially life-threatening side effects.
+Based on these expert conclusions and recommendations and other evidence, nuclear transplantation is a valuable area of research that could potentially save millions of lives and relieve the suffering of countless others, and thus should not be banned.
+The National Academies recommended that nuclear transplantation experiments should be subject to close scrutiny under the Federal procedures and rules concerning human- subjects research.
+Given the need for additional oversight in this area, strict ethical requirements for human subjects research, including informed consent, safety and privacy protections, and review by an ethics board, should be prescribed for all research involving nuclear transplantation, whether using Federal or non-Federal funds.
+(A) Biomedical research and clinical facilities engage in and affect interstate commerce.
+The services provided by clinical facilities move in interstate commerce.
+Patients travel regularly across State lines in order to access clinical facilities.
+Biomedical research and clinical facilities engage scientists, doctors, and others in an interstate market, and contract for research and purchase medical and other supplies in an interstate market.
+It is the purpose of this Act to prohibit human cloning and to protect important areas of medical research, including stem cell research.
+PROHIBITION ON HUMAN CLONING.
+In General.--Title 18, United States Code, is amended by inserting after chapter 15, the following: ``CHAPTER 16--PROHIBITION ON HUMAN CLONING ``Sec.
+Prohibition on human cloning.
+Prohibition on human cloning ``(a) Definitions.--In this section: ``(1) Human cloning.--The term `human cloning' means implanting or attempting to implant the product of nuclear transplantation into a uterus or the functional equivalent of a uterus.
+Human somatic cell.--The term `human somatic cell' means any human cell other than a haploid germ cell.
+Nuclear transplantation.--The term `nuclear transplantation' means transferring the nucleus of a human somatic cell into an oocyte from which the nucleus or all chromosomes have been or will be removed or rendered inert.
+Nucleus.--The term `nucleus' means the cell structure that houses the chromosomes.
+Oocyte.--The term `oocyte' means the female germ cell, the egg.
+Prohibitions on Human Cloning.--It shall be unlawful for any person or other legal entity, public or private-- ``(1) to conduct or attempt to conduct human cloning; or ``(2) to ship the product of nuclear transplantation in interstate or foreign commerce for the purpose of human cloning in the United States or elsewhere.
+Protection of Research.--Nothing in this section shall be construed to restrict practices not expressly prohibited in this section.
+Penalties.-- ``(1) Criminal penalties.--Whoever intentionally violates paragraph (1) or (2) of subsection (b) shall be fined under this title and imprisoned not more than 10 years.
+Civil penalties.--Whoever intentionally violates paragraph (1) or (2) of subsection (b) shall be subject to a civil penalty of $1,000,000 or three times the gross pecuniary gain resulting from the violation, whichever is greater.
+Forfeiture.--Any property, real or personal, derived from or used to commit a violation or attempted violation of the provisions of subsection (b), or any property traceable to such property, shall be subject to forfeiture to the United States in accordance with the procedures set forth in chapter 46 of title 18, United States Code.
+Right of Action.--Nothing in this section shall be construed to give any individual or person a private right of action.''.
+Ethical Requirements for Nuclear Transplantation Research.-- Part H of title IV of the Public Health Service Act (42 United States Code 289 et seq.)
+is amended by adding at the end the following: ``SEC.
+ETHICAL REQUIREMENTS FOR NUCLEAR TRANSPLANTATION RESEARCH, INCLUDING INFORMED CONSENT, INSTITUTIONAL REVIEW BOARD REVIEW, AND PROTECTION FOR SAFETY AND PRIVACY.
+Definitions.--In this section: ``(1) Human somatic cell.--The term `human somatic cell' means any human cell other than a haploid germ cell.
+Nuclear transplantation.--The term `nuclear transplantation' means transferring the nucleus of a human somatic cell into an oocyte from which the nucleus or all chromosomes have been or will be removed or rendered inert.
+Nucleus.--The term `nucleus' means the cell structure that houses the chromosomes.
+Oocyte.--The term `oocyte' means the female germ cell, the egg.
+Applicability of Federal Ethical Standards to Nuclear Transplantation Research.--Research involving nuclear transplantation shall be conducted in accordance with subparts A and B of part 46 of title 45, Code of Federal Regulations (as in effect on the date of enactment of the Human Cloning Prohibition Act of 2002).
+Civil Penalties.--Whoever intentionally violates subsection (b) shall be subject to a civil penalty in an amount that is appropriate for the violation involved, but not more than $250,000.
+Enforcement.--The Secretary of Health and Human Services shall have the exclusive authority to enforce this section.

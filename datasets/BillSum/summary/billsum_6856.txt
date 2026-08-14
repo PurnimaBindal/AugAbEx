@@ -1,0 +1,9 @@
+Preventing and Reducing Improper Medicare and Medicaid Expenditures to Restore Integrity to Benefits Act of 2015 This bill amends title XIX (Medicaid) of the Social Security Act to make several changes related to the prevention of Medicaid fraud.
+With respect to the Medicaid Integrity Program (MIP), the bill: specifies that program appropriations&nbsp;may cover costs of equipment, travel, training, and salaries and benefits; and allows the Department of Health and Human Services (HHS) flexibility in determining the number of additional staff necessary to carry out the program.
+(MIP is a federal program aimed at preventing and reducing provider fraud, waste, and abuse in the Medicaid program.)
+Under current law, HHS may contract with Medicare administrative contractors (MACs), which are&nbsp;private&nbsp;insurers that process Medicare claims within&nbsp;specified geographic jurisdictions.
+The bill&nbsp;requires HHS to provide specified incentives for MACs to reduce improper payment error rates within their jurisdictions.
+The bill establishes criminal penalties of up to 10 years imprisonment and up to $500,000 in fines for illegally purchasing or distributing Medicare, Medicaid, or Children's Health Insurance Program (CHIP) beneficiary identification or billing privileges.
+The bill increases the scope of the Medicare-Medicaid Data Match Program (Medi-Medi Program), an existing program through which contractors and participating&nbsp;governmental agencies collaboratively analyze&nbsp;Medicare and Medicaid billing trends.
+HHS must establish a plan to encourage states to participate in the Medi-Medi Program.
+HHS shall develop and implement a plan to allow states to access relevant data on improper or fraudulent payments made under the Medicare program on behalf of individuals dually eligible for both Medicare and Medicaid.

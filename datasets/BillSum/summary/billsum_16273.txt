@@ -1,0 +1,3 @@
+Stop Endangering the Records of Veterans (SERVE) Act of 2006 - Directs the Secretary of Veterans Affairs to: physically secure all sensitive personal information processed or maintained by the Department of Veterans Affairs (VA) and all equipment containing such information; encrypt all sensitive personal information; and require VA contractors with access to sensitive personal information to encrypt or encode such information and physically secure all equipment containing such information.
+Defines "sensitive personal information" to include social security numbers, dates of birth, and individual financial information.
+Imposes criminal penalties for the unauthorized disclosure of sensitive personal information.

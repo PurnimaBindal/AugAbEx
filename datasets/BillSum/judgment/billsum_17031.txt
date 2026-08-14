@@ -1,0 +1,37 @@
+This Act may be cited as the ``Physician Relief Act of 2003''.
+Findings.--The Congress finds the following: (1) Medical liability insurance premiums are soaring to the highest rates since the mid-1980s.
+The average increase for 2001 was approximately 15 percent, and it is predicted that rates could rise as much as 50 percent this year for some specialties in some regions.
+Some of the largest insurers are raising rates more than 30 percent in many States.
+In 1999, jury awards in claims cases jumped 7 percent compared to the previous year.
+In addition, according to Jury Verdict Research, it cost 30 percent more to settle a suit than it did just a year before in 1998.
+About 45 percent of the jury awards in 1998-99 were for that amount or more, up from 39 percent during the preceding 12 months.
+Physicians in West Virginia, New York, Pennsylvania, Mississippi, Florida, and other southeastern States are already in crisis.
+In New York and Florida, obstetricians, gynecologists, and surgeons routinely pay more than $100,000 a year for $1,000,000 coverage.
+Some are paying more than $200,000.
+Purpose.--It is the purpose of this Act to implement health care liability reforms designed to-- (1) protect access of all Americans to good health care and competent physicians; and (2) relieve the undue burden on physicians that is created by excessive medical malpractice claims and judgments.
+In General.--Punitive damages may, if otherwise permitted by applicable State or Federal law, be awarded against any person in a health care lawsuit only if it is proven by clear and convincing evidence that such person acted with malicious intent to injure the claimant, or that such person deliberately failed to avoid unnecessary injury that such person knew the claimant was substantially certain to suffer.
+In any health care lawsuit where no judgment for compensatory damages is rendered against such person, no punitive damages may be awarded with respect to the claim in such lawsuit.
+No demand for punitive damages shall be included in a health care lawsuit as initially filed.
+A court may allow a claimant to file an amended pleading for punitive damages only upon a motion by the claimant and after a finding by the court, upon review of supporting and opposing affidavits, or after a hearing, after weighing the evidence, that the claimant has established by a substantial probability that the claimant will prevail on the claim for punitive damages.
+At the request of any party in a health care lawsuit, the trier of fact shall consider in a separate proceeding-- (1) whether punitive damages are to be awarded and the amount of such award; and (2) the amount of punitive damages following a determination of punitive liability.
+If a separate proceeding is requested, evidence relevant only to the claim for punitive damages, as determined by applicable State law, shall be inadmissible in any proceeding to determine whether compensatory damages are to be awarded.
+Determining Amount of Punitive Damages.-- (1) Factors considered.--In determining the amount of punitive damages, the trier of fact shall consider only the following: (A) The severity of the harm caused by the conduct of such party.
+The duration of the conduct or any concealment of it by such party.
+The profitability of the conduct to such party.
+The number of products sold or medical procedures rendered for compensation, as the case may be, by such party, of the kind causing the harm complained of by the claimant.
+Any criminal penalties imposed on such party, as a result of the conduct complained of by the claimant.
+The amount of any civil fines assessed against such party as a result of the conduct complained of by the claimant.
+Maximum award.--The amount of punitive damages awarded in a health care lawsuit may be up to as much as two times the amount of economic damages awarded or $250,000, whichever is greater.
+The jury shall not be informed of this limitation.
+TAX CREDIT FOR MEDICAL MALPRACTICE LIABILITY INSURANCE PREMIUMS.
+In General.--Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to business related credits) is amended by adding at the end the following new section: ``SEC.
+MEDICAL MALPRACTICE LIABILITY INSURANCE PREMIUMS.
+In General.--For purposes of section 38, the medical malpractice liability insurance premium credit determined under this section is the amount paid or incurred during the taxable year for medical malpractice liability insurance coverage for the medical malpractice liability of a physician who is the taxpayer or any employee of the taxpayer.
+Limitation.--The credit allowed by subsection (a) for any taxable year shall not exceed $2,000 with respect to each covered physician.''
+Credit Treated as Business Credit.--Section 38(b) of such Code is amended by striking ``plus'' at the end of paragraph (14), by striking the period at the end of paragraph (15) and inserting ``, plus'', and by adding at the end the following new paragraph: ``(16) the medical malpractice liability insurance premium credit determined under section 45G(a).''.
+No Carrybacks.--Subsection (d) of section 39 of such Code (relating to carryback and carryforward of unused credits) is amended by adding at the end the following: ``(11) No carryback of section 45g credit before effective date.--No portion of the unused business credit for any taxable year which is attributable to the medical malpractice liability insurance premium credit determined under section 45G may be carried back to a taxable year ending before the date of the enactment of section 45G.''.
+Denial of Double Benefit.--Section 280C of such Code (relating to certain expenses for which credits are allowable) is amended by adding at the end the following new subsection: ``(d) Credit for Medical Malpractice Liability Insurance Premiums.-- ``(1) In general.--No deduction shall be allowed for that portion of the medical malpractice liability insurance premiums otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 45G (determined without regard to section 38(c)).
+Controlled groups.--In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 41(f)(5)) or a trade or business which is treated as being under common control with other trades or business (within the meaning of section 41(f)(1)(B)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subparagraphs (A) and (B) of section 41(f)(1).''.
+Conforming Amendment.--The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item: ``Sec.
+Medical malpractice liability insurance premiums.''.
+Effective Date.--The amendments made by this section shall apply to amounts paid or incurred after the date of the enactment of this Act in taxable years ending after such date.

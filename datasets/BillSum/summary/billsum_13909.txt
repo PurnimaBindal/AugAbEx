@@ -1,0 +1,8 @@
+State Health Care Options Act of 2015 This bill amends the Patient Protection and Affordable Care Act (PPACA) and the Internal Revenue Code to modify the process for state innovation waivers.
+(Under current law, the Department of Health and Human Services [HHS] and the Department of the Treasury may approve a state's request to waive specific provisions of PPACA if the state proposal provides health care access that is comparable to what would exist without a waiver and does not increase the federal deficit.)
+The bill expedites the approval process for: a health-flex waiver from requirements for qualified health plans and essential health benefits; and an exchange waiver to assume responsibility for certain functions of the exchanges, including the certification of permissible health plans.
+If a state submits to HHS a notice of its intent to implement one or both of the waivers, the waivers shall be deemed to be approved and effective.
+The notice must include the years for which the waiver shall be effective (which may be indefinite), an assurance the state will comply with reporting requirements, and other specified details.
+A state may not waive PPACA requirements related to coverage for preexisting conditions and the extension of coverage for adult children.
+States with exchange waivers may certify permissible health plans that residents may purchase outside of an exchange, if the plans meet specified requirements regarding benefits, levels of coverage, transparency of premium justifications, and information.
+Taxpayers in waiver states that are living at or below 300% of the federal poverty level (400% under current law) may receive health insurance subsidies under PPACA.

@@ -1,0 +1,31 @@
+This Act may be cited as the ``Immigration Security and Efficiency Enhancement Act of 2003''.
+It is the purpose of this Act to enhance the security procedures and efficiency of the immigration, refugee and asylum, and naturalization services of the United States Government by mandating the implementation of an electronic application process utilizing certified filing entities and e-file applications.
+IMPLEMENTATION OF SECURITY AND EFFICIENCY ENHANCEMENTS.
+Plan.--Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Congress a plan for the implementation of security and efficiency enhancements described in subsection (b).
+The plan shall include a timetable for implementation with appropriate information concerning the importance and impact of technology, funding, and other factors on the timetable.
+Security and Efficiency Enhancements.--Immigration security and efficiency enhancements are as follows: (1) Establishment of a central computer database and network for processing immigration applications and forms.
+Identification of applications and forms appropriate for electronic submission.
+Implementation of a pilot project for elective electronic submission of designated immigration applications and forms.
+Implementation of elective electronic submission of designated immigration applications and forms.
+Within 4 to 5 years after the date of the enactment of this Act, electronic submission of designated immigration applications and forms which comprise not less than 25 percent of the total by volume.
+Within 6 years after the date of the enactment of this Act, electronic submission of designated immigration applications and forms comprising not less than 50 percent of the total by volume.
+Within 8 years after the date of the enactment of this Act, electronic submission of designated immigration applications and forms comprising not less than 75 percent of the total by volume.
+Wherever feasible, electronic submission of designated immigration applications and forms.
+Limitations.--Notwithstanding any other provision of this Act, the Secretary of Homeland Security shall implement an electronic application process only with respect to immigration, refugee and asylum, and naturalization services of the United States Government that the Secretary of Homeland Security determines to be appropriate.
+The Secretary of Homeland Security may not implement an electronic application process with respect to applications by aliens who have been convicted of a felony or aliens who are residing in the United States illegally.
+Annual Report.--Not later than 1 year after the date of the submission of the plan under subsection (a) and annually thereafter, the Secretary of Homeland Security shall submit to the Congress an annual report which outlines the progress in implementing the plan, together with any modifications in the projections of the plan.
+ESTABLISHMENT OF ELECTRONIC FILE MANAGEMENT SYSTEM.
+The Secretary of Homeland Security shall establish within the immigration, refugee and asylum, and naturalization functions under the jurisdiction of the Department of Homeland Security a computer network composed of a state-of-the-art electronic file management system and computer information system to efficiently receive and process files submitted electronically, detect incorrectly filled applications and forms, and securely share information within the network.
+ESTABLISHMENT OF IMMIGRATION, REFUGEE AND ASYLUM, AND NATURALIZATION FILING SYSTEM THROUGH CERTIFIED SERVICE PROVIDERS.
+In General.--The Secretary of Homeland Security shall establish within the immigration, refugee and asylum, and naturalization functions under the jurisdiction of the Department of Homeland Security a system which provides for the electronic filing and submission of applications only from organizations and entities certified by the department to perform immigration and naturalization services on behalf of applicants.
+Certification of Service Providers.--The Secretary of Homeland Security develop criteria and procedures for the certification of organizations and entities as service providers.
+In the certification of service providers the Secretary of Homeland Security shall consider the promotion of competition and do everything possible to prevent monopolies.
+Criteria for Certification of Service Providers.--The Secretary of Homeland Security shall promulgate regulations which provide for the criteria for certification of service providers which shall include the following: (1) Submission security--the ability to verify that a secure link is established for transmitting applicant information.
+Quality control by the private entity/organization--the ability to determine that the service providers are competent and qualified to provide reliable information to applicants on immigration, refugee and asylum, and naturalization requirements and procedures necessary to successfully complete applications.
+User identification verification--the ability to determine that the service provider conducts an adequate initial identity verification.
+The logistical capabilities to participate in the system.
+GRANTS FOR TECHNOLOGY ENHANCEMENT OF SERVICE PROVIDERS.
+The Secretary of Homeland Security is authorized to establish a program of grants to nonprofit service providers under section 5 to assist such entities in obtaining electronic technologies compatible with those utilized by the immigration, refugee and asylum, and naturalization functions under the jurisdiction of the Department of Homeland Security.
+ELECTRONIC DATABASE OF CLOSED FILES.
+The National Records Center shall create and maintain an electronic database of all closed files relating to immigration, refugee and asylum, and naturalization of the Department of Homeland Security to speed up the request process on past records for all Federal agencies that access such files.
+There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out this Act.

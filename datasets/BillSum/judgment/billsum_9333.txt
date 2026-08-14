@@ -1,0 +1,41 @@
+This Act may be cited as the ``Ensuring Medication Safety for Seniors Act''.
+Findings.--Congress finds the following: (1) Prescription medications are central to the health care of Americans, accessed by 65 percent of the United States Reports public in a given year.
+Medication related errors, or adverse drug events, are one of the most common types of medical errors and one of the greatest threats to patient safety.
+Studies and data have documented the prevalence of inappropriate prescribing of medications remains a substantial problem, with an estimated 7,000 deaths in the United States occurring each year as a result of medication errors.
+Medication errors not only are harmful to patients, but are financially costly to healthcare organizations and providers.
+Resources that could be spent on direct health care services are diverted to counteract adverse drug events.
+New tools and systems are necessary to address medical error problems.
+Technology can be deployed which can vastly improve the medication management process and decrease preventable patient injuries.
+Electronic prescribing systems hold the potential to substantially improve health care quality by reducing preventable adverse drug events.
+Investment costs remain an obstacle for healthcare systems to create electronic prescribing systems.
+Purpose.--The purpose of this Act is to encourage and create incentives for healthcare systems to develop an electronic prescribing system to improve safety and quality of care for all patients.
+DEMONSTRATION PROGRAM FOR MEDICARE HEALTH CARE PROVIDERS TO IMPLEMENT ELECTRONIC PRESCRIPTION DRUG PROGRAMS.
+Establishment of Demonstration Program.--The Secretary of Health and Human Services shall establish a demonstration program (in this section referred to as the ``demonstration program'') under which assistance described in subsection (b) is made available, upon request and on a voluntary basis, to medicare health care providers for the purpose of assisting those providers to offset the costs of electronic prescribing systems for those providers.
+Assistance.--The assistance referred to in subsection (a) consists of the provision, directly or through grants under subsection (c), of the following: (1) Computer software and hardware, including handheld computer technologies and the installation of such software, hardware, and technologies.
+Upgrades and other improvements to existing computer software and hardware to enable electronic prescribing systems.
+Communications capabilities for clinical data access.
+storage, and exchange, including the installation of such capabilities.
+Education and training to eligible staff of medicare health care providers on computer information system technologies made available under this section.
+Awarding of Grants.-- (1) Authority.--The Secretary may make grants to medicare providers of services for the purchase, lease, and installation of the items and technologies described in subsection (b).
+Application.--No grant may be made under this section except pursuant to a grant application that is submitted and approved in a time, manner, and form specified by the Secretary containing such information as the Secretary may require.
+Limitation on grants.--Only 1 grant may be awarded under this section with respect to any medicare health care provider or group or practice of providers or suppliers, including providers furnishing services to medicare beneficiaries in long-term care facilities, skilled nursing facilities, and hospitals.
+Terms and conditions.-- (A) In general.--Grants under this section shall be made under such terms and conditions as the Secretary specifies consistent with this section.
+Provision of information.--As a condition for the awarding of a grant under this section, an applicant shall provide to the Secretary such information as the Secretary may require in order to-- (i) evaluate the project for which the grant is made; and (ii) ensure that funding provided under the grant is expended only for the purposes for which it is made.
+Audit.--The Secretary shall conduct appropriate audits of grants under this section.
+Demonstration Project Sites.-- (1) Number of sites.--The demonstration project established under this section shall be conducted in not more than 5 sites selected by the Secretary.
+Selection criteria.--In selecting such sites, the Secretary shall give priority to sites in the following order: (A) First to sites in counties, or equivalent areas, in which the largest numbers of medicare beneficiaries reside.
+Second to sites in rural areas.
+Duration.--The authority of the Secretary to provide assistance under this section shall terminate on September 30, 2014.
+Waiver Authority.--The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act as may be necessary for the purposes of carrying out the demonstration project.
+Evaluation and Report.-- (1) Evaluation.--The Secretary shall conduct evaluations of the clinical and cost-effectiveness of the demonstration project.
+Reports.--The Secretary shall submit to Congress interim reports on the demonstration project, and not later than 6 months after the completion of the project, a final report on the demonstration project.
+Each report shall include the following: (A) An analysis of the patient outcomes and costs of furnishing care to the medicare beneficiaries participating in the project.
+Such recommendations regarding the extension, expansion, or termination of the project as the Secretary determines appropriate.
+Definition.--In this section: (1) Medicare health care provider.--The term ``medicare health care providers'' means any of the following that furnishes items or services for which payment is made under title XVIII of the Social Security Act (42 United States Code 1395 et seq.
+): (A) A provider of services, as that term is defined in section 1861(u) of the Social Security Act (42 United States Code 1395x(u)).
+A supplier, as that term is defined in section 1861(d) of the Social Security Act (42 United States Code 1395x(d)).
+Medicare beneficiary.--The term ``medicare beneficiary'' means an individual entitled to benefits under part A of title XVIII of the Social Security Act, or enrolled under part B of such title, or both.
+Secretary.--The term ``Secretary'' means the Secretary of Health and Human Services.
+Authorization of Appropriations.-- (1) Amount of authorization.--There are authorized to be appropriated to the Secretary, from amounts not otherwise appropriated in the Treasury, to carry out this section $50,000,000 for fiscal year 2005, and such sums as may be necessary for each of fiscal years 2006 and 2007.
+Availability.--Amounts appropriated pursuant to the authorization under paragraph (1) shall remain available without fiscal year limitation through September 30, 2014.
+Implementation.--The Secretary may not implement the demonstration project under this section before the date on which the Secretary develops, adopts, recognizes, or modifies initial uniform standards relating to the requirements for electronic prescription drug programs under section 1860D-4(e)(4)(A) of the Social Security Act (42 United States Code 1395w-104(e)(4)(A)).

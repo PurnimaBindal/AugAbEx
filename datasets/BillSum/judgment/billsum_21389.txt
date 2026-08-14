@@ -1,0 +1,41 @@
+Short Title.--This Act may be cited as the ``Renewable Energy Investment Act of 2009''.
+Amendment of 1986 Code.--Except as otherwise expressly provided, whenever in this subtitle an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+Table of Contents.-- Sec.
+TITLE I--INVESTMENT IN RENEWABLE ENERGY Sec.
+Extension of renewable electricity production credit.
+Expansion and extension of new clean renewable energy bonds.
+Extension of investment tax credit for certain energy property.
+Increase in credit for investment in advanced energy facilities.
+TITLE II--INVESTMENT IN ALTERNATIVE FUEL PROPERTY Sec.
+Extension of credits for alcohol fuels.
+Extension of credits for biodiesel and renewable diesel.
+TITLE III--INVESTMENT IN ETHANOL Sec.
+Research in and development of fungible biofuels.
+TITLE I--INVESTMENT IN RENEWABLE ENERGY SEC.
+EXTENSION OF RENEWABLE ELECTRICITY PRODUCTION CREDIT.
+In General.--Subsection (d) of section 45 is amended-- (1) by striking ``January 1, 2013'' in paragraph (1) and inserting ``January 1, 2015'', and (2) by striking ``January 1, 2014'' each place it appears in paragraphs (2), (3), (4), (6), (7), (9), and (11)(B) and inserting ``January 1, 2015''.
+Effective Date.--The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act.
+EXPANSION AND EXTENSION OF NEW CLEAN RENEWABLE ENERGY BONDS.
+In General.--Paragraph (2) of section 54C(c) is amended by inserting ``, for calendar years 2011, 2012, 2013, and 2014, an additional $500,000,000 for each year, and, except as provided in paragraph (5) for years after 2014, zero,'' after ``$800,000,000''.
+Carryover of Unused Limitation.--Subsection (c) of section 54C is amended by adding at the end the following new paragraph: ``(5) Carryover of unused limitation.--If for any calendar year-- ``(A) the amount allocated under paragraph (2) for such calendar year, exceeds ``(B) the amount of bonds issued during such year which are designated under subsection (a) pursuant to such allocation, then the limitation amount under paragraph (2) for the following calendar year shall be increased by the amount of such excess.''.
+Effective Date.--The amendments made by this section shall apply to bonds issued after December 31, 2010.
+EXTENSION OF INVESTMENT TAX CREDIT FOR CERTAIN ENERGY PROPERTY.
+Solar Energy Property.--Paragraphs (2)(A)(i)(II) and (3)(A)(ii) of section 48(a) are each amended by striking ``January 1, 2017'' and inserting ``January 1, 2019''.
+Fuel Cell Property.--Subparagraph (D) of section 48(c)(1) is amended by striking ``December 31, 2016'' and inserting ``December 31, 2018''.
+Qualified Small Wind Energy Property.--Subparagraph (C) of section 48(c)(4) is amended by striking ``December 31, 2016'' and inserting ``December 31, 2018''.
+Geothermal Heat Pump Systems.--Clause (vii) of section 48(a)(3)(A) is amended by striking ``January 1, 2017'' and inserting ``January 1, 2019''.
+Effective Date.--The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act.
+INCREASE IN CREDIT FOR INVESTMENT IN ADVANCED ENERGY FACILITIES.
+In General.--Subparagraph (B) of section 48C(d)(1) is amended by striking ``$2,300,000,000'' and inserting ``$4,000,000,000''.
+Effective Date.--The amendment made by this section shall take effect as if included in the amendments made by section 1302 of the American Recovery and Reinvestment Tax Act of 2009.
+TITLE II--INVESTMENT IN ALTERNATIVE FUEL PROPERTY SEC.
+EXTENSION OF CREDITS FOR ALCOHOL FUELS.
+In General.--Sections 40, 6426(b)(6), and 6427(e)(6)(A) are each amended by striking ``2010'' each place it appears and inserting ``2011''.
+Conforming Amendment.--Section 40(e)(1)(B) is amended by striking ``2011'' and inserting ``2012''.
+Effective Date.--The amendments made by this section shall apply to sales and uses after the date of the enactment of this Act.
+EXTENSION OF CREDITS FOR BIODIESEL AND RENEWABLE DIESEL.
+In General.--Sections 40A(g), 6426(c)(6), and 6427(e)(6)(B) are each amended by striking ``December 31, 2009'' each place it appears and inserting ``December 31, 2011''.
+Effective Date.--The amendments made by this section shall apply to sales and uses after the date of the enactment of this Act.
+TITLE III--INVESTMENT IN ETHANOL SEC.
+RESEARCH IN AND DEVELOPMENT OF FUNGIBLE BIOFUELS.
+There is authorized to be appropriated for advanced biofuels research, development, and demonstration that will create fuels that are fungible in existing infrastructure $100,000,000.

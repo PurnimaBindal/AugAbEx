@@ -1,0 +1,38 @@
+Short Title.--This Act may be cited as the ``Clear Extenders Act of 1999''.
+Amendment of 1986 Code.--Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+Table of Contents.--The table of contents for this Act is as follows: TITLE I--EXTENSION OF EXPIRING INCENTIVES SEC.
+PERMANENT EXTENSION OF RESEARCH AND DEVELOPMENT CREDIT.
+Extension.-- (1) In general.--Section 41 (relating to credit for increasing research activities) is amended by striking subsection (h).
+Technical amendment.--Section 45C(b)(1) is amended by striking subparagraph (D).
+Effective date.--The amendments made by this subsection shall apply to amounts paid or incurred after June 30, 1999.
+Increase in Percentages Under Alternative Incremental Credit.-- (1) In general.--Subparagraph (A) of section 41(c)(4) of such Code is amended-- (A) by striking ``1.65 percent'' and inserting ``2.65 percent'', (B) by striking ``2.2 percent'' and inserting ``3.2 percent'', and (C) by striking ``2.75 percent'' and inserting ``3.75 percent''.
+Effective date.--The amendments made by this subsection shall apply to taxable years beginning after June 30, 1999.
+Special Rule.-- (1) In general.--For purposes of the Internal Revenue Code of 1986, the credit determined under section 41 of such Code which is otherwise allowable under such Code and which is attributable to the suspension period shall not be taken into account prior to October 1, 2000.
+On or after such date, such credit may be taken into account through the filing of an amended return, an application for expedited refund, an adjustment of estimated taxes, or other means allowed by such Code.
+Suspension period.--For purposes of this subsection, the suspension period is the period beginning on July 1, 1999, and ending on September 30, 2000.
+Expedited refunds.-- (A) In general.--If there is an overpayment of tax with respect to a taxable year by reason of paragraph (1), the taxpayer may file an application for a tentative refund of such overpayment.
+Such application shall be in such manner and form, and contain such information, as the Secretary may prescribe.
+Deadline for applications.--Subparagraph (A) shall apply only to applications filed before October 1, 2001.
+Allowance of adjustments.--Not later than 90 days after the date on which an application is filed under this paragraph, the Secretary shall-- (i) review the application, (ii) determine the amount of the overpayment, and (iii) apply, credit, or refund such overpayment, in a manner similar to the manner provided in section 6411(b) of such Code.
+Consolidated returns.--The provisions of section 6411(c) of such Code shall apply to an adjustment under this paragraph in such manner as the Secretary may provide.
+Credit attributable to suspension period.-- (A) In general.--For purposes of this subsection, in the case of a taxable year which includes a portion of the suspension period, the amount of credit determined under section 41 of such Code for such taxable year which is attributable to such period is the amount which bears the same ratio to the amount of credit determined under such section 41 for such taxable year as the number of months in the suspension period which are during such taxable year bears to the number of months in such taxable year.
+Waiver of estimated tax penalties.--No addition to tax shall be made under section 6654 or 6655 of such Code for any period before July 1, 1999, with respect to any underpayment of tax imposed by such Code to the extent such underpayment was created or increased by reason of subparagraph (A).
+Secretary.--For purposes of this subsection, the term ``Secretary'' means the Secretary of the Treasury (or such Secretary's delegate).
+EXTENSION OF MINIMUM TAX RELIEF FOR INDIVIDUALS.
+In General.--The second sentence of section 26(a) (relating to limitations based on amount of tax) is amended by striking ``1998'' and inserting ``calendar years 1998, 1999, 2000, and 2001''.
+Child Credit.--Section 24(d)(2) (relating to reduction of credit to taxpayer subject to alternative minimum tax) is amended by striking ``December 31, 1998'' and inserting ``December 31, 2001''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 1998.
+SUBPART F EXEMPTION FOR ACTIVE FINANCING INCOME.
+In General.--Sections 953(e)(10) and 954(h)(9) (relating to application) are each amended-- (1) by striking ``the first taxable year'' and inserting ``taxable years'', (2) by striking ``January 1, 2000'' and inserting ``January 1, 2002'', and (3) by striking ``within which such'' and inserting ``within which any such''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 1999.
+TAXABLE INCOME LIMIT ON PERCENTAGE DEPLETION FOR MARGINAL PRODUCTION.
+In General.--Subparagraph (H) of section 613A(c)(6) (relating to temporary suspension of taxable limit with respect to marginal production) is amended by striking ``January 1, 2000'' and inserting ``January 1, 2002''.
+Effective Date.--The amendment made by this section shall apply to taxable years beginning after December 31, 1999.
+WORK OPPORTUNITY CREDIT AND WELFARE-TO-WORK CREDIT.
+Temporary Extension.--Sections 51(c)(4)(B) and 51A(f) (relating to termination) are each amended by striking ``June 30, 1999'' and inserting ``December 31, 2001''.
+Clarification of First Year of Employment.--Paragraph (2) of section 51(i) of such Code is amended by striking ``during which he was not a member of a targeted group''.
+Effective Date.--The amendments made by this section shall apply to individuals who begin work for the employer after June 30, 1999.
+TITLE II--REVENUE OFFSET SEC.
+MODIFICATION OF ESTIMATED TAX SAFE HARBOR.
+In General.--The table contained in clause (i) of section 6654(d)(1)(C) of the Internal Revenue Code of 1986 (relating to limitation on use of preceding year's tax) is amended by striking the item relating to 1999 or 2000 and inserting the following new items: ``1999........................................ 108.5 2000.......................................... 106''.
+Effective Date.--The amendment made by this section shall apply with respect to any installment payment for taxable years beginning after December 31, 1999.

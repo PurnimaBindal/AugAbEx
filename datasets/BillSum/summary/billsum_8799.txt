@@ -1,0 +1,2 @@
+Provides a penalty for noncompliance.
+Applies this Act to calendar years after 2004.

@@ -1,0 +1,53 @@
+This Act may be cited as the ``Veterans Prescription Drug Benefits Act of 2003''.
+PRESCRIPTION DRUG BENEFIT FOR VETERANS.
+In General.--(1) Chapter 17 of title 38, United States Code, is amended by inserting after section 1722A the following new section: ``Sec.
+Prescription drug benefit program for medicare-eligible veterans and Priority 1 veterans ``(a) Benefit.--The Secretary shall establish a prescription drug benefit program in accordance with this section.
+Under the program, the Secretary shall furnish to veterans who are participants in the program drugs and medicines ordered on prescription of a duly licensed physician or other authorized health care professional who is not an employee of the Department, subject to the payment of any applicable premium and copayment under this section.
+Veterans Eligible for the Prescription Drug Benefit.--The following veterans are eligible to participate in the prescription drug benefit program under this section: ``(1) Priority 1 veterans.
+Medicare-eligible veterans (other than Priority 1 veterans) who enroll in the program.
+Enrollment.--(1) In order for a medicare-eligible veteran who is not a Priority 1 veteran to participate in the prescription drug benefit program, the veteran must enroll in the program.
+Such enrollment shall be carried out in such manner as may be prescribed by the Secretary by regulation.
+The status of a veteran as a medicare- eligible veteran shall be verified by the Secretary of Health and Human Services upon request of the Secretary.
+A medicare-eligible veteran who enrolls in the prescription drug benefit program is not eligible for enrollment in the patient enrollment system under section 1705 of this title.
+The Secretary shall inform any veteran applying for enrollment under this section that the veteran, while enrolled in the prescription drug benefit program, will not be eligible for health care provided by the Secretary.
+Any medicare-eligible veteran who enrolls in the prescription drug benefit program under this section and who at the time of such enrollment is enrolled in the patient enrollment system under section 1705 of this title shall, upon such enrollment under this section, be automatically disenrolled from that patient enrollment system.
+The Secretary shall conduct an annual open enrollment period during the last two months of each fiscal year.
+During that period-- ``(A) a medicare-eligible veteran who is not a Priority 1 veteran may enroll in the program under this section; and ``(B) such a veteran previously enrolled under this section may disenroll.
+During the first five fiscal years during which the prescription drug benefit program under this section is in effect, the Secretary may limit enrollment as determined necessary by the Secretary for administrative and fiscal reasons.
+All medicare-eligible veterans who apply for enrollment under this section during the first year that the program under this section is in effect shall be enrolled by the end of the fifth such year.
+Annual Premium and Copayments.--(1) The Secretary shall by regulation establish an annual premium amount that must be paid to the United States by a veteran for drugs and medicines furnished under this section each year before such drugs and medicines are furnished to that veteran at the expense of the United States that year.
+The Secretary shall by regulation establish an amount (known as a `copayment') that must be paid to the United States by a veteran for each 30-day supply of drugs and medicines furnished under this section.
+If the quantity of such drugs and medicines furnished is less than a 30-day supply, the amount of the copayment charge may not be reduced.
+The Secretary may establish different copayment amounts for prescriptions depending on-- ``(A) whether they are filled under a generic drug name or by brand name; ``(B) whether or not they are available by mail; and ``(C) whether or not they are on the Department's National Prescription Drug Formulary.
+The amount of the copayment charged for any particular prescription-- ``(A) may not be less than the amount in effect under section 1722A of this title for the copayment for medications furnished by the Department on prescription of Department health-care professionals; and ``(B) subject to subparagraph (A), may not exceed the cost to the Secretary of furnishing the drugs or medicine.
+Disposition of Receipts.--(1) Any amount received under subsection (d) from a Priority 1 veteran shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
+Any amount received under subsection (d) from a medicare- eligible veteran enrolled in the prescription drug benefit program under subsection (c) shall be transferred by the Secretary to the Federal Supplementary Medical Insurance Trust Fund established in section 1841 of the Social Security Act (42 United States Code 1395t).
+Intergovernmental Reimbursement of Costs.--(1) The Secretary of Health and Human Services shall transfer to the Secretary, from the fund referred to in subsection (e)(2), amounts to reimburse the costs to the Department of furnishing drugs and medicine under the prescription drug benefit program under this section to medicare- eligible veterans enrolled under subsection (c).
+Amounts to be included in such costs are the following: ``(A) The cost of such drugs and medicines to the Department.
+A reasonable charge for processing, filling, and dispensing the prescription, including overhead costs such as labor, equipment, space, and utilities.
+Costs of postage, if furnished by mail.
+To the extent the Secretary hires new personnel, purchases new equipment, or obtains additional facilities to carry out the prescription drug benefit program under this section, the Secretary shall document those expenses in charges to the Secretary of Health and Human Services that incorporate those expenses.
+The Secretary of Health and Human Services shall make transfers of funds under this subsection periodically, as agreed upon by the two Secretaries, but not less often than weekly.
+Such payments shall be made upon receipt of a certification from the Secretary of Veterans Affairs of costs incurred by the Secretary under this section for the period with respect to which the certification is made.
+Any amount received under this subsection shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
+The Secretary and the Secretary of Health and Human Services shall enter into an agreement for the methodology to be used for determining costs of the Department for purposes of this subsection.
+Nonliability.--A health care professional may not be considered to be an agent or employee of the United States by reason of a prescription of that health care professional being furnished by the Secretary under this section.
+Information Resources.--(1) The Secretary shall develop and maintain a database of veterans enrolled under subsection (c) and of persons who have applied for such enrollment.
+The Secretary shall maintain records of the costs of the program under this section, including separate costs for Priority 1 veterans and for veterans enrolled under subsection (c).
+Not later than six years after the date of the enactment of this section, the Secretary shall implement a computerized patient profile system for participants in the prescription drug benefit plan under this section.
+The patient profile system shall have the capability, for each participant in the program, of identifying-- ``(A) known drug interactions; ``(B) contraindicated drugs; ``(C) available `best value' treatment alternatives for prescribed medications; and ``(D) patient safety issues.
+Annual Report to Congress.--The Secretary shall submit to Congress an annual report on the operation of this section for each of the first five years this section is in effect.
+Each such report shall include the following: ``(1) The number of participants in the program during the year covered by the report and, of that number, the number who are enrolled under subsection (c), including the number who were new enrollees during such year.
+The number of veterans who have applied for such enrollment and, as of the end of the year covered by the report, are waiting for such enrollment.
+The number of veterans who during the year covered by the report were disenrolled from the patient enrollment system under section 1705 of this title in order to enroll under subsection (c).
+The cost to the Department of the program under this section during the year covered by the report.
+The amount of funds transferred to the Secretary during the year covered by the report under subsection (f).
+The amount of resources added during the year covered by the report to accommodate increased workloads by reason of this section.
+Regulations.--The Secretary shall prescribe regulations to carry out this section.
+Such regulations shall be prescribed in consultation with the Secretary of Health and Human Services.
+Definitions.--For purposes of this section: ``(A) The term `medicare-eligible veteran' means a veteran who is entitled to benefits under part A of title XVIII of the Social Security Act (42 United States Code 1395c et sequentes) and who is enrolled under part B of that title (42 United States Code 1395j et sequentes).
+The term `Priority 1 veteran' means a veteran covered by section 1705(a)(1) of this title.''.
+The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1722A the following new item: ``1722B.
+Prescription drug benefit program for medicare-eligible veterans and Priority 1 veterans.''.
+Effective Date.--Section 1722B of title 38, United States Code, as added by subsection (a), shall take effect on October 1, 2003.
+The initial enrollment period under subsection (c)(4) of such section shall be the period beginning on August 1, 2004, and ending on September 30, 2004.

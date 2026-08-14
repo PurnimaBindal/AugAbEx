@@ -1,0 +1,54 @@
+This Act may be cited as the ``Bay Area Regional Water Recycling Program Projects Authorization Act of 2006''.
+In this Act: (1) Feasible.--The term ``feasible'' means a project for which-- (A) the planning and environmental studies, together with supporting materials and documentation, have been prepared consistent with Bureau of Reclamation procedures for projects under consideration for financial assistance under the Reclamation Wastewater and Groundwater Study and Facilities Act (title XVI of Public Law 102-575, as amended, and section 103(d)(3)(F) of the Water Supply, Reliability, and Environmental Improvement Act (Public Law 108-361); and (B) the planning and environmental studies, together with supporting materials and documentation, demonstrate that the project meets the requirements of section 1604 of the Reclamation Wastewater and Groundwater Study and Facilities Act (title XVI of Public Law 102-575), as amended.
+Financially capable project sponsor.--The term ``financially capable project sponsor'' means a non-Federal project sponsor that is capable of providing-- (A) the non-Federal share of the project costs; and (B) 100 percent of the operations and maintenance costs of the project.
+Non-federal project sponsor.--The term ``non-Federal project sponsor'' means a State, regional, or local authority or other qualifying entity, such as a water conservation district, water conservancy district, or rural water district or association.
+Technically and financially viable project.--The term ``technically and financially viable project'' means a project that-- (A) is a technically viable project; and (B) has a financially capable project sponsor.
+Technically viable project.--The term ``technically viable project'' means a project that-- (A) meets generally acceptable engineering, public health, and environmental standards; and (B) has obtained or is expected to obtain approval of all Federal, State, and local permits necessary for implementation of the project.
+BAY AREA REGIONAL WATER RECYCLING PROGRAM PROJECTS.
+Feasible and Viable.--The Bay Area Regional Water Recycling Program projects described in the amendments made by section 4(a) are hereby-- (1) determined to be feasible and eligible for financial assistance under the Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102-575, title XVI; 43 United States Code 390h et sequentes); and (2) confirmed as technically and financially viable projects.
+Statutory Construction.--Nothing in this section shall be construed to affect the applicability of the National Environmental Policy Act of 1969, or any other Federal or State law, with regard to the Bay Area Regional Water Recycling Program projects described in the amendments made by section 4(a).
+In General.--The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102-575, title XVI; 43 United States Code 390h et seq.)
+is amended by adding at the end the following: ``SEC.
+CITY OF PALO ALTO WATER REUSE PROJECT.
+Authorization.--The Secretary, in cooperation with the City of Palo Alto, California, is authorized to participate in the design, planning, and construction of recycled water distribution systems.
+Cost Share.--The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
+Limitation.--The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+Authorization of Appropriations.--There is authorized to be appropriated to carry out this section $5,000,000.
+Sunset.--The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after the date of the enactment of this section.
+PITTSBURG RECYCLED WATER PROJECT.
+Authorization.--The Secretary, in cooperation with the City of Pittsburg, California, and the Delta Diablo Sanitation District, is authorized to participate in the design, planning, and construction of recycled water system facilities.
+Cost Share.--The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
+Limitation.--The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+Authorization of Appropriations.--There is authorized to be appropriated to carry out this section $1,300,000.
+Sunset.--The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after the date of the enactment of this section.
+ANTIOCH RECYCLED WATER PROJECT.
+Authorization.--The Secretary, in cooperation with the City of Antioch, California, and the Delta Diablo Sanitation District, is authorized to participate in the design, planning, and construction of recycled water system facilities.
+Cost Share.--The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
+Limitation.--The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+Authorization of Appropriations.--There is authorized to be appropriated to carry out this section $2,250,000.
+Sunset.--The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after the date of the enactment of this section.
+PACIFICA RECYCLED WATER PROJECT.
+Authorization.--The Secretary, in cooperation with the City of Pacifica, California, and the North Coast County Water District, is authorized to participate in the design, planning, and construction of recycled water system facilities.
+Cost Share.--The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
+Limitation.--The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+Authorization of Appropriations.--There is authorized to be appropriated to carry out this section $1,400,000.
+Sunset.--The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after the date of the enactment of this section.
+REDWOOD CITY RECYCLED WATER PROJECT.
+Authorization.--The Secretary, in cooperation with the City of Redwood City, California, is authorized to participate in the design, planning, and construction of recycled water system facilities.
+Cost Share.--The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
+Limitation.--The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+Authorization of Appropriations.--There is authorized to be appropriated to carry out this section $1,100,000.
+Sunset.--The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after the date of the enactment of this section.
+SOUTH SANTA CLARA COUNTY RECYCLED WATER PROJECT.
+Authorization.--The Secretary, in cooperation with the City of Gilroy, California, and the Santa Clara Valley Water District, is authorized to participate in the design, planning, and construction of recycled water system distribution facilities.
+Cost Share.--The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
+Limitation.--The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+Authorization of Appropriations.--There is authorized to be appropriated to carry out this section $7,000,000.
+Sunset.--The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after the date of the enactment of this section.''.
+Conforming Amendments.--The table of sections in section 2 of Public Law 102-575 is amended by inserting after the item relating to section 16xx the following: ``Sec.
+Palo Alto Water Reuse Project.
+Pittsburg Recycled Water Project.
+Antioch Recycled Water Project.
+Pacifica Recycled Water Project.
+Redwood City Recycled Water Project.
+South Santa Clara County Recycled Water Project.

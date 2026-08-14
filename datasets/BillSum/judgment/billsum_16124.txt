@@ -1,0 +1,50 @@
+SHORT TITLE; TABLE OF CONTENTS.
+Short Title.--This Act may be cited as the ``Help Small Businesses Start and Grow Act of 2010''.
+Table of Contents.--The table of contents for this Act is as follows: Sec.
+Short title; table of contents.
+TITLE I--TAX RELIEF Sec.
+Increase in amount allowed as deduction for start-up expenditures.
+Standard deduction for business use of home.
+Increased meals and entertainment expense deduction for small businesses.
+Two-year extension of bonus depreciation.
+TITLE II--SMALL BUSINESS LOANS Sec.
+Small business direct lending program.
+TITLE I--TAX RELIEF SEC.
+INCREASE IN AMOUNT ALLOWED AS DEDUCTION FOR START-UP EXPENDITURES.
+In General.--Subsection (b) of section 195 of the Internal Revenue Code of 1986 is amended by adding at the end the following: ``(3) Special rule for taxable years beginning in 2009, 2010, or 2011.--In the case of a taxable year beginning in 2009, 2010, or 2011, paragraph (1)(A)(ii) shall be applied-- ``(A) by substituting `$50,000' for `$5,000', and ``(B) by substituting `$75,000' for `$50,000'.''.
+Effective Date.--The amendments made by this section shall apply to amounts paid or incurred in taxable years beginning after the date of the enactment of this Act.
+STANDARD DEDUCTION FOR BUSINESS USE OF HOME.
+In General.--Subsection (c) of section 280A of the Internal Revenue Code of 1986 (relating to disallowance of certain expenses in connection with business use of home, rental of vacation homes, etc.)
+is amended by adding at the end the following new paragraph: ``(7) Standard home office deduction.-- ``(A) In general.--In the case of an individual that is allowed a deduction for the use of a home office because of a use described in paragraphs (1), (2), or (4) of this subsection, notwithstanding the limitations of paragraph (5), if such individual elects the application of this paragraph for the taxable year, such individual shall be allowed a deduction equal to the standard home office deduction for the taxable year in lieu of the deductions otherwise allowable under this chapter for such taxable year by reason of being attributed to such use.
+Standard home office deduction amount.--For purposes of this paragraph, the standard home office deduction is the lesser of-- ``(i) $2,500, or ``(ii) the gross income derived from the individual's trade or business for which such use occurs.
+Inflation adjustment.--In the case of any taxable year beginning in a calendar year after 2010, the dollar amount in subparagraph (B)(i) shall be increased by an amount equal to-- ``(i) such dollar amount, multiplied by ``(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting `2009' for `1992' in subparagraph (B) thereof.
+Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $100.''.
+Effective Date.--The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+INCREASED MEALS AND ENTERTAINMENT EXPENSE DEDUCTION FOR SMALL BUSINESSES.
+In General.--Subsection (n) of section 274 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: ``(4) Increased percentage for small business expenses.-- ``(A) In general.--In the case of expenses or items described in paragraph (1) paid or incurred by the taxpayer in carrying on an eligible trade or business, such paragraph shall be applied by substituting `80 percent' for `50 percent'.
+Eligible trade or business.-- ``(i) In general.--For purposes of subparagraph (A), the term `eligible trade or business' means, with respect to any taxable year, a trade or business (whether or not incorporated) which employed an average of less than 50 employees on business days during the taxable year.
+Controlled groups.--For purposes of clause (i), all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.''.
+Effective Date.--The amendment made by this section shall apply to expenses paid or incurred after the date of the enactment of this Act.
+TWO-YEAR EXTENSION OF BONUS DEPRECIATION.
+In General.--Paragraph (2) of section 168(k) is amended-- (1) by striking ``January 1, 2011'' and inserting ``January 1, 2014'', and (2) by striking ``January 1, 2010'' each place it appears and inserting ``January 1, 2013''.
+Conforming Amendments.-- (1) The heading for subsection (k) of section 168 of such Code is amended by striking ``January 1, 2010'' and inserting ``January 1, 2013''.
+The heading for clause (ii) of section 168(k)(2)(B) of such Code is amended by striking ``pre-january 1, 2010'' and inserting ``pre-january 1, 2013''.
+Paragraph (5) of section 168(l) is amended by striking subparagraph (B), by adding ``and'' at the end of subparagraph (A), and by redesignating subparagraph (C) as subparagraph (B).
+Subparagraph (C) of section 168(n)(2) of such Code is amended by striking clause (ii), by adding ``and'' at the end of clause (i), and by redesignating clause (iii) as clause (ii).
+Subparagraph (B) of section 1400N(d)(3) of such Code is amended by striking ``January 1, 2010'' and inserting ``January 1, 2013''.
+Effective Date.--The amendments made by this section shall apply to property placed in service after December 31, 2009.
+TITLE II--SMALL BUSINESS LOANS SEC.
+SMALL BUSINESS DIRECT LENDING PROGRAM.
+Establishment.--The Administrator of the Small Business Administration shall establish and carry out a program under which the Administrator is authorized to make loans directly to eligible small business concerns (in this section referred to as the ``program'').
+Administration.--Except as otherwise provided under this section and to the extent practicable, the Administrator of the Small Business Administration shall carry out the program-- (1) using the administrative resources of the Small Business Administration; and (2) in a manner similar to the loan program under section 7(a) of the Small Business Act (15 United States Code 636(a)).
+Use of Loan Funds.--Amounts from a loan made under the program may be used by a small business concern for the operation or expansion of such concern or for any other purpose allowed under section 7(a) of the Small Business Act (15 United States Code 636(a)).
+Loan Amount.--The maximum amount of a loan made under the program shall be $1,500,000.
+Loan Term.--The maximum term for repayment of a loan made under the program shall be 25 years.
+Loan Interest Rate.--The interest rate with respect to a loan made under the program shall be the prime rate (as determined by the Administrator of the Small Business Administration).
+Accountability.-- (1) SBA reports.--Not later than 30 days after the date of enactment of this Act and every month thereafter, the Administrator of the Small Business Administration shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report describing-- (A) the number of loans made under the program; (B) the amounts of loans made under the program; (C) the uses of loans made under the program; (D) repayment progress with respect to loans made under the program; (E) the default rate with respect to loans made under the program; and (F) other relevant information with respect to the program.
+GAO reports.-- (A) Review.--The Comptroller General of the United States shall conduct a review of the program to evaluate the effectiveness of the program and identify any waste or abuse relating to the program.
+Reports.--Not later than 90 days after the date of enactment of this Act and quarterly thereafter, the Comptroller General shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report describing the results of the review conducted under subparagraph (A).
+Definitions.--In this section, the following definitions apply: (1) Eligible small business concern.--The term ``eligible small business concern'' means a small business concern that the Administrator of the Small Business Administration determines-- (A) is economically healthy; (B) has good credit; and (C) is unable to obtain a loan on reasonable terms from a non-Federal source (which may be demonstrated with respect to a small business concern by evidence that a lender discontinued a line of credit of such concern notwithstanding the good credit of such concern).
+Small business concern.--The term ``small business concern'' has the meaning given such term under section 3(a) of the Small Business Act (15 United States Code 632(a)).
+Authorization of Appropriations.--There is authorized to be appropriated to the Administrator of the Small Business Administration $10,000,000,000 to carry out the program, including the hiring of necessary personnel.
+Termination.--The program shall terminate on the date that is 2 years after the date of enactment of this Act.

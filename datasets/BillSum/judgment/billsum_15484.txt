@@ -1,0 +1,28 @@
+This Act may be cited as the ``Businesses Educating Students in Technology (BEST) Act''.
+Congress finds the following: (1) Technological progress is the single most important determining factor in sustaining growth in the Nation's economy.
+It is estimated that technological innovation has accounted for as much as half the Nation's long-term economic growth over the past 50 years and will account for an even higher percentage in the next 50 years.
+The number of jobs requiring technological expertise is growing rapidly.
+For example, it is estimated that 1,300,000 new computer engineers, programmers, and systems analysts will be needed over the next decade in the United States economy.
+Yet, our Nation's computer science programs are only graduating 25,000 students with bachelor's degrees yearly.
+There are more than 350,000 information technology positions currently unfilled throughout the United States, and the number of students graduating from colleges with computer science degrees has declined dramatically.
+In order to help alleviate the shortage of graduates with technology-based education and skills, businesses in a number of States have formed partnerships with colleges, universities, community-technical schools, and other institutions of higher learning to give lectures, donate equipment, plan curricula, and perform other activities designed to help students acquire the skills and knowledge needed to fill jobs in technology-based industries.
+Congress should encourage these partnerships by providing a tax credit to businesses that enter into them.
+Such a tax credit will help students obtain the knowledge and skills they need to obtain jobs in technology-based industries which are among the best paying jobs being created in the economy.
+The credit will also assist businesses in their efforts to develop a more highly-skilled, better trained workforce that can fill the technology jobs such businesses are creating.
+ALLOWANCE OF CREDIT FOR BUSINESS-PROVIDED STUDENT EDUCATION AND TRAINING.
+In General.--Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to business related credits) is amended by adding at the end the following: ``SEC.
+BUSINESS-PROVIDED STUDENT EDUCATION AND TRAINING.
+Allowance of Credit.--For purposes of section 38, the business-provided student education and training credit determined under this section for the taxable year is an amount equal to 40 percent of the qualified student education and training expenditures of the taxpayer for such taxable year.
+Dollar Limitation.--The credit allowable under subsection (a) for any taxable year shall not exceed $100,000.
+Definitions.--For purposes of this section-- ``(1) Qualified student education and training expenditure.-- ``(A) In general.--The term `qualified student education and training expenditure' means-- ``(i) any amount paid or incurred by the taxpayer for the qualified student education and training services provided by any employee of the taxpayer, and ``(ii) the basis of the taxpayer in any tangible personal property contributed by the taxpayer and used in connection with the provision of such services.
+Exclusion for amounts funded by grants, etc.--The term `qualified student education and training expenditure' shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).
+Qualified student education and training services.-- ``(A) In general.--The term `qualified student education and training services' means technology-based education and training of students in any eligible educational institution in employment skills related to the trade or business of the taxpayer.
+Eligible educational institution.--The term `eligible educational institution' has the meaning given such term by section 529(e)(5).
+Special Rules.--For purposes of this section-- ``(1) Aggregation rules.--All persons which are treated as a single employer under subsections (a) and (b) of section 52 shall be treated as a single taxpayer.
+Pass-thru in the case of estates and trusts.--Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
+Allocation in the case of partnerships.--In the case of partnerships, the credit shall be allocated among partners under regulations prescribed by the Secretary.
+No Double Benefit.--No deduction or credit shall be allowed under any other provision of this chapter with respect to any expenditure taken into account in computing the amount of the credit determined under this section.''
+Conforming Amendments.-- (1) Section 38(b) of the Internal Revenue Code of 1986 is amended-- (A) by striking out ``plus'' at the end of paragraph (11), (B) by striking out the period at the end of paragraph (12), and inserting a comma and ``plus'', and (C) by adding at the end the following: ``(13) the business-provided student education and training credit determined under section 45D.''
+The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following: ``Sec.
+Business-provided student education and training credit.''
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 1998.

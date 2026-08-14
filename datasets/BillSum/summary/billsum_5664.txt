@@ -1,0 +1,6 @@
+Requires the Securities and Exchange Commission (SEC) to extend the application of regulations governing the obligation of transfer agents to search for lost security holders to: paying agents, including the obligation to use database searches; and security holders who became lost security holders before a specified date.
+Prescribes notification procedures.
+Directs the SEC to establish a database accessible from the Internet with a listing of lost security holders and the issuers or paying agents obligated to deliver them their dividends, interest, and other valuable property rights.
+Requires that issuers or paying agents hold in trust the amounts to which security holders are entitled, including any accrued interest.
+Sets forth implementation guidelines.
+Title II: United States Money Return Commission - Establishes the United States Money Return Commission to: collect and publish on the Internet and other media information on all money held by the United States that is owed to any person; establish procedures for the use of state-of-the-art technology to restore such moneys to their rightful owners without charge; and present an annual status report to the President.

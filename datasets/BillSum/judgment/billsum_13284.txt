@@ -1,0 +1,46 @@
+This Act may be cited as the ``Graduate Medical Education Trust Fund Act of 1996''.
+TEACHING HOSPITAL AND GRADUATE MEDICAL EDUCATION TRUST FUND.
+In General.--The Social Security Act (42 United States Code 300 et sequentes) is amended by adding at the end the following title: ``TITLE XXI--TEACHING HOSPITAL AND GRADUATE MEDICAL EDUCATION TRUST FUND ``Part A--Establishment of Fund ``SEC.
+In General.--There is established in the Treasury of the United States a fund to be known as the Teaching Hospital and Graduate Medical Education Trust Fund (in this title referred to as the `Fund'), consisting of amounts transferred to the Fund under subsection (c), amounts appropriated to the Fund pursuant to subsections (d) and (e)(3), and such gifts and bequests as may be deposited in the Fund pursuant to subsection (f).
+Amounts in the Fund are available until expended.
+Expenditures From Fund.--Amounts in the Fund are available to the Secretary for making payments under section 2111.
+Transfers to Fund.-- ``(1) In general.--From the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, the Secretary shall, for fiscal year 1998 and each subsequent fiscal year, transfer to the Fund an amount determined by the Secretary for the fiscal year involved in accordance with paragraph (2).
+Determination of amounts.--For purposes of paragraph (1), the amount determined under this paragraph for a fiscal year is an estimate by the Secretary of an amount equal to 75 percent of the difference between-- ``(A) the nationwide total of the amounts that would have been paid under section 1876 during the year but for the operation of subsection (a)(1)(C)(ii)(II) of such section; and ``(B) the nationwide total of the amounts paid under such section during the year.
+Allocation between medicare trust funds.--In providing for a transfer under paragraph (1) for a fiscal year, the Secretary shall provide for an allocation of the amounts involved between part A and part B of title XVIII (and the trust funds established under the respective parts) as reasonably reflects the proportion of payments for the indirect costs of medical education and direct graduate medical education costs of hospitals associated with the provision of services under each respective part.
+Authorization of Appropriations.--There are authorized to be appropriated to the Fund such sums as may be necessary for each of the fiscal years 1997 through 2003.
+Investment.-- ``(1) In general.--The Secretary of the Treasury shall invest such amounts of the Fund as such Secretary determines are not required to meet current withdrawals from the Fund.
+Such investments may be made only in interest-bearing obligations of the United States.
+For such purpose, such obligations may be acquired on original issue at the issue price, or by purchase of outstanding obligations at the market price.
+Sale of obligations.--Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
+Availability of income.--Any interest derived from obligations acquired by the Fund, and proceeds from any sale or redemption of such obligations, are hereby appropriated to the Fund.
+Acceptance of Gifts and Bequests.--The Fund may accept on behalf of the United States money gifts and bequests made unconditionally to the Fund for the benefit of the Fund or any activity financed through the Fund.
+``Part B--Payments to Teaching Hospitals ``SEC.
+FORMULA PAYMENTS TO TEACHING HOSPITALS.
+In General.--In the case of each teaching hospital that in accordance with subsection (b) submits to the Secretary a payment document for fiscal year 1997 or any subsequent fiscal year, the Secretary shall make payments for the year to the teaching hospital for the direct and indirect costs of operating approved medical residency training programs.
+Such payments shall be made from the Fund, and shall be made in accordance with a formula established by the Secretary.
+Payment Document.--For purposes of subsection (a), a payment document is a document containing such information as may be necessary for the Secretary to make payments under such subsection to a teaching hospital for a fiscal year.
+The document is submitted in accordance with this subsection if the document is submitted not later than the date specified by the Secretary, and the document is in such form and is made in such manner as the Secretary may require.
+The Secretary may require that information under this subsection be submitted to the Secretary in periodic reports.''.
+Adjustments in Medicare Payments.-- (1) Removal of medical education and disproportionate share hospital payments from calculation of adjusted average per capita cost.--Section 1876(a)(1)(C) of such Act (42 United States Code 1395mm(a)(1)(C)) is amended-- (A) by striking ``(C) The annual'' and inserting ``(C)(i) Subject to clause (ii), the annual'', and (B) by adding at the end the following new clause: ``(ii) In determining the average annual per capita rate of payment for a year (beginning with 1998), such rate shall be determined as though the Secretary had excluded from such rate any amounts which the Secretary estimated would have been payable under this title during the year for-- ``(I) payment adjustments under section 1886(d)(5)(F) for hospitals serving a disproportionate share of low-income patients; and ``(II) the indirect costs of medical education under section 1886(d)(5)(B) or for direct graduate medical education costs under section 1886(h).''.
+Payments to hospitals of amounts attributable to dsh.-- Section 1886 of such Act (42 United States Code 1395ww) is amended by adding at the end the following new subsection: ``(j)(1) In addition to amounts paid under subsection (d)(5)(F), the Secretary is authorized to pay hospitals which are eligible for such payments for a fiscal year (beginning with fiscal year 1998) supplemental amounts that do not exceed the limit provided for in paragraph (2).
+The sum of the aggregate amounts paid pursuant to paragraph (1) for a fiscal year shall not exceed the Secretary's estimate of 75 percent of the amount of reductions in payments under section 1876 that are attributable to the operation of subsection (a)(1)(C)(ii)(I) of such section during such fiscal year.''.
+NATIONAL ADVISORY COUNCIL ON POSTGRADUATE MEDICAL EDUCATION.
+In General.--There is established within the Department of Health and Human Services an advisory council to be known as the National Advisory Council on Postgraduate Medical Education (in this section referred to as the ``Council'').
+Duties.--The Council shall provide advice to the Secretary on appropriate policies for making payments for the support of postgraduate medical education in order to assure an adequate supply of physicians trained in various specialities, consistent with the health care needs of the United States.
+Composition.-- (1) In general.--The Secretary shall appoint to the Council 15 individuals who are not officers or employees of the United States.
+Such individuals shall include not less than 1 individual from each of the following categories of individuals or entities: (A) Organizations representing consumers of health care services.
+Physicians who are faculty members of medical schools, or who supervise approved physician training programs.
+Physicians in private practice who are not physicians described in subparagraph (B).
+Practitioners in public health.
+Other health professionals who are not physicians.
+The Accreditation Council on Graduate Medical Education.
+The American Board of Medical Specialities.
+The Council on Postdoctoral Training of the American Osteopathic Association.
+The Council on Podiatric Medical Education of the American Podiatric Medical Association.
+Requirements regarding representative membership.--To the greatest extent feasible, the membership of the Council shall represent the various geographic regions of the United States, shall reflect the racial, ethnic, and gender composition of the population of the United States, and shall be broadly representative of medical schools and teaching hospitals in the United States.
+Ex officio members; other federal officers or employees.--The membership of the Council shall include individuals designated by the Secretary to serve as members of the Council from among Federal officers or employees who are appointed by the President, or by the Secretary (or by other Federal officers who are appointed by the President with the advice and consent of the Senate).
+Individuals designated under the preceding sentence shall include each of the following officials (or a designee of the official): (A) The Secretary of Health and Human Services.
+The Secretary of Veterans Affairs.
+The Secretary of Defense.
+Chair.--The Secretary shall, from among members of the Council appointed under subsection (c)(1), designate an individual to serve as the chair of the Council.
+Termination.--The Council terminates December 31, 2000.

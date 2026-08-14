@@ -1,0 +1,2 @@
+Public-Private Cybersecurity Cooperation Act This bill directs the Department of Homeland Security (DHS) to: establish a policy applicable to individuals and entities that reports security vulnerabilities on DHS public websites, develop a process for mitigation or remediation of security vulnerabilities that are reported, consult with specified federal departments and nongovernmental security researchers in developing the policy, and submit the policy and the remediation process to Congress.
+DHS must make such policy publicly available.

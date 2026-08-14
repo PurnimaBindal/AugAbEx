@@ -1,0 +1,25 @@
+SHORT TITLE; TABLE OF CONTENTS.
+Short Title.--This Act may be cited as the ``Social Security Disability Amendments Act of 1994''.
+Table of Contents.--The table of contents is as follows: Sec.
+Short title; table of contents.
+Disregard deemed income and resources of ineligible spouse when determining continued eligibility under section 1619(b).
+Plans for achieving self-support not disapproved within 60 days to be deemed approved.
+Expansion of plans for achieving self-support to include housing goals.
+Regulations regarding completion of plans for achieving self- support.
+Treatment of certain grant, scholarship, or fellowship income as earned income for SSI purposes.
+SSI eligibility for students temporarily abroad.
+DISREGARD DEEMED INCOME AND RESOURCES OF INELIGIBLE SPOUSE WHEN DETERMINING CONTINUED ELIGIBILITY UNDER SECTION 1619(b).
+Section 1614(f)(1) of the Social Security Act (42 United States Code 1382c(f)(1)) is amended by inserting ``(other than under section 1619(b))'' after ``benefits''.
+PLANS FOR ACHIEVING SELF-SUPPORT NOT DISAPPROVED WITHIN 60 DAYS TO BE DEEMED APPROVED.
+Amendments to Income Exclusion Rules.--Section 1612(b)(4) of the Social Security Act (42 United States Code 1382a(b)(4)(A)) is amended in each of subparagraphs (A) and (B) by inserting ``and, for purposes of this clause, a completed plan for achieving self-support which is not disapproved by the Secretary within 60 days after the date of submission shall be deemed to be approved by the Secretary until subsequently disapproved by the Secretary (with appropriate notification to the individual),'' after ``plan,''.
+Amendment to Resource Exclusion Rule.--Section 1613(a)(4) of such Act (42 United States Code 1382b(a)(4)) is amended by inserting ``, and, for purposes of this paragraph, a completed plan for achieving self-support which is not disapproved by the Secretary within 60 days after the date of submission shall be deemed to be approved by the Secretary until 6 months after subsequently disapproved by the Secretary (with appropriate notification to the individual)'' after ``such plan''.
+EXPANSION OF PLANS FOR ACHIEVING SELF-SUPPORT TO INCLUDE HOUSING GOALS.
+Income Disregard Rules.--Section 1612(b)(4) of the Social Security Act (42 United States Code 1382a(b)(4)) is amended in each of subparagraphs (A)(iii) and (B)(iv), by inserting ``, containing a career or housing goal, that has been'' before ``approved''.
+Resource Disregard Rules.--Section 1613(a)(4) of such Act (42 United States Code 1382b(a)(4)) is amended by inserting ``, containing a career or housing goal, that has been'' before ``approved''.
+REGULATIONS REGARDING COMPLETION OF PLANS FOR ACHIEVING SELF- SUPPORT.
+Section 1633 of the Social Security Act (42 United States Code 1383b) is amended by adding at the end the following: ``(d) The Secretary shall establish by regulation time limits and other criteria-- ``(1) which are related to an individual's career or housing goal included in a plan for achieving self-support, and ``(2) that take into account the difficulty of achieving self-support based on the needs of the individual and the goals of the plan.''.
+TREATMENT OF CERTAIN GRANT, SCHOLARSHIP, OR FELLOWSHIP INCOME AS EARNED INCOME FOR SSI PURPOSES.
+Section 1612(a)(1) of the Social Security Act (42 United States Code 1382a(a)(1)), as amended by section 309 of this Act, is amended-- (1) by striking ``and'' at the end of subparagraph (E); and (2) by adding at the end the following: ``(G) any grant, scholarship, or fellowship described in section 1612(b)(7) to the extent not excluded from income pursuant to such section; and''.
+SSI ELIGIBILITY FOR STUDENTS TEMPORARILY ABROAD.
+Section 1611(f) of the Social Security Act (42 United States Code 1382(f)) is amended by adding at the end the following: ``The first sentence of this subsection shall not apply to any individual who was eligible to receive a benefit under this title for the month immediately preceding the first month during all of which such individual is outside the United States and who demonstrates to the satisfaction of the Secretary that the individual's absence from the United States will be temporary and for the purpose of conducting studies as part of an educational program designed to prepare the individual for gainful employment and sponsored by a school, college, or university in the United States.''.
+Except as otherwise provided in this Act, the amendments made by this Act shall take effect on the 1st day of the 1st calendar month that begins 90 or more days after the date of the enactment of this Act.

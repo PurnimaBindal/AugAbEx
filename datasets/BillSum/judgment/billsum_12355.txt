@@ -1,0 +1,23 @@
+This Act may be cited as the ``Small Business Tax Relief Act of 2011''.
+REPEAL OF EXPANSION OF CERTAIN INFORMATION REPORTING REQUIREMENTS TO CORPORATIONS AND TO PAYMENTS FOR PROPERTY.
+Section 9006 of the Patient Protection and Affordable Care Act is repealed.
+Each provision of law amended by such section is amended to read as such provision would read if such section had never been enacted.
+SURCHARGE ON HIGH INCOME INDIVIDUALS.
+In General.--Subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new part: ``PART VIII--SURCHARGE ON HIGH INCOME INDIVIDUALS ``Sec.
+Surcharge on high income individuals.
+SURCHARGE ON HIGH INCOME INDIVIDUALS.
+General Rule.--In the case of a taxpayer other than a corporation, there is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to 5.4 percent of so much of the modified adjusted gross income of the taxpayer as exceeds $1,000,000.
+Taxpayers Not Making a Joint Return.--In the case of any taxpayer other than a taxpayer making a joint return under section 6013 or a surviving spouse (as defined in section 2(a)), subsection (a) shall be applied by substituting for the dollar amount therein (after any increase determined under subsection (d)) a dollar amount equal to-- ``(1) 50 percent of the dollar amount so in effect in the case of a married individual filing a separate return, and ``(2) 80 percent of the dollar amount so in effect in any other case.
+Modified Adjusted Gross Income.--For purposes of this section, the term `modified adjusted gross income' means adjusted gross income reduced by any deduction (not taken into account in determining adjusted gross income) allowed for investment interest (as defined in section 163(d)).
+In the case of an estate or trust, adjusted gross income shall be determined as provided in section 67(e).
+Inflation Adjustments.-- ``(1) In general.--In the case of taxable years beginning after 2011, the dollar amount in subsection (a) shall be increased by an amount equal to-- ``(A) such dollar amount, multiplied by ``(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting `calendar year 2010' for `calendar year 1992' in subparagraph (B) thereof.
+Rounding.--If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.
+Special Rules.-- ``(1) Nonresident alien.--In the case of a nonresident alien individual, only amounts taken into account in connection with the tax imposed under section 871(b) shall be taken into account under this section.
+Citizens and residents living abroad.--The dollar amount in effect under subsection (a) (after the application of subsections (b) and (d)) shall be decreased by the excess of-- ``(A) the amounts excluded from the taxpayer's gross income under section 911, over ``(B) the amounts of any deductions or exclusions disallowed under section 911(d)(6) with respect to the amounts described in subparagraph (A).
+Charitable trusts.--Subsection (a) shall not apply to a trust all the unexpired interests in which are devoted to one or more of the purposes described in section 170(c)(2)(B).
+Not treated as tax imposed by this chapter for certain purposes.--The tax imposed under this section shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.''.
+Clerical Amendment.--The table of parts for subchapter A of chapter 1 of such Code is amended by adding at the end the following new item: ``part viii.
+surcharge on high income individuals.''.
+Section 15 Not To Apply.--The amendment made by subsection (a) shall not be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2010.
+Deficit Reduction.--Revenues received pursuant to the amendments made by this section shall be deposited in the Treasury and used for deficit reduction, except that in the case of a fiscal year for which there is no Federal budget deficit (determined after taking into account the repeal and amendments made by section 2), such amounts shall be used to reduce the Federal debt (in such manner as the Secretary of the Treasury considers appropriate).

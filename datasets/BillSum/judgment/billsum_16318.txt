@@ -1,0 +1,32 @@
+This Act may be cited as the ``Y2K State and Local Government Assistance Programs Act''.
+AUTHORITY TO MAKE GRANTS.
+In General.--From amounts made available to carry out this Act, the Secretary of Commerce may make grants under this Act only to States for carrying out activities described in section 3.
+Time Limitation.--The Secretary may not make a grant under this Act after the expiration of the 2-year period beginning on the date of the enactment of this Act.
+Numerical Limitations.--Of grants made under this Act during the period described in subsection (b), the Secretary may not make more than-- (1) 2 grants to any single State; and (2) 75 grants overall.
+Y2K Compliance Project.--Amounts received under a grant under this Act may be used only to carry out a project that meets the following requirements: (1) The project makes Y2K compliant the information technology used by a State or local government agency to administer one or more Federal, State, or local government programs.
+The project uses amounts received under the grant to supplement and not to supplant the level of State and local funds that, in the absence of such amounts, would have been expended on efforts to achieve Y2K compliance.
+The project meets such other requirements as the Secretary may prescribe.
+Matching Requirement.-- (1) In general.--Subject to this subsection, each recipient shall, as a condition of receiving grant amounts under this Act, supplement the grant amounts received under this Act with an amount of funds from sources other than this Act that is not less than 50 percent of the grant amount received under this Act.
+Supplemental funds.--In calculating the amount of supplemental funds under paragraph (1), a recipient may include the value of any donated material or building, the value of any lease on a building, and any salary paid to staff to carry out the Y2K compliance project.
+Waiver for hardship.--The Secretary may waive or modify the matching requirement described in paragraph (1) in the case of any State that the Secretary determines would suffer undue hardship as a result of being subject to the requirement.
+In General.--The Secretary shall make grants under this Act in accordance with competitive criteria established by the Secretary, which shall include the need for and the feasibility of the proposed Y2K compliance project.
+Priority.--The Secretary shall give priority to proposed projects that relate to making Y2K compliant the information technology used to administer Federal welfare programs.
+In General.--The Secretary may make a grant under this Act only with respect to an application by a State for a grant under this Act that meets the following requirements: (1) The application is submitted through the executive office of the State.
+The application is submitted to the Secretary within 45 days after the enactment of this Act.
+The application contains a description of the proposed project, including a proposed budget and a request for a specific funding amount.
+The application describes the manner in which the State proposes to satisfy the matching requirement described in section 3(b) or describes the circumstances justifying a determination that the State would suffer undue hardship as a result of being subject to the requirement.
+The application contains such other information, assurances, and certifications as the Secretary may require.
+By Grant Recipients.--Each recipient of grant amounts under this Act shall submit to the Secretary each year a report that-- (1) describes the status and results of the Y2K compliance project for which the grant was made; (2) includes an independent evaluation of the project; and (3) contains such other information as the Secretary may require.
+By Secretary.--Not later than 90 days after the expiration of the 2-year period beginning on the date of the enactment of this Act, the Secretary shall submit to Congress a final report describing and evaluating the activities carried out under this Act.
+For purposes of this Act, the following definitions shall apply: (1) Secretary.--The term ``Secretary'' means the Secretary of Commerce.
+State.--The term ``State'' means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+Welfare program.--The term ``welfare program'' means one or more of the following programs: (A) TANF.--A State program funded under part A of title IV of the Social Security Act (42 United States Code 601 et seq.).
+Medicaid.--The program of medical assistance under title XIX of the Social Security Act (42 United States Code 1396 et sequentes).
+Food stamps.--The food stamp program, as defined in section 3(h) of the Food Stamp Act of 1977 (7 United States Code 2012(h)).
+WIC.--The program of assistance under the special supplemental nutrition program for women, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 United States Code 1786).
+Child support enforcement.--The child support and paternity establishment program established under part D of title IV of the Social Security Act (42 United States Code 651 et sequentes).
+Child welfare.--A child welfare program or a program designed to promote safe and stable families established under subpart 1 or 2 of part B of title IV of the Social Security Act (42 United States Code 620 et sequentes).
+Child care.--The Child Care and Development Block Grant Act of 1990 (42 United States Code 9858 et sequentes) (including funding provided under section 418 of the Social Security Act (42 United States Code 618)).
+Y2K compliant.--The term ``Y2K compliant'' means, with respect to information technology, that the information technology accurately processes (including calculating, comparing, and sequencing) date and time data from, into, and between the 20th and 21st centuries and the years 1999 and 2000, and leap year calculations, to the extent that other information technology properly exchanges date and time data with it.
+The Secretary shall issue any regulations necessary to carry out this Act.
+There is authorized to be appropriated to carry out this Act, $40,000,000 for fiscal years 1999 to 2001 funded from the Y2K Emergency Supplemental Funds appropriated in the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105-277; 112 United States Statutes at Large 2681).

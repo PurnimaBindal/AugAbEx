@@ -1,0 +1,39 @@
+This Act may be cited as the ``Computer Owners' Bill of Rights''.
+COMPTROLLER GENERAL STUDY OF TECHNICAL SUPPORT FOR COMPUTER OWNERS.
+In General.--The Comptroller General of the United States shall carry out a study of the technical support (also known as customer service) provided computer owners by the computer industry.
+Owner Survey.--In carrying out the study under subsection (a), the Comptroller General shall utilize the results of a survey of computer owners conducted by the Comptroller General for purposes of the study.
+Elements of Study.--The study under subsection (a) shall-- (1) identify the types and ranges of technical support provided computer owners by the computer industry, including the types and ranges of support provided by various segments of the computer industry and the types and ranges of support provided at various times in the life of a computer (such as upon purchase and as part of on-going maintenance); (2) determine whether the technical support provided computer owners by the computer industry is adequate to address the needs of computer owners for such support, including whether or not computer owners receive the support promised by various segments of the computer industry; and (3) identify an appropriate role, if any, for the Federal Government in the regulation of the provision of technical support to computer owners by the computer industry in order to ensure the protection of computer owners in the receipt of such support.
+Report.--Not later than one year after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report on the study under subsection (a).
+The report shall-- (1) set forth the findings and conclusions of the Comptroller General as a result of the study; and (2) include the recommendations of the Comptroller General on the appropriate role, if any, for the Federal Government in the regulation of the provision of technical support to computer owners by the computer industry as identified under subsection (c)(3).
+INDUSTRY-WIDE STANDARDS FOR TECHNICAL SUPPORT FOR COMPUTER OWNERS.
+Standards.--Not later than 90 days after the date of the enactment of this Act, the Federal Trade Commission shall establish standards for the provision of technical support (also known as customer service) for computers and computer-related products by the entities referred to in subsection (c).
+Technical Support.--For purposes of the standards required by subsection (a), technical support shall include the following: (1) Telephone support.
+On-line support through the Internet.
+Support manuals and related documents.
+On-site support, including in-store support.
+Such other support as the Commission considers appropriate for coverage under the standards.
+Covered Entities.--The entities covered by the standards required by subsection (a) in the provision of technical support shall include the following: (1) Manufacturers of computer hardware (including peripherals).
+Manufacturers of computer software.
+Consultants and other entities that provide technical support.
+Computer resellers, if such resellers provide technical support.
+Such other entities as the Commission considers appropriate for coverage under the standards.
+Additional Requirements.-- (1) Consultation.--In establishing the standards required by subsection (a), the Commission shall consult with entities to be covered by the standards and with such consumer organizations as the Commission considers appropriate.
+Separate standards based on imposition of fees.--In establishing the standards, the Commission shall establish separate standards for technical support provided without charge and for technical support provided for a fee or on another remunerative basis.
+COMPLIANCE WITH STANDARDS FOR TECHNICAL SUPPORT FOR COMPUTER OWNERS.
+Guidelines on Collection and Submission of Data on Compliance.--Not later than 90 days after the date of the enactment of this Act, the Federal Trade Commission shall issue guidelines to encourage each entity covered by the standards for the provision of technical support for computers and computer-related products established under section 3 to collect and submit to the Commission the information specified in subsection (c).
+Consultation.--The Commission shall consult with appropriate consumer organizations in issuing the guidelines under subsection (a).
+Information.--The information on technical support that is to be collected and submitted by an entity pursuant to the guidelines under subsection (a) shall include such information as the Commission considers appropriate to provide owners and operators of computers and computer-related products for which such technical support is provided with the nature and quality of such technical support, including customer satisfaction with such technical support.
+Presentation of Information.-- (1) In general.--The guidelines under subsection (a) shall specify the manner of the presentation of information submitted pursuant to the guidelines under subsection (a), including the aggregation, disaggregation, or averaging of information, and any other manner of presentation of information that the Commission considers appropriate.
+Separate information on each basis of support.--The guidelines shall provide that separate information be collected and submitted under subsection (c) on each basis of technical support provided by each entity submitting information pursuant to the guidelines.
+Frequency of Submittal.--The guidelines under subsection (a) shall provide for the submittal of information pursuant to the guidelines on a quarterly basis.
+Publication.--The Commission shall make available to the public, in a form considered appropriate by the Commission, the information submitted to the Commission pursuant to the guidelines under subsection (a).
+The Commission shall make such information public in both printed and Internet form.
+PROTECTION FROM UNSOLICITED MARKETING E-MAIL.
+In General.--The Federal Trade Commission shall establish a registry in which any person or entity that does not seek to receive unsolicited marketing e-mail (commonly referred to as ``spam'') to a computer may register the e-mail address or addresses of such computer for that purpose.
+Registration.--The Commission shall permit the registration, including registration by e-mail, of any computer on the registry established under subsection (a).
+Availability of Registry to Public.--The Commission shall make available to the public the information on the registry established under subsection (a).
+Prohibition on Unsolicited Marketing E-Mail to Registered Computers.--Except as otherwise authorized by the Commission in regulations prescribed under this section, no person or entity may send or otherwise submit to any computer whose e-mail address is registered on the registry established under subsection (a) unsolicited marketing e-mail.
+Civil Penalty.--The Commission may impose a civil penalty not to exceed $10,000 for each violation of subsection (d).
+For purposes of this subsection, each day of violation shall constitute a separate offense.
+Enforcement Powers.-- (1) In general.--The Commission shall enforce subsection (d) utilizing the powers and authorities available to the Commission under the Federal Trade Commission Act (15 United States Code 41 et sequentes).
+Reporting of violations.--For purposes of the enforcement of the subsection (d), the Commission shall establish mechanisms to permit the reporting of violations of such sections to the Commission, including appropriate links on the Internet web site of the Commission and the use of a toll- free telephone number (commonly referred to as an ``800 number'') for such purposes.

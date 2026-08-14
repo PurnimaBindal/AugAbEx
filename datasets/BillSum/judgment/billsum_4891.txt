@@ -1,0 +1,44 @@
+This Act may be cited as the ``Endangered Species Improvement Act of 1993''.
+INSERTING A PUBLIC INTEREST DETERMINATION IN LISTING DECISION.
+In General.--Section 4(a)(1) of the Endangered Species Act of 1973 (16 United States Code 1533(a)(1)) is amended to read as follows: ``Sec.
+In General.--(1) The Secretary shall by regulation promulgated in accordance with subsection (b) of this section determine that a species is an endangered species or a threatened species if the Secretary determines the following: ``(A) That the species warrants listing as an endangered species or a threatened species because of any of the following factors: ``(i) The past or present destruction, modification, or curtailment of its habitat or range.
+Overutilization for commercial, recreational, scientific, or educational purposes.
+The inadequacy of existing regulatory mechanisms.
+Other natural or manmade factors affecting its continued existence.
+That the listing of the species is in the public interest after considering the following factors: ``(i) The technical practicability of recovering the species.
+The biological significance of the species.
+The quality of available data on the species.
+The direct and indirect costs to the public and private sectors, including public service and employment, which may be imposed by the application of the protections of this Act to such species.
+The impacts on the use and value of non- Federal property which may result from application of the protections of this Act to such species.
+The impacts on the environment and other species which may result from the application of the protections of this Act to such species.
+The scientific and other benefits which may result from the application of the protections of this Act to such species.
+Any other beneficial or adverse effects which may result from the application of the protections of this Act to such species.''.
+Conforming Amendment.--Section 4(b)(1)(A) of the Endangered Species Act of 1973 (16 United States Code 1533(b)(1)(A)) is amended by striking ``subsection (a)(1)'' and inserting in lieu thereof ``subsection (a)(1)(A)''.
+REQUIRING BLIND PEER REVIEW.
+Section 4(b) of the Endangered Species Act of 1973 (16 United States Code 1533(b)) is amended by adding at the end thereof the following new paragraph: ``(9) Prior to making any determination pursuant to subsection (a)(1), the Secretary shall submit for peer review all information on and analyses of the species or habitat upon which such determination will be made to a panel of experts who are not employed by, under contract to, or recipients of grants from the department of the Secretary.
+The panel shall be selected by the Inspector General of the department of the Secretary without the advice or consent of the Secretary or any official of any agency advising the Secretary on the determination.
+The Secretary shall consider the report of the panel prior to making a determination, shall make the report available to the public, and shall provide a response to the report in the preamble to the final rule setting forth the determination.''.
+Section 4(b) of the Endangered Species Act of 1973 (16 United States Code 1533(b)), as amended by section 3 of this Act, is further amended by adding at the end thereof the following paragraph (11): ``(10) No person who advises the Secretary on, or otherwise participates formally in procedures leading to, a determination pursuant to subsection (a)(1), or the institution with which such person is employed, shall receive any grant or other funding under or pursuant to this Act or any other authority of the Secretary to study, conduct research on, undertake conservation activities for, or otherwise address the species which is the subject of such determination.''.
+ESTIMATION OF NUMBER OF A SPECIES.
+Section 4(b) of the Endangered Species Act of 1973 (16 United States Code 1533(b)), as amended by sections 3 and 4 of this Act, is further amended by adding at the end the following new paragraph: ``(11)(A) The Secretary shall determine and publish in the Federal Register with each proposed rule under subsection (a)(1) an estimate of the number of the species that is the subject of the rule.
+The estimate published under subparagraph (A) for a species-- ``(i) shall be periodically reviewed and revised by the Secretary to reflect changes in the number of the species; and ``(ii) shall be used by the Secretary to make determinations under subsection (c)(2)(B).''.
+APPLYING THE EMERGENCY LISTING PROCESS TO EMERGENCY SITUATIONS.
+Section 4(b)(7) of the Endangered Species Act of 1973 (16 United States Code 1533(b)(7)) is amended by striking ``a significant risk to the well- being'' and inserting in lieu thereof ``an immediate threat of extinction''.
+LIMITING APPLICATION OF TAKE PROHIBITION PRIOR TO COMPLETION OF A RECOVERY PLAN.
+Section 9(a) of the Endangered Species Act of 1973 (16 United States Code 1538(a)) is amended by inserting at the end thereof a new paragraph (3) as follows: ``(3) For purposes of paragraph (1)(B) of this subsection and any regulation applying such paragraph to a threatened species pursuant to section 4(d) of this Act, the terms ``harm'' and ``harass'' in the definition of ``take'' in section 3(19) of this Act shall apply only to such species which are subject to a recovery plan issued under section 4(f) of this Act.''.
+ELIMINATING CITIZEN SUITS AGAINST PRIVATE PARTIES.
+Section 11(g) of the Endangered Species Act of 1973 (16 United States Code 1540(g)) is amended-- (1) in paragraph (1)(A) by striking ``any person, including the United States and any other governmental instrumentality or agency (to the extent permitted by the eleventh amendment to the Constitution), who'' and inserting in lieu thereof ``the United States, or any instrumentality or agency thereof, which''; (2) in the first sentence following subparagraph (C) of paragraph (1) by striking ``or the citizenship of the parties''; and (3) in paragraph (3) by striking ``(A)'' and subparagraph (B).
+COMPENSATION FOR DIMINUTION IN VALUE OF PRIVATE PROPERTY RIGHTS.
+In General.--The Endangered Species Act of 1973 (16 United States Code 1531 et sequentes) is amended by adding at the end thereof the following: ``SEC.
+COMPENSATION FOR DIMINUTION IN VALUE OF PRIVATE PROPERTY RIGHTS.
+In General.--The head of any Federal agency who takes an action under this Act, or regulations issued pursuant to this Act, shall compensate the owner of private property for any diminution in value caused by the action.
+Action may cause the diminution in value of private property-- ``(1) even though the action results in less than a complete deprivation of all use or value or of all separate distinct interests in the same private property; and ``(2) even if the action is temporary in nature.
+Duty of Federal Agency Heads.--The head of each Federal agency shall, at the time of issuing regulations or undertaking any activity under this Act, determine whether such regulations or activity results in the diminution in value of private property such that such diminution is compensable under this section.
+Compensation.--(1) Within 60 days after the date of issuance of any such regulation or the taking of any such action which results in a diminution in value of private property which is compensable under this section, the head of the Federal agency concerned shall make an offer of compensation to the owner of the private property affected.
+Any offer made under this paragraph shall be effective for one year.
+Such owner may reject the offer and, within one year after such rejection, file a claim for compensation in the United States Claims Court for a determination of the value of the property affected.
+In addition to awarding fair market value for the property affected, the court may award reasonable attorney's fees and expenses of litigation.
+In any case in which the property affected involves lands, such owner, in lieu of a claim under paragraph (2), may exchange in accordance with applicable Federal law lands affected by such law, regulation, or activity.
+Such owner may also accept such compensation as may be available under other laws for tax benefits, mineral rights credits, and comparable offers for value by the United States.
+Any cash settlement or judgment from the United States Claims Court pursuant to paragraph (2) shall be paid as a matter of right from the land and water conservation fund established by section 2 of the Land and Water Conservation Fund Act of 1965 (16 United States Code 460l-5).''.
+Effective Date.--The amendment made by subsection (a) shall apply to any activity of the United States Government after the date of enactment of this Act.

@@ -1,0 +1,42 @@
+This Act may be cited as the ``Hazardous Materials Cooperative Research Act of 2005''.
+Congress finds the following: (1) There are more than 1,000,000 shipments per day in the United States of materials identified as hazardous by the United States Department of Transportation.
+These shipments are estimated to total 2,100,000,000 tons of hazardous cargo per year and to comprise more than 18 percent of the total freight tonnage moved in the United States annually.
+Hazardous materials are shipped by all transportation modes and it is estimated that there are currently 400,000 large trucks, 115,000 railroad tank cars, and 3,000 tank barges dedicated to the shipment of hazardous materials.
+More than a dozen Federal agencies have regulatory, enforcement, and operational responsibilities for ensuring the safety and security of hazardous materials shipments.
+In addition, a variety of State and local agencies have responsibility for developing and enforcing State-level regulations and for responding to incidents involving hazardous materials.
+Decisions regarding the packaging and routing of hazardous materials shipments, the development and implementation of procedures to ensure both the safety and security of such shipments, and the regulation of hazardous materials shipments are made by industry groups and government entities at a variety of levels and in all modal administrations of the Department of Transportation on a daily basis.
+The Federal agencies involved in the regulation and oversight of hazardous materials shipments as well as State and local governments, carriers, shippers, and other groups conduct on-going research on the transportation of hazardous materials.
+However, much of this research is program or mode-specific and as such is focused on addressing only the regulatory, inspection, enforcement, or operational needs of the group undertaking the research.
+There is a documented need for the establishment of a cooperative research program that will engage all modes and actors, both public and private, involved in the transportation of hazardous materials in conducting cross-cutting assessments of hazardous materials transportation issues that are national and multi-modal in scope and application.
+HAZARDOUS MATERIALS COOPERATIVE RESEARCH PROGRAM.
+In General.--From the amounts made available under section 5127 of title 49, United States Code, the Secretary of Transportation may obligate not to exceed $2,000,000 per fiscal year to develop and administer a hazardous materials cooperative research program.
+Governance.--The Secretary of Transportation shall establish an independent governing board to select projects and studies to be carried out under the hazardous materials cooperative research program.
+The Board shall be comprised of one voting representative from the following: (1) The Federal Aviation Administration.
+The Federal Motor Carrier Administration.
+The Federal Transit Administration.
+The Federal Railroad Administration.
+The Research and Innovative Technology Administration.
+The Pipeline and Hazardous Materials Safety Administration.
+The Department of Homeland Security.
+The Department of Energy.
+The Environmental Protection Agency.
+A State department of transportation.
+A State emergency management agency.
+A nonprofit organization representing emergency responders.
+A nonprofit organization representing hazmat employees.
+A hazardous materials shipper.
+A hazardous materials manufacturer.
+An organization representing the hazardous materials manufacturing industry.
+A research university or research institution.
+Additional representatives as the Secretary considers appropriate.
+Research Studies.--Under the cooperative research program, the governing board shall select cooperative research studies of hazardous materials transportation that are cross-cutting in nature and that consider issues not adequately addressed by existing Federal or private sector research programs.
+Priority shall be given to research studies that will yield results immediately applicable to risk analysis and mitigation or that will strengthen the ability of first responders to respond to incidents and accidents involving transportation of hazardous materials.
+Special Rules Regarding Studies.-- (1) Safety and security.--The purpose of at least one of the studies to be conducted under the cooperative research program shall be-- (A) to provide an assessment of opportunities for integrating and supplementing safety and security measures for hazardous materials transportation; (B) to identify areas where safety and security measures currently utilized in the transportation of hazardous materials conflict or complement one another; (C) to outline a comprehensive approach to hazardous materials transportation that effectively incorporates safety and security procedures; and (D) to produce a model of reasonable State and local risk response and management plans that effectively address safety and security of hazardous materials transportation.
+Performance data for bulk containers .--The purpose of at least one of the studies to be conducted under the research program shall be to provide-- (A) an analysis of, and recommendations for, the design and funding of a nationwide system capable of collecting and analyzing performance data from bulk containers involved in transportation accidents; and (B) recommendations that can be used to develop conditional release probabilities for various container design specifications (by transport mode).
+Packaging requirements.-- The purpose of at least one of the studies to be conducted under the research program shall be to provide an analysis of recommendations on appropriate packaging requirements for those hazardous materials that are most frequently involved in release incidents.
+Routing.--The purpose of at least one of the studies to be conducted under the research program shall be to identify the components that could comprise a model of risk and consequence analysis in rail and highway transportation and that can be used to facilitate decisionmaking regarding the routing of hazardous materials shipments and the development of regulations regarding mandatory routing decisions.
+Response coverage.--The purpose of at least one of the studies to be conducted under the research program shall be to provide an assessment of the quality of response coverage for hazardous materials incidents, including cost-effective strategies for improving response capabilities and making recommendations on systematic approaches that could be used to allocate government funding to enhance response capability.
+Response guidelines.--The purpose of at least one of the studies to be conducted under the research program shall be-- (A) to develop a guideline document for use by emergency responders and handlers to guide their response to incidents involving hazardous materials and to define the roles and responsibilities of carriers and shippers in event response; and (B) to detail event response procedures that can be consistently applied across all modes.
+Implementation.--The Secretary of Transportation shall make grants to, and enter a cooperative agreement with, the National Academy of Sciences to carry out activities under this Act.
+Report.--Not later than 1 year after the date of enactment of this Act, the Secretary shall transmit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the effectiveness of the program in meeting the needs of government and the private sector for cooperative research on hazardous materials transportation.
+Definitions.--In this Act, the terms ``hazmat employer'' and ``hazmat employee'' have the meaning given those terms in section 5102 of title 49, United States Code.

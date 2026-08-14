@@ -1,0 +1,46 @@
+In General.--Subtitle A of the Internal Revenue Code of 1986 is amended to read as follows: ``Subtitle A--Income Taxes ``Chapter 1.
+Computation of taxable income.
+Determination of tax liability.
+``CHAPTER 1--COMPUTATION OF TAXABLE INCOME ``Sec.
+Nonbusiness taxable income defined.
+102. Business receipts defined.
+Cost of business inputs defined.
+Cost of capital equipment, structures, and land defined.
+105. Business taxable income defined.
+NONBUSINESS TAXABLE INCOME DEFINED.
+In General.--For purposes of this title, the term `nonbusiness taxable income' means-- ``(1) all compensation, and ``(2) any income other than compensation from whatever source derived.
+Compensation.--Compensation means all cash amounts paid by an employer or received by an employee, including wages, salaries, pensions, bonuses, prizes, and awards.
+Certain Items Included.--Compensation includes-- ``(1) the cash equivalent of any financial instrument conveyed to an employee, measured as market value at the time of conveyance; and ``(2) workman's compensation and other payments for injuries or other compensation for damages.
+Certain Items Excluded.-- ``(1) Compensation.--Compensation excludes-- ``(A) reimbursements to a taxpayer by an employer for business expenses paid by the taxpayer in connection with performance of services as an employee; ``(B) goods and services provided to employees by employers, including but not limited to medical benefits, insurance, meals, housing, recreational facilities, and other fringe benefits; and ``(C) wages, salaries, and other payments for services performed outside the United States.
+Other income.--No gain from the sale or exchange of the principal residence of a taxpayer shall be included in income described in subsection (a)(2).
+102. BUSINESS RECEIPTS DEFINED.
+``Business receipts are the receipts of a business from the sale or exchange of products or services produced in or passing through the United States.
+Business receipts include-- ``(1) gross revenue, excluding sales and excise taxes, from the sale or exchange of goods and services; ``(2) fees, commissions, and similar receipts, if not reported as compensation; ``(3) gross rents; ``(4) royalties; ``(5) gross receipts from the sale of plant, equipment, and land; ``(6) the market value of goods, services, plant, equipment, or land provided to its owners or employees; ``(7) the market value of goods, services, and equipment delivered from the United States to points outside the United States, if not included in sales; and ``(8) the market value of goods and services provided to depositors, insurance policyholders, and others with a financial claim upon the business, if not included in sales.
+COST OF BUSINESS INPUTS DEFINED.
+In General.--The cost of business inputs is the cost of purchases of goods, services, and materials required for business purposes.
+Certain Items Included.--The cost of business inputs includes-- ``(1) the actual amount paid for goods, services, and materials, whether or not resold during the year; ``(2) the market value of business inputs brought into the United States; and ``(3) the actual cost, if reasonable, of travel and entertainment expenses for business purposes.
+Certain Items Excluded.--The cost of business inputs excludes purchases of goods and services provided to employees or owners, unless these are included in business receipts.
+COST OF CAPITAL EQUIPMENT, STRUCTURES, AND LAND DEFINED.
+``The cost of capital equipment, structures, and land includes any purchases of these items for business purposes.
+In the case of equipment brought into the United States, the cost is the market value at time of entry into the United States.
+105. BUSINESS TAXABLE INCOME DEFINED.
+``Business taxable income is business receipts less the cost of business inputs, less compensation paid to employees, and less the cost of capital equipment, structures, and land.
+``CHAPTER 2--DETERMINATION OF TAX LIABILITY ``Sec.
+In General.--The personal allowance of a taxpayer for any taxable year is an amount equal to the sum of the allowance amounts for the taxpayer, the spouse of the taxpayer if filing jointly, and each dependent of the taxpayer.
+Allowance Amount.--The allowance amount for any individual is $4,000.
+Each year the allowance amount for taxable years beginning in such year shall be the amount in effect for the preceding year, increased by the proportional increase during the preceding year in the Consumer Price Index.
+Special Rules.--For purposes of this chapter-- ``(1) a taxpayer is considered married if he was married at the end of the year or if the taxpayer's spouse died during the year, ``(2) a taxpayer is a head of a household if the taxpayer is not married at the end of the year, and maintains as the taxpayer's home a household which is the principal home of a dependent of the taxpayer, and ``(3) a dependent is a son, stepson, daughter, stepdaughter, mother, or father of the taxpayer, for whom the taxpayer provides more than half support for a taxable year.
+In General.--There is hereby imposed a tax on the nonbusiness taxable income of every person for each taxable year (reduced by the amount of the personal allowance under section 201) a tax equal to-- ``(1) 15 percent of so much of such income as does not exceed the limit, plus ``(2) 25 percent of so much of such income as exceeds the limit.
+Limit.--For purposes of subsection (a)-- ``(1) the limit for married taxpayers filing jointly, heads of household, and surviving spouses is $100,000, and ``(2) the limit for any other taxpayer is $50,000.
+Business Defined.--Each sole proprietorship, partnership, and corporation constitutes a business.
+Any organization or individual not specifically exempt under chapter 3, with business receipts, is a business.
+Computation of Tax.--Each business will pay a tax of 19 percent of its business taxable income, or zero if business taxable income is negative.
+Filing Units.--A business may file any number of business tax returns for its various subsidiaries or other units, provided that all business receipts are reported in the aggregate, and provided that each expenditure for business inputs is reported on no more than one return.
+Carryforward of Losses.--When business taxable income is negative, the negative amount may be used to offset positive taxes in future years.
+The amount carried forward from one year to the next is augmented according to an interest rate equal to the average daily yield on 3-month Treasury Bills during the first year.
+There is no limit to the amount or the duration of the carryforward.
+``CHAPTER 3--EXEMPT ORGANIZATIONS ``Sec.
+``Organizations exempt from the business tax are-- ``(1) State and local governments, and their subsidiary units; and ``(2) educational, religious, charitable, philanthropic, cultural, and community service organizations that do not return income to individual or corporate owners.
+``Each employer, including exempt organizations, will withhold from the wages, salaries, and pensions of its employees, and remit to the Internal Revenue Service, an amount computed in the manner prescribed in tables published by the Secretary.
+Every employee will receive a credit against tax for the amount withheld.''.
+Effective Date.--The amendment made by this section shall apply to taxable years beginning after December 31, 1993.

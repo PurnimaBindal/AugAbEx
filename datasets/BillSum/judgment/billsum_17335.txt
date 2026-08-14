@@ -1,0 +1,53 @@
+This Act may be cited as the ``Defense Space Reorganization Act of 2001''.
+AUTHORITY TO ESTABLISH POSITION OF UNDER SECRETARY OF DEFENSE FOR SPACE, INTELLIGENCE, AND INFORMATION.
+Authority To Establish Position.--The President may establish in the Department of Defense the position of Under Secretary of Defense for Space, Intelligence, and Information.
+If that position is so established, the Under Secretary of Defense for Space, Intelligence, and Information shall perform duties and exercise powers as set forth in section 137 of title 10, United States Code, as added by subsection (e).
+Deadline for Exercise of Authority.--The authority provided in subsection (a) may not be exercised after December 31, 2003.
+Notice of Exercise of Authority.--(1) If the authority provided in subsection (a) is exercised, the President shall immediately submit to Congress notification in writing of the establishment of the position of Under Secretary of Defense for Space, Intelligence, and Information, together with the date as of which the position is established.
+If the President declines to exercise the authority provided in subsection (a), the President shall, before the date specified in subsection (b), submit to Congress a report on how the President has implemented the recommendations of the report of the Space Commission with respect to the Department of Defense.
+For purposes of paragraph (1), the term ``report of the Space Commission'' means the report of the Commission To Assess United States National Security Space Management and Organization, dated January 11, 2001, and submitted to Congress under section 1623 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106-65; 113 United States Statutes at Large 815).
+Contingent Enactment of United States Reports Code Amendments.--If the position of Under Secretary of Defense for Space, Intelligence, and Information is established under the authority provided in subsection (a), then the amendments set forth in subsections (e), (f), and (g) shall be executed, effective as of the date specified in the notice submitted under the first sentence of subsection (c)(1).
+Otherwise, those amendments shall not be executed.
+Appointment, Duties, etc., of Under Secretary.--(1) Subject to subsection (d), chapter 4 of title 10, United States Code, is amended-- (A) by redesignating section 137 as section 139a and transferring such section (as so redesignated) within such chapter so as to appear after section 139; and (B) by inserting after section 136 the following new section 137: ``Sec.
+Under Secretary of Defense for Space, Intelligence, and Information ``(a) There is an Under Secretary of Defense for Space, Intelligence, and Information, appointed from civilian life by the President, by and with the advice and consent of the Senate.
+Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Space, Intelligence, and Information shall perform such duties and exercise such powers relating to the space, intelligence, and information programs and activities of the Department of Defense as the Secretary of Defense may prescribe.
+The duties and powers prescribed for the Under Secretary shall include responsibility for the following: ``(1) In coordination with the Under Secretary of Defense for Policy, the establishment of Department of Defense policy on space.
+In coordination with the Under Secretary of Defense for Acquisition, Technology, and Logistics, the acquisition of space systems for the Department of Defense.
+The deployment and use of space assets.
+The oversight of research, development, acquisition, launch, and operation of space, intelligence, and information assets.
+The coordination of military intelligence activities within the Department of Defense.
+The coordination of intelligence activities of the Department of Defense and the intelligence community in order to meet the long-term intelligence requirements of the United States.
+The coordination of space activities of the Department of Defense with commercial and civilian space activities.
+The Under Secretary of Defense for Space, Intelligence, and Information shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
+The Secretary of Defense shall designate the Under Secretary of Defense for Space, Intelligence, and Information as the Chief Information Officer of the Department of Defense under section 3506(a)(2)(B) of title 44.
+The Under Secretary of Defense for Space, Intelligence, and Information takes precedence in the Department of Defense after the Under Secretary of Defense for Personnel and Readiness.''.
+Subject to subsection (d), section 131(b) of that title is amended-- (A) by redesignating paragraphs (6) through (11) as paragraphs (7) through (12), respectively; and (B) by inserting after paragraph (5) the following new paragraph (6): ``(6) The Under Secretary of Defense for Space, Intelligence, and Information.''.
+Subject to subsection (d), the table of sections at the beginning of chapter 4 of such title is amended-- (A) by striking the item relating to section 137 and inserting the following new item: ``137.
+Under Secretary of Defense for Space, Intelligence, and Information.
+''; and (B) by inserting after the item relating to section 139 the following new item: ``139a.
+Director of Defense Research and Engineering.''.
+Assistant Secretaries of Defense.--Subject to subsection (d), section 138 of such title is amended-- (1) in subsection (a), by striking ``nine'' and inserting ``eleven''; and (2) in subsection (b), by inserting after paragraph (2) the following new paragraph: ``(3) Not less than three of the Assistant Secretaries shall be assigned duties under the authority of the Under Secretary of Defense for Space, Intelligence, and Information and shall report to that Under Secretary.''.
+Pay Rates.--Subject to subsection (d), subchapter II of chapter 53 of title 5, United States Code, is amended-- (1) in section 5314, by inserting after the paragraph relating to the Under Secretary of Defense for Personnel and Readiness the following: ``Under Secretary of Defense for Space, Intelligence, and Information.
+''; and (2) in section 5315, by striking ``(9)'' after ``Assistant Secretaries of Defense'' and inserting ``(11)''.
+Report.--Not later than 30 days before exercising the authority provided in subsection (a), the President shall submit to Congress a report on the proposed organization of the office of the Under Secretary of Defense for Space, Intelligence, and Information.
+If such a report has not been submitted as of April 15, 2002, the President shall submit to Congress a report, not later than that date, setting forth the President's view as of that date of the desirability of establishing the position of Under Secretary of Defense for Space, Intelligence, and Information in the Department of Defense.
+RESPONSIBILITY OF UNDER SECRETARY OF THE AIR FORCE AS ACQUISITION EXECUTIVE FOR SPACE OF THE DEPARTMENT OF DEFENSE.
+Executive Agent.--Part IV of subtitle A of title 10, United States Code, is amended by inserting after chapter 134 the following new chapter: ``CHAPTER 135--SPACE PROGRAMS ``Sec.
+Executive agent ``(a) Secretary of the Air Force.--The Secretary of the Air Force shall be the executive agent of the Department of Defense-- ``(1) for the planning of the acquisition programs, projects, and activities of the Department that relate to space; and ``(2) for the execution of those programs, projects, and activities.
+Acquisition Executive.--The Secretary shall designate the Under Secretary of the Air Force as the acquisition executive of the Air Force for the programs, projects, and activities referred to in subsection (a).''.
+Clerical Amendment.--The tables of chapters at the beginning of such subtitle and the beginning of part IV of such subtitle are amended by inserting after the item relating to chapter 134 the following new item: ``135.
+MAJOR FORCE PROGRAM CATEGORY FOR SPACE PROGRAMS.
+Requirement.--The Secretary of Defense shall create a major force program category for space programs for purposes of the future- years defense program under section 221 of title 10, United States Code.
+Commencement.--The category created under subsection (a) shall be included in each future-years defense program submitted to Congress under section 221 of title 10, United States Code, in fiscal years after fiscal year 2002.
+COMPTROLLER GENERAL ASSESSMENT OF IMPLEMENTATION OF RECOMMENDATIONS OF SPACE COMMISSION.
+Assessment.--(1) The Comptroller General shall carry out an assessment through February 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission that are applicable to the Department of Defense.
+For purposes of paragraph (1), the term ``report of the Space Commission'' means the report of the Commission To Assess United States National Security Space Management and Organization, dated January 11, 2001, and submitted to Congress under section 1623 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106-65; 113 United States Statutes at Large 815).
+Reports.--Not later than February 15 of each of 2002 and 2003, the Comptroller General shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the assessment carried out under subsection (a).
+Each report shall set forth the results of the assessment as of the date of such report.
+COMMANDER OF AIR FORCE SPACE COMMAND.
+In General.--Chapter 845 of title 10, United States Code, is amended by adding at the end the following new section: ``Sec.
+Commander of Air Force Space Command ``(a) The officer serving as commander of the Air Force Space Command may not serve simultaneously as commander of the United States Space Command (or any successor combatant command with responsibility for space) or as commander of the United States element of the North American Air Defense Command.''.
+Clerical Amendment.--The table of sections at the beginning of such chapter is amended by adding at the end the following new item: ``8584.
+Commander of Air Force Space Command.''.
+REQUIREMENT FOR ESTABLISHMENT OF SEPARATE CAREER FIELD IN THE AIR FORCE FOR SPACE.
+The Secretary of the Air Force, acting through the Under Secretary of the Air Force, shall establish and implement policies and procedures to develop a cadre of technically competent officers with the capability to develop space doctrine, concepts of space operations, and management of space systems for the Air Force.

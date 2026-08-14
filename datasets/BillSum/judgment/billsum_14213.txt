@@ -1,0 +1,45 @@
+This Act may be cited as the ``Health Care Access and Availability Act of 2005''.
+The constitutional authority upon which this Act rests is the power of Congress to regulate commerce with foreign nations and among the several States, set forth in article I, section 8 of the United States Constitution.
+EXPANSION OF ACCESS AND CHOICE THROUGH INDIVIDUAL MEMBERSHIP ASSOCIATIONS (IMAS).
+The Public Health Service Act is amended by adding at the end the following new title: ``TITLE XXIX--INDIVIDUAL MEMBERSHIP ASSOCIATIONS ``SEC.
+DEFINITION OF INDIVIDUAL MEMBERSHIP ASSOCIATION (IMA).
+In General.--For purposes of this title, the terms `individual membership association' and `IMA' mean a legal entity that meets the following requirements: ``(1) Organization.--The IMA is an organization operated under the direction of an association (as defined in section 2904(1)).
+Offering health benefits coverage.-- ``(A) Different groups.--The IMA, in conjunction with those health insurance issuers that offer health benefits coverage through the IMA, makes available health benefits coverage in the manner described in subsection (b) to all members of the IMA and the dependents of such members in the manner described in subsection (c)(2) at rates that are established by the health insurance issuer on a policy or product specific basis and that may vary only as permissible under State law.
+Nondiscrimination in coverage offered.-- ``(i) In general.--Subject to clause (ii), the IMA may not offer health benefits coverage to a member of an IMA unless the same coverage is offered to all such members of the IMA.
+Construction.--Nothing in this title shall be construed as requiring or permitting a health insurance issuer to provide coverage outside the service area of the issuer, as approved under State law, or requiring a health insurance issuer from excluding or limiting the coverage on any individual, subject to the requirement of section 2741.
+No financial underwriting.--The IMA provides health benefits coverage only through contracts with health insurance issuers and does not assume insurance risk with respect to such coverage.
+Geographic areas.--Nothing in this title shall be construed as preventing the establishment and operation of more than one IMA in a geographic area or as limiting the number of IMAs that may operate in any area.
+Provision of administrative services to purchasers.-- ``(A) In general.--The IMA may provide administrative services for members.
+Such services may include accounting, billing, and enrollment information.
+Construction.--Nothing in this subsection shall be construed as preventing an IMA from serving as an administrative service organization to any entity.
+Filing information.--The IMA files with the Secretary information that demonstrates the IMA's compliance with the applicable requirements of this title.
+Health Benefits Coverage Requirements.-- ``(1) Compliance with consumer protection requirements.-- Any health benefits coverage offered through an IMA shall-- ``(A) be underwritten by a health insurance issuer that-- ``(i) is licensed (or otherwise regulated) under State law, ``(ii) meets all applicable State standards relating to consumer protection, subject to section 2902, and ``(B) subject to paragraph (2), be approved or otherwise permitted to be offered under State law.
+Examples of types of coverage.--The benefits coverage made available through an IMA may include, but is not limited to, any of the following if it meets the other applicable requirements of this title: ``(A) Coverage through a health maintenance organization.
+Coverage in connection with a preferred provider organization.
+Coverage in connection with a licensed provider-sponsored organization.
+Indemnity coverage through an insurance company.
+Coverage offered in connection with a contribution into a medical savings account or flexible spending account.
+Coverage that includes a point-of-service option.
+Any combination of such types of coverage.
+Wellness bonuses for health promotion.--Nothing in this title shall be construed as precluding a health insurance issuer offering health benefits coverage through an IMA from establishing premium discounts or rebates for members or from modifying otherwise applicable copayments or deductibles in return for adherence to programs of health promotion and disease prevention so long as such programs are agreed to in advance by the IMA and comply with all other provisions of this title and do not discriminate among similarly situated members.
+Members; Health Insurance Issuers.-- ``(1) Members.-- ``(A) In general.--Under rules established to carry out this title, with respect to an individual who is a member of an IMA, the individual may enroll for health benefits coverage (including coverage for dependents of such individual) offered by a health insurance issuer through the IMA.
+Rules for enrollment.--Nothing in this paragraph shall preclude an IMA from establishing rules of enrollment and reenrollment of members.
+Such rules shall be applied consistently to all members within the IMA and shall not be based in any manner on health status-related factors.
+Health insurance issuers.--The contract between an IMA and a health insurance issuer shall provide, with respect to a member enrolled with health benefits coverage offered by the issuer through the IMA, for the payment of the premiums collected by the issuer.
+APPLICATION OF CERTAIN LAWS AND REQUIREMENTS.
+``State laws insofar as they relate to any of the following are superseded and shall not apply to health benefits coverage made available through an IMA: ``(1) Benefit requirements for health benefits coverage offered through an IMA, including (but not limited to) requirements relating to coverage of specific providers, specific services or conditions, or the amount, duration, or scope of benefits, but not including requirements to the extent required to implement title XXVII or other Federal law and to the extent the requirement prohibits an exclusion of a specific disease from such coverage.
+Any other requirements (including limitations on compensation arrangements) that, directly or indirectly, preclude (or have the effect of precluding) the offering of such coverage through an IMA, if the IMA meets the requirements of this title.
+In General.--The Secretary shall administer this title and is authorized to issue such regulations as may be required to carry out this title.
+Such regulations shall be subject to Congressional review under the provisions of chapter 8 of title 5, United States Code.
+The Secretary shall incorporate the process of `deemed file and use' with respect to the information filed under section 2901(a)(5) and shall determine whether information filed by an IMA demonstrates compliance with the applicable requirements of this title.
+The Secretary shall exercise authority under this title in a manner that fosters and promotes the development of IMAs in order to improve access to health care coverage and services.
+Periodic Reports.--The Secretary shall submit to Congress a report every 30 months, during the 10-year period beginning on the effective date of the rules promulgated by the Secretary to carry out this title, on the effectiveness of this title in promoting coverage of uninsured individuals.
+The Secretary may provide for the production of such reports through one or more contracts with appropriate private entities.
+``For purposes of this title: ``(1) Association.--The term `association' means, with respect to health insurance coverage offered in a State, an association which-- ``(A) has been actively in existence for at least 5 years; ``(B) has been formed and maintained in good faith for purposes other than obtaining insurance; ``(C) does not condition membership in the association on any health status-related factor relating to an individual (including an employee of an employer or a dependent of an employee); and ``(D) does not make health insurance coverage offered through the association available other than in connection with a member of the association.
+Dependent.--The term `dependent', as applied to health insurance coverage offered by a health insurance issuer licensed (or otherwise regulated) in a State, shall have the meaning applied to such term with respect to such coverage under the laws of the State relating to such coverage and such an issuer.
+Such term may include the spouse and children of the individual involved.
+Health benefits coverage.--The term `health benefits coverage' has the meaning given the term health insurance coverage in section 2791(b)(1).
+Health insurance issuer.--The term `health insurance issuer' has the meaning given such term in section 2791(b)(2).
+Health status-related factor.--The term `health status-related factor' has the meaning given such term in section 2791(d)(9).
+Ima; individual membership association.--The terms `IMA' and `individual membership association' are defined in section 2901(a).
+Member.--The term `member' means, with respect to an IMA, an individual who is a member of the association to which the IMA is offering coverage.

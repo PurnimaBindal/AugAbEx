@@ -1,0 +1,25 @@
+This Act may be cited as the ``Cameron Gulbransen Kids and Cars Safety Act of 2003''.
+EVALUATION OF DEVICES AND TECHNOLOGY TO REDUCE CHILD INJURY AND DEATH FROM PARKED OR UNATTENDED MOTOR VEHICLES.
+In General.--The Secretary of Transportation shall evaluate-- (1) devices and technologies intended to reduce the incidence of child injury and child death occurring outside of parked motor vehicles in nontraffic, noncrash events, including backing-over incidents, that are caused by such vehicles, and determining which of those methods is the most effective; and (2) currently available technology to prevent injury and death of children left unattended inside of parked motor vehicles, including injury or death due to hyperthermia, power windows, or power sunroofs.
+Report.--The Secretary of Transportation shall submit a report on the findings and determinations of the evaluation under this section to the Congress by not later than one year after the date of the enactment of this Act.
+Completion of Rulemaking Regarding Power Windows.--The Secretary of Transportation shall by not later than 6 months after the submission of the report under subsection (b) complete any rulemaking begun before the date of the enactment of this Act regarding power windows and power window switches.
+DATABASE FOR TRACKING THE NUMBER AND TYPES OF INJURIES AND DEATHS IN NONTRAFFIC, NONCRASH EVENTS.
+Establishment.--The Secretary of Transportation shall establish a database of (or modify an existing database to include), and collect data regarding, the numbers and types of injuries and deaths in nontraffic, noncrash events involving motor vehicles.
+Included Information.--The Secretary of Transportation shall collect and include in such database the following information: (1) The types, makes, models, and model years of motor vehicles involved in nontraffic, noncrash events.
+Whether there was an operator of each motor vehicle in such events.
+The age of each operator of such motor vehicles.
+The age of each individual who suffered injury or death in such events.
+Whether each motor vehicle had technology installed to detect individuals and objects behind it.
+The degree of injury to each individual who suffered injury or death in such events.
+The location of which the injury or death occurred.
+Any other information prescribed by the Secretary of Transportation.
+Availability.--The Secretary of Transportation shall make information in the database under this section available to the public, through-- (1) an Internet page of the Department of Transportation; and (2) annual reports.
+MOTOR VEHICLE BACKOVER PREVENTION TECHNOLOGY EVALUATION.
+In General.--The Secretary of Transportation shall evaluate the available technologies for detecting and preventing collisions with individuals and objects behind a motor vehicle, with respect to the accuracy, effectiveness, cost, and feasibility of installation of such technologies in a wide variety of motor vehicles.
+Report.--The Secretary of Transportation shall submit a report on the findings of the evaluation under this section to the Congress by not later than one year after the date of the enactment of this Act.
+MOTOR VEHICLE SAFETY STANDARDS REQUIRING BACKUP DETECTION DEVICES.
+In General.--Based on the findings of the evaluation under section 4, the Secretary of Transportation shall prescribe motor vehicle safety standards that-- (1) require the installation, as standard equipment on a new motor vehicle, of devices for detecting, and providing to operators of such a vehicle a warning of, individuals and objects behind the motor vehicle; and (2) establish requirements for the performance of such devices.
+Phased-In Application.--Standards prescribed under this section shall take effect (as specified by the standards) over the 3-year period beginning on the date of the submission of the report under section 4(b), as follows: (1) With respect to light trucks (as defined by the Administration for purposes of the standards), by not later than the end of the 2-year period beginning on such date.
+With respect to other passenger motor vehicles specified by the Secretary of Transportation, after the end of such 2-year period and by not later than the end of the 3-year period beginning on such date.
+MOTOR VEHICLE SAFETY STANDARDS FOR POWER WINDOWS AND POWER SUNROOFS.
+The Secretary of Transportation shall, by not later than 1 year after the date of the enactment of this Act, prescribe motor vehicle safety standards for power windows and power sunroofs, that-- (1) ensure that the operation of power windows, power window switches, and power sunroofs cannot result in deaths and injuries; and (2) require inclusion with power windows and power sunroofs of-- (A) child-safe switches; and (B) auto reverse technology.

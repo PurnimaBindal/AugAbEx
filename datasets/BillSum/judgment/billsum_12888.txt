@@ -1,0 +1,27 @@
+This Act may be cited as the ``Taxpayer Right-To-Know Act of 1997''.
+Findings.--The Congress finds the following: (1) Individual incomes taxes amount to one of the greatest annual expenses for many Americans.
+There is a great deal of uncertainty on the part of taxpayers concerning where and how their income tax dollars are spent.
+Taxpayers do not receive any acknowledgment of payment from the Internal Revenue Service nor any explanation itemizing how their tax payments are spent.
+There presently exists no straightforward way for a taxpayer to determine exactly how much he or she paid for specific governmental activities.
+The failure to provide taxpayers with an itemized listing showing how their tax dollars are spent contributes to a lack of knowledge about the Government and subsequently to a less informed electorate.
+The Internal Revenue Service must update its technology and treat taxpayer information as a strategic asset to improve customer service.
+Taxpayer education by the Internal Revenue Service aimed at showing taxpayers how their tax dollars are spent leads to increased compliance.
+Purposes.--The purposes of this Act are as follows: (1) To educate individual income tax filers about how much they contribute annually, in actual dollars and cents, to various governmental programs, projects, and activities.
+To improve the public's understanding of the Federal Government.
+To enhance the public's level of satisfaction with the Internal Revenue Service.
+ITEMIZED INCOME TAX RECEIPT.
+In General.--Chapter 77 of the Internal Revenue Code of 1986 (relating to miscellaneous provisions) is amended by adding at the end the following new section: ``SEC.
+TAXPAYER REQUEST FOR INCOME TAX RECEIPT.
+In General.--At the request of any taxpayer who files an individual income tax return, the Secretary shall send to such taxpayer an itemized receipt showing a proportionate allocation (in money terms) of the taxpayer's total tax payments among the major expenditure categories.
+Total Tax Payments.--For purposes of subsection (a), total tax payments of an individual for any taxable year are-- ``(1) the tax imposed by subtitle A for such taxable year (as shown on his return), and ``(2) the tax imposed by section 3101 on wages received during such taxable year.
+Content of Tax Receipt.-- ``(1) Major expenditure categories.--For purposes of subsection (a), the major expenditure categories are: ``(A) National defense.
+Other items on receipt.--In addition, the tax receipt shall include selected examples of more specific expenditure items, either at the budget function, subfunction, or program, project, or activity levels, along with any other information deemed appropriate by the Secretary and the Director of the Office of Management and Budget to enhance taxpayer understanding of the Federal budget.
+Manner and Time of Request.--A request for a tax receipt as described in subsection (c) shall be made with respect to any taxable year at the time of filing the return imposed by chapter 1 for such taxable year.
+A receipt shall be made available to a requesting taxpayer as soon as practicable upon the processing of that taxpayer's Federal income tax return by the Internal Revenue Service.
+Use of New Technologies.--The Internal Revenue Service is encouraged to utilize modern technologies such as electronic mail and the Internet to minimize the cost of sending receipts to taxpayers.
+The Internal Revenue Service shall establish an interactive program on its Internet website to allow taxpayers to generate income tax receipts on their own.
+Cost.--No charge shall be imposed to cover any cost associated with the production or distribution of the tax receipt.
+Regulations.--The Secretary may prescribe such regulations as may be necessary to carry out this section.''.
+Clerical Amendment.--The table of sections for chapter 77 of such Code is amended by adding at the end the following new item: ``Sec.
+Taxpayer request for income tax receipt.''
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 1997.

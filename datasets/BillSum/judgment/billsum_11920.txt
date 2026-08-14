@@ -1,0 +1,23 @@
+SHORT TITLE AND REFERENCE.
+Short Title.--This Act may be cited as the ``Lobbying Disclosure Technical Amendments Act of 1996''.
+Reference.--Whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Lobbying Disclosure Act of 1995.
+DEFINITION OF COVERED EXECUTIVE BRANCH OFFICIAL.
+Section 3(3)(F) (2 United States Code 1602(3)(F)) is amended by striking ``7511(b)(2)'' and inserting ``7511(b)(2)(B)''.
+CLARIFICATION OF EXCEPTION TO LOBBYING CONTACT.
+Certain Communications.--Section 3(8)(B)(ix) (2 United States Code 1602(8)(B)(ix)) is amended by inserting before the semicolon the following: ``, including any communication compelled by a Federal contract, grant, loan, permit, or license''.
+Definition of ``Public Official''.--Section 3(15)(F) (2 United States Code 1602(15)(F)) is amended by inserting ``, or a group of governments acting together as an international organization'' before the period.
+Section 4.--Section 4(b)(4)(C) (2 United States Code 1603(b)(4)(C)) is amended by striking ``direct interest'' and inserting ``significant direct interest''.
+Section 5.--Section 5(b)(2)(D) (2 United States Code 1604(b)(2)(D)) is amended by striking ``of the interest, if any,'' and inserting ``of any significant direct interest''.
+Section 14.--Section 14 (2 United States Code 1609) is amended-- (1) in subsection (a)(2), by striking ``a direct interest'' and inserting ``a significant direct interest''; and (2) in subsection (b)(2), by striking ``a direct interest'' and inserting ``a significant direct interest''.
+ESTIMATES BASED ON TAX REPORTING SYSTEM.
+Section 15(a).--Section 15(a) (2 United States Code 1610 (a)) is amended-- (1) by striking ``A registrant'' and inserting ``A person, other than a lobbying firm,''; and (2) by amending paragraph (2) to read as follows: ``(2) for all other purposes consider as lobbying contacts and lobbying activities only-- ``(A) lobbying contacts with covered legislative branch officials (as defined in section 3(4)) and lobbying activities in support of such contacts; and ``(B) lobbying of Federal executive branch officials to the extent that such activities are influencing legislation as defined in section 4911(d) of the Internal Revenue Code of 1986.
+''.&lt;plus-minus&gt; (b) Section 15(b).--Section 15(b) (2 United States Code 1610(b)) is amended-- (1) by striking ``A registrant that is subject to'' and inserting ``A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to''; and (2) by amending paragraph (2) to read as follows: ``(2) for all other purposes consider as lobbying contacts and lobbying activities only-- ``(A) lobbying contacts with covered legislative branch officials (as defined in section 3(4)) and lobbying activities in support of such contacts; and ``(B) lobbying of Federal executive branch officials to the extent that amounts paid or costs incurred in connection with such activities are not deductible pursuant to section 162(e) of the Internal Revenue Code of 1986.''.
+Section 5(c).--Section 5(c) (2 United States Code 1604(c)) is amended by striking paragraph (3).
+DISCLOSURE OF INDIVIDUAL REGISTERED LOBBYISTS.
+Section 5(b) (2 United States Code 1604(b))-- (1) in paragraph (2), by inserting ``and'' at the end of subparagraph (B), by striking subparagraph (C), and by redesignating subparagraph (D) as subparagraph (C), and (2) by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively, and by adding after paragraph (1) the following: ``(2) a list of employees of the registrant who acted as lobbyists on behalf of the client during the semi-annual reporting period;''.
+EXEMPTION BASED ON REGISTRATION UNDER LOBBYING ACT.
+Section 3(h) of the Foreign Agents Registration Act of 1938 (22 United States Code 613(h)) is amended by striking ``is required to register and does register'' and inserting ``has engaged in lobbying activities and has registered''.
+Information to Agency or Official of Government.--Section 4(e) of the Foreign Agents Registration Act of 1938 (22 United States Code 614(e)) is amended-- (1) by striking ``political propaganda'' and inserting ''informational materials''; and (2) by striking ``the propaganda'' and inserting ``the informational materials''.
+Reports.--Section 11 of the Foreign Agents Registration Act of 1938 (22 United States Code 621) is amended by striking ``political propaganda'' and inserting ``informational materials''.
+Passed the House of Representatives July 29, 1996.
+Attest: ROBIN H. CARLE, Clerk.

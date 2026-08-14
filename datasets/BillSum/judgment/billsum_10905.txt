@@ -1,0 +1,32 @@
+This Act may be cited as the ``Taxpayer Empowerment Act''.
+In General.--Chapter 77 of the Internal Revenue Code of 1986 (relating to miscellaneous provisions) is amended by adding at the end the following new section: ``SEC.
+In General.--An eligible individual may file by April 15 of each year with the Secretary a taxpayer empowerment form provided by the Secretary.
+The form may be filed with Form 1040, 1040A, or 1040EZ.
+Eligible Individual.-- ``(1) In general.--For purposes of this section, the term `eligible individual' means, with respect to any year, any individual who is eligible to vote in any Federal election (determined without regard to registration requirements) by April 15 of such year.
+Use of state data.--For purposes of determining eligibility, the Secretary shall use data from the various States (to the extent such States can provide such data at minimal cost to the States) concerning the disenfranchisement of any State resident due to mental incompetency or criminal record.
+Taxpayer Empowerment Form.-- ``(1) In general.--The taxpayer empowerment form shall include-- ``(A) the name, address, and TIN of the eligible individual, ``(B) a certification statement by such individual of such individual's eligibility to file such form, ``(C) with respect to the fiscal year ending after the filing date of the form, a listing of major outlay categories, and the estimated dollar amount and percentage of budget authority with respect to each such category, ``(D) with respect to the fiscal year beginning after the filing date of the form, an estimate of the overall percentage reduction in all major outlay categories necessary to eliminate the Federal budget deficit ratably over 3 years and over 10 years, ``(E) a request that the eligible individual allocate a percentage of budget authority for each major outlay category for the fiscal year beginning after the filing date of the form (other than the categories specified in paragraphs (16), (17), (18), and (19) of subsection (d) which shall reflect the estimated percentages for such fiscal year), and ``(F) a statement that if the total allocations under subparagraph (E) are greater than, or lesser than, 100 percent, the presumption will be made that the difference represents the individual's desire to increase, or decrease, total spending by such difference.
+Estimates with respect to categories.--For purposes of subparagraphs (C), (D), and (E) of paragraph (1), the dollar amount and percentage of budget authority for each such category shall be based on estimates by the Director of the Office of Management and Budget taking into account the budget authority for each such category for the fiscal year.
+Limitation on allocation.--Any allocation under paragraph (1)(E) may not result in-- ``(A) an increase or reduction of more than 10 percent in any major outlay category, and ``(B) a shift of more than 10 percentage points among the various major outlay categories.
+Major Outlay Categories.--For purposes of this section, the term `major outlay categories' means the following: ``(1) National Defense.
+General Science, Space, and Technology.
+Natural Resources and Environment.
+Commerce and Housing Credit.
+Community and Regional Development.
+Education, Training, and Employment.
+Veterans Benefits and Services.
+Government and Other Pensions, including Veterans.
+Secretary's Report.--Not later than October 15 of each year, if more than 50 percent of all eligible individuals filed a form under subsection (a) in such year, the Secretary shall-- ``(1) compile the budgeting decisions of the people reflected in such forms; and ``(2) report the averaged allocation (based on the taxpayer empowerment form) for each major outlay category to the Committees on the Budget of the House of Representatives and the Senate and the Director of the Office of Management and Budget.''.
+Conforming Amendments.--Section 7523 of the Internal Revenue Code of 1986 (relating to graphic presentation of major categories of Federal outlays and income) is amended-- (1) by striking paragraph (1) of subsection (a) and inserting the following: ``(1) Major outlay categories.--The term `major outlay categories' means the following: ``(A) National Defense.
+General Science, Space, and Technology.
+Natural Resources and Environment.
+Commerce and Housing Credit.
+Community and Regional Development.
+Education, Training, and Employment.
+Veterans Benefits and Services.
+Government and Other Pensions, including Veterans.
+'', and (2) by striking paragraph (3) of subsection (b) and redesignating paragraph (4) of such subsection as paragraph (3).
+Clerical Amendment.--The table of sections for chapter 77 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item: ``Sec.
+Effective Date.--The amendments made by this section shall take effect on the date of the enactment of this Act.
+BUDGET ACT COMPLIANCE WITH THE TAXPAYER EMPOWERMENT.
+President's Budget.--Section 1105(f) of title 31, United States Code, is amended to read as follows: ``(f) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with-- ``(1) the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985; and ``(2) the allocations reflected in the taxpayer empowerment form contained in the report of the Secretary of the Treasury submitted on November 1 of the year preceding the year in which the budget is being submitted as required by section 7524(e) of the Internal Revenue Code of 1986.''.
+Congressional Budget.--Section 301(a)(4) of the Congressional Budget Act of 1974 is amended by striking ``based on'' through the semicolon and inserting the following: ``based on-- ``(A) allocations of the total levels set forth pursuant to paragraph (1); and ``(B) the allocations reflected in the taxpayer empowerment form contained in the report of the Secretary of the Treasury submitted on November 1 of the year preceding the budget year as required by section 7524(e) of the Internal Revenue Code of 1986;''.

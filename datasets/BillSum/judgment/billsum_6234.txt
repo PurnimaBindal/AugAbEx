@@ -1,0 +1,69 @@
+This Act may be cited as the ``Medicare Telehealth Validation Act of 2002''.
+EXPANSION AND IMPROVEMENT OF TELEHEALTH SERVICES.
+Expanding Access to Telehealth Services Through The Use of Store and Forward Technology.--The second sentence of section 1834(m)(1) of the Social Security Act (42 United States Code 1395m(m)(1)) is amended by striking ``in the case of any Federal telemedicine demonstration program conducted in Alaska or Hawaii,''.
+Increasing Types of Originating Sites.--Section 1834(m)(4)(C)(ii) of the Social Security Act (42 United States Code 1395m(m)(4)(C))ii)) is amended by adding at the end the following new subclauses: ``(VI) A skilled nursing facility (as defined in section 1819(a)).
+An assisted living facility.
+A board and care facility.
+A county, community, or school health clinic.
+A county or community mental health clinic.
+The residence of an individual enrolled under this part.
+A long-term care facility.
+A facility operated by the Indian Health Service or by an Indian tribe, tribal organization, or an urban Indian organization (as such terms are defined in section 4 of the Indian Health Care Improvement Act (25 United States Code 1603)) directly, or under contract or other arrangement.''.
+Facilitating the Provision of Telehealth Services Across State Lines.-- (1) In general.--For purposes of expediting the provision of telehealth services, for which payment is made under the medicare program, across State lines, the Secretary of Health and Human Services shall, in consultation with representatives of States, physicians, health care practitioners, and patient advocates, encourage and facilitate the adoption of State provisions allowing for multistate practitioner licensure across State lines.
+Definitions.--In paragraph (1): (A) Telehealth service.--The term ``telehealth service'' has the meaning given that term in subparagraph (F) of section 1834(m)(4) of the Social Security Act (42 United States Code 1395m(m)(4)).
+Physician, practitioner.--The terms ``physician'' and ``practitioner'' have the meaning given those terms in subparagraphs (D) and (E), respectively, of such section.
+Medicare program.--The term ``medicare program'' means the program of health insurance administered by the Secretary of Health and Human Services under title XVIII of the Social Security Act (42 United States Code 1395 et sequentes).
+GRANT PROGRAM FOR THE DEVELOPMENT OF TELEHEALTH NETWORKS.
+In General.--The Secretary of Health and Human Services (in this section referred to as the ``Secretary''), acting through the Director of the Office for the Advancement of Telehealth (of the Health Resources and Services Administration), shall make grants to eligible recipients (as described in subsection (b)(1)) for the purpose of expanding access to health care services for individuals in rural areas and medically underserved areas through the use of telehealth.
+Eligible Recipients.-- (1) Application.--To be eligible to receive a grant under this section, an eligible entity described in paragraph (2) shall, in consultation with the State office of rural health or other appropriate State entity, prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including the following: (A) A description of the anticipated need for the grant.
+A description of the activities which the entity intends to carry out using amounts provided under the grant.
+A plan for continuing the project after Federal support under this section is ended.
+A description of the manner in which the activities funded under the grant will meet health care needs of underserved rural populations within the State.
+A description of how the local community or region to be served by the network or proposed network will be involved in the development and ongoing operations of the network.
+The source and amount of non-Federal funds the entity would pledge for the project.
+A showing of the long-term viability of the project and evidence of health care provider commitment to the network.
+The application should demonstrate the manner in which the project will promote the integration of telehealth in the community so as to avoid redundancy of technology and achieve economies of scale.
+Eligible entities.-- (A) In general.--An eligible entity described in this paragraph is a hospital or other health care provider in a health care network of community-based health care providers that includes at least 2 of the following organizations: (i) Community or migrant health centers.
+State or local health departments.
+Nonprofit hospitals or clinics.
+Private practice health professionals, including community and rural health clinics.
+Other publicly funded health or social services agencies.
+County mental health and other publicly funded mental health facilities.
+Providers of home health services.
+Facilities operated by the Indian Health Service or by an Indian tribe, tribal organization, or an urban Indian organization (as such terms are defined in section 4 of the Indian Health Care Improvement Act (25 United States Code 1603)) directly, or under contract or other arrangement.
+Inclusion of for-profit entities.--An eligible entity may include for-profit entities so long as the recipient of the grant is a not-for-profit entity.
+Preference.--The Secretary shall establish procedures to prioritize financial assistance under this section based upon the following considerations: (1) The applicant is a health care provider in a health care network or a health care provider that proposes to form such a network that furnishes or proposes to furnish services in a medically underserved area, health professional shortage area, or mental health professional shortage area.
+The applicant is able to demonstrate broad geographic coverage in the rural or medically underserved areas of the State, or States in which the applicant is located.
+The applicant proposes to use Federal funds to develop plans for, or to establish, telehealth systems that will link rural hospitals and rural health care providers to other hospitals, health care providers, and patients.
+The applicant will use the amounts provided for a range of health care applications and to promote greater efficiency in the use of health care resources.
+The applicant is able to demonstrate the long-term viability of projects through cost participation (cash or in- kind).
+The applicant is able to demonstrate financial, institutional, and community support for the long-term viability of the network.
+The applicant is able to provide a detailed plan for coordinating system use by eligible entities so that health care services are given a priority over non-clinical uses.
+Maximum Amount of Assistance to Individual Recipients.--The Secretary shall establish, by regulation, the terms and conditions of the grant and the maximum amount of a grant award to be made available to an individual recipient for each fiscal year under this section.
+The Secretary shall cause to have published in the Federal Register or the ``HRSA Preview'' notice of the terms and conditions of a grant under this section and the maximum amount of such a grant for a fiscal year.
+Use of Amounts.--The recipient of a grant under this section may use sums received under such grant for the acquisition of telehealth equipment and modifications or improvements of telecommunications facilities including the following: (1) The development and acquisition through lease or purchase of computer hardware and software, audio and video equipment, computer network equipment, interactive equipment, data terminal equipment, and other facilities and equipment that would further the purposes of this section.
+The provision of technical assistance and instruction for the development and use of such programming equipment or facilities.
+The development and acquisition of instructional programming.
+Demonstration projects for teaching or training medical students, residents, and other health profession students in rural or medically underserved training sites about the application of telehealth.
+The provision of telenursing services designed to enhance care coordination and promote patient self-management skills.
+The provision of services designed to promote patient understanding and adherence to national guidelines for common chronic diseases, such as congestive heart failure or diabetes.
+Transmission costs, maintenance of equipment, and compensation of specialists and referring health care providers.
+Development of projects to use telehealth to facilitate collaboration between health care providers.
+Electronic archival of patient records.
+Collection and analysis of usage statistics and data that can be used to document the cost-effectiveness of the telehealth services.
+Such other uses that are consistent with achieving the purposes of this section as approved by the Secretary.
+Prohibited Uses.--Sums received under a grant under this section may not be used for any of the following: (1) To acquire real property.
+To purchase or install transmission equipment off the premises of the telehealth site and any transmission costs not directly related to the grant.
+For construction, except that such funds may be expended for minor renovations relating to the installation of equipment.
+Expenditures for indirect costs (as determined by the Secretary) to the extent the expenditures would exceed more than 20 percent of the total grant.
+Administration.-- (1) Nonduplication.--The Secretary shall ensure that projects established using grants provided under this section do not duplicate adequately established telehealth networks.
+Coordination with other agencies.--The Secretary shall coordinate, to the extent practicable, with other Federal and State agencies and not-for-profit organizations, operating similar grant programs to pool resources for funding meritorious proposals.
+Informational efforts.--The Secretary shall establish and implement procedures to carry out outreach activities to advise potential end users located in rural and medically underserved areas of each State about the program authorized by this section.
+Prompt Implementation.--The Secretary shall take such actions as are necessary to carry out the grant program as expeditiously as possible.
+Authorization of Appropriations.--There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2003 through 2008.
+JOINT WORKING GROUP ON TELEHEALTH.
+In General.-- (1) Representation of rural areas.--The Joint Working Group on Telehealth shall ensure that individuals that represent the interests of rural areas and medically underserved areas are members of the Group.
+Mission.--The mission of the Joint Working Group on Telehealth is-- (A) to identify, monitor, and coordinate Federal telehealth projects, data sets, and programs; (B) to analyze-- (i) how telehealth systems are expanding access to health care services, education, and information; (ii) the clinical, educational, or administrative efficacy and cost-effectiveness of telehealth applications; and (iii) the quality of the telehealth services delivered; and (C) to make further recommendations for coordinating Federal and State efforts to increase access to health services, education, and information in rural and medically underserved areas.
+Annual reports.--Not later than 2 years after the date of enactment of this Act and each January 1 thereafter, the Joint Working Group on Telehealth shall submit to Congress a report on the status of the Group's mission and the state of the telehealth field generally.
+Report Specifics.--Each annual report required under subsection (a)(3) shall provide-- (1) an analysis of-- (A) the matters described in subsection (a)(2)(B); (B) the Federal activities with respect to telehealth; and (C) the progress of the Joint Working Group on Telehealth's efforts to coordinate Federal telehealth programs; and (2) recommendations for a coordinated Federal strategy to increase health care access through telehealth.
+Authorization of Appropriations.--There are authorized to be appropriated such sums as are necessary for the Joint Working Group on Telehealth to-- (1) carry out the mission of the Group (as described in subsection (a)(2)); and (2) prepare and submit the reports required under subsection (a)(3).

@@ -1,0 +1,54 @@
+This Act may be cited as the ``Identity Management Security Act of 2004''.
+TITLE I--IMPROVED SECURITY FOR DRIVER LICENSES AND STATE IDENTITY DOCUMENTS SEC.
+In this title, the following definitions apply: (1) Driver's license.--The term ``driver's license'' means a motor vehicle operator's license, as defined in section 30301 of title 49, United States Code.
+Identification card.--The term ``identification card'' means a personal identification card, as defined in section 1028(d) of title 18, United States Code, issued by a State.
+State.--The term ``State'' means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+Secretary.--The term ``Secretary'' means the Secretary of Homeland Security.
+MINIMUM DOCUMENT REQUIREMENTS AND ISSUANCE STANDARDS FOR FEDERAL RECOGNITION.
+Minimum Standards for Federal Use.-- (1) In general.--Beginning 3 years after the date of enactment of this Act, a Federal agency may not accept, for any official purpose, a driver's license or identification card issued by a State to any person unless the State is meeting the requirements of this section.
+State certifications.--The Secretary shall determine whether a State is meeting the requirements of this section based on certifications made by the State to the Secretary.
+Such certifications shall be made at such times and in such manner as the Secretary, with the concurrence of the Secretary of Transportation, may prescribe by regulation.
+Minimum Document Requirements.--To meet the requirements of this section, a State shall include, at a minimum, the following data elements and features on each driver's license and identification card issued to a person by the State: (1) The person's full legal name.
+The person's date of birth.
+The person's driver license or identification card number.
+A photograph of the person.
+The person's address of principal residence.
+Physical security features designed to prevent tampering, counterfeiting, or duplication of the document for fraudulent purposes.
+A common machine-readable technology, with defined minimum data elements, that will facilitate the capture of driver's license and identification card information by law enforcement officers.
+Minimum Issuance Standards.-- (1) In general.--To meet the requirements of this section, a State shall require, at a minimum, presentation and verification of the following data elements before issuing a driver's license or identification card to a person: (A) A photo identity document, except that a nonphoto identity document is acceptable if it includes both the person's full legal name and date of birth.
+Documentation showing the person's date of birth.
+Proof of the person's social security number or verification that the person is not eligible for a social security number.
+Documentation showing the person's name and address of principal residence.
+Verification of documents.--To meet the requirements of this section, a State shall implement the following procedures: (A) Before issuing a driver's license or identification card to a person, the State shall verify, with the issuing agency, the issuance, validity, and completeness of each document used to provide information required to be presented by the person under paragraph (1).
+The State shall not accept any foreign document, other than an official passport, to satisfy a requirement of paragraph (1).
+Other Requirements.--To meet the requirements of this section, a State shall adopt the following practices in the issuance of driver licenses and identification cards: (1) Employ technology to capture digital images of identity source documents so that the images can be retained in electronic storage in a transferable format.
+Retain paper copies of source documents for a minimum of 7 years or images of source documents presented for a minimum of 10 years.
+Subject each person applying for a driver's license or identification card to mandatory facial image capture.
+Establish an effective procedure to confirm or verify a renewing applicant's information.
+Confirm with the Social Security Administration a social security number presented by a person using the full social security number.
+In the event that a social security number is already registered to or associated with another person to which any State has issued a driver's license or identification card, the State shall resolve the discrepancy and take appropriate action.
+Refuse to issue a driver's license or identification card to a person holding a driver's license issued by another State without confirmation from the other State that the person is terminating or has terminated the driver's license.
+Ensure the physical security of locations where driver licenses and identification cards are produced and the security of document materials and papers from which driver licenses and identification cards are produced.
+Subject all persons authorized to manufacture or produce driver licenses and identification cards to appropriate security clearance requirements.
+Establish fraudulent document recognition training programs for appropriate employees engaged in the issuance of driver licenses and identification cards.
+In General.--To be eligible to receive any grant or other financial assistance made available under this Act, a State shall participate in the interstate compact regarding sharing of driver license data, known as the ``Driver License Agreement'', in order to provide electronic access by a State to information contained in the motor vehicle databases of all other States.
+Requirements for Information.--A State motor vehicle database shall contain, at a minimum, the following information: (1) All data fields printed on driver licenses and identification cards issued by the State.
+Motor vehicle driver histories, including motor vehicle violations, suspensions, and points on licenses.
+TRAFFICKING IN AUTHENTICATION FEATURES FOR USE IN FALSE IDENTIFICATION DOCUMENTS.
+Section 1028(a)(8) of title 18, United States Code, is amended by striking ``false authentication features'' and inserting ``false or actual authentication features''.
+In General.--The Secretary may make grants to a State to assist the State in conforming to the minimum standards set forth in this title.
+Authorization of Appropriations.--There are authorized to be appropriated to the Secretary for each of the fiscal years 2005 through 2009 such sums as may be necessary to carry out this title.
+Participation of Secretary of Transportation and States.--All authority to issue regulations, certify standards, and issue grants under this title shall be carried out by the Secretary, with the concurrence of the Secretary of Transportation and in consultation with the States.
+Extensions of Deadlines.--The Secretary may grant an extension to the deadline established by section 102(a)(1) with respect to the driver licenses and identification cards issued by a State if the State submits to the Secretary, in writing, an adequate justification, as determined by the Secretary, for the extension.
+TITLE II--IDENTITY SECURITY OF VITAL RECORDS SEC.
+In this title, the following definitions apply: (1) Secretary.--The term ``Secretary'' means the Secretary of Homeland Security.
+Birth certificate.--The term ``birth certificate'' means a certificate of birth-- (A) for an individual (regardless of where born)-- (i) who is a citizen or national of the United States at birth; and (ii) whose birth is registered in the United States; and (B) that-- (i) is issued by a Federal, State, or local government agency or authorized custodian of record and produced from birth records maintained by such agency or custodian of record; or (ii) is an authenticated copy, issued by a Federal, State, or local government agency or authorized custodian of record, of an original certificate of birth issued by such agency or custodian of record.
+GAO STUDY OF THE SECURITY OF BIRTH CERTIFICATES.
+Study.--The Comptroller General shall conduct a study of the security of birth certificates and other birth documentation used by States as proof of identity.
+Such study shall include-- (1) an assessment of the parties involved in the issuance of birth certificates and other birth documentation within the United States; (2) an assessment of the physical security features of domestic birth certificates and other domestic birth documentation; (3) an evaluation of fraudulent activity, both domestic and foreign, of domestic birth certificates and other domestic birth documentation used to acquire driver's licenses or State- issued identification cards; and (4) an evaluation of methods used by Federal agencies, States and other parties involved in the issuance of domestic birth certificates and other domestic birth documentation to reduce fraudulent activity, both domestic and foreign.
+Report.--Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report on the study conducted under subsection (a).
+The report shall include recommendations regarding measures needed to improve both the physical security of birth certificates and other birth documentation and the process used by parties issuing such documents, including the establishment of minimum standards if necessary, to reduce fraudulent activity.
+ELIMINATING DUPLICATION OF VITAL RECORDS.
+Assistance in Matching Birth and Death Records.-- (1) Grants.--The Secretary, in coordination with other appropriate Federal agencies, shall make grants to States to assist them in-- (A) computerizing their birth and death records; (B) developing the capability to match birth and death records within each State and among the States; and (C) noting the fact of death on the birth certificates of deceased persons.
+Allocation of grants.--The Secretary shall make grants to States under this subsection based on the proportion that the estimated annual average number of birth and death records created by a State applying for a grant bears to the estimated annual average number of birth and death records originated by all States.
+Authorization of Appropriations.--There are authorized to be appropriated to the Secretary for each of the fiscal years 2005 through 2009 such sums as may be necessary to carry out this section.

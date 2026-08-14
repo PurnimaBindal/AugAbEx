@@ -1,0 +1,24 @@
+This Act may be cited as the ``Small Business Jobs Creation Act of 2004''.
+CREDIT FOR INCREASING EMPLOYMENT.
+In General.--Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to business related credits) is amended by adding at the end the following new section: ``SEC.
+CREDIT FOR INCREASING EMPLOYMENT.
+General Rule.--For purposes of section 38, in the case of an eligible employer, the increased employment credit for any taxable year shall be an amount equal to 50 percent of the excess of-- ``(1) the aggregate unemployment insurance wages paid during the calendar year ending during such taxable year, over ``(2) 102 percent of the aggregate unemployment insurance wages paid during the preceding calendar year.
+Eligible Employer.--For purposes of this section-- ``(1) In general.--The term `eligible employer' means any employer having gross receipts for the taxable year of less than $25,000,000.
+Gross receipts.--For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year.
+Minimum Preceding Year Wages.--For purposes of determining the amount of the credit under subsection (a) with respect to any calendar year, the amount described in subsection (a)(2) shall be deemed to be not less than 50 percent of the amount of such wages paid during such preceding calendar year.
+Total Wages Must Increase.--The amount of the credit determined under this section for any taxable year shall not exceed the amount which would be determined for such year under subsection (a) (without regard to subsection (b)) if-- ``(1) the aggregate amounts taken into account as unemployment insurance wages were determined without any dollar limitation, and ``(2) `105 percent' were substituted for `102 percent' in subsection (a).
+$100,000 Per Year Limitation on Credit.--The amount of the credit determined under this section for any employer with respect to any calendar year shall not exceed $100,000.
+Unemployment Insurance Wages.--For purposes of this section, the term `unemployment insurance wages' has the meaning given to the term `wages' by section 3306(b).
+Special Rules.--Rules similar to the following rules shall apply for purposes of this section: ``(1) Section 51(g) (relating to United States Employment Service to notify employers of availability of credit).
+Section 51(h)(1) (relating to special rules for agricultural labor and railway labor).
+Section 52 (relating to special rules for work opportunity credit).
+Section 41(f) (relating to adjustments for certain acquisitions, etc.).
+Other Special Rules.-- ``(1) Change in status from self-employed to employee.-- If-- ``(A) during any calendar year an individual has net earnings from self-employment (as defined in section 1402(a)) which are attributable to a trade or business, and ``(B) for any portion of the succeeding calendar year such individual is an employee of such trade or business, then, for purposes of determining the credit allowable for a taxable year beginning in such succeeding calendar year, the employer's aggregate unemployment insurance wages for the calendar year preceding the calendar year referred to in subparagraph (A) shall be increased by an amount equal to so much of the net earnings referred to in subparagraph (A) as does not exceed $7,000.
+$50,000 limitation in the case of married individuals filing separate returns.--In the case of a husband or wife who files a separate return, the limitation under subsection (e) shall be $50,000 in lieu of $100,000.
+This subsection shall not apply if the spouse of the taxpayer has no interest in a trade or business for the taxable year of such spouse which ends within or with the taxpayer's taxable year.
+Termination.--This section shall not apply to any taxable year beginning after 2009.''.
+Denial of Double Benefit.--Subsection (a) of section 280C of such Code is amended by inserting ``45G(a),'' after ``45A(a),''.
+Credit Treated as Business Credit.--Subsection (b) of section 38 of such Code is amended by striking ``plus'' at the end of paragraph (14), by striking the period at the end of paragraph (15) and inserting ``, plus'', and by adding at the end the following: ``(16) the increased employment credit determined under section 45G(a).''.
+Clerical Amendment.--The table of sections for subpart D of part IV of subchapter A of chapter I is amended by adding at the end the following: ``Sec.
+Credit for increasing employment.''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2004.

@@ -1,0 +1,75 @@
+AMENDMENT OF 1986 CODE.
+Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+REDUCTION IN RATES OF OCCUPATIONAL TAXES RELATING TO DISTILLED SPIRITS, WINE, AND BEER.
+Proprietors of Distilled Spirits Plants, Etc.-- (1) Subsection (a) of section 5081 is amended by striking ``$1,000'' and inserting ``$500''.
+Subsection (b) of section 5081 is amended by striking `` `$500' for `$1,000' '' and inserting `` `$250' for `$500' ''.
+Brewers.--Subsection (a) of section 5091 is amended by striking ``$1,000'' and inserting ``$500''.
+Wholesale Dealers.--Subsections (a) and (b) of section 5111 are each amended by striking ``$500'' and inserting ``$250''.
+Retail Dealers.--Subsections (a) and (b) of section 5121 are each amended by striking ``$250'' and inserting ``$125''.
+Nonbeverage Drawback.--Subsection (b) of section 5131 is amended by striking ``$500'' and inserting ``$250''.
+Industrial Use.--Subsection (a) of section 5276 is amended by striking ``$250'' and inserting ``$125''.
+Effective Date.--The amendments made by this section shall take effect on July 1, 1994, but shall not apply to taxes imposed for periods before such date.
+REPEAL OF OCCUPATIONAL TAXES RELATING TO DISTILLED SPIRITS, WINE, AND BEER.
+Repeal of Occupational Taxes.-- (1) In general.--The following provisions of part II of subchapter A of chapter 51 (relating to occupational taxes) are hereby repealed: (A) Subpart A (relating to proprietors of distilled spirits plants, bonded wine cellars, etc.).
+Subpart B (relating to brewer).
+Subpart D (relating to wholesale dealers) (other than sections 5114 and 5116).
+Subpart E (relating to retail dealers) (other than section 5124).
+Subpart G (relating to general provisions) (other than sections 5142, 5143, 5145, and 5146).
+Nonbeverage domestic drawback.--Section 5131 of such Code is amended by striking ``, on payment of a special tax per annum,''.
+Industrial use of distilled spirits.--Section 5276 is hereby repealed.
+Conforming Amendments.-- (1)(A) The heading for part II of subchapter A of chapter 51 and the table of subparts for such part are amended to read as follows: ``PART II--MISCELLANEOUS PROVISIONS ``Subpart A.
+``Subpart B. Nonbeverage domestic drawback claimants.
+``Subpart C. Recordkeeping by dealers.
+``Subpart D. Other provisions.''
+The table of parts for such subchapter A is amended by striking the item relating to part II and inserting the following new item: ``Part II.
+Subpart C of part II of such subchapter (relating to manufacturers of stills) is redesignated as subpart A.
+(A) Subpart F of such part II (relating to nonbeverage domestic drawback claimants) is redesignated as subpart B and sections 5131 through 5134 are redesignated as sections 5111 through 5114, respectively.
+The table of sections for such subpart B, as so redesignated, is amended-- (i) by redesignating the items relating to sections 5131 through 5134 as relating to sections 5111 through 5114, respectively, and (ii) by striking ``and rate of tax'' in the item relating to section 5111, as so redesignated.
+Section 5111, as redesignated by subparagraph (A), is amended-- (i) by striking ``and rate of tax'' in the section heading, (ii) by striking ``(a) Eligibility for Drawback.-- '', and (iii) by striking subsection (b).
+Part II of subchapter A of chapter 51 is amended by adding after subpart B, as redesignated by paragraph (3), the following new subpart: ``Subpart C--Recordkeeping by Dealers ``Sec.
+Recordkeeping by wholesale dealers.
+Recordkeeping by retail dealers.
+Preservation and inspection of records, and entry of premises for inspection.''
+(A) Section 5114 (relating to records) is moved to subpart C of such part II and inserted after the table of sections for such subpart.
+Section 5114 is amended-- (i) by striking the section heading and inserting the following new heading: ``SEC.
+RECORDKEEPING BY WHOLESALE DEALERS.
+'', and (ii) by redesignating subsection (c) as subsection (d) and by inserting after subsection (b) the following new subsection: ``(c) Wholesale Dealers.--For purposes of this part-- ``(1) Wholesale dealer in liquors.--The term `wholesale dealer in liquors' means any dealer (other than a wholesale dealer in beer) who sells, or offers for sale, distilled spirits, wines, or beer, to another dealer.
+Wholesale dealer in beer.--The term `wholesale dealer in beer' means any dealer who sells, or offers for sale, beer, but not distilled spirits or wines, to another dealer.
+Dealer.--The term `dealer' means any person who sells, or offers for sale, any distilled spirits, wines, or beer.
+Presumption in case of sale of 20 wine gallons or more.--The sale, or offer for sale, of distilled spirits, wines, or beer, in quantities of 20 wine gallons or more to the same person at the same time, shall be presumptive evidence that the person making such sale, or offer for sale, is engaged in or carrying on the business of a wholesale dealer in liquors or a wholesale dealer in beer, as the case may be.
+Such presumption may be overcome by evidence satisfactorily showing that such sale, or offer for sale, was made to a person other than a dealer.''
+Paragraph (3) of section 5121(d) , as so redesignated, is amended by striking ``section 5146'' and inserting ``section 5123''.
+(A) Section 5124 (relating to records) is moved to subpart C of part II of subchapter A of chapter 51 and inserted after section 5121.
+Section 5124 is amended-- (i) by striking the section heading and inserting the following new heading: ``SEC.
+RECORDKEEPING BY RETAIL DEALERS.
+'', (ii) by striking ``section 5146'' in subsection (c) and inserting ``section 5123'', and (iii) by redesignating subsection (c) as subsection (d) and inserting after subsection (b) the following new subsection: ``(c) Retail Dealers.--For purposes of this section-- ``(1) Retail dealer in liquors.--The term `retail dealer in liquors' means any dealer (other than a retail dealer in beer) who sells, or offers for sale, distilled spirits, wines, or beer, to any person other than a dealer.
+Retail dealer in beer.--The term `retail dealer in beer' means any dealer who sells, or offers for sale, beer, but not distilled spirits or wines, to any person other than a dealer.
+Dealer.--The term `dealer' has the meaning given such term by section 5121(c)(3).''
+Section 5146 is moved to subpart C of part II of subchapter A of chapter 51, inserted after section 5122, and redesignated as section 5123.
+Part II of subchapter A of chapter 51 is amended by inserting after subpart C the following new subpart: ``Subpart D--Other Provisions ``Sec.
+Packaging distilled spirits for industrial uses.
+Prohibited purchases by dealers.''
+Section 5116 is moved to subpart D of part II of subchapter A of chapter 51, inserted after the table of sections, redesignated as section 5131, and amended by inserting ``(as defined in section 5121(c))'' after ``dealer'' in subsection (a).
+Subpart D of part II of subchapter A of chapter 51 is amended by adding at the end thereof the following new section: ``SEC.
+PROHIBITED PURCHASES BY DEALERS.
+In General.--Except as provided in regulations prescribed by the Secretary, it shall be unlawful for a dealer to purchase distilled spirits from any person other than a wholesale dealer in liquors who is required to keep the records prescribed by section 5121.
+Penalty and Forfeiture.-- ``For penalty and forfeiture provisions applicable to violations of subsection (a), see sections 5687 and 7302.''
+Subsection (b) of section 5002 is amended-- (A) by striking ``section 5112(a)'' and inserting ``section 5121(c)(3)'', (B) by striking ``section 5112'' and inserting ``section 5121(c)'', (C) by striking ``section 5122'' and inserting ``section 5122(c)''.
+Subparagraph (A) of section 5010(c)(2) is amended by striking ``section 5134'' and inserting ``section 5114''.
+Subsection (d) of section 5052 is amended to read as follows: ``(d) Brewer.--For purposes of this chapter, the term `brewer' means any person who brews beer or produces beer for sale.
+Such term shall not include any person who produces only beer exempt from tax under section 5053(e).''
+The text of section 5182 is amended to read as follows: ``For provisions requiring recordkeeping by wholesale liquor dealers, see section 5112, and by retail liquor dealers, see section 5122.''
+Subsection (b) of section 5402 is amended by striking ``section 5092'' and inserting ``section 5052(d)''.
+Section 5671 is amended by striking ``or 5091''.
+(A) Part V of subchapter J of chapter 51 is hereby repealed.
+The table of parts for such subchapter J is amended by striking the item relating to part V. (18)(A) Sections 5142, 5143, and 5145 are moved to subchapter D of chapter 52, inserted after section 5731, redesignated as sections 5732, 5733, and 5734, respectively, and amended-- (i) by striking ``this part'' each place it appears and inserting ``this subchapter'', and (ii) by striking ``this subpart'' in section 5732(c)(2) (as so redesignated) and inserting ``this subchapter''.
+Section 5732, as redesignated by subparagraph (A), is amended by striking ``(except the tax imposed by section 5131)'' each place it appears.
+Subsection (c) of section 5733, as redesignated by subparagraph (A), is amended by striking paragraph (2) and by redesignating paragraph (3) as paragraph (2).
+The table of sections for subchapter D of chapter 52 is amended by adding at the end thereof the following: ``Sec.
+Provisions relating to liability for occupational taxes.
+Application of State laws.''
+Section 5731 is amended by striking subsection (c) and by redesignating subsection (d) as subsection (c).
+Subsection (b) of section 6071 is amended by striking ``section 5142'' and inserting ``section 5732''.
+Paragraph (1) of section 7652(g) is amended-- (A) by striking ``subpart F'' and inserting ``subpart B'', and (B) by striking ``section 5131(a)'' and inserting ``section 5111(a)''.
+The table of sections for subchapter D of chapter 51 is amended by striking the item relating to section 5276.
+Effective Date.--The amendments made by this section shall take effect on July 1, 1995, but shall not apply to taxes imposed for periods before such date.

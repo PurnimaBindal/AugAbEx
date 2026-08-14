@@ -1,0 +1,12 @@
+(This measure has not been amended since it was reported to the House on September 19, 2016.
+Cyber Preparedness Act of 2016 (Sec.
+This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's (DHS's) State, Local, and Regional Fusion Center Initiative to coordinate with the national cybersecurity and communications integration center (NCCIC) to provide state, local, and regional fusion centers with expertise on DHS cybersecurity resources.
+(A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.)
+DHS must: provide timely access to technical assistance, risk management support, and incident response capabilities for cybersecurity threat indicators, defensive measures, risks, and incidents, including cybersecurity risks to equipment and technology related to the electoral process; review cybersecurity risk information gathered by fusion centers to incorporate into DHS's cybersecurity risk information; and disseminate cybersecurity risk information to fusion centers.
+Fusion center officers or intelligence analysts may be assigned from the NCCIC.
+Such officers and analysts must assist fusion centers in using cybersecurity risk information to develop a comprehensive and accurate threat picture.
+The NCCIC may include, and must share analysis and best practices with, state and major urban area fusion centers.
+(Sec.
+States, local or tribal governments, or high-risk urban areas receiving grants to protect against terrorism under the Urban Area Security Initiative or the State Homeland Security Grant Program may use the funds to: prepare for and respond to cybersecurity risks and incidents, and develop statewide cyber threat information analysis and dissemination activities.
+(Sec.
+The bill expresses the sense of Congress that DHS should share actionable information related to cyber threats in an unclassified form to facilitate timely dissemination to state, local, and private sector stakeholders.

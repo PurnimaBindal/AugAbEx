@@ -1,0 +1,25 @@
+This Act may be cited as the ``Child Protection Act of 1997''.
+ESTABLISHMENT OF TELEPHONE ACCESS TO DATABASE.
+Subtitle A of title XVII of the Violent Crime Control and Law Enforcement Act of 1994 (42 United States Code 14071 et sequentes) is amended by adding at the end the following new section: ``SEC.
+TELEPHONE ACCESS TO FBI DATABASE.
+Establishment.--(1) The Attorney General shall establish, publicize, and operate a national telephone service by which a person (as defined in subsection (f)(2)) may request the information described in paragraph (2).
+The information described in this paragraph is whether an individual (as defined in subsection (f)(3)), other than a victim of an offense that requires registration under this subtitle, is listed in the database established under section 170102.
+Description of Individual.--The Attorney General shall not disclose the information described in subsection (a)(2) unless the person seeking such information provides his or her full name, the full name of the individual, and one or more of the following: ``(1) The address of the individual's residence.
+The individual's Social Security number.
+The individual's driver's license number or the number the identification card issued by State or local authorities in lieu of a driver's license.
+The individual's date of birth.
+Such other information as the Attorney General determines to be appropriate for purposes of identification of the individual.
+Notice to Caller.--Prior to disclosing information described in subsection (a)(2), and without charging a fee for the same, the Attorney General shall provide the following general information in the form of a recorded message: ``(1) The requirements described in subsection (b).
+The fee for the use of the telephone service.
+A warning that information received pursuant to such request may not be misused, as described in subsection (e), and notice of the penalties for such misuse of the information.
+A warning that the service is not be available to persons under 18 years of age.
+Such other information as the Attorney General determines to be appropriate.
+Fees for Use of Service.-- ``(1) Fee for access to information in database.--The Attorney General shall charge a fee for each use of the service for information described in subsection (a) from the service.
+Limitation on number of requests.--A person may not make more than two requests for such information per use of the service.
+Use of fees to defray expenses of service.--Moneys received under paragraph (1) shall be used to pay for the expenses of the operation of the service.
+Surplus funds from fees.--With respect to any money remaining after the payment of the expenses of the operation of the service, the Attorney General shall-- ``(A) deposit such money in the general fund of the Treasury; or ``(B) use such money to reduce the amount of the fee charged under this subsection.
+Penalties for Misuse of Information.-- ``(1) Prohibitions.--Whoever, having obtained information described in subsection (a)(2) from the service, knowingly uses such information-- ``(A) for any purpose other than to protect a minor at risk; or ``(B) with respect to insurance, housing, or any other use that the Attorney General may determine-- ``(i) is unnecessary for the protection of a minor at risk or; ``(ii) which creates a disproportionate prejudicial effect, shall be punished as provided in paragraph (2).
+Civil penalty.--Each person who violates the provisions of paragraph (1) shall be subject to a civil penalty imposed by the Attorney General of not more than $1,000 for each violation.
+Definitions.--As used in this section: ``(1) Minor at risk.--The term `minor at risk' means a minor, as that term is defined in section 2256(1) of title 18, United States Code, who is or may be in danger of becoming a victim of an offense, for which registration is required under this subtitle, by an individual about whom the information described in subsection (a)(2) is sought.
+Person.--The term `person' means a person who requests the information described in subsection (a)(2).
+Individual.--The term `individual' means an individual who is required to register under this subtitle.

@@ -1,0 +1,5 @@
+USDA Year 2000 Compliance Enhancement Act - Establishes the position of Chief Information Officer within the Department of Agriculture.
+States that such Officer shall: serve as vice-chairperson of the Executive Information Technology Review Board or other Department information-acquisition related body; and design and implement an information technology architecture for the Department.
+Provides for the transfer of specified funds from Department offices and agencies to the Officer to: carry out certain responsibilities and information acquisition and implementation activities; and meet "year 2000" systems requirements.
+Establishes within the Office of the Chief Information Officer the position of deputy information officer (to be appointed by the Officer) to serve as liaison between the Officer and Department offices and agencies.
+Requires an annual compliance report by the Comptroller General of the United States.

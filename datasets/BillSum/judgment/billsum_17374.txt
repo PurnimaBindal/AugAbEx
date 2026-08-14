@@ -1,0 +1,33 @@
+This Act may be cited as the ``Businesses Supporting Education Act of 2006''.
+TAX CREDIT FOR CONTRIBUTIONS TO EDUCATION SCHOLARSHIP ORGANIZATIONS.
+In General.--Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to business related credits) is amended by adding at the end the following new section: ``SEC.
+CONTRIBUTIONS TO EDUCATION SCHOLARSHIP ORGANIZATIONS.
+General Rule.--For purposes of section 38, in the case of a corporation, partnership, or trade or business carried on as a sole proprietorship, the education scholarship credit determined under this section for the taxable year is the aggregate amount of qualified contributions for the taxable year.
+Limitation.-- ``(1) Dollar limitation.--The amount of the credit determined under this section for any taxable year shall not exceed $100,000.
+Application to partnerships and s corporations.--In the case of a partnership, the limitations of paragraph (1) shall apply with respect to the partnership and with respect to each partner.
+A similar rule shall apply in the case of an S corporation and its shareholders.
+Qualified Contributions.--For purposes of this section-- ``(1) In general.--The term `qualified contribution' means a charitable contribution (as defined by section 170(c)) to an education scholarship organization.
+Education scholarship organization.--The term `education scholarship organization' means any organization which is described in section 170(c)(2) and exempt from tax under section 501(a) and whose exclusive purpose is to provide scholarships for the qualified elementary and secondary education expenses of eligible students.
+Eligible student.--The term `eligible student' means an individual-- ``(A) who is enrolled in an elementary or secondary school (within the meaning of section 530(b)(4)(B)), ``(B) who is a member of a household with a total annual household income which does not exceed 250 percent of the Federal poverty guidelines (as determined by the Secretary of Health and Human Services), and ``(C) with respect to whom the taxpayer is entitled to a deduction for the taxable year under section 151.
+Qualified elementary and secondary education expenses.--The term `qualified elementary and secondary education expenses' has the meaning given such term by section 530(b)(4), except that `child' shall be substituted for `beneficiary' and `a child' shall be substituted for `the designated beneficiary of the trust' in clauses (i) and (iii) of subparagraph (A) thereof.
+Scholarship.--The term `scholarship' does not include any payment to fulfill or fund any obligation or project of any school or school system to provide a free, appropriate public education.
+Denial of Double Benefit.--No deduction shall be allowed under any provision of this chapter for any expense for which a credit is allowed under this section.
+Election.--This section shall apply to a taxpayer for a taxable year only if such taxpayer elects to have this section apply for such taxable year.''.
+Excise Tax on Failure of Education Scholarship Organizations to Make Distributions.-- (1) In general.--Chapter 42 of such Code (relating to private foundations and certain other tax-exempt organizations) is amended by adding at the end the following new subchapter: ``Subchapter F--Education Scholarship Organizations ``Sec.
+Tax on failure to distribute receipts.
+TAX ON FAILURE TO DISTRIBUTE RECEIPTS.
+Tax Imposed.--There is hereby imposed a tax on the failure of an education scholarship organization to make required distributions before the distribution deadline.
+Amount of Tax.--The tax imposed by subsection (a) shall be equal to 15 percent of the excess (if any) of-- ``(1) the required distribution amount with respect to a taxable year, over ``(2) the amount of receipts of the education scholarship organization for such taxable year which are distributed before the distribution deadline with respect to such receipts.
+Definitions.--For purposes of this section-- ``(1) Required distribution amount.--The required distribution amount with respect to a taxable year is the amount equal to 90 percent of the total receipts of the education scholarship organization for such taxable year.
+Distributions.--Distributions include amounts which are formally committed but not distributed.
+Distribution deadline.--The distribution deadline with respect to receipts for a taxable year is the first day of the second taxable year following the taxable year in which such receipts are received by the education scholarship organization.
+Reasonable Cause Exception.--The tax imposed by subsection (a) shall not apply with respect to any failure to make required distributions before the distribution deadline which is not willful and is due to reasonable cause.''.
+Abatement of tax.-- (A) General rule.--Subsection (b) of section 4962 of such Code (defining qualified first tier tax) is amended by striking ``or D'' and inserting ``D, or F''.
+First tier tax.--Subsection (a) of section 4963 of such Code (defining first tier tax) is amended by inserting ``4966,'' after ``4958,''.
+Taxable event.--Subsection (c) of section 4963 of such Code (defining taxable event) is amended by inserting ``4966,'' after ``4958,''.
+Correction period.--Subparagraph (A) of section 4963(e)(2) of such Code (relating to special rules for when taxable event occurs) is amended by inserting ``or 4966'' after ``4942''.
+Conforming amendment.--The table of subchapters for chapter 42 of such Code is amended by adding at the end the following new item: ``subchapter f. education scholarship organizations''.
+Credit to Be Part of General Business Credit.--Subsection (b) of section 38 of such Code (relating to general business credit) is amended by striking ``plus'' at the end of paragraph (29), by striking the period at the end of paragraph (30) and inserting ``, plus'' , and by adding at the end the following new paragraph: ``(31) the education scholarship credit section 45N(a).''.
+Clerical Amendment.--The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 45M the following new item: ``Sec.
+Contributions to education scholarship organizations.''.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 2005.

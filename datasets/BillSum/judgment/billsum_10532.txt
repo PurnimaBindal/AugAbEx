@@ -1,0 +1,23 @@
+This Act may be cited as the ``The Buy American Enhancement Act of 2011''.
+DOMESTIC CONTENT REQUIREMENT FOR THE BUY AMERICAN ACT.
+Substantially All Defined.--Section 8301 of title 41, United States Code, is amended-- (1) by redesignating paragraph (2) as paragraph (3); and (2) by inserting after paragraph (1) the following new paragraph: ``(2) Substantially all.--Articles, materials, or supplies shall be treated as made substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States if the cost of the domestic components of such articles, materials, or supplies exceeds 75 percent of the total cost of all components of such articles, materials, or supplies.''.
+Effective Date.--The amendment made by subsection (a) shall take effect not later than 180 days after the date of the enactment of this Act.
+REQUIREMENT FOR INDIRECT CONTRACTS TO COMPLY WITH THE BUY AMERICAN ACT.
+Contract Requirement.--The head of each Federal agency shall ensure that each contract described in subsection (b) awarded by such Federal agency includes a provision requiring any articles, materials, and supplies provided under the contract to comply with chapter 83 of title 41, United States Code (popularly referred to as the ``Buy American Act''), subject to the exceptions to that chapter provided in the Trade Agreements Act of 1979 (19 United States Code 2501 et sequentes) or otherwise provided by law.
+Contracts Described.--The contracts described in this subsection include each of the following: (1) Housing leases, including military housing provided by a private entity.
+Energy savings performance contracts.
+Utility energy service contracts.
+BUY AMERICAN WAIVER REPORTING REQUIREMENT.
+Waiver Defined.--Section 8301 of title 41, United States Code, as amended by section 2, is further amended by adding at the end the following new paragraph: ``(4) Waiver.--The term `waiver' means, with respect to the acquisition of an article, material, or supply for public use, the inapplicability of this chapter to the acquisition by reason of any of the following: ``(A) A determination by the head of the Federal agency concerned that the acquisition is inconsistent with the public interest.
+A determination by the head of the Federal agency concerned that the cost of the acquisition is unreasonable.
+Use outside of the United States.
+A determination by the head of the Federal agency concerned that the article, material, or supply is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities of a satisfactory quality.
+Procured under a contract with an award value that is not more than the micro-purchase threshold under section 1902 of this title.
+An exception under the Trade Agreements Act of 1979 (19 United States Code 2501 et sequentes).
+Any other exception otherwise provided by law.''.
+Waiver Reporting Requirement.--Section 8302 of title 41, United States Code, is amended by adding at the end the following new section: ``(c) Waiver Reporting Requirement.--The head of each Federal agency shall establish a location on the website of such agency for the publication of waivers accessible by the public and shall publish a list at such location of each waiver granted under this chapter not later than 30 days after such waiver is granted.''.
+Effective Date.--The amendments made by this section shall take effect not later than 180 days after the date of the enactment of this Act.
+IMPLEMENTATION THROUGH THE FEDERAL ACQUISITION REGULATION.
+Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulation shall be revised as necessary to implement the provisions of this Act.
+In this Act: (1) Energy savings performance contract.--The term ``energy savings performance contract'' has the meaning given that term under section 436.31 of title 10, Code of Federal Regulations.
+Federal agency.--The term ``Federal agency'' means any executive agency (as defined in section 133 of title 41, United States Code) or any establishment in the legislative or judicial branch of the Federal Government.

@@ -1,0 +1,27 @@
+SHORT TITLE; TABLE OF CONTENTS.
+Short Title.--This Act may be cited as the ``Medicare Rural Access Preservation Act of 2002''.
+Table of Contents.--The table of contents of this Act is as follows: Sec.
+Short title; table of contents.
+2 year hold-harmless for sole community hospitals under outpatient prospective payment schedule.
+20 percent increase in medicare payment for home health care furnished in a frontier area.
+Adjustment in critical access hospital bed limit.
+15 percent increase in medicare payment for hospice care furnished in a frontier area.
+Treatment of eligibility for hospice care.
+2 YEAR HOLD-HARMLESS FOR SOLE COMMUNITY HOSPITALS UNDER OUTPATIENT PROSPECTIVE PAYMENT SCHEDULE.
+Section 1833(t)(7)(D) of the Social Security Act (42 United States Code 1395l(t)(7)(D)) is amended by adding at the end the following new clause: ``(iii) Temporary treatment for sole community hospitals.--In the case of a hospital described in section 1886(d)(5)(C)(iii), for covered OPD services furnished during 2003 or 2004 for which the PPS amount is less than the pre-BBA amount, the amount of payment under this subsection shall be increased by the amount of such difference.''.
+20 PERCENT INCREASE IN MEDICARE PAYMENT FOR HOME HEALTH CARE FURNISHED IN A FRONTIER AREA.
+Section 1895(b)(4)(A) of the Social Security Act (42 United States Code 1395fff(b)(4)(A)) is amended by adding at the end the following new clause: ``(iii) Differential for frontier areas.-- In the case of home health services furnished in a frontier area on or after January 1, 2003, and before January 1, 2007, the payment amount otherwise established for services furnished, shall be increased by 20 percent.
+For purposes of this clause, the term `frontier area' means a county in which the population density is less than 7 persons per square mile.''.
+ADJUSTMENT IN CRITICAL ACCESS HOSPITAL BED LIMIT.
+In General.--Section 1820(c)(2) of the Social Security Act (42 United States Code 1395i-4(c)(2)) is amended-- (1) in subsection (c)(2)-- (A) in subparagraph (A), by striking ``subparagraphs (B), (C), and (D)'' and inserting ``the succeeding provisions of this paragraph''; (B) in subparagraph (B)(iii), by inserting ``subject to subparagraph (E),'' after ``(iii)''; and (C) by adding at the end the following new subparagraph: ``(E) Higher number of beds permitted so long as annual average of not more than 12 beds.--The 15-bed limitation specified in subparagraph (B)(iii) and subsection (f) shall not apply to a hospital that provides assurances satisfactory to the Secretary that it will maintain (on an annual basis) an average daily inpatient census of acute care patients of not more than 12.
+''; and (2) in subsection (f), by inserting ``except as permitted under subsection (c)(2)(E)'' after ``15 beds''.
+Effective Date.--The amendments made by subsection (a) shall take effect on January 1, 2003.
+15 PERCENT INCREASE IN MEDICARE PAYMENT FOR HOSPICE CARE FURNISHED IN A FRONTIER AREA.
+Section 1814(i)(1) of the Social Security Act (42 United States Code 1395f(i)(1)) is amended by adding at the end the following new subparagraph: ``(D) With respect to routine home care and other services included in hospice care furnished in a frontier area on or after January 1, 2003, and before January 1, 2007, the payment rates otherwise established for such care and services shall be increased by 15 percent.
+For purposes of this clause, the term `frontier area' means a county in which the population density is less than 7 persons per square mile.''.
+TREATMENT OF ELIGIBILITY FOR HOSPICE CARE.
+Deemed Eligibility Based on Death in Fact.-- (1) In general.--Section 1814(i) of the Social Security Act is amended by adding at the end the following new paragraph: ``(4) For purposes of section 1814(a)(7)(A), the Secretary and a fiscal intermediary shall not take any action to deny payment for hospice care for an individual on the basis that the individual is not terminally ill if the individual dies within 6 months of the date the individual is initially admitted into the hospice program for the receipt of hospice care.''.
+Effective date.--The amendment made by paragraph (1) shall take effect on January 1, 2003.
+CMS Report.-- (1) In general.--The Administrator of the Centers for Medicare & Medicaid Services shall evaluate the standards used by fiscal intermediaries in denying physician certifications under section 1814(a)(7) of the Social Security Act that an individual is terminally ill (and thereby making such individuals ineligible to elect the hospice care alternative) and the impact of such decisions on length of stay.
+Such evaluation shall review the impact of the amendments made by section 322(a) of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000 (114 United States Statutes at Large 2763A-501), as enacted into law by section 1(a)(6) of Public Law 106-554 and the results of the study conducted under section 322(b) of such Act of 2000.
+Report.--Not later than 6 months after the date of the enactment of this Act, such Administrator shall submit to Congress a report on such evaluation.

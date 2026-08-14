@@ -1,0 +1,32 @@
+This Act may be cited as the ``Equal Access to Prescription Drugs for All Seniors Act''.
+MEDICARE PRESCRIPTION DRUG BENEFIT PROGRAM FOR CATASTROPHIC EXPENSES.
+Part B of title XVIII of the Social Security Act is amended by adding at the end the following new section: ``establishment of outpatient prescription drug benefit program ``Sec.
+In General.--The Secretary shall establish a program that provides outpatient prescription drug benefits for individuals who are enrolled under this part and entitled to benefits under part A.
+Design of Benefit.--The outpatient prescription drug benefit program shall be established under subsection (a) consistent with the following: ``(1) Period of benefits.--Benefits under the program are first available for prescription drugs dispensed on or after January 1, 2005, and shall not be available for drugs dispensed after September 30, 2013.
+Fiscal limitations.-- ``(A) In general.--During the 10-fiscal-year period beginning with fiscal year 2004, the program shall be designed to result in additional, net expenditures under this title equal to $400,000,000,000, and expenditures consistent with the amounts specified in subparagraph (B).
+In order to do this, the Secretary shall establish an appropriate deductible under paragraph (3), incentives for efficient use of generic drugs and other management techniques described in paragraph (8), and efficient methods for payment for covered benefits.
+Funding stream.--The following shall be the amounts available for start-up and administrative costs and payment of benefits under this section: ``(i) For start-up and administrative costs, without fiscal year limitation, $22,811,420,000.
+For payments for benefits in fiscal year 2005, $25,756,250,000.
+For payments for benefits in fiscal year 2006, $28,859,150,000.
+For payments for benefits in fiscal year 2007, $32,219,690,000.
+For payments for benefits in fiscal year 2008, $36,021,300,000.
+For payments for benefits in fiscal year 2009, $40,164,610,000.
+For payments for benefits in fiscal year 2010, $44,746,360,000.
+For payments for benefits in fiscal year 2011, $49,904,730,000.
+For payments for benefits in fiscal year 2012, $55,974,380,000.
+For payments for benefits in fiscal year 2013, $63,542,120,000.
+Catastrophic nature of benefit.-- ``(A) In general.--The program is designed to provide benefits in a calendar year for a beneficiary after the beneficiary has incurred out-of-pocket costs (as defined under the program) for covered outpatient prescription drugs that exceeds such percentage of income (such as 5 percent) as the Secretary shall specify for each year (beginning with 2005) consistent with paragraph (2).
+Such percentage shall vary from year to year [and may vary based on the income of beneficiaries].
+Income determination.--Under the program, income shall be based on the previous year's income tax return of, in the absence of such a return, on such income eligibility statement as the Secretary shall provide for.
+The Secretary shall provide for a verification of the income on such a statement through the income eligibility verification system used for purposes of the medicaid and SSI programs or other comparable system approved by the Secretary.
+Utilization of benefits.--The program shall be designed to permit access to benefits in 2 different ways: ``(i) Monthly payment of \1/12\ of deductible.--In the case of a beneficiary who is expected to have prescription drug costs over the catastrophic threshold under subparagraph (A) for a year, the Secretary shall permit the beneficiary to elect to obtain benefits immediately at the beginning of the year and to pay to the Secretary, on a monthly basis, \1/12\ of the applicable amount of the threshold under such subparagraph for the year.
+Benefits upon satisfaction of deductible.--Access to benefits would be available once prescription drug expenditures, as documented through a smart card or similar method, have met the applicable annual deductible.
+Use of electronic systems for tracking expenditures.--In any case the monitoring of expenditures under the program, both before and after the annual deductible has been met, shall be done electronically through the submittal of claims information and, if applicable, the use of an appropriate electronic transaction card system.
+Defined terms.--The Secretary shall define for purposes of the benefit `covered outpatient prescription drugs', `out-of-pocket costs', and `income' consistent with the following: ``(A) `Income' shall be based on adjusted gross income for the most recent previous year and shall take into account, in an appropriate manner in the case of a married couple, the income of the spouses, and shall also income income derived from tax exempt sources, including social security benefits and municipal bond interest.
+`Covered outpatient prescription drugs' shall not include prescription drugs for which any benefits are otherwise available under this part.
+Application of secondary payor provisions.--The secondary payor provisions of section 1862(b) shall apply to this benefits under this program.
+No premium; no impact on part b premium.--There shall be no additional premium charged for the benefits under the program and the amount of the monthly premiums under section 1839 and under section 1818 shall not be changed or affected as a result of the implementation of the program.
+Payment from smi trust fund.--Benefits under the program shall be payable from the Federal Supplementary Medical Insurance Trust Fund under section 1841.
+Use of utilization mechanisms.--In implementing the program, the Secretary shall establish appropriate mechanisms to encourage the substitution of generic drugs and appropriate techniques for the management of prescription drugs.
+Pharmacy access.--The program shall be designed in a manner so that beneficiaries are provided timely access to prescription drugs and may choose among the broadest range of qualified, participating pharmacies so as to result in the least disruption on current methods for the delivery of outpatient prescription drugs.
+Use of contractual arrangements.--The program may be implemented through contracts with pharmaceutical benefit managers and other qualified entities, including carriers under this part.

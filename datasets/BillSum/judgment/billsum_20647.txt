@@ -1,0 +1,34 @@
+This Act may be cited as the ``Commission on Probabilistic Methods Act''.
+The Congress finds that-- (1) probabilistic methods have wide applicability in improving process efficiency and eliminating overdesign in government programs and purchases; (2) the integration of probabilistic methods into business practices has contributed significantly to the success of industry quality programs and has saved billions of dollars for companies; (3) Federal use of probabilistic methods is less advanced than it is in industry; (4) probabilistic methods hold out the promise of better understanding of safety and environmental risks, and if properly applied can lead to more business-friendly regulations; (5) if made an integral part of federally funded design efforts, probabilistic methods could lead to a better understanding of the specifications a product must meet and reduce overdesign and associated costs; and (6) appropriate use of probabilistic methods within the programs of the Department of Transportation could lead through quantification of uncertainties to more reliable, less costly components of our transportation system, including roads, bridges, and automotive, aerospace, and mass transit systems, and could also benefit the programs of other Federal agencies such as the Department of Defense, the Department of Commerce, and the National Institutes of Health.
+The Administrator of the Research and Special Programs Administration of the Department of Transportation (in this Act referred to as the ``Administrator'') shall establish a commission to be known as the ``Commission on Probabilistic Methods'' (in this Act referred to as the ``Commission'').
+The Commission shall-- (1) identify where and how probabilistic methods can help the Department of Transportation; (2) assess the extent to which probabilistic methods can help the Department of Transportation maximize return on investment and increase public safety; (3) evaluate the state of probabilistic methods technology; (4) identify the probabilistic techniques that are ready for practical use and recommend guidelines that can help a user decide what technique to use; (5) establish models for quantifying uncertainties in major Department of Transportation programs that affect cost, operation, and performance; (6) identify key technology areas that must be further developed; (7) recommend guidelines for implementation of probabilistic technology; (8) recommend how to set reliability levels that can ensure public safety and be achievable by industry; (9) recommend probabilistic-based guidelines for safety tests; (10) recommend guidelines for creating required database; (11) determine appropriate means of expediting technology transfer and ensuring that the principles of probabilistic methods are used appropriately in decisions involving funds under the control of the Department of Transportation; (12) identify legal and cultural barriers to the effective use of probabilistic methods at the Department of Transportation; (13) make recommendations for the use of probabilistic methods in Department of Transportation programs; (14) make recommendations for institutionalizing probabilistic methods values at the Department of Transportation after the termination of the Commission; and (15) recommend pilot projects for evaluation of probabilistic methods technology.
+Number and Appointment.--The Commission shall be composed of 19 members as follows: (1) A chairperson, who shall be a representative of an engineering society with experience in probabilistic methods, such as the Society of Automotive Engineers.
+Four members from the higher education community.
+Four members from various levels of government.
+Four members from industry.
+One member representing labor.
+One member representing the environmental community.
+One member representing the public interest.
+A representative of the Department of Defense, appointed by the Secretary of Defense.
+A representative of the Department of Commerce, appointed by the Secretary of Commerce.
+A representative of the National Institutes of Health, appointed by the Director of the National Institutes of Health.
+The members described in paragraphs (1) through (7) shall be appointed by the Administrator.
+Terms.-- (1) In general.--Each member shall be appointed for the life of the Commission.
+Vacancies.--A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+Basic Pay.--Members shall serve without pay.
+Travel Expenses.--Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+Quorum.--10 members of the Commission shall constitute a quorum but a lesser number may hold hearings.
+Initial Meeting.--The initial meeting of the Commission shall occur within 180 days after the date of the enactment of this Act.
+Agenda.--Within 6 months after its initial meeting under subsection (f), the Commission shall transmit to the Administrator a written agenda for its activities.
+In General.--The Department of Transportation shall provide the Commission with such administrative support as it shall require to carry out its duties.
+Experts and Consultants.--The Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
+Obtaining Official Data.--The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this Act.
+Upon request of the Chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
+Mails.--The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+Interim Report.--The Commission shall transmit to the Administrator an interim report not later than 2 years after its initial meeting under section 5(f).
+Final Report.--The Commission shall transmit a final report to the Administrator not later than 36 months after its initial meeting under section 5(f).
+The final report shall contain a detailed statement of the findings, conclusions, and recommendations of the Commission.
+The Commission shall terminate 10 days after submitting its final report pursuant to section 7(b).
+Section 14(a)(2)(B) of the Federal Advisory Committee Act (5 United States Code App.
+; relating to the termination of advisory committees) shall not apply to the Commission.
+Any spending authority (as defined in subparagraphs (A) and (C) of section 401(c)(2) of the Congressional Budget Act of 1974 (2 United States Code 651(c)(2)(A) and (C))) authorized by this Act shall be effective only to such extent and in such amounts as are provided in appropriation Acts.

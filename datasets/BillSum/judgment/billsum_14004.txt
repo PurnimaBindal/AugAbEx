@@ -1,0 +1,24 @@
+This Act may be cited as the ``Commercial Fishermen Safety and Tax Fairness Act of 2000''.
+INCOME AVERAGING FOR FISHERMEN.
+Allowing Income Averaging for Fishermen.--Subsection (a) of section 1301 of the Internal Revenue Code of 1986 (relating to averaging of farm income) is amended by striking ``farming business'' and inserting ``farming business or fishing business''.
+Definition of Elected Farm Income.-- (1) In general.--Clause (i) of section 1301(b)(1)(A) of such Code is amended by inserting ``or fishing business'' before the semicolon.
+Conforming amendment.--Subparagraph (B) of section 1301(b)(1) of such Code is amended by inserting ``or fishing business'' after ``farming business'' both places it occurs.
+Definition of Fishing Business.--Section 1301(b) of such Code is amended by adding at the end the following new paragraph: ``(4) Fishing business.--The term `fishing business' means the conduct of commercial fishing as defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 United States Code 1802).''.
+CREDIT FOR PURCHASE OF FISHING SAFETY EQUIPMENT.
+In General.--Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to business-related credits) is amended by adding at the end the following new section: ``SEC.
+FISHING SAFETY EQUIPMENT CREDIT.
+General Rule.--For purposes of section 38, in the case of an eligible taxpayer, the fishing safety equipment credit determined under this section for the taxable year is 75 percent of the amount of qualified fishing safety equipment expenses paid or incurred by the taxpayer during the taxable year.
+Limitation on Maximum Credit.--The credit allowed under subsection (a) with respect to a taxpayer for the taxable year shall not exceed $1,500.
+Eligible Taxpayer.--For purposes of this section, the term `eligible taxpayer' means a taxpayer engaged in a fishing business (as defined in section 1301(b)(4)).
+Qualified Fishing Safety Equipment Expenses.--For purposes of this section-- ``(1) In general.--The term `qualified fishing safety equipment expenses' means an amount paid or incurred for fishing safety equipment for use by the taxpayer in connection with a fishing business.
+Fishing safety equipment.--The term `fishing safety equipment' means lifesaving equipment required to be carried by a vessel under section 4502 of title 46, United States Code.
+Special Rules.-- ``(1) In general.--Rules similar to the rules of subsections (c), (d), and (e) of section 52 shall apply for purposes of this section.
+Aggregation rules.--All persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414 shall be treated as one person for purposes of subsection (a).
+Denial of Double Benefit.--No deduction shall be allowed under this chapter (other than a credit under this section) for any amount taken into account in determining the credit under this section.
+Basis Adjustment.--For purposes of this subtitle, if a credit is allowed under this section with respect to any equipment, the basis of such equipment shall be reduced by the amount of the credit so allowed.''.
+Limitation on Carryback.--Section 39(d) of the Internal Revenue Code of 1986 (relating to transition rules) is amended by adding at the end the following new paragraph: ``(9) No carryback of fishing safety equipment credit before effective date.--No portion of the unused business credit for any taxable year which is attributable to the fishing safety equipment credit determined under section 45D may be carried to a taxable year ending before the date of the enactment of section 45D.''.
+Conforming Amendments.-- (1) Section 38(b) of the Internal Revenue Code of 1986 (relating to general business credit) is amended by striking ``plus'' at the end of paragraph (11), by striking the period at the end of paragraph (12) and inserting ``, plus'', and by adding at the end the following new paragraph: ``(13) the fishing safety equipment credit determined under section 45D(a).''.
+Subsection (a) of section 1016 of such Code is amended by striking ``and'' at the end of paragraph (26), by striking the period at the end of paragraph (27) and inserting ``, and'', and by adding at the end the following new paragraph: ``(28) in the case of equipment with respect to which a credit was allowed under section 45D, to the extent provided in section 45D(g).''.
+Clerical Amendment.--The table of sections for subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 45C the following new item: ``Sec.
+Fishing safety equipment credit.''.
+The amendments made by this Act shall apply to taxable years beginning after December 31, 2000.

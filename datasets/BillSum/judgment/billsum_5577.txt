@@ -1,0 +1,52 @@
+SHORT TITLE; AMENDMENT OF 1986 CODE.
+Short Title.--This Act may be cited as the ``Family Forestland Preservation Tax Act of 1994''.
+Amendment of 1986 Code.--Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+TITLE I--ESTATE TAX PROVISIONS SEC.
+ESTATE TAX TREATMENT OF LAND SUBJECT TO QUALIFIED CONSERVATION EASEMENT.
+In General.--Section 2031 (relating to the definition of gross estate) is amended by redesignating subsection (c) as subsection (d) and by inserting after subsection (b) the following new subsection: ``(c) Exclusion of Land Subject to a Conservation Easement.-- ``(1) In general.--If an executor elects the application of this subsection, there shall be excluded from the gross estate the value of any real property-- ``(A) which is used in timber operations (as defined in section 2032A(e)(13)(C)), and ``(B) which is subject to a qualified conservation easement (reduced by the amount of any indebtedness to which such land is subject).
+Real property subject to qualified conservation easement.--For purposes of this subsection: ``(A) In general.--Real property shall be treated as subject to a qualified conservation easement if the decedent or a member of the decedent's family has made a qualified conservation contribution (as defined in section 170(h)(1)) of a qualified real property interest described in section 170(h)(2)(C) in such real property.
+Certain contributions not included.--For purposes of subparagraph (A), section 170(h)(4)(A) shall be applied without regard to clause (iv) thereof in determining whether there is a qualified conservation contribution.
+Family member.--For purposes of subparagraph (A), the term `member of the decedent's family' has the same meaning given such term by section 2032A(e)(2).
+Election.--An election under paragraph (1) shall be made on the return of tax imposed by section 2001.
+Such an election, once made, shall be irrevocable.''
+Carryover Basis.--Section 1014(a) (relating to basis of property acquired from a decedent) is amended by striking the period at the end of paragraph (3) and inserting ``, or'', and by inserting at the end the following new paragraph: ``(4) in the case of property excluded from the gross estate of the decedent under section 2031(c), the basis of the property in the hands of the decedent.''
+Effective Date.--The amendments made by this section shall apply to estates of decedents dying after December 31, 1994, which include land subject to qualified conservation easements granted after December 31, 1994.
+INCREASE IN RECAPTURE PERIOD FOR SPECIAL ESTATE TAX VALUATION OF FOREST LANDS.
+In General.--Section 2032A(c)(7) is amended by adding at the end the following new subparagraph: ``(E) Longer period for woodlands.--In the case of any real property which is used in timber operations (as defined in subsection (e)(13)(C)), paragraph (1) shall be applied by substituting `25 years' for `10 years'.''
+Effective Date.--The amendment made by this section shall apply to estates of decedents dying after December 31, 1994.
+TITLE II--INCOME TAX TREATMENT SEC.
+PARTIAL INFLATION ADJUSTMENT FOR TIMBER.
+In General.--Part I of subchapter P of chapter 1 (relating to treatment of capital gains) is amended by adding at the end the following new section: ``SEC.
+PARTIAL INFLATION ADJUSTMENT FOR TIMBER.
+In General.--At the election of any taxpayer who has qualified timber gain for any taxable year, there shall be allowed as a deduction from gross income an amount equal to the qualified percentage of such gain.
+Qualified Timber Gain.--For purposes of this section, the term `qualified timber gain' means the lesser of-- ``(1) the net capital gain for the taxable year, or ``(2) the net capital gain for the taxable year determined by taking into account only gains and losses from timber.
+Qualified Percentage.--For purposes of this section, the term `qualified percentage' means the percentage (not exceeding 50 percent) determined by multiplying-- ``(1) 3 percent, by ``(2) the number of years in the holding period of the taxpayer with respect to the timber.
+Estates and Trusts.--In the case of an estate or trust, the deduction under subsection (a) shall be computed by excluding the portion (if any) of the gains for the taxable year from sales or exchanges of capital assets which, under sections 652 and 662 (relating to inclusions of amounts in gross income of beneficiaries of trusts), is includible by the income beneficiaries as gain derived from the sale or exchange of capital assets.''
+Coordination With Existing Limitations.-- (1) Subsection (h) of section 1 (relating to maximum capital gains rate) is amended by inserting after ``net capital gain'' each place it appears the following: ``(other than qualified timber gain with respect to which an election is made under section 1203)''.
+Subsection (a) of section 1201 (relating to alternative tax for corporations) is amended by inserting after ``net capital gain'' each place it appears the following: ``(other than qualified timber gain with respect to which an election is made under section 1203)''.
+Allowance of Deduction in Computing Adjusted Gross Income.-- Subsection (a) of section 62 (relating to definition of adjusted gross income) is amended by adding after paragraph (15) the following new paragraph: ``(16) Partial inflation adjustment for timber.--The deduction allowed by section 1203.''
+Conforming Amendment.--The table of sections for part I of subchapter P of chapter 1 is amended by adding at the end the following new item: ``Sec.
+Partial inflation adjustment for timber.''
+Effective Date.--The amendments made by this section shall apply to sales or exchanges after December 31, 1994.
+EXCLUSION OF GAIN FROM SALE OF INTERESTS IN FOREST LANDS.
+In General.--Part III of subchapter B of chapter 1 (relating to items specifically excluded from gross income) is amended by redesignating section 137 as section 138 and by inserting after section 136 the following new section: ``SEC.
+SALES OF INTERESTS IN CERTAIN FOREST LANDS.
+Exclusion.-- ``(1) In general.--Gross income shall not include the applicable percentage of any qualified timber gain.
+Applicable percentage.--For purposes of paragraph (1), the term `applicable percentage' means-- ``(A) 35 percent, or ``(B) in the case of qualified timber gain from the sale of a qualified real property interest described in section 170(h)(2)(C), 100 percent.
+Limitation.--The total amount of gain which may be excluded from gross income under subsection (a) for any taxable year shall not exceed the sum of-- ``(1) the amount of qualified timber gain described in subsection (a)(2)(B), plus ``(2) $800,000.
+Qualified Timber Gain.--For purposes of this section: ``(1) In general.--The term `qualified timber gain' means gain from the sale or exchange of a qualified real property interest in real property which is used in timber operations to a governmental unit described in section 170(c)(1) for conservation purposes.
+Qualified real property interest.--The term `qualified real property interest' has the meaning given such term by section 170(h)(2).
+Timber operations.--The term `timber operations' has the meaning given such term by section 2032A(e)(13)(C).
+Conservation purposes.--The term `conservation purposes' has the meaning given such term by section 170(h)(4)(A) (without regard to clause (iv) thereof).
+Special Rule for Sales to Nongovernmental Entities.-- ``(1) In general.--Subsection (a) shall apply to the sale or exchange to a qualified organization described in section 170(h)(3) if such interest is transferred during the 2-year period beginning on the date of the sale or exchange to a governmental unit described in section 170(c)(1).
+Time for exclusion.--If the transfer to which paragraph (1) applies occurs in a taxable year after the taxable year in which the sale or exchange occurred-- ``(A) no exclusion shall be allowed under subsection (a) for the taxable year of the sale or exchange, but ``(B) the taxpayer's tax for the taxable year of the transfer shall be reduced by the amount of the reduction in the taxpayer's tax for the taxable year of the sale or exchange which would have occurred if subparagraph (A) had not applied.''
+Conforming Amendment.--The table of sections for part III of subchapter B of chapter 1 is amended by striking the item relating to section 137 and by inserting the following new items after the item relating to section 136: ``Sec.
+Sales of interests in certain forest lands.
+Cross references to other Acts.''
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 1994.
+APPLICATION OF PASSIVE LOSS LIMITATIONS TO TIMBER ACTIVITIES.
+In General.--Treasury regulations sections 1.469-5T(b)(2) (ii) and (iii) shall not apply to any closely held timber activity if the nature of such activity is such that the aggregate hours devoted to management of the activity for any year is generally less than 100 hours.
+Definitions.--For purposes of subsection (a): (1) Closely held activity.--An activity shall be treated as closely held if at least 80 percent of the ownership interests in the activity is held-- (A) by 5 or fewer individuals, or (B) by individuals who are members of the same family (within the meaning of section 2032A(e)(2) of the Internal Revenue Code of 1986).
+An interest in a limited partnership shall in no event be treated as a closely held activity for purposes of this section.
+Timber activity.--The term ``timber activity'' means the planting, cultivating, caring, cutting, or preparation (other than milling) for market, of trees.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after December 31, 1994.

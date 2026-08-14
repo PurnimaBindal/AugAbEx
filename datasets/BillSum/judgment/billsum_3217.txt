@@ -1,0 +1,25 @@
+INCREASED EXCLUSION AND OTHER MODIFICATIONS APPLICABLE TO QUALIFIED SMALL BUSINESS STOCK.
+Increased Exclusion.-- (1) In general.--Subsection (a) of section 1202 of the Internal Revenue Code of 1986 (relating to 50-percent exclusion for gain from certain small business stock) is amended-- (A) by striking ``50 percent'' and inserting ``100 percent'', and (B) by striking ``50-Percent'' in the heading and inserting ``100-Percent''.
+Conforming amendments.-- (A) Subparagraph (A) of section 1(h)(5) of such Code is amended to read as follows: ``(A) collectibles gain, over''.
+Section 1(h) of such Code is amended by striking paragraph (8).
+Paragraph (9) of section 1(h) of such Code is amended by striking ``, gain described in paragraph (7)(A)(i), and section 1202 gain'' and inserting ``and gain described in paragraph (7)(A)(i)''.
+The heading for section 1202 of such Code is amended by striking ``50-percent'' and inserting ``100- percent''.
+The table of sections for part I of subchapter P of chapter 1 of such Code is amended by striking ``50-percent'' in the item relating to section 1202 and inserting ``100-percent''.
+Reduction in Holding Period.-- (1) In general.--Subsection (a) of section 1202 of such Code is amended by striking ``5 years'' and inserting ``3 years''.
+Conforming amendment.--Subsections (g)(2)(A) and (j)(1)(A) of section 1202 of such Code are each amended by striking ``5 years'' and inserting ``3 years''.
+Exclusion Available to Corporations.-- (1) In general.--Subsection (a) of section 1202 of such Code is amended by striking ``other than a corporation''.
+Technical amendment.--Subsection (c) of section 1202 of such Code is amended by adding at the end the following new paragraph: ``(4) Stock held among members of controlled group not eligible.--Stock of a member of a parent-subsidiary controlled group (as defined in subsection (d)(3)) shall not be treated as qualified small business stock while held by another member of such group.''
+Repeal of Minimum Tax Preference.-- (1) In general.--Subsection (a) of section 57 of such Code (relating to items of tax preference) is amended by striking paragraph (7).
+Technical amendment.--Subclause (II) of section 53(d)(1)(B)(ii) of such Code is amended by striking ``, (5), and (7)'' and inserting ``and (5)''.
+Stock of Larger Businesses Eligible for Exclusion.-- (1) In general.--Paragraph (1) of section 1202(d) of such Code (defining qualified small business) is amended by striking ``$50,000,000'' each place it appears and inserting ``$300,000,000''.
+Inflation adjustment.--Section 1202(d) of such Code is amended by adding at the end the following: ``(4) Inflation adjustment of asset limitation.--In the case of stock issued in any calendar year after 2000, the $300,000,000 amount contained in paragraph (1) shall be increased by an amount equal to-- ``(A) such dollar amount, multiplied by ``(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting `calendar year 1999' for `calendar year 1992' in subparagraph (B) thereof.
+If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.''
+Repeal of Per-Issuer Limitation.--Section 1202 of such Code is amended by striking subsection (b).
+Other Modifications.-- (1) Repeal of working capital limitation.--Section 1202(e)(6) of such Code (relating to working capital) is amended-- (A) in subparagraph (B), by striking ``2 years'' and inserting ``5 years''; and (B) by striking the last sentence.
+Exception from redemption rules where business purpose.--Section 1202(c)(3) of such Code (relating to certain purchases by corporation of its own stock) is amended by adding at the end the following: ``(D) Waiver where business purpose.--A purchase of stock by the issuing corporation shall be disregarded for purposes of subparagraph (B) if the issuing corporation establishes that there was a business purpose for such purchase and one of the principal purposes of the purchase was not to avoid the limitations of this section.''
+Qualified Trade or Business.--Section 1202(e)(3) of such Code (defining qualified trade or business) is amended by inserting ``and'' at the end of subparagraph (C), by striking ``, and'' at the end of subparagraph (D) and inserting a period, and by striking subparagraph (E).
+Effective Dates.-- (1) In general.--Except as provided in paragraph (2), the amendments made by this section apply to stock issued after the date of enactment of this Act.
+Special rule.--The amendments made by subsections (a), (c), (e), (f), and (g)(1) apply to stock issued after August 10, 1993.
+REPEAL OF MINIMUM TAX PREFERENCE FOR EXCLUSION FOR INCENTIVE STOCK OPTIONS.
+In General.--Subsection (b) of section 56 of the Internal Revenue Code of 1986 is amended by striking paragraph (3).
+Effective Date.--The amendment made by this section shall apply to options exercised in calendar years beginning after the date of the enactment of this Act.

@@ -1,0 +1,34 @@
+This Act may be cited as the ``Access to Congressionally Mandated Reports Act''.
+ESTABLISHMENT OF WEBSITE FOR CONGRESSIONALLY MANDATED REPORTS.
+Requirement To Establish Website.--Not later than one year after the date of the enactment of this Act, the Public Printer shall establish and maintain a website accessible by the public that allows the public to obtain electronic copies of all congressionally mandated reports in one place.
+The Public Printer may publish other reports on such website.
+Content and Function.--The Public Printer shall ensure that the website required under subsection (a) includes the following: (1) With respect to each congressionally mandated report, each of the following: (A) A citation to the statute or conference report requiring the report.
+An electronic copy of the report, including any transmittal letter associated with the report, in an open format that is platform independent and that is available to the public without restrictions, including restrictions that would impede the re-use of the information in the report.
+The ability to retrieve a report, to the extent practicable, through searches based on each, and any combination, of the following: (i) The title of the report.
+The reporting Federal agency.
+The date of publication.
+Each congressional committee receiving the report, if applicable.
+The serial number, Superintendent of Documents number, or other identification number for the report, if applicable.
+The statute or conference report requiring the report.
+Any other relevant information specified by the Public Printer.
+The time and date when the report was required to be submitted, and when the report was submitted, to the website.
+Access to the report not later than 30 calendar days after its submission to Congress.
+To the extent practicable, a permanent means of accessing the report electronically.
+A means for bulk download of all congressionally mandated reports or a selection of reports retrieved using a search.
+A means for the head of each Federal agency to publish on the website each congressionally mandated report of the agency, as required by section 3.
+A list form for all congressionally mandated reports that can be searched, sorted, and downloaded by-- (A) reports submitted within the required time; (B) reports submitted after the date on which such reports were required to be submitted; and (C) reports not submitted.
+Free Access.--The Public Printer may not charge a fee, require registration, or impose any other limitation in exchange for access to the website required under subsection (a).
+Upgrade Capability.--The website required under subsection (a) shall be enhanced and updated as necessary to carry out the purposes of this Act.
+Submission of Electronic Copies of Reports.--The head of each Federal agency shall publish congressionally mandated reports of the agency on the website required under section 2(a)-- (1) in an open format that is platform independent, machine readable, and available to the public without restrictions (except the redaction of information described under section 5), including restrictions that would impede the re-use of the information in the reports; and (2) in accordance with the guidance issued under subsection (c).
+Submission of Additional Information.--The head of each Federal agency shall submit to the Public Printer the information required under subparagraphs (A) through (D) of section 2(b)(1) with respect to each congressionally mandated report published pursuant to subsection (a).
+Guidance.--Not later than eight months after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Public Printer, shall issue guidance to agencies on the implementation of this Act.
+RELATIONSHIP TO REQUIREMENTS TO SUBMIT REPORTS TO CONGRESS.
+Compliance With Statutory Requirement To Submit Reports.-- Notwithstanding any other provision of law, a Federal agency is deemed to have complied with a statutory requirement to submit a report to Congress if the agency completes each of the following, with respect to such report: (1) Publishes a complete and unredacted copy on the website required under section 2(a).
+Notifies the Clerk of the House of Representatives, the Secretary of the Senate, and each congressional committee to which a report must be submitted of the report's availability on the website.
+Removing and Altering Reports.--A report submitted to be published to the website required under section 2(a) may only be changed or removed, with the exception of technical changes, by the Federal agency with the express, written consent of each congressional committee to which the report must be submitted.
+RELATIONSHIP TO FREEDOM OF INFORMATION ACT.
+Nothing in this Act shall be construed to require the disclosure of information or records that are exempt from public disclosure under section 552 of title 5, United States Code.
+If any information in a congressionally mandated report may not be publicly released under section 552(b) of title 5, United States Code, the Federal agency concerned shall redact from the report submitted to be published on the website established under section 2 only such information, shall indicate where such redactions were made in the report, and shall identify the exemption under which each such redaction is made.
+In this Act: (1) Congressionally mandated report.--The term ``congressionally mandated report'' means a report that is required to be submitted to either House of Congress or any committee of Congress by statute or by a conference report that accompanies legislation enacted into law.
+Federal agency.--The term ``Federal agency'' has the meaning given that term under section 102 of title 40, United States Code, but does not include the Government Accountability Office.
+Except as provided in section 3(c), this Act shall be implemented not later than one year after the date of the enactment of this Act and shall apply with respect to congressionally mandated reports submitted to Congress on or after the date occurring one year after such date of enactment.

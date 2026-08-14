@@ -1,0 +1,37 @@
+This Act may be cited as the ``Commission on Integration of Workers' Compensation Act of 1994''.
+In this Act: (1) The term ``Commission'' means the Commission on Integration of Workers' Compensation Medical Benefits established under section 3(a).
+The term ``health insurance plan'' means any insurance plan providing coverage for medical care (within the meaning of section 213(d)(1)(c) of the Internal Revenue Code of 1986), and includes any plan or program of the Federal Government providing such coverage.
+The term ``State'' includes the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+The term ``workers' compensation medical benefits'' means, with respect to an individual enrolled in a health insurance plan who is an employee subject to the workers' compensation laws of a State, the comprehensive medical benefits for work-related injuries and illnesses provided for under such laws with respect to such an employee.
+The term ``workers' compensation carrier'' means an insurance company that underwrites workers' compensation medical benefits with respect to one or more employers and includes an employer or fund that is financially at risk for the provision of workers' compensation medical benefits.
+COMMISSION ON INTEGRATION OF WORKERS' COMPENSATION MEDICAL BENEFITS.
+Establishment.--There is hereby created a Commission on Integration of Workers' Compensation Medical Benefits.
+Composition.-- (1) In general.--The Commission shall consist of the Director of the National Institute for Occupational Safety and Health (or the Director's designee) and 14 members appointed jointly by the Secretary of Health and Human Services and the Secretary of Labor.
+Appointed members of the Commission shall include the following: (A) One or more individuals representing State workers' compensation commissioners.
+One or more individuals representing State workers' compensation funds.
+One or more individuals representing organized labor.
+One or more members representing employers (other than workers' compensation insurance carriers).
+One or more members representing workers' compensation insurance carriers.
+One or more members of the medical profession having expertise in occupational health.
+One or more educators or researchers having expertise in the field of occupational health.
+One or more members of the legal profession who regularly represent workers' compensation claimants.
+Role of congress.--Of the members of the Commission appointed under paragraph (1)-- (A) 3 shall be appointed from among individuals recommended by the Speaker of the House of Representatives; (B) 3 shall be appointed from among individuals recommended by the Minority Leader of the House of Representatives; (C) 3 shall be appointed from among individuals recommended by the Majority Leader of the Senate; and (D) 3 shall be appointed from among individuals recommended by the Majority Leader of the Senate.
+No compensation except travel expenses.--Members of the Commission shall serve without compensation, but the Secretaries shall provide that each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+Quorum.--Eight members of the Commission shall constitute a quorum.
+Duties.-- (1) In general.--The Commission shall study and develop a detailed plan for implementing the transfer of financial responsibility for workers' compensation medical benefits to health insurance plans and make a recommendation as to whether such a transfer should be effected.
+Implementation issues to be addressed.--In the development of a plan under paragraph (1), the Commission shall consider potential barriers to integration including the following: (A) Whether and how to maintain financial incentives for employers to prevent work-related illness and injury and to reduce workers' compensation costs.
+Modifications of requirements for workers' compensation carrier and health insurance plan reserves, including any associated transition issues relating to the modification of such requirements.
+The ability of health insurance plans to set capitated payment rates for workers' compensation costs, including the lack of availability of data for use by plans in setting such rates.
+Coverage for benefits (including cost-sharing) not typically included in health insurance plans that are covered under State workers' compensation laws.
+Variation among States in eligibility for medical and rehabilitation benefits, and the scope of such benefits, compensable under State workers' compensation laws.
+The ability to move the financial responsibility for workers' compensation medical benefits from an experience-rated system to a community-rated system.
+The need to provide appropriate incentives to encourage health insurance plans, providers of health cares services, and employers to return injured employees to work as soon as possible.
+The effect of an integrated system on the ability to preserve adequate case management of workers' compensation cases.
+The impact of an injured worker's choice of provider on the costs of medical care, losses in wages and benefits, and quality of care.
+Evaluation issues to be addressed.--In making its recommendation under paragraph (1), the Commission shall consider both the potential benefits and potential disadvantages of such a transfer, including the likely impact on-- (A) the quality of medical care delivered to workers injured or made ill on the job; (B) the incentives for employers to maintain safe workplaces; and (C) workers' compensation indemnity benefit costs, medical costs and the overall cost of the workers' compensation system.
+Staff Support.--The Secretaries shall provide staff support for the Commission.
+Report.--The Commission shall submit a report on its work to the President and to the Congress by not later than 1 year after the date of the enactment of this Act.
+The report shall include the plan developed and its recommendation under subsection (c)(1).
+Termination.--The Commission shall terminate 90 days after the date of submission of its report under subsection (e).
+Authorization of Appropriations.--There are authorized to be appropriated such sums as may be necessary to carry out this section.
+Unless Congress provides otherwise, if the report submitted by the Commission to the President under section 3(e) recommends the integration of financial responsibility for all medical benefits in health insurance plans, the Secretary of Labor and the Secretary of Health and Human Services shall promulgate regulations to carry out such integration.

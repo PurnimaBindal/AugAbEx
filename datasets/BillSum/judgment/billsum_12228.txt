@@ -1,0 +1,26 @@
+This Act may be cited as the ``Student Loan Forgiveness Act of 2000''.
+TITLE I--STUDENT LOAN FORGIVENESS FOR TEACHERS SEC.
+REVISION OF LOAN FORGIVENESS FOR TEACHERS PROGRAM.
+In General.--Section 428J of the Higher Education Act of 1965 (20 United States Code 1078-10) is amended to read as follows: ``SEC.
+LOAN FORGIVENESS FOR TEACHERS.
+Statement of Purpose.--It is the purpose of this section to encourage individuals to enter and continue in the teaching profession.
+Program Authorized.--The Secretary shall carry out a program, through the holder of the loan, of assuming the obligation to repay a qualified loan amount for a loan made under section 428 or 428H, in accordance with subsection (c), for any borrower who-- ``(1) is employed as a full-time teacher in a public elementary or secondary school; and ``(2) is not in default on a loan for which the borrower seeks forgiveness.
+Qualified Loans Amount.-- ``(1) In general.--The Secretary shall repay, for each year of 4 years of service described in subsection (b)(1), not more than one-fourth of the aggregate of the loan obligation on a loan made under section 428 or 428H that is outstanding at the beginning of the first year of such service, so that at the end of such 4 years the the entire loan obligation is repaid.
+No borrower may receive a reduction of loan obligations under both this section and section 460.
+Treatment of consolidation loans.--A loan amount for a loan made under section 428C may be a qualified loan amount for the purposes of this subsection only to the extent that such loan amount was used to repay a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a loan made under section 428 or 428H for a borrower who meets the requirements of subsection (b), as determined in accordance with regulations prescribed by the Secretary.
+Regulations.--The Secretary is authorized to issue such regulations as may be necessary to carry out the provisions of this section.
+Construction.--Nothing in this section shall be construed to authorize any refunding of any repayment of a loan.
+Prevention of Double Benefits.--No borrower may, for the same service, receive a benefit under both this subsection and subtitle D of title I of the National and Community Service Act of 1990 (42 United States Code 12571 et sequentes).
+Definition.--For purposes of this section, the term `year', where applied to service as a teacher, means an academic year as defined by the Secretary.''.
+No Income Tax by Reason of Loan Forgiveness.--Subsection (f) of section 108 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: ``(4) Loan forgiveness for teachers.--In the case of an individual, gross income does not include any amount which (but for this paragraph) would be includible in gross income by reason of the discharge (in whole or in part) of any loan if such discharge was pursuant to section 428J of the Higher Education Act of 1965 (20 United States Code 1078-10), as in effect on the date of the enactment of this paragraph.''
+Effective Date.--The amendment made by subsection (a) shall apply with respect to years of service described in section 428J(b)(1) of the Higher Education Act of 1965 (as amended by such subsection) that begin on or after July 1, 1998.
+TITLE II--TAX CREDITS FOR TEACHING SEC.
+$1,000 CREDIT FOR FULL-TIME PUBLIC ELEMENTARY AND SECONDARY SCHOOL TEACHERS.
+In General.--Subpart A of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 (relating to nonrefundable personal credits) is amended by inserting after section 25A the following new section: ``SEC.
+CREDIT FOR FULL-TIME PUBLIC ELEMENTARY AND SECONDARY SCHOOL TEACHERS.
+In General.--In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year the amount of $1,000.
+Eligible Individual.--For purposes of subsection (a), the term `eligible individual' means any individual who, for the academic year ending in the taxable year, was a full-time teacher at a public elementary or secondary school.
+Reduction of Credit Where Loan Forgiven by Reason of Teaching.--The $1,000 amount in subsection (a) shall be reduced (but not below zero) by the amount of any loan for the education of the individual which is forgiven or canceled during the taxable year by reason of being such a teacher.''
+Clerical Amendment.--The table of sections for such subpart A is amended by inserting after the item relating to section 25A the following new item: ``Sec.
+Credit for full-time public elementary and secondary school teachers.''
+Effective Date.--The amendments made by this section apply to taxable years beginning after the date of the enactment of this Act.

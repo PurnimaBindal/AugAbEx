@@ -1,0 +1,20 @@
+Computer Security Enhancement Act of 1997 - Amends the National Institute of Standards and Technology Act to require the National Institute of Standards and Technology, in fulfilling its responsibilities under the computer standards program, to: upon request from the private sector, assist in establishing voluntary interoperable standards, guidelines, and associated methods and techniques to facilitate and expedite the establishment of non-Federal public key management infrastructures that can be used to communicate with and conduct transactions with the Federal Government; and provide assistance to Federal agencies in the protection of computer networks, and coordinate Federal response efforts related to unauthorized access to Federal computer systems.
+Requires the Institute to perform evaluation and tests of: information technologies to assess security vulnerabilities; and commercially available security products for their suitability for use by Federal agencies for protecting sensitive information in computer systems.
+(Sec.
+Requires the Institute to carry out specified activities in the development of uniform standards and guidelines for the cost-effective security and privacy of sensitive information in certain Federal computer systems.
+(Sec.
+Directs the Institute to solicit the recommendations of the Computer System Security and Privacy Advisory Board regarding standards and guidelines that are being considered for submittal to the Secretary of Commerce.
+Authorizes separate appropriations for FY 1998 and FY 1999 to enable the Board to identify emerging issues related to computer security, privacy, and cryptography and to convene public meetings on those subjects, receive presentations, and publish reports, digests, and summaries for public distribution on those subjects.
+(Sec.
+Prohibits the Institute from promulgating, enforcing, or otherwise adopting standards, or carrying out activities or policies, for the Federal establishment of encryption standards required for use in computer systems other than Federal Government computer systems.
+(Sec.
+Revises specified requirements, including authorizing (currently, requiring) the Institute, for the purposes of performing research and conducting studies, to draw upon computer system security guidelines developed by the National Security Agency.
+(Sec.
+Amends the Computer Security Act of 1987 to revise requirements regarding Federal computer system security training to require such training to include emphasis on protecting sensitive information in Federal databases and Federal computer sites that are accessible through public networks.
+(Sec.
+10) Authorizes appropriations for FY 1998 and 1999 for fellowships to support students at institutions of higher learning in computer security.
+(Sec.
+11) Requires a study by National Research Council of the National Academy of Sciences of public key infrastructures.
+Authorizes appropriations for carrying out the study.
+(Sec.
+12) Directs the Under Secretary of Commerce for Technology to: promote the more widespread use of cryptography applications and associated technologies to enhance the security of the Nation's information infrastructure; establish a central clearinghouse for the collection by the Federal Government and dissemination to the public of information to promote awareness of information security threats; promote the development of the national, standards-based infrastructure needed to support commercial and private uses of encryption technologies for confidentiality and authentication; and establish a National Policy Panel for Digital Signatures to serve as a forum for exploring all relevant factors associated with the development of a national digital signature infrastructure based on uniform standards that will enable the widespread availability and use of digital signature systems.

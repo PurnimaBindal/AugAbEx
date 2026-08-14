@@ -1,0 +1,41 @@
+This Act may be cited as the ``Taxpayer Receipt Act''.
+ITEMIZED FEDERAL TAX RECEIPT.
+In General.--Chapter 77 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: ``SEC.
+In General.--The Secretary shall send to every taxpayer who files an individual income tax return for any taxable year an itemized Federal tax receipt showing a proportionate allocation (in money terms) of the taxpayer's total tax payment for such taxable year among major expenditure categories for the fiscal year ending in such taxable year.
+The Federal tax receipt shall also include 2 separate line items showing the amount of Federal debt per legal United States resident at the end of such fiscal year, and the amount of additional borrowing per legal United States resident by the Federal Government in such fiscal year.
+Total Tax Payments.--For purposes of subsection (a), the total tax payment of a taxpayer for any taxable year is equal to the sum of-- ``(1) the tax imposed by subtitle A for such taxable year (as shown on such taxpayer's return), plus ``(2) the tax imposed by section 3101 on wages received by such taxpayer during such taxable year.
+Determination of Proportionate Allocation of Tax Payment Among Major Expenditure Categories.--For purposes of determining a proportionate allocation described in subsection (a), not later than 60 days after the end of any fiscal year, the Director of the Congressional Budget Office shall provide to the Secretary the percentage of Federal outlays for such fiscal year for the following categories and subcategories of Federal spending: ``(1) Social Security.
+National defense: ``(A) Overseas combat operations.
+Low-income assistance programs: ``(A) Housing assistance.
+Food stamps and other food programs.
+Other Federal health programs: ``(A) Medicaid, Children's Health Insurance Program, and other public health programs.
+National Institutes of Health and other health research and training programs.
+Food and Drug Administration, Consumer Product Safety Commission, and other regulatory health and safety activities.
+Net interest on the Federal debt.
+Veterans benefits and services.
+Education: ``(A) K-12 and vocational education.
+Job training and assistance.
+Federal employee retirement and disability benefits.
+Highway, mass transit, and railroad funding.
+Mortgage finance (Federal National Mortgage Association, Federal Home Loan Mortgage Corporation, Federal Housing Administration, and other housing finance programs).
+Justice and law enforcement funding, including Federal Bureau of Investigation, Federal courts, and Federal prisons.
+Natural resources, land, and water management and conservation funding, including National Parks.
+Science and technology research and advancement: ``(A) National Aeronautics and Space Administration.
+Air transportation, including Federal Aviation Administration.
+Energy funding, including renewable energy and efficiency programs, Strategic Petroleum Reserve, and Federal Energy Regulatory Commission.
+Disaster relief and insurance, including Federal Emergency Management Administration.
+Environmental Protection Agency and pollution control programs.
+Internal Revenue Service and United States Treasury operations.
+Coast Guard and maritime programs.
+Community Development Block Grants.
+Congress and legislative branch activities.
+United States Postal Service.
+Executive Office of the President.
+Additional Major Expenditure Categories.--With respect to each fiscal year, the Director of the Congressional Budget Office shall include additional categories and subcategories of Federal spending for purposes of subsection (c), but only if, and only for so long as, each such additional category or subcategory exceeds 3 percent of total Federal outlays for the fiscal year.
+Timing of Federal Tax Receipt.--A Federal tax receipt shall be made available to each taxpayer as soon as practicable upon the processing of that taxpayer's income tax return by the Internal Revenue Service.
+Use of Technologies.--The Internal Revenue Service is encouraged to utilize modern technologies such as electronic mail and the Internet to minimize the cost of sending Federal tax receipts to taxpayers.
+The Internal Revenue Service shall establish an interactive program on its Internet Web site to allow taxpayers to generate Federal tax receipts on their own.
+Cost.--No charge shall be imposed to cover any cost associated with the production or distribution of the Federal tax receipt.
+Regulations.--The Secretary may prescribe such regulations as may be necessary to carry out this section.''.
+Clerical Amendment.--The table of sections for chapter 77 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item: ``Sec.
+Effective Date.--The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.

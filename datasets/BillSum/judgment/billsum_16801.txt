@@ -1,0 +1,36 @@
+This Act may be cited as the ``Department of Energy Nanoscale Science and Engineering Act''.
+The Congress finds the following: (1) The emerging fields of nanoscience and nanoengineering address the ability to create materials with fundamentally new compositions by prepositioning atoms within an overall molecular composition.
+The ability of the United States to respond to the energy and economic challenges of the 21st century will be driven by science and technology.
+Nanoscience and nanoengineering will enable the United States to develop new technologies for energy exploration and production, for monitoring energy infrastructure, for increasing energy efficiency in end-use application, and for developing new technologies applicable to other Department of Energy statutory missions.
+These advances will also enhance the strength of United States Reports science, technology, and medicine generally.
+The fundamental intellectual challenges inherent in nanoscience and nanoengineering are considerable, and require public support for basic and applied research and development.
+Significant advances in areas such as the self-assembly of atom clusters will be required before nanoscience or nanoengineering will be useful to the energy or manufacturing industries.
+The development of new scientific instruments will also be required to advance nanoscience and nanoengineering.
+Such instruments are likely to be large and costly.
+Specialized facilities are also likely to be required in order to advance the field and to realize its promise.
+Such facilities will be sufficiently expensive that they will have to be located and constructed on a centralized basis, similar to a number of unique facilities already managed by the Department of Energy.
+Contributions from individual researchers as well as multidisciplinary research teams will be required to advance nanoscience and nanoengineering.
+The Department of Energy's Office of Science is well suited to manage nanoscience and nanoengineering research and development for the Department.
+Through its support of research and development pursuant to the Department's statutory authorities, the Office of Science is the principal federal supporter of the research and development in the physical and computational sciences.
+The Office is also a significant source of federal support for research in genomics and the life sciences.
+The Office supports research and development by individual investigators and multidisciplinary teams, and manages special user facilities that serve investigators in both university and industry.
+DEPARTMENT OF ENERGY PROGRAM.
+Establishment.--The Secretary of Energy, through the Office of Science of the Department of Energy, shall support a program of research and development in nanoscience and nanoengineering consistent with the Department's statutory authorities related to research and development.
+The program shall include efforts to further the understanding of the chemistry, physics, materials science and engineering of phenomena on the scale of 1 to 100 nanometers.
+Duties of the Office of Science.--In carrying out the program under this Act, the Director of the Office of Science shall-- (1) support both individual investigators and multidisciplinary teams of investigators; (2) pursuant to subsection (c), develop, plan, construct, acquire, or operate special equipment or facilities for the use of investigators conducting research and development in nanoscience and nanoengineering; (3) support technology transfer activities to benefit industry and other users of nanoscience and nanoengineering; and (4) coordinate research and development activities with industry and other federal agencies.
+Nanoscience and Nanoengineering Research Centers and Major Instrumentation.-- (1) Authorization.--Within the funds authorized to be appropriated pursuant to this Act, the amounts specified under section 4(b) shall, subject to appropriations, be available for projects to develop, plan, construct, acquire, or operate special equipment, instrumentation, or facilities for investigators conducting research and development in nanoscience and nanoengineering.
+Projects.--Projects under paragraph (1) may include the measurement of properties at the scale of 1 to 100 nanometers, manipulation at such scales, and the integration of technologies based on nanoscience or nanoengineering into bulk materials or other technologies.
+Facilities.--Facilities under paragraph (1) may include electron microcharacterization facilities, microlithography facilities, scanning probe facilities and related instrumentation.
+Collaboration.--The Secretary shall encourage collaborations among universities, laboratories and industry at facilities under this subsection.
+At least one Departmental facility under this subsection shall have a specific mission of technology transfer to other institutions and to industry.
+Merit Review Required.--All grants, contracts, cooperative agreements, or other financial assistance awards under this Act shall be made only after independent merit review.
+Total Authorization.--The following sums are authorized to be appropriated to the Secretary of Energy, to remain available until expended, for the purposes of carrying out this Act: (1) $160,000,000 for fiscal year 2002.
+$270,000,000 for fiscal year 2003.
+$290,000,000 for fiscal year 2004.
+$310,000,000 for fiscal year 2005.
+$330,000,000 for fiscal year 2006.
+Nanoscience and Nanoengineering Research Centers and Major Instrumentation.--Of the funds under subsection (a), the following sums are authorized to be appropriated to carry out section 3(c): (1) $55,000,000 for fiscal year 2002.
+$135,000,000 for fiscal year 2003.
+$150,000,000 for fiscal year 2004.
+$120,000,000 for fiscal year 2005.
+$100,000,000 for fiscal year 2006.

@@ -1,0 +1,38 @@
+NATIONAL ELECTRIC SYSTEM PUBLIC BENEFITS.
+Title VI of the Public Utility Regulatory Policies Act of 1978 is amended by adding after section 604 the following new section: ``SEC.
+NATIONAL ELECTRIC SYSTEM PUBLIC BENEFITS FUND.
+Purpose.--The purpose of this section is to provide for a National Electric System Public Benefits Fund, administered by the National Electric System Public Benefits Board, to provide matching funds to States for the support of eligible public purpose programs.
+Definitions.--For purposes of this section: ``(1) The term `Board' means the National Electric System Public Benefits Board established under this section.
+The term `eligible public purpose program' means a program that supports-- ``(A) conservation and energy efficiency and renewable energy, ``(B) universal and affordable service, or ``(C) research and development that supports such purposes, and that is designated by the Board as eligible to receive funding under this section.
+The term `matching funds' means an equal distribution of State funds and funds made available as provided in this section.
+The `Secretary' means the Secretary of Energy.
+The terms `State commission' and `transmitting utility' have the meanings provided for such terms by the Federal Power Act.
+The term `renewable energy' means electricity generated from nontoxic organic waste, biomass, dedicated energy crops, landfill gas, geothermal, solar, tidal or wind resources, except that such term does not include electricity generated from the incineration of municipal solid waste.
+The term `energy efficiency' means programs and measures designed to cost-effectively improve the efficiency of end-use electricity consumption, considering all costs of electricity generation, transmission, distribution, and consumption on a life-cycle basis.
+For purposes of this section, eligible energy efficiency programs and measures shall include efforts to transform markets in end-use equipment, to develop and implement codes and standards, to provide technical support and information to consumers, and to provide financing and financial support for the acquisition of efficient end use equipment.
+A program that supports `universal and affordable service' is any program that promotes high quality and reliable electric service at just, reasonable, and affordable rates for low income consumers and those in rural, insular, or high cost areas.
+National Electric System Public Benefits Board.--(1) A National Electric System Public Benefits Board shall be established to carry out the functions and responsibilities specified in this section.
+The Board shall be composed of 3 persons who are officers or employees of the United States, and 4 State commissioners nominated by the national organization of the State commissions and appointed by the Secretary.
+The Secretary shall appoint one member of the Board to serve as Chairman.
+Within 180 days after the enactment of this Act, the Secretary shall promulgate a final rule containing the rules and procedures of the Board, including the rules and procedures for selecting a non-Federal fiscal agent under subsection (e).
+The Secretary shall have oversight responsibilities over the Board.
+Contributions.--Each owner or operator of an electric power generation facility shall, as a condition of transmitting power to any transmitting utility, contribute funds (based on the kilowatt hours transmitted) in such amounts as shall be determined by the Board to be necessary to generate revenues in each calendar year equal to \1/2\ of the aggregate cost of carrying out the eligible public purpose programs that meet the criteria established by the Board under subsection (e) for receipt of funding for that calendar year.
+Such contributions shall not exceed 2 mills per kilowatt hour.
+Each transmitting utility receiving electricity from a generator shall collect such contributions and transfer the contributions to the fiscal agent designated under subsection (e) at the end of each month in which contributions are made.
+Public Benefits Program.--(1) Within 90 days after the promulgation of the Secretary's rules under subsection (c)(3), the Board shall institute a proceeding to establish regulations governing creation and administration of a Public Benefits Program.
+Such regulations shall include criteria for the eligibility of the State public service programs for support under the Program.
+The Board shall enter into arrangements with a non-Federal fiscal agent who shall be authorized to receive the contributions made under subsection (d) and to disburse such contributions as provided in subsection (f).
+The Board shall prepare a recommended decision for prompt review and approval by the Secretary.
+Any State may establish one or more public purpose programs and apply for matching funding for such program or programs under the Public Benefits Program.
+A participating State may use matching funds received under this section only to support one or more eligible public purpose programs.
+The Board shall regularly audit the expenditures of matching funds received by a participating State under this section.
+At no time is a State required, pursuant to this section, to participate in the Public Benefits program, nor may a State be required by the Board to fund a particular eligible public purpose program.
+National Electric System Public Benefits.--(1) The fiscal agent shall distribute contributions received by the fiscal agent under subsection (d) to States (or entities designated by the States) under this subsection in accordance with the criteria established by the Board under subsection (e) to carry out eligible public purpose programs established by the States.
+A State seeking matching funds to carry out eligible public purpose programs shall apply for such funds no later than 3 months prior to the start of the calendar year.
+In its application, the State must certify that the moneys will be used for one or more eligible public purpose programs and must specify the amount of State support which is projected for the coming calendar year for the programs concerned.
+Upon receipt of all State requests for matching funds submitted pursuant to paragraph (1) within the 3-month time period specified in paragraph (1), the Board shall calculate the funds necessary to match the level of projected States funds for eligible public purpose programs for the coming calendar year.
+Following the calculation of the amount of matching funds required under paragraph (2) for all States for any calendar year, the Board shall communicate that amount to the fiscal agent.
+To the extent the matching funds requested by all States for a calendar year exceed the maximum projected revenues from the contributions under this section, the matching funds distributed to each State shall be reduced pro rata so that the percentage of State funds matched by funds provided under this section is the same for all States.
+The fiscal agent shall distribute matching funds to the States (or to an entity or entities designated by the State to receive payments) in monthly payments to be used for eligible public purpose programs designated under subsection (f).
+All funds received shall be used only for the eligible public purpose programs designated by the State.
+Existing Programs.--It is the sense of the Congress that the program established under this section shall not replace or supersede any other existing programs that support or encourage conservation and energy efficiency, renewable energy, universal and affordable service, or research and development.
