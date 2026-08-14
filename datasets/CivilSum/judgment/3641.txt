@@ -1,0 +1,57 @@
+JB Koshy, J - The appellant is a firm registered under the Indian Partnership Act which is represented by its Managing Partner.
+The firm, apart from other undertakings, owns a petroleum dispensing unit, situated at premises No. 4/137, Cannanore Road, Calicut.
+The above unit is engaged in dispensing diesel, petrol and motor lubricants.
+Apart from the above undertaking, the appellant has an office at Oyitty Road, Calicut and a tyre sales business at Court Road, Calicut.
+There are six employees in the petrol pump.
+Bills are issued for sale of petrol from the petitioner's pump itself.
+However, in the office which is situated one and a half kilometre away in another road, there is an office of the firm.
+In the office, three persons are employed.
+In the final accounts of the firm, accounts of the petrol pump, tyre sales business etc. are reflected.
+On 7-1-1992, Inspector of the ESI Corporation visited the petrol pump and thereafter notice was issued stating that seven persons were employed in the petrol pump on 8-8-1990 and three persons working in the office were also doing actual work of the petrol pump.
+Therefore, demand was issued to cover all ten persons as ten persons worked on a day, i.e., on 8-8-1990 since it as a factory and the establishment is covered from that date.
+The EI Court also treated that the appellant's petrol pump is covered as a factory.
+2.
+'Factory' is defined under Section 2(12) of the Employees' State Insurance Act, 1948.
+It is as follows :  "2.
+(12) "factory" means any premises including the precincts thereof - (a) whereon ten or more persons are employed or were employed for wages on any day of the preceding twelve months, and in any part of which a manufacturing process is being carried on with the aid of power or is ordinarily so carried on, or (b) whereon twenty or more persons are employed or were employed for wages on any day of the preceding twelve months, and in any part of which a manufacturing process is being carried on without the aid of power or is ordinarily so carried on, but does not include a mine subject to the operation of the Mines Act, 1952 (35 of 1952) or a railway running shed; Section 2 (14AA) is as follows : 2.
+(14AA) "manufacturing process" shall have the meaning assigned to it in the Factories Act, 1948 (63 of 1948);" In view of the wide definition of manufacturing process in the Factories Act, pumping is covered.
+Here, pumping is done with the aid of power.
+Hence, manufacturing process is done in the petrol pump of the appellant.
+But, to become a factory under Section 2(12) of the Act ten or more persons should work in the factory.
+Only six persons are working in the pump.
+Even according to the ESI Corporation, on 8-8-1990, seven persons were working the pump.
+Therefore, petrol pump of the appellant cannot come within the ambit of 'factory'.
+In the premises or precincts of the petrol pump, ten persons were not employed even for a day.
+The office of the firm is situated in another road one and a half kilometre away.
+All the accounts of the business of the firm are done in the office.
+Number of employees in the office are three.
+Contention of the ESI Corporation is that definition of 'employee' is very wide and the number of employees working in the office also should be considered while deciding the question whether petrol pump is a 'factory'.
+It is true that definition of 'employee' is very wide.
+Section 2(9) is as follows :  "2.
+(9) "employee" means any person employed for wages in or in connection with the work of a factory or establishment to which this Act applied and - (i) who is directly employed by the principal employer on work of, or incidental or preliminary to or connected with the work of the factory or establishment, whether such work is done by the employee in the factory or establishment or elsewhere; or (ii) who is employed by or through an immediate employer on the premises of the factory or establishment or under the supervision of the principal employer or his agent on work which is ordinarily part of the work of the factory or establishment or which is preliminary to the work carried on in or incidental to the purpose of the factory or establishment; or (iii) whose services are temporarily lent or let on hire to the principal employer by the person with whom the person whose services are so lent or let on hire has entered into a contract of service; and includes any person employed for wages on any work connected with the administration of the factory or establishment or any part, department or branch thereof with the purchase of raw materials for or the distribution or sale of the products of, the factory or establishment or any person engaged as apprentice, not being an apprentice engaged under the Apprentices Act, 1961 (52 of 1961), or under standing orders of the establishment but does not include -" In view of the very wide definition, if petrol pump is a factory and a covered establishment, three employees working in the office may also be covered as they also among other things, do some accounting works in respect of the pump.
+For that petrol pump should be a 'factory'.
+But, pump can be said to be a factory if only ten or more persons are employed in the premises or precincts of the pump.
+Since office is not in the premises or precincts, these three employees are not working in the pump and appellant's petrol pump is not a factory.
+3.
+Learned counsel for the respondent Corporation relied on the decision of the Apex Court in BM Lakshmanamurthy v. ESI Corporation, Bangalore (AIR 1974 SC 759).
+Apex Court held that two factories were working in the same premises and there was environmental proximity and functional unity with these two factories and contract workers were working in the factory premises.
+All persons working in the same premises were held to be covered in one establishment and one factory.
+Question in that case was only whether contract workers employed in the premises can be said to be employees for the purpose of main factory and not whether a premises where less than ten employees were engaged can be called a 'factory' taking the number of employees in the far away administrative office of the company which has got several other business also.
+In Nagpur Electric Light and Power Co Ltd v. The Regional Director, ESI Corporation, (AIR 1967 SC 1364), Apex Court held that in the same premises where there are two buildings used in connection with the same manufacturing process, all employees working in the premises should be taken into account for the purpose of the factory.
+At paragraph 7 it was held as follows :  "(7) In view of Section 2(k)(iii), the process of transforming electrical energy from a high to a low potential and the process of transmitting the energy through supply lines are both manufacturing processes.
+In a part of the premises occupied by the company, the two processes are carried on with the aid of power by means of electrical gadgets and other devices.
+On the premises more than twenty persons were and are working.
+No part of the premises is used for purposes unconnected with the manufacturing processes.
+The premises, therefore, constitute a factory within the meaning of Section 2(12) of the Employees' State Insurance Act, 1948."
+Apex Court after holding that the establishment is a factory, it was held that once it is a factory, all persons doing work in connection with the work are liable to be covered.
+The Calcutta High Court in ESI Corporation v. Bengal Printing Works, (1984 Lab.
+IC 1) held that if manufacturing process is carried on several adjacent buildings for the same employer, all the employees working in the premises can be taken together.
+Counsel for the appellant cited the decision of the Apex Court in Christian Medical College v. Employees State Insurance Corporation, 2001(1) SCT 209 (SC) : (2001)1 SCC 256 where coverage of ESI Act in the Maintenance Department of Christian Medical College was considered.
+Apex Court held that since manufacturing process is carried out and more than ten persons are employed there, it is a covered establishment, but, at the same time, it was held that merely because that department is part of the Medical College, main establishment cannot be called a factory.
+4.
+We are of the opinion since petitioner's pump employs only six persons, in its premises and its precincts (even according to the ESI Corporation only on one day seven persons were employed), it cannot be called a factory covered under the ESI Act.
+But, if it was covered and ten or more persons were employed in the premises and precincts, all employees doing connected works elsewhere also would have been covered.
+Here, ten or more persons were not employed in the petrol pump, when manufacturing process is carried on, total number of persons employed in the premises or precincts thereof also did not exceed seven persons.
+Hence, petitioner's pump is not a covered establishment.
+Hence, the judgment of the EI Court and the impugned demand of the ESI Corporation are set aside.
+Appeal allowed.

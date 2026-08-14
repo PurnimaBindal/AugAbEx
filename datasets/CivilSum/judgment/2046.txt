@@ -1,0 +1,83 @@
+Thomas, J - The question involved in this appeal is whether the employment injury sustained by a workman had resulted in permanent total disablement?
+As the question was decided in the affirmative by the Employees' Insurance Court (for short `the Insurance Court'), this appeal is filed by the concerned Regional Director of the ESI Corporation.
+2.
+The workman concerned was doing weaving work in a coir factory run by a co-operative society.
+He had a fall on 30785 and sustained injury to his backbone.
+He was treated in the Medical College Hospital for a certain period.
+When he returned for work he was found not fit to do the same work, but his request for assignment of lighter work was not granted by the Society.
+He approached the ESI Corporation and it was accepted as a case of ``employment injury'' and then he was referred to the Medical Board for assessing his disability.
+The Medical Board examined him and assessed his loss of earning capacity as 20%.
+The workman preferred an appeal before the Insurance Court challenging the assessment made by the Medical Board.
+The Insurance Court, in the appeal, enhanced the assessment to cent per cent.
+Hence this appeal.
+3.
+The Insurance Court took the view that as the employer failed to provide ``some lighter work'' to the workman there was justification for awarding cent per cent disablement benefit to the workman.
+In support of the said finding, the Insurance Court relied on the decision of this Court in M.F.A.
+No. 389 of 1983.
+4.
+Learned counsel contended that the Insurance Court ought not have reached a conclusion different from the assessment made by the Medical Board particularly in the absence of evidence that the workman cannot be put to any other work.
+Arguments have also been addressed that in dealing with the question whether the employment injury had resulted in permanent total disablement the fact that the employee can do some other work is a safe test to be made.
+5.
+In order to decide the soundness of the above contention we may first glance at the definitions used in the Employees' State Insurance Act, 1948 (for short `the ESI Act') for the two categories of permanent disablement.
+S. 2(15-A) of the ESI Act defines ``permanent partial disablement'' as this :  ``"Permanent partial disablement" means such disablement of a permanent nature, as reduces the earning capacity of an employee in every employment which he was capable of undertaking at the time of the accident resulting in the disablement''.
+S. 2 (15-B) defines ``permanent total disablement'' as this :  ``Permanent total disablement" means such disablement of a permanent nature as incapacitates an employee for all work which he was capable of performing at the time of the accident resulting in such disablement.''
+The difference between the two definitions, though subtle, is quite discernible in a scrutiny of both.
+Of course, the common feature in both is that there should be permanent disablement.
+But in the former the consequence of disablement should only have reduced his earning capacity in the employment concerned.
+In the latter contingency the disablement should have rendered him incapacitated to do the work which he was capable of performing earlier.
+The degree of incapacity in the case of former is apparently less.
+A mere reduction in the earning capacity is enough to make it a case of partial disablement, whereas the incapacity must be of a full measure in the total disablement.
+But such incapacitation is only with reference to ``all work which he was capable of performing at the time of accident''.
+In other words, even if the incapacity does not affect his readiness to acquire skill or dexterity to do some other new work, the position does not improve as for him in deciding whether the disablement can be rate less.
+6.
+A similar expression is used in the Workmen's Compensation Act, 1923 (for short `the WC Act') which contains a definition of ``total disablement'' in S. 2(1)(1) of the WC Act.
+It means `such disablement, whether of a permanent or temporary nature, as incapacitates a workman for all work which he was capable of performing at the time of the accident resulting in such disablement''.
+Of course, the two definitions are not identically worded.
+But the words ``as incapacitates a workman for all work which he was capable of performing at the time of the accident'' do appear in both definitions.
+As the crux of the definitions lie in those words decisions rendered by different high Courts while dealing with the definition in the WC Act would help us in understanding the scope of the definition ``permanent total disablement'' contained in the ESI Act.
+7.
+The earlier decisions took the view that unless a workman has become unable to do any work whatsoever he could not be regarded as having become totally disabled.
+In UD Sugar Mills v. Daulat Ram (A.I.R. 1936 Allahabad 493) the High Court had considered the case of a blacksmith who lost his index and middle fingers.
+It was observed by a learned single Judge in the said decision that the court should consider whether the blacksmith was incapacitated from undertaking any other employment in which the rest of the hand (the thumb and the other fingers) could be used.
+A similar question was considered in General Manager, GIP Rly v. Shankar (A.I.R. (37) 1950 Nagpur 201).
+In that case a railway servant, holding a superior post, lost one eye and two teeth in an accident.
+When he was declared unfit to do that job the railway company offered him a job in a lower category.
+But this offer was not acceptable to the workman.
+Learned single Judge observed, upon those facts, that the total disablement must be of such a character that the person concerned is unable to do any work and not only the work which he was doing at the time of the accident.
+The words `for all work which he was capable of performing at the time of the accident' cannot be read as `for the work which he was performing at the time of the accident', according to the learned Judge.
+8.
+But during the post Constitution period a more humane approach was adopted by different High Courts.
+In Canara Public Conveyance Co v. Usman Khan (1966 (1) LLJ 826) a Division Bench of the Mysore High Court considered the case of an employee who sustained injuries as a result of which he lost the use of his right hand and his third rib and collar bone were fractured and never united.
+It was argued that the employee could still do some work with the other hand and the rest of the body.
+Repelling the said contention the Division Bench held that the question depended essentially on the consequences of the injury and not upon the injury itself.
+Their Lordships further observed that the words ``incapacitates the workman for all work'' have to be understood in the same way as ``incapacity for work'' as interpreted by the House of Lords in Ball v. Willian Hunt & Sons Ltd, (1912 A.C. 496).
+9.
+Supreme Court had dealt with the case of a carpenter whose left hand was amputated from above the elbow (vide Pratab Narain Singh v. Shrinivas - AIR 1976 SC 222).
+It was found to be a case of permanent total disablement as the carpenter could not do his carpentry work at all.
+The fact that the employee could have done some other work with the right hand did not persuade the Supreme Court to hold that the disablement was anything less.
+Much later Madhya Pradesh High Court had to consider the same question in Chotelal v. Regl.
+Dir.
+ESI Corporation (1989) 58 F.L.R.
+158).
+Learned single Judge who delivered the judgment took the view that ``permanent total disablement is to be judged from the nature of the job which the workman was doing and if the disablement so caused renders him unfit to do that job, it will be deemed to be total and not partial disablement''.
+10.
+It was in tune with the above line of thinking that the Division Bench of this Court has adopted the reasoning in M.F.A.
+No. 389/83.
+We got down the judgment dated 481993 rendered in that appeal.
+That is a case in which a head load worker met with an accident and sustained injury on the neck region.
+The Medical Board diagnosed the injury as cervical spondylosis.
+He was advised to wear cervical collar permanently and the disablement was declared to be of a permanent nature.
+He was advised not to carry weight on his head thereafter.
+The Insurance Court, in disagreement with the Medical Board assessment, concluded that the employment injury had resulted in total permanent disablement.
+The Division Bench did not interfere with the said finding.
+11.
+The legal position, according to us, is that it is not necessary that the employment injury should render the employee totally unfit to do any work whatsoever for holding that he is suffering permanent total disablement as understood in the EI Act.
+It is enough that he was incapacitated from doing the work which he was capable of doing at the time of accident.
+In other words it is not the look out of the Insurance Court to find out whether he can be trained to do some other work.
+If he can do the work which he was performing just before the accident in a reduced form the result is only permanent partial disablement.
+If he cannot do that work at all then the consequence is total permanent disablement.
+12.
+We think that the Insurance Court has to consider the question afresh in the light of the legal position stated above.
+It was not considered whether the workman concerned could do the work which he was doing in a reduced rhythm.
+That matter has to be found on facts by the Insurance Court.
+We, therefore, set aside the impugned order and remit the case to the Insurance Court for fresh disposal.

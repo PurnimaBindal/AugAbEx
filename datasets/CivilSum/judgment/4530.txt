@@ -1,0 +1,94 @@
+JB Koshy, J - Appellant employer challenges the order of the Commissioner of Workmen's Compensation on four grounds.
+A loading and unloading worker during the course of employment, while carrying a head load, collapsed, fell down and died due to heart attack.
+According to the appellant, in his written statement, the worker fell down while he was carrying the load due to his carelessness.
+Tribunal ordered compensation holding that the accident occurred during the course of employment and death is arising out of employment.
+Mere negligence or even gross negligence does not disentitle a workman for compensation.
+As held by the Madras High Court in Sundaresa Mudaliar v. Muthummal, (1956(2) LLJ 52), doctrine of contributory negligence has no place in workmen's compensation claim.
+Proviso (b) to Section 3(1) of the Workmen's Compensation Act, 1923 (in short 'the Act') clearly provides as follows :  "3.
+Employer liability for compensation.
+- (1) If personal injury is caused to a workman by accident arising out of and in the course of his employment, his employer shall be liable to pay compensation in accordance with the provisions of this Chapter : Provided that the employer shall not be so liable - (a) xx xx xx xx (b) in respect of any injury, not resulting in death (or permanent total disablement) caused by an accident which is directly attributable to - (i) the workman having been at the time thereof under the influence of drink or drugs, or (ii) the wilful disobedience of the workman to an order expressly given or to a rule expressly framed, for the purpose of securing the safety of workman, or (iii) the wilful removal or disregard by the workman of any safety guard or other device which he knew to have been provided for the purpose of securing the safety of workmen."
+Only on the specific conditions in proviso (b) to Section 3(1) compensation can be denied if injuries are sustained in an accident arising out of and during the course of employment.
+But, even those restrictions in the proviso are not applicable in case of death of a workman and obligation is absolute.
+In case of death, compensation cannot be denied on the basis of negligence on the part of the workman in a claim under the Workmen's Compensation Act.
+2.
+Next ground is that the workman died due to heart attack and, therefore, it is a natural death and it is not due to an accident arising out of his employment.
+Accident is not defined in the Workmen's Compensation Act, 1923.
+Therefore, the word 'accident' should be understood in the popular and ordinary sense as denoting 'an unlooked for mishap or an untoward event which is not expected or designed'.
+While explaining the word 'accident' contained in the Workmen's Compensation Act in England, Lord Atkinson had observed as follows in Clover, Clayton & Coo.
+Ltd. v. Hughes, (1910 AC 242) :  "I think the meaning put upon the word 'accident' in Fenton v. Thorley, (1903 AC 443), must now be accepted in all cases turning on the construction of the phrase 'injury by accident' used in the Workmen's Compensation Act, 1906, as its true meaning, namely, 'an unlooked for mishap or an untoward event which is not expected or designed'.
+It must exclude disease.
+What is 'unlooked for' or 'unexpected' must, in every case, exist either in the external influences to which the sufferer is subjected, or in the effect upon him which those influences produce."
+A death due to a natural disease (other than an occupational disease) is not an accident.
+Death of a workman by disease is not synonymous with accident.
+It is a natural death and not accident.
+But, the sudden death from the point of view of workman, who dies unexpectedly during the course of employment, without any disease is an 'accident'.
+Self-inflicted injuries and suicide are not accidents.
+Here, the workman fell down with head load, collapsed and died due to heat failure.
+In United India Insurance Co Ltd v. Yashodhara Amma, (1989 ACJ 1075), a Division Bench of this Court considered an identical matter.
+In that case, a driver started plying the vehicle in normal circumstances, but, developed symptoms of heart attack en route (in the course of employment) and consequently died and it was held that the case attracted Section 3(1).
+It was held in that case that the driver's illness, though not an external injury, was a serious injury to the heart and insurance company is liable to pay compensation.
+Similar view was expressed by other Benches as can be seen from National Insurance Co Ltd v. Balawwa, ((1994)1 LLJ 433 (Kant), Hindustan Steel Constructions Ltd v. Nuralsha Khatoon, (1993 ACJ 501 (Pat)), Sundarbai v. General Manager Ordnance Factory, (1976 ACJ 346 (MP) : 1982(2) LLJ 149 (Madras).
+3.
+It is true that even if the 'death' is an accident on claimant's point of view, to get compensation, it must be in the course of employment and arising out of employment.
+Here, there is no dispute that the death was during the course of employment.
+Question is whether it is arising out of employment.
+The accident which resulted in the injury or death, must be connected with the employment and must arise out of it; there must be casual connection or association between the employment and the accidental injury.
+Only a casual connection or nexus is necessary.
+In Clover Clayton & Co Ltd v. Hughes (1910 AC 242), the workman died due to rupture of an aneurism while doing his ordinary work in the ordinary way without any unusual exertion or strain.
+The aneurism was in such an advanced condition that it might have burst while the man was asleep, and a very slight exertion, or strain, would have been sufficient to bring about a rupture.
+Even so, the House of Lords held that this accident arose out of his employment as the strain of the work in which he was engaged, howsoever ordinary it may have been, was in fact one of the contributing causes.
+In Executive Engineer v. Janaki, (1978 KLT 897) it was held that even if the workman has early symptoms of the disease, if day's work accelerated the disease, accident is arising out of employment.
+Normally, it is for the claimant to prove that the death has got a connection, at least connection with the employment.
+Acceleration of disease during work establishes a casual connection.
+If death due to heart attack occurs suddenly during the course of employment, it is for the employer to prove that the employment has no connection with the heart attack.
+Theory of res ipsa loquitur is applicable in this case.
+Here, there is no evidence that the workman was having heart disease earlier.
+Apex Court in Mackinnon Mackenzie & Co v. Rita Fernandez, (1969(2) LLJ 812) observed that even if pre-existing disease is aggravated due to employment resulting in death, it is an accident arising out of employment.
+It is an admitted case that while carrying cashew bags, he fell down and, consequently, he did, even though ultimately his heart failed.
+Falling down while carrying cashew bags is an accident and that is the immediate cause which has accelerated the death of the workman.
+Therefore, he died due to personal injuries caused in an accident arising out of and in the course of employment.
+4.
+Thirdly, it was contended that he was a casual worker and therefore, he is not entitled to compensation.
+It is well settled law that casual workman employed for the purpose of business is also covered under the Workmen's Compensation Act.
+Accident occurred in 1991.
+At the relevant time, definition of 'workman' under Section 2(n) of the Act specifically excluded "a person whose employment is of a casual nature and who is employed otherwise than for the purposes of the employer's trade or business".
+The above specific exclusion was deleted only by Act 46 of 2000 with effect from 8-12-2000.
+Casual employment is employment necessitated by chance or on special circumstances in contradistinction to permanent or regular employment.
+Even if a person is employed casually, he would be a 'workman' under the Act if he is employed for the purpose of the employer's trade or business (See Kochappan v. Krishnan, 1987(2) LLJ 174).
+Here, the deceased workman was engaged for work connected with employer's business.
+Therefore, that contention also cannot be accepted.
+5.
+Further contention was that compensation was calculated on the basis of the amended Act even though the accident occurred in 1991.
+The above contention is correct.
+In KSEB v. Valsala, (1999(3) KLT 348 (SC)), Apex Court held that compensation has to be calculated as per the provisions of the Act as existed at the time of the accident.
+At the time of the accident, in view of Explanation 11 to Section 4(1) of the Workmen's Compensation Act, the maximum monthly salary that can be taken by the Commissioner for the purpose of computation of workmen's compensation was only Rs. 1,000/-.
+Then compensation has to be calculated by multiplying only 40% of the salary by the relevant factor.
+Thus, the compensation payable will be Rs. 88,548/- (1000 x 40/100 x 22137) instead of Rs. 1,32,822/- awarded by the Commissioner.
+Since the order was passed after amendment and payment was also deposited after the amendment, we are of the opinion that no interference is required in awarding of simple interest at the rate of 12% per annum from the date of the accident till the date of deposit.
+Section 4-A(1) mandates payment of compensation as soon as it falls due.
+Liability to pay compensation arises on the date of accident itself.
+Section 4A(3)(a) deals with percentage of interest which reads as follows :  "(3) Where any employer is in default in paying the compensation due under this Act within one month from the date it fell due, the Commissioner shall - (a) direct that the employer shall, in addition to the amount of the arrears, pay simple interest thereon at the rate of twelve percent, per annum or at such higher rate not exceeding the maximum of the lending rates of any scheduled bank as may be specified by the Central Government by notification in the Official Gazette, on the amount due;" The above provision clearly shows that rate of interest depends on the time of payment of compensation and not on the date of accident.
+6.
+Finally, it was argued that Rs. 7,000/- was paid by Ext.D1 agreement and that has to be deducted from the compensation awarded.
+Ext.D1 agreement is not a registered agreement under Section 28.
+Direct payment of compensation is possible by executing agreement except in case of death as contained under Section 8(1).
+Even for such cases, failure to register the agreement is fatal in view of Section 29.
+In Kathleen Dias v. HM Coria & Sons, (1951(2) LLJ 192) Calcutta High Court held that if an employer pays the dependents ex gratia under an agreement which is not registered under Section 28, he is not entitled to deduct the same amount from the actual amount of compensation.
+Same view was taken by Gujarat High Court in Bai Chanchalben v. Buriorji Dinshawji Sethna, (1969(2) LLJ 357).
+lIn the Workmen's Compensation Act, for death, compensation has to be deposited under the Act.
+The amount paid for funeral expenses, immediate medical treatment; etc. cannot be treated as a compensation under the Workmen's Compensation Act especially in the case of death.
+Section 8(1) of the Act deals with distribution of compensation in the case of death.
+It reads as follows :  "8.
+Distribution of Compensation.
+- (1) No payment of compensation in respect of a workman whose injury has resulted in death and no payment of a lump sum as compensation to a woman or a person under a legal disability, shall be made otherwise than by deposit with the Commissioner, and no such payment made directly by an employer shall be deemed to be a payment of compensation : Provided that, in the case of a deceased workman, an employer may make to any dependant advances on account of compensation (of an amount equal to three months' wages of such workman and so much of such amount) as does not exceed the compensation payable to that dependant shall be deducted by the Commissioner from such compensation and repaid to the employer)".
+Hence, entire compensation has to be deposited by the employer.
+If any advance is made towards compensation (maximum three months wages) that can be deducted by the Commissioner.
+Here, what is paid is not advance towards compensation, but, payment towards funeral and other expenses.
+In this connection, Section 17 of the Act is also relevant which reads as follows :  "17.
+Contracting out - Any contract or agreement whether made before or after the commencement of this Act, whereby a workman relinquishes any right of compensation from the employer for personal injury arising out of or in the course of the employment, shall be null and void in so far as purports to remove or reduce the liability of any person to pay compensation under this Act."
+Hence, claim for deduction from compensation on the basis of ex gratia paid by unregistered agreement cannot be accepted.
+7.
+Compensation payable will be Rs. 88,548/- with simple interest at the rate of 12% per annum from the date of the accident (11-11-1991) till the date of deposit (25-6-1998).
+Excess amount deposited shall be returned to the appellant and the amount as calculated above should be paid to the dependents of the deceased as per law immediately.
+The appeal is allowed partly.
+Appeal partly allowed.

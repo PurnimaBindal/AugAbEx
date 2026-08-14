@@ -1,0 +1,17 @@
+A creditor or a group of creditors can be considered as a party to an application seeking transfer of case from the High Court to the National Company Law Tribunal regarding the winding up of a company.
+The Supreme Court bench consisting of Hon’ble Chief Justice SA Bobde, Hon’ble Justice AS Bopanna and Hon’ble Justice V Ramasubramanian, delivered an excellent judgement regarding requirements of transferability of a case in the matter of M/S Kaledonia Jute and Fibres Pvt. Ltd. v. M/S Axis Nirman and Industries &amp; Ors. [Civil Appeal No. 3735 of 2020].
+  The respondents filed a petition before the High Court under Section 433 of the Companies Act, 1956, pleading for the winding up of the first respondent company as it was unable to pay debts.
+The court ordered the admission of the petition and directed for the publication of the advertisement of the petition in accordance with Rule 24 of the Companies (Court) Rules, 1959.
+Pursuant to the publication, the court directed the winding up of the company and appointed an official liquidator directing him to take over the assets and books of accounts of the Company.
+The respondent filed an application for recalling the order but the liquidator opposed the application on the grounds that the respondent owed money close to Rs. 27 crores to various creditors.
+In the light of this, the court kept the order of winding up in abeyance but directed the liquidator to continue to keep in custody the assets of the company.
+The appellant, who claimed to be a creditor of the respondent moved an application before the National Company Law Tribunal (NCLT) under Section 7 of the Insolvency and Bankruptcy Code, 2016, that the respondent had failed to pay a sum of Rs. 32 lakhs to the appellant despite repeated demands.
+The appellant moved an application seeking transfer of this case from the High Court to the NCLT which was rejected by the HC on the grounds that the requirement for winding up order had already been passed.
+It was against this order of the HC that the financial creditor came up with a civil appeal to the Supreme Court.
+The Supreme Court in its decision, reiterated the provisions relating to the transfer of case regarding winding up of company and stated that “the transferability of a winding up proceeding, both under Rule 5 as well as under Rule 6, is directly linked to the service of the  winding up petition on the respondent under Rule 26 of the Companies (Court) Rules, 1959.
+If the winding up petition has already been served on the respondent in terms of Rule 26 of the 1959 Rules, the proceedings are not liable to be transferred.
+But if service of the winding up petition on the respondent in terms of Rule 26 had not been completed, such winding up proceedings, whether they are under Clause (c) of Section 433 or under Clause (a) and (f) of Section 433, shall peremptorily be transferred to the NCLT”.
+After this, the court dealt with who will be considered as a “party”.
+Section 446 of the Companies Act, 1959 states that “an order for winding up shall operate in favour of all the creditors and all of the contributors for the company as if it had been on the joint petition of a creditor and of a contributory”.
+Thus the court stated that winding up proceedings are actually proceedings in rem and the entire body of creditors will be a party to the same.
+Hence, herein the court held that the appellant was infact a party and that the transfer was not restricted by the stage of proceeding as it was covered by the 5th proviso to Section 434(1)(c) of the act.

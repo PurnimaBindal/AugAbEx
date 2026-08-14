@@ -1,0 +1,483 @@
+Pradeep Nandrajog, J. - It becomes advisable sometimes to look into the law before focusing on the facts, in particular where the facts are a little lengthy, disputed and situationally entwined.
+It helps to identify as to what part of the controversy is relevant and what part is irrelevant.
+2.
+Many a challenge, when the findings of a domestic enquiry are in question, are based on the ground that there has been a violation of the principles of natural justice.
+It is alleged that material gathered behind the back of the employee was used.
+It is alleged that adequate opportunity to cross-examine the witnesses was not given.
+It is alleged that defence was not given an adequate opportunity to produce evidence.
+Should the result of the domestic enquiry be set to naught if any such infraction is found ?
+Does law require something more to be found faulty ?
+3.
+Law on the subject can be traced to the decision in 1874 LR 9 where it was held that a decision given without regard to principles of natural justice is void.
+Most judgments, however, trace the origin to the decision of the House of Lords, 1964 AC 40, Ridge v. Baldwin where Lord Reid said :  "The body with the power to decide cannot lawfully proceed to make decision until it has afforded to the person affected a proper opportunity to state his case."
+It may however be noted that in said case, the appellant who was a Chief Constable was dismissed by the Brighton Watch Committee, without any notice or hearing.
+Unilateral action was taken against the appellant based on adverse comments against him in a criminal proceedings.
+The violation found by the House of Lords was thus of a fundamental nature.
+It was a case of total violation of the principles of natural justice.
+4.
+Ridge v. Baldwin came to be considered by the Privy Council in 1968(1) WLR 1278, M Vasudevan Pallai v. City Council of Singapore.
+Appellant had participated in the enquiry but some material gathered at the back of the appellant and not supplied to him was used.
+In appeal, de novo hearing was afforded.
+Matter reached the Privy Council.
+Referring to Ridge v. Baldwin it was held that ratio of the said judgment pertained to a fundamental defect.
+In the instant case, it was held, fair hearing was granted at the appellate stage and the defect at the initial stage stood cured.
+5.
+The judgment in M Vasudevan Pallai's, case would therefore bring home the point that what is required to be considered is, whether the hearing process, original as well as appellate as a whole, has or has not resulted in a fair hearing.
+6 1990(2) AC 876, Al Mehdawi v. Secretary of State was a case where the House of Lords was concerned with a case where appellant was served with a notice of hearing.
+He engaged a solicitor to defend him.
+When date of hearing was notified to the solicitor by the defendant, he in turn could not get in touch with the appellant who went unrepresented and unheard.
+Orders were passed against the appellant at an ex-parte hearing.
+Dismissing the appeal, the House of Lords held that a party which loses its right of hearing through his own default or the default of someone to whom it has entrusted the case cannot complain of denial of natural justice.
+7.
+The decision in Al Mehdawi's case would therefore bring home the point that principles of natural justice impose standards of procedural fairness on the decision making authority and it matters not if the person affected does not receive a fair hearing due to his default.
+The Supreme Court of Canada in (1988) 2 SCR 387, R v. Beare held that natural justice guarantees 'fair procedure but does not guarantee the most favourable procedure that can possibly be imagined'.
+8.
+As law developed, test of prejudice to be shown, come to be evolved.
+In (1971) 2 All ER 1278, Maloch v. Aberdeen Corpn.
+The House of Lords stated :  "The appellant has first to show that his position was such that he had, in principle, a right to make representation before a decision against him was taken.
+But to show this is not necessarily enough, unless he can also shown that if admitted to state his case he had a case of substance to make.
+A breach of procedure, whether called a failure of natural justice, or an essential administrative fault cannot given him a remedy in courts, unless behind it there is something of substance which has been lost by the failure.
+Court does not act in vain."
+Test of prejudice to be shown laid down in Malloch's case was applied in 1981 AC 75, Bushell v. Secretary of State and (1987) 1 All ER 161, R v. Secretary of State for Transport.
+9.
+At home, the Constitution Bench of the Supreme Court in AIR 1958 SC 86, State of UP v. Mohd.
+Nooh held, that where the tribunal of first instance acts contrary to rules of natural justice which offends the superior courts sense of fair play, jurisdiction should be exercised to correct the error, even if an appeal to another inferior tribunal was available.
+(1969) 3 SCC 392, Janakinath Sarangi v. State of Orissa held that if it was a gross case of violation of principles of natural justice, courts would interfere.
+But in other cases, one has to look to what actual prejudice has been caused.
+On facts, it was held not to be a case of prejudice caused.
+Even in (1993) 4 SCC 727, Managing Director ECIL v. B Karunakar, 1994(1) SCT 319 (SC), the Constitution Bench laid emphasis on prejudice being shown due to violation of principles of natural justice as a sine-qua-non for setting aside a penal order.
+10.
+The legal position would, therefore, be that since the object of principles of natural justice is to ensure a fair hearing and a fair deal to the part whose rights are going to be affected, every case has to be examined on its own facts, keeping in view the nature of the enquiry, to determine whether prejudice has been caused to the person affected.
+Distinction has to be drawn between : (a) no notice, (b) no hearing, and (c) no adequate hearing.
+In case of no notice, the violation would be fundamental and fatal.
+That by itself is prejudice, none further need be shown.
+Ridge v. Baldwin applies.
+No hearing, if rectified at appellate stage would be fair procedure unless prejudice is shown.
+M Vasudevan Pallai is attracted.
+No adequate hearing would require, prejudice having been caused to be shown.
+Malloch's case is attracted.
+11.
+In AIR 1996 SC 1669, State Bank of Patiala v. SK Sharma, 1996(2) SCT 568 (SC), in the context of service jurisprudence following principles pertaining to natural justice were extracted in para 32 :  (i) Violation of a rule by itself would not invalidate the enquiry; (ii) Violation of a substantive rule would ipso facto invalidate the enquiry and the theory of substantial compliance or test of prejudice to be shown would not apply; (iii) Violation of a procedural provision, if it falls in the category of no notice or no hearing would by itself invalidate an enquiry; (iv) Violation of a procedural provision falling in category of cases of no adequate hearing would have to be considered from two further aspects : (a) If the procedural provision is of a non-mandatory character it has to be seen whether there is substantial compliance or not and whether prejudice has been caused to the, employee or not; (b) If the procedural provision is mandatory and is not waived by the employee, violation per se invalidates the enquiry save and except where public interest is involved.
+12.
+Another aspect of the law be also noted.
+Many a cases are brought to court predicating the challenge on the ground that some material document was either not brought on record or if brought on record, it was not validly proved or that right to cross-examine was denied.
+Strictly speaking, these cases would fall in the category of cases of `no adequate hearing'.
+But one aspect needs to be clarified.
+As held in 1984 SC 273, KL Tripathi v. State Bank of India, where the version given by a party is in dispute, right to cross-examine is a valuable right before anything said by the person is looked into.
+But where there is no dispute regarding the facts but certain explanation of circumstances is needed, there is no requirement of cross-examination to be fulfilled to justify fair play in action.
+Thus, if a fact is not in dispute, there is no need to test anybodys veracity.
+No cross-examination is needed.
+Inference has to be drawn from the admitted fact.
+Party has to give explanation.
+It is for him to bring on record material to justify his explanation and in light thereof, call upon the enquiry officer to draw inferences.
+13.
+Having noted the law, let us deal with the facts.
+Petitioner was an employee of the Punjab National Bank.
+His service conditions were regulated, amongst others, by the PNB Officer Employees (Discipline and Appeal) Regulations, 1977 (hereinafter referred to as he Regulations).
+Petitioner was suspended vide order dated 751977, pending disciplinary proceedings.
+Charge-sheet dated 610.1977 was issued.
+Same was served upon the petitioner on 24101977.
+Petitioner was to submit reply in 10 days.
+Five charges were listed.
+Same were :  "While functioning as Property Officer at Regional Manager's Office at Delhi from 29-5-67 to 11-5-74 and from 15-11-74 to 28-3-76 you misconducted as follows : CHARGE NO.
+I (i) You showed favour to M/s M Hanif, contractors at Dehradun.
+In office note dated 17-9-70 put up to the District Manager in connection with renovation of bank premises and face-lifting of BO Paltan Bazar, Dehradun, you recommended calling of quotations from one/two parties from Delhi and "one party" from Dehradun for supply of furniture.
+Regional Manager (the District Manager) specifically ordered that quotation from two parties at Dehradun be called.
+Contrary to these instructions quotation of one party i.e. M/s M Hanif, Dehradun was called by you.
+(ii) You in your hand filled in quotation of M/s M Hanif and appended your signatures thereon as Bank's Property Officer.
+Rates in the quotation of M/s M Hanif appear to have been written after comparing rates of other three tenderers.
+Thereby you made M Hanif's tender as lowest and then you recommended for giving contract to this firm which was ultimately approved.
+CHARGE NO. II Similarly you showed favour to M/s M Hanif, Dehradun in connection with face-lifting of premises at BO, Hardwar.
+In your note dt. 2872 on property department, HO New Delhi letter dt. 267.72, you specifically mentioned name of M Hanif, Dehradun for calling tenders for the work, besides other contractor from Delhi.
+Ultimately the work was allotted to M/s M Hanif and showed special favour to him.
+CHARGE NO. III You took undue advantage of your position and got signed a typed non-judicial stamp paper from same Mohd.
+Hanif, partner MM Decorator, Dehradun on the plea of getting his firm approved from the Bank's work in Delhi branches.
+In fact this was a partnership deed dt. 21-2-76 with Smt. Kamla Devi, your wife, as one of the partner (share 90%) and M Hanif (share 10%).
+Shri M Hanif has no knowledge of the firm MM Decorators, Delhi and his firm (MM Decorator Dehradun, with his brother as partner) is a registered partnership concern having been registered with the Registrar of Firms at Lucknow (U.P.).
+From 15-7-76 your wife became sole proprietor of this firm (M. M. Decorator).
+CHARGE NO. IV You clandestinely got approved sole proprietorship firm of your wife, M/s. MM Decorator, Delhi.
+You were instrumental in passing on the following banks work to this firm :-  (Rs.) 1.
+BO Rajindra Place, New Delhi.
+44,14500 2.
+BO Rohtak 17,57700 3.
+BO Ch.
+Bazar 6,615.00 4.
+BO Azadpur, Delhi.
+65800 5.
+BO Delhi Cantt.
+3,68000 6 BO Mill Road, Delhi 193000 7.
+BO Asaf Ali Road, New Delhi 40300 8.
+BO Tropical Bldg., New Delhi 38400 9.
+BO Lajpat Nagar, New Delhi 30000 10.
+BO Khan Market, New Delhi 30000 11.
+BO Dev Nagar, New Delhi 77000 12.
+BO K.G., Delhi.
+2,680.00 76,442.00 CHARGE V. You introduced Mohd.
+Hanif to Shri IS Ahluwalia, Branch Manager, Rohtak at your residence as proprietor MM Decorator, Dehradun by misrepresentation as approved Bank contractors, concealing or without disclosing that your wife was a substantial partner of that Hanif was only a nominal partner in the firm.
+As a consequence, the job of white- washing/polishing the furniture worth Rs. 17,505/30 was given by BO, Rohtak to your wife's firm, which was not approved.
+Introduction of the firm was done at your instance.
+You thereby committed misconduct unbecoming of an officer of the bank and failed to maintain honesty and absolute integrity in the discharge of your official duties as per rules of the bank."
+14.
+On 31101977 petitioner sent a communication raising the issue that Regulation 6(3) of the regulation was violated in as much as statement of allegations as mandated by said regulation was not furnished and hence charge-sheet was bad in law.
+Without prejudice, petitioner stated that to enable him to file reply he needs the following documents :  (1) Office Note dated 17.9.70 referred to in Charge No.
+I(1) (2) Photostat copy of the quotations of M/s M Hanif referred to in Para II of Charge No.
+I.
+(3) Note dated 2878 and property deptt.
+letter dated 267.72 referred to in Charge No. II.
+(4) Statement of Sh. M Hanif that petitioner got the partnership signed from him under pressure or inducement or coercion.
+(5) A comparative chart of all the quotations of all the parties for the jobs referred to in Charge No. IV.
+(6) Date on which petitioner introduced Shri M Hanif to Shri IS Ahluwalia, the Manager of your Rohtak Branch.
+Petitioner requested that he may also be permitted to examine all the files referred to in the charges and also the quotations of all the parties in connection with the jobs done as mentioned in Charge No. IV.
+15.
+0n 911978 the bank wrote back that as per the regulation, documents sought for as also inspection sought cannot be granted at that stage.
+He could summon the relevant records through the enquiry officer.
+Petitioner was advised to file reply to the charge-sheet.
+On 1311978 petitioner reiterated his demand.
+Bank negated it again vide reply dated 2521978.
+Petitioner sent reply to the charge-sheet on 831978.
+16 In the reply to the charge-sheet, pertaining to Charge Nos. 1 and 2 he stated that matter being old and in view of the fact that the documents referred to in the charges were not being supplied, he was unable to reply.
+He, however, denied the charges.
+Regarding charges 3 to 5 he admitted that in February, 1976 his wife and Mohd.
+Hanif entered into a partnership wherein his wife had 90% share in the profit and losses of the firm and Mohd.
+Hanif had the balance 10% share.
+He admitted that on 2151976, Mohd.
+Hanif retired from the partnership and his wife continued the business as sole proprietor thereof.
+He, however, denied that all this was without the consent of Mohd.
+Hanif.
+He stated that jobs awarded to said firm prior to 2151976 were awarded on merits and even after 2151976 they were awarded on merits.
+17.
+On 181978 enquiry officer was appointed.
+He commenced the proceedings.
+The first material proceeding took place on 2612.1978.
+What transpired at the hearing be noted as recorded in the order sheet itself :  "The enquiry officer asked Shri Mahajan whether he pleads guilty to the five charges as mentioned in the charge-sheet served by the Chief Personnel Manager bearing date 610.1977.
+Shri Mahajan stated that he has already submitted his reply to the charge-sheet vide letter dated 31101977.
+He further denied all the charges and submitted that he did not plead guilty.
+Shri Mahajan submitted a letter dated 2612.78 challenging the appointment of the undersigned by the Chief Personnel Manager as Enquiry Officer on the ground that neither the Chief Personnel Manager nor the undersigned appointed by him as Enquiry Officer are "Public Servants" as defined in Regulation 6(2) of PNB Officer Employees (Discipline & Appeal) Regulations, 1977.
+The prosecuting officer submitted that all the employees/officers of the Bank have become 'Public Servants' after Nationalisation of the Bank.
+Shri Mahajan was informed by the Enquiry Officer that in terms of the PNB, OE (D&A) Regulations, the Chief Personnel Manager as well as the undersigned are 'Public Servants' and competent to conduct this enquiry.
+The preliminary hearing, therefore, had to continue.
+The Presenting Officer supplied under noted documents to the Enquiry Officer : - List of witnesses to be produced on behalf of the Disciplinary Authority, - List of documents to be relied upon by the Bank in presenting its case, - Copy of statement in Urdu of one Shri M.M Hanif.
+At the request of Shri Mahajan, the next date of hearing was fixed on February 2, 1979 at HO (Personnel Dn.)
+Shri Mahajan was asked to receive copy of list of witnesses, statement of witnesses and list of documents to be relied upon by the Bank, so that preliminary hearing may be completed today.
+But Shri Mahajan did not accept the same in view of his earlier objection about the competence of the Enquiry Officer.
+Sd/- DP Mahajan Sd/- Sd/- S Kumar  26-12-78 26-12-78 26-12-78"  18.
+Next material proceeding is of 521979.
+On said date petitioner received the list of witnesses of the management, list of documents and copy of statement of Mohd.
+Hanif.
+19.
+On 14th February, 1979, the next date fixed for hearing, documents admitted by the petitioner were taken note of.
+No date was fixed and it was recorded in the order that date of hearing shall be fixed and advised later on.
+Enquiry Officer fixed the next date for hearing being 2231979.
+Before the date, petitioner sent an application along with a medical certificate seeking adjournment.
+Three witnesses from the bank were present.
+In the absence of the petitioner, hearing was adjourned to 1141979.
+On 1141979, the three witnesses of the management were present.
+After statement of PW-1, Sh. ML Dhawan was recorded, petitioner was given an opportunity to cross- examine the witness.
+Petitioner refused to cross-examine the witness.
+Same was duly recorded in the order dictated just after the statement of Sh. ML Dhawan.
+I may note that the petitioner has signed the same.
+Thereafter PW-2, Sh. PP Chawla was examined.
+Strangely enough, after deposition of said witness was completed, petitioner requested for a date to cross-examine him.
+It has been so recorded in the proceedings which have been signed thereafter by the petitioner.
+Thereafter PW-3, Sh. OP Gaur was examined.
+Petitioner requested that matter be adjourned to enable him to prepare the cross- examination.
+Proceedings were adjourned to 1241979,  20.
+On said date i.e. 1241979 petitioner handed over a letter dated 1141979.
+In the said letter, petitioner wrote as under :  "Dear Sir, Reg : Enquiry into charge-sheet dated 7.10.1977.
+The Enquiry in the above case is being conducted by you and the Management is being represented by Shri MK Jain who is an expert in this case besides being a law graduate even; I have no knowledge about domestic enquiries and the formalities connected with it.
+I, therefore, requested to be represented by a legal Adviser which you have not thought fit to permit.
+I shall therefore, be handicapped in my defence and in cross-examining the Management witnesses.
+I request that a copy of statement of each witnesses may please be supplied to me and be permitted to prepare myself for cross- examination of witnesses and permitted me to do so at the later stage.
+I hope you will kindly accept my request, which will be in the interest of justice to me and fair play."
+21.
+Enquiry officer passed the following order :  "You may take assistance of any officer of the bank in your defence during enquiry.
+You will be provided with copies of statement of witnesses made during the enquiry."
+22.
+Two more witnesses, PW-4, Sh. IS Ahluwalia and PW-5, Sh. BD Chawla were examined by the management.
+After the deposition of said witnesses was recorded, as per the record of enquiry, petitioner was called upon to complete his cross-examination of the witnesses.
+Petitioner dropped cross-examination of PW-1 and PW-3.
+He cross-examined PW-4.
+Next date for enquiry was fixed for recording of evidence of Mohd.
+Hanif and the defence of the petitioner.
+On 16th May, 1979, the next date of enquiry since the bank did not produce Sh. Mohd.
+Hanif, evidence of the bank was closed and petitioner was asked to state his defence orally or in writing.
+Petitioner submitted a letter dated 165.1979 with 10 annexures.
+Proceedings show that thereafter, enquiry officer proceeded to dispose of the application filed by the petitioner pertaining to summoning of the record from the bank.
+Enquiry officer recorded that document at serial No. 1 sought to be produced was never received by the bank.
+Document at serial No. 2 was produced and placed on record as P-1.
+Documents at serial No. 3 and 4 were held not to be necessary.
+Documents at serial Nos. 5, 6 and 7 were held to have already come as exhibits in the evidence of the bank.
+Other documents were held not to be relevant.
+Petitioner submitted another letter dated 165.1979 requesting that four witnesses be summoned.
+Order records that the petitioner failed to justify as to what was the relevance of these witnesses and what was he intending to prove through them.
+Request was declined.
+Proceedings were adjourned to 17.5.1979 to enable the petitioner as well as the presenting officer to submit oral/written briefs.
+Petitioner did not appear on 17.5.1979.
+The presenting officer was directed to give his briefs of the case.
+Petitioner was directed to submit his brief within 15 days.
+23.
+Petitioner sent a letter dated 25.5.1979 raising a grievance that he was not permitted to lead evidence.
+Following order was passed on the said letter of the petitioner :  "The charged officer was given opportunity to defend himself.
+He requested production of witnesses whose relevance to the charge he would not explain.
+He has been given time upto 2.61979 to submit his briefs of the case.
+No further action is needed."
+24.
+Petitioner made a request to extend the time to enable him to file his written submissions.
+Time was extended to 661979.
+On 661979 petitioner made another request to grant him further time to file his written submissions.
+Same was declined.
+25.
+Considering the evidence before him, the enquiry officer submitted his report.
+In the said report pertaining to charge No. 1 finding returned is that documentary evidence Exhibit M-7 reveals that 2/3 quotations were intended to be called in connection with renovation and face-lifting of bank premises at branch office, Paltan Bazar, Dehradun.
+Petitioner vide Exhibit M-7A suggested that only 1 or 2 quotations need to be called.
+However, the District Manager vide Exhibit M-7B ordered that four quotations be called.
+Three quotations being Exhibit M-8, M-10 and M-11 were received.
+As per the report, perusal of the quotations revealed that quotation M-8 was submitted on 22101970 by Mohd.
+Hanif but was received on 23101970.
+Other quotations M-10 and M-11 dated 13101970 and 1610.1970 respectively indicated the date of receipt as 27.10.1970.
+Evidence shows that quotation M-8 refers to verbal discussions dated 20101970 with the petitioner whereas the other two quotes refers to letter dated 23.9.1970.
+Further quotation Exhibit M-8 had rates enclosed in single, but the other two had quotations in duplicate.
+The quotations enclosed with Ex.M-8 being Ex.M-9-1 and Ex.M-9-2 bear signature of the petitioner on the space provided for signatures of the District Manager.
+The rates and total cost against each article in the space have been inserted in different inks and different hand-writings.
+Enquiry officer has noted that description of articles at serial No. 11, 12, 13 and 20 of Ex.M-9/1, some details appeared to be in the hand of the petitioner.
+Enquiry officer while assessing the evidence records that the quotation of Mohd.
+Hanif does not refer that it was in response to any letter issued by the office of the District Manager.
+The other two quotations referred to that they were in response to the letter dated 23.9.1970 issued by the District Manager.
+Further, quotations Ex.M-9/1 and Ex.M-9/2 which were the quotations submitted by Mohd.
+Hanif neither bore his signatures not were on printed letter heads.
+Finding returned is that the petitioner had shown favour to Mohd.
+Hanif but the charge that it was the petitioner, who had filled in the quotation stood not proved.
+26 Pertaining to charge No. 2, the enquiry officer likewise considered the documentary evidence being Ex.M-13/1 to Ex.M-13/4, Ex.M-14/1, Ex.M-14/2, Ex.M-15/1, Ex.M-15/2, Ex.M-16/1 and Ex.M-16/2.
+The enquiry officer analysed the dates when the quotations were received and the dates when they were put up for consideration.
+On analysis of the evidence he came to the finding that charge No. 2 also stood proved.
+27.
+Pertaining to charge Nos. 3, 4 and 5, enquiry officer considered the admitted documents and the version of the petitioner.
+The enquiry officer also referred to the statements recorded during preliminary, investigation wherein Mohd.
+Hanif had stated that the petitioner had obtained his signatures on the stamp papers to create a partnership, between Mohd.
+Hanif and petitioner's wife and thereafter got the partnership dissolved.
+The enquiry officer on a consideration of evidence held that the charge No. 3 was fully proved and charge Nos. 4 and 5 were partially proved.
+In recording the findings, the enquiry officer took note of the fact that the petitioner had admitted that Mohd.
+Hanif and his wife had entered into a partnership on 21.2.1976 which was dissolved soon thereafter.
+Enquiry officer held that what was more relevant was not whether petitioner had induced Mohd.
+Hanif to execute the documents or Mohd.
+Hanif was a consenting party, what was relevant was the existence of the documents and benefit flowing to the wife of the petitioner.
+Enquiry Officer has held that though Mohd.
+Hanif was not produced as a witness but PW-1 and PW-2 deposed what was stated to them by Mohd.
+Hanif.
+On the issue following is the pertinent finding returned by the enquiry officer :-  "The consideration for M Hanif to sign the typed stamp paper can either be his willingness to enter into partnership deal which Smt. Kamla Devi w/o the CO to oblige him for favours received from the CO in connection with various jobs done by him for the bank or his complete trust in the CO because of their close contacts due to business dealings with the bank, which the CO betrayed by obtaining his signatures on the pretext of getting his firm approved for Delhi.
+In either case, CO has taken undue advantage of his position."
+28.
+On the basis of the report of the enquiry officer, the disciplinary authority proceeded to inflict, the penalty of removal from service upon the petitioner vide order dated 4101979.
+Same reads as under :  "The Disciplinary Authority under the PNB Officer Employees (Discipline and Appeal) Regulations, 1977 after considering the findings of the Enquiry Officer and the defence submitted by you, has found you guilty of showing favour to M/s M Hanif, Contractor in connection with the Bank work and misusing your official position to derive undue benefit to the advantage of the business firm in which your wife had substantial interests as a partner and decided that you should be removed from the Bank's service.
+Accordingly, you stand removed from the service of the bank from the date of receipt of this letter.
+The Disciplinary Authority has further decided that you should not be entitled to any wages for the period of your suspension other than what has already been drawn by you as subsistence allowance.
+A copy of the Enquiry Report is enclosed."
+29.
+Petitioner preferred an appeal which came to be rejected by the appellate authority vide order dated 1821980.
+Present petition was filed challenging the enquiry, penalty imposed by the disciplinary authority and the order passed by the appellate authority rejecting the appeal.
+Learned counsel for the petitioner at the hearing made the following submissions in support of the case of the petitioner :  "1.
+As per Regulation 6(3) of the PNB Officer Employees (Discipline and Appeal) Regulations, 1977, a statement of allegations in support of the charges was required to be submitted.
+This was not done.
+2.
+Petitioner was not supplied the documents and he was compelled to file his reply to the charge-sheet without looking at the documents.
+There was, therefore, denial of principal of natural justice.
+3.
+Before appointing the enquiry officer, the competent authority did not consider the reply filed to the charge-sheet and, therefore, appointment of the enquiry officer was vitiated.
+4.
+Petitioner was not given adequate opportunity to cross-examine the witnesses.
+5.
+Mohd.
+Hanif was not produced in evidence and, therefore, issue pertaining to Mohd.
+Hanif and petitioner's wife entering into a partnership and Mohd.
+Hanif or the firm MM Decorators being shown undue favour was not proved.
+6 Petitioner was denied the opportunity to engage a legal practitioner because the disciplinary authority was a person with legal background.
+7.
+Petitioner was denied the opportunity to produce defence witnesses.
+8.
+Enquiry report is based on surmises and conjectures.
+9.
+After evidence of the management was closed, since petitioner did not lead any defence evidence, the enquiry officer had to generally examine the petitioner in respect of the circumstances appearing against the petitioner.
+Same was not done.
+Enquiry report is, therefore, vitiated.
+10.
+No show-cause was issued to the petitioner before the disciplinary authority inflicting the penalty."
+30.
+Some of the contentions would require appreciation of Regulation 6 of the PNB Officer Employees (Discipline and Appeal) Regulations, 1977, relevant part of the said regulation may be noted.
+Same is as under :  "6 Procedure for imposing major penalties.
+-  1.
+............. 2.
+............. 3.
+Where it is proposed to hold an inquiry, the Disciplinary Authority shall frame definite and distinct charges on the basis of the allegations against the officer employee and the articles of charge, together with a statement of the allegations, on which they are based, shall be communicated in writing to the officer employee, who shall be required to submit within such time as may be specified by the Disciplinary Authority (not exceeding 15 days), or within such extended time as may be granted by the said Authority, a written statement of his defence.
+4.
+............. 5.
+............. 6 ............. 7.
+The officer employee may take the assistance of any other officer employee but may not engage a legal practitioner for the purpose.
+8.
+............. 9.
+............. 10.
+(a) The inquiring authority shall, where the officer employee does not admit all or any of the articles of charge, furnish to such officer employee a list of documents by which, and a list of witnesses by whom, the articles of charge are proposed to be proved.
+(b) The inquiring authority shall also record an order that the officer employee may for the purpose of preparing his defence : (i) inspect within five days of the order or within such further time not exceeding five days as the inquiring authority may allow, the documents listed; (ii) submit a list of documents and witnesses that he wants for the inquiry; (iii) be supplied with copies of statements of witnesses, if any, recorded earlier and the inquiring authority shall furnish such copies not later than three days before the commencement of the examination of the witnesses by the inquiring authority; (iv) give a notice within ten days of the order or within such further time not exceeding ten days as the inquiring authority may allow for the discovery or production of the documents referred to in item (ii).
+Note : The relevancy of the documents and the examination of the witnesses referred to in item (ii) shall be given by the officer employee concerned.
+11.
+The inquiring authority shall, on receipt of the notice for the discovery or production of the documents, forward the same or copies thereof to the authority in whose custody or possession the documents are kept with a requisition for the production of the documents, on such date as may be specified.
+12.
+On the receipt of requisition under sub-regulation (11), the authority having custody or possession of the requisitioned documents shall arrange to produce the same before the inquiring authority on the date, place and time specified in the requisition.
+13.
+......... 14.
+......... 15.
+......... 16 ......... 17.
+The enquiring authority may, after the officer employee closes his evidence, and shall, if the officer employee has not got himself examined generally question him on the circumstances appearing against him in the evidence for the purpose of enabling the officer employee to explain any circumstances appearing in the evidence against him.
+18.
+........" Contention No. 1  31.
+It is no doubt true that the regulation 6(3) requires furnishing of the statement of allegations in support of the articles of charge.
+We do not have on record that a statement of allegation was provided with the articles of charge.
+This, however, would not vitiate the charge.
+Normally, articles of charge contain the gist of the misdemeanour.
+Statement of allegations substantiated the same.
+Charge-sheet has been reproduced in para 13 above.
+It is apparent that while listing out the charges, factual basis on which each charge is levlled has been made an integral part of the article of charge.
+Purpose of a statement of the allegations to be furnished is to enable the charged employee to understand what is being actually held against him by the management.
+In the instant case, the articles of charge contain the statement of allegations and, therefore, I find that there is compliance with regulation 6(3) in substance, though not in form.
+No prejudice has been shown to have been caused.
+Contention No. 1 is, therefore, rejected.
+Contention No. 2  32.
+Petitioner had sought for documents when charge-sheet was served to enable him to reply to the charge-sheet.
+Regulation 6(10) provides that before commencing recording of evidence, the enquiry officer shall supply to the charged officer the documents relied upon by the management and the list of witnesses.
+The enquiry officer shall also allow inspection of such documents as are shown to be relevant.
+Note appended to regulation 6(10) be noted.
+The regulations do not contemplate inspection of documents at an earlier stage.
+33.
+Proceedings before the enquiry officer shows that opportunity was given to the petitioner to summon records and witnesses.
+Proceedings show that the enquiry officer directed production of the record which was demonstrated by the petitioner to be relevant.
+Petitioner was given an opportunity to summon witnesses, testimony of whom would be relevant.
+Petitioner failed to justify relevance of the witnesses whom he wanted to examine and order to that effect was passed.
+Documents, relevancy whereof was established were brought on record.
+As noted in the preceding part of my judgment in paras 7 and 10, law requires a fair hearing to be given and not the fairest possible hearing to be granted.
+It has been the experience of the court that charged officers prolong the enquiry on technical grounds.
+The service regulations in the instant case provide a right to the employee to summon the record after establishing relevance thereof.
+Relevance has to be established before the enquiry officer.
+Regulations 6(10), 6(11) and 6(12) have been noted above.
+34.
+Regulations aforesaid have not been challenged.
+Even otherwise, I find no infirmity in the same.
+Contention No. 2 raised by the petitioner is accordingly rejected.
+Contention No. 3  35.
+Contention No. 3 raised has neither factual nor legal basis.
+Petitioner was served with a charge-sheet on 24101977.
+After much delay, petitioner sent the reply to the chargesheet on 831978.
+Enquiry officer was appointed on 181978.
+It is not a case where the enquiry officer was appointed before the petitioner sent his reply to the charge-sheet.
+There is no basis for the petitioner to allege that the competent authority appointed the enquiry officer without considering the reply to the charge-sheet.
+Even if it was to be so, it is of no consequence as the right of a delinquent officer is affected after the enquiry is completed.
+Appointment of an enquiry officer does not impinge upon the right of the charged officer.
+Contention No. 4  34.
+Contention No. 4 raised is again without any factual basis.
+Proceedings conducted by the enquiry officer shows that the first proceedings were held on 2612.1978.
+Petitioner refused to receive the documents.
+He received the documents and list of prosecution witnesses at the next hearing on 521979.
+At the next hearing held on 14.2.1979, petitioner admitted certain documents.
+Further hearing was fixed for 2231979.
+At that hearing evidence of the management witnesses had to be recorded.
+Petitioner sought adjournment which was granted.
+Hearing was adjourned for 1141979.
+Three witnesses were examined.
+Petitioner refused to cross-examine PW-1.
+PW-2 and PW-3 were thereafter examined.
+Petitioner requested for date to cross-examine said witnesses.
+Proceedings were adjourned to 1241979.
+Two more witnesses of the management were examined.
+Petitioner dropped cross-examination of PW-1 and PW-3.
+He only cross-examined PW-4.
+It cannot therefore be said that petitioner was denied the right to cross-examine the witnesses.
+I would be dealing with this aspect of the matter a little later in the context of what was required to be established at the enquiry and whether any prejudice has been caused while dealing with contention No. 5.
+Contention No. 5  37.
+Contention No. 5 that Mohd.
+Hanif was not produced in evidence and, therefore, the issue pertaining to the petitioner's wife and Mohd.
+Hanif entering into a partnership and undue benefit was shown to Mohd.
+Hanif and the firm MM Decorators was not proved has to be rejected for the simple reason that in the reply to the charge-sheet, petitioner had admitted the fact that in February, 1976 his wife and Mohd.
+Hanif entered into a partnership, his wife having 90% shares.
+Further, he admitted that on 2151976, Mohd.
+Hanif retired from the partnership and his wife continued the business as sole proprietor thereof.
+As held by the Supreme Court in KL Tripathi's case (Supra) where version given by the party is in dispute, right to cross-examine is a valuable right but where the fact is not in dispute but certain explanation of circumstances is needed, there is no requirement of cross- examination to be fulfilled to justify fair play in action.
+The Supreme Court, in its judgment reported as AIR 1977 SC 1512, State of Haryana v. Rattan Singh held that in domestic enquiry, strict and sophisticated rules of evidence under the Indian Evidence Act may not apply.
+All materials which are logically probative for a prudent mind are permissible.
+Hearsay evidence, provided it has reasonable nexus and credibility, is good evidence at domestic enquiry.
+38.
+Since the petitioner had admitted the fact of his wife and Mohd.
+Hanif entering into a partnership, which partnership firm was given business by the bank and he had also admitted the fact of Mohd.
+Hanif retiring as a partner after, about three months and his wife continuing the business as sole proprietor thereof, it became irrelevant to examine Mohd.
+Hanif.
+Essential ingredient of the charges against the petitioner were not of having exploited Mohd.
+Hanif, but was of showing undue advantage to the firm, MM Decorators in which his wife had 90% share till 2151976 and thereafter she was the sole owner thereof.
+It was also an ingredient of the charge that quid pro quo was the awarding of work at Dehradun and Hardwar to Mohd.
+Hanif.
+If we look to the findings of the enquiry officer, it would be noted that the enquiry officer had to analyse the version on the basis of the admitted documents on record.
+It was a case where basic facts were not in issue.
+What was in issue was the inferences which had to be drawn.
+39.
+At this stage I may deal with the left over part which I had indicated in para 34 above as being dealt with a little later.
+Issue was of denial of the right of cross-examination.
+Once petitioner had admitted that his wife and Mohd.
+Hanif had entered into a partnership under the name and style MM Decorators, which fact was admittedly never brought to the notice of the bank, coupled with the fact that the petitioner admitted that Mohd.
+Hanif retired from the partnership on 2151976, what had to be considered was the justification by the petitioner that his wife being an educated lady had every right to conduct business and that no undue benefit was given to the firm or Mohd.
+Hanif as quid pro quo.
+It is true, petitioner's wife had every right to do business but it was equally the duty of the petitioner to have made known to the bank authorities that MM Decorators was a partnership firm in which his wife had 90% interest till 2151976 and, thereafter, she had 100% interest in the firm.
+The charge of showing undue advantage to the firm, in effect, was that the petitioner was instrumental in awarding work to his wife.
+In view of the fact that a part of the charge was admitted, what remained to be seen was whether petitioner was instrumental in showing undue favour to the firm MM Decorators and to Mohd.
+Hanif.
+The enquiry officer, as noted by me above in paras 25 to 27, has analysed the evidence on the basis of by and large, admitted documents.
+40.
+This court, in exercise of its power under Article 226 of the Constitution of India is not to re-appreciate the evidence.
+The enquiry has not to be directed microscopically to see the small abrasions here and there.
+What has to be seen by this court is whether within the broad parameters of fair hearing has the petitioner got a fair and adequate hearing and whether there is material on record to justify the findings.
+Even, if on a re-appreciation of evidence this court were to come to a contrary conclusion, would be no ground to strike down the result of the enquiry because the jurisdiction of the court is not to sit as a court of appeal but is limited to see whether there is some evidence on record on the basis of which the findings can be sustained.
+Besides, the extracted part of the enquiry report, as reproduced in para 27 above shows that the enquiry officer has dealt with the issue de-hors the version of Mohd.
+Hanif.
+It has been held that in either case, company has taken undue advantage of his position.
+Contention No. 6  41.
+Contention No. 6 is answered by regulation 6(7).
+The same reads as under :  "The officer employee may take the assistance of any other officer employee but may not engage a legal practitioner for the purpose."
+42.
+It is not the case of the petitioner that the presenting officer engaged by the bank was, a lawyer.
+Petitioner would, therefore, have no right to insist that he ought to be defended by a legal practitioner.
+Proceedings of 1241979 show that the petitioner handed over a letter dated 1141979 wherein the enquiry officer passed an order that the petitioner could take assistance of any officer of the bank as per the regulation.
+Contention No. 7  43.
+Contention No. 7 has to be decided on the basis of the service regulations and the proceedings of the enquiry.
+Regulation 6(10) as noted above require the charged officer to summon such witnesses whose relevance is established before the enquiry officer.
+Proceedings of 165.1979 show that the petitioner sought production of documents and four witnesses.
+Order dated 165.1979 records that the petitioner failed to justify as to what was the relevance of the witnesses whom he wanted to summon.
+Indeed, in the writ petition, I find no averments to show as to how order dated 165.1979 was bad.
+No material has been brought on record to show what was the relevance of the witnesses sought to be produced by the petitioner.
+Contention fails.
+Contention No. 8  44.
+Contention No. 8 is that the enquiry report is based on surmises and conjectures and is without any basis.
+In paras 25 to 27 above, I have briefly noted the basis on which the enquiry officer has reached the findings.
+Indeed, in view of the fact that the petitioner had admitted that his wife and Mohd.
+Hanif had entered into a partnership under the name and style MM Decorators and that on 2151976 Mohd.
+Hanif had resigned from the partnership, the enquiry had to be within a limited sphere.
+The stray observation in the enquiry report that `to the enquiry officer it appeared that handwriting was that of the petitioner' would not render the report as based on surmises and conjectures.
+Report of the enquiry has not to be read like a judgment passed in a court of law.
+The sum and substance of the enquiry proceedings, as reflected on being analysed under the enquiry report has to be seen.
+Indeed, the enquiry officer has analysed documentary evidence and has drawn the conclusions therefrom.
+Besides, said observation pertains to charge No.
+I where the finding is that latter part of the charge that petitioner filled the quotation has not been proved.
+Contention No. 8 is accordingly rejected.
+Contention No. 9  45.
+Contention urged is that since petitioner led no evidence, as per regulation 6(17), the enquiry officer was obliged to examine the petitioner on the circumstances appearing against him.
+This was not done.
+Except for stating that petitioner was not examined qua the circumstances appearing against him, counsel could take the point no further.
+What was the prejudice caused was not shown.
+Besides, the regulation uses the word "may".
+It reads : 'The enquiring authority may..........generally question him on the circumstances appearing against him in evidence.'
+The contention is rejected.
+Contention No. 10  46 Petitioner, contends that no show-cause notice was issued by the disciplinary authority nor was the enquiry report submitted to enable the petitioner to furnish his reply to be considered by the disciplinary authority.
+It is not disputed that the service rules do not contemplate any such notice to be served.
+The enquiry proceedings and the penalty proceedings came to an end in the year 1980.
+It was only in the year 1991 that the Supreme Court in the judgement reported as Union of India v. Mohd.
+Ramzan, 1991(1) SCT 111 (SC) : AIR 1991 SC 471 held that principles of natural justice required putting the delinquent officer to notice by supplying the enquiry report and issuing a notice to show-cause before inflicting penalty.
+Decision was specifically made prospective.
+Contention No. 10, therefore, is to be rejected.
+41.
+Writ petition filed is accordingly dismissed.
+However, there shall be no order as to costs.
+Petition dismissed.

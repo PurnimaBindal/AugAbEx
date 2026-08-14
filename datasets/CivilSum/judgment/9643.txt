@@ -1,0 +1,70 @@
+N Dhinakar, J - An interesting question : Whether the offence under Section 138 of the Negotiable Instruments Act would involve moral turpitude.
+2.
+To discuss the above question we may narrate a few material facts clipping out unnecessary details.
+Appellant is a discharged employee of the State Bank of Travancore, who before his discharge, was working as Record Keeper in one of its branches.
+He issued a cheque to one person which on presentation was bounced back, and he did not pay the cheque amount even after the receipt of a notice.
+So a complaint was filed by the payee for the offence under Section 138 of the Negotiable Instruments Act (for short 'the Act').
+The prosecution ended in conviction of the appellant and in appeal, the sentence imposed was modified and he was directed to pay a fine of Rs. 5,000/- and to pay a sum of Rs. 40,000/- as compensation to the complainant in the case and in default of payment of fine, he was to undergo imprisonment for three months.
+As he did not pay the fine and compensation he was sent to jail and he suffered imprisonment for the entire period.
+3.
+Appellant was discharged from service thereafter holding that his act in issuing a cheque without sufficient funds is an offence involving moral turpitude warranting termination of his services in terms of Section 10(b)(i) of the Banking Regulation Act.
+As against the said discharge order appellant has filed the original petition, but it was dismissed by the learned Single Judge and hence this writ appeal.
+4.
+Appellant contended that Section 138 of the Act is not an offence which involves moral turpitude.
+Even if it is so, we were not inclined to use our discretion in favour of the appellant as the payee remained unpaid.
+Learned counsel for the appellant then produced documents to satisfy us that the appellant has paid the entire amount covered by the cheque to its payee.
+Hence, we are not disposed to consider the question raised in this appeal.
+Per contra, counsel for the respondent Bank tried to justify the action adopted by the Bank in dismissing the appellant from service in view of clause 192 of the Bipartite agreement (between the unions of employees of the Bank and the management) and Section 10(b)(i) of the Banking Regulation Act.
+Clause 192 of the Bipartite agreement reads as follows :  "By the expression 'offence' shall be meant any offence involving moral turpitude for which an employee is liable to conviction and sentence under any provision of law".
+Section 10(i)(b)(i) of the Banking Regulation Act reads thus: "No banking company shall employ or continue the employment of any person (i) who is, or at any time has been adjudicated insolvent, or has suspended payment or has compounded with his creditors, or who is, or has been, convicted by a criminal court of an offence involving moral turpitude; or" A reading of the above clause in the Bipartite agreement and the section in the Banking Regulation Act leaves no doubt in our mind that if an employee is convicted of an offence involving moral turpitude then he is liable to be discharged from service.
+5.
+The contention of the respondents' counsel is that issuing a cheque without sufficient funds in the bank is an act of cheating.
+6.
+We are of the view that an offence under Section 138 of the Act need not necessarily take within its wings the offence of cheating as defined in Section 415 of the Indian Penal Code.
+A cause of action for a criminal prosecution under Section 138 of the Act will arise, not on the date of issuance of the cheque, but only when the drawer of the cheque fails to pay the amount within the statutory period after he is called upon by the payee through a notice.
+A person sometimes may issue a cheque knowing that there is no sufficient fund in his account but still with a hope that he would be able to make arrangements with his bankers to honour the cheque as and when it is presented by the drawee.
+Section 138 is in fact incorporated in the Negotiable Instruments Act only to give more credibility for cheques and not to cover the areas which are already within the jurisdiction of criminal court for the offence of cheating.
+So, the question whether the act of issuing a cheque without sufficient funds will involve moral turpitude has to be considered de hors the element of cheating.
+7.
+Moral turpitude is not defined in the Banking Regulation Act or in any other penal Statute.
+8.
+In Edition I - 1976 "Words and Phrases" (Permanent Edition) it is defined as anything contrary to justice, honesty, modesty, or good morals.
+'Moral turpitude' as regards contribution between tort-feasors, refers largely to moral character and state of mind.
+It has reference largely to moral character and state of mind and known or intentional violation of statute may or may not show moral turpitude.
+It is a vague term, and its meaning depends to some extent on the state of public morals; it is anything that is done contrary to justice, honesty, principle, or good morals; and act of baseness, vileness, or depravity in the private and social duties which a man owes to his fellow man, or to society in general, contrary to the accepted and customary rule of right and duty between man and man; it implies something immoral in itself, regardless of fact whether it is punishable by law.
+9.
+In Black's Law Dictionary, 5th Edition, it is defined as the quality of a crime involving grave infringement of the moral sentiment of the community as distinguished from statutory mala prohibita.
+In Prem's Judicial Dictionary, Vol. II it is stated that the test which should ordinarily be applied and which should in most cases be sufficient for judging whether a certain offence does or does not involve moral turpitude appears to be (1) whether the act leading to a conviction was such as could shock the moral conscience of society in general, (2) whether, the motive which led to the act was a base one and whether on account of the act having been committed the perpetrator could be considered to be of a depraved character or a person who was to be looked down upon by the society.
+Every false statement made by a person may not be moral turpitude, but it would be so if it discloses vileness or depravity in the doing of any private and social duty which a person owes to his fellow men or to the society in general.
+It implies depravity and wickedness of character or disposition of the person charged with the particular conduct.
+We find a similar definition in KJ Aiyar's Judicial Dictionary (9th Edition).
+If an act is unintentionally committed through an error of judgment it may not involve moral turpitude.
+10.
+Corpus Juris Secundum on which reliance was placed by the appellant's counsel states that moral turpitude implies something immoral in itself, regardless of whether it is punishable by law as a crime, since an act may involve moral turpitude even though it is not a crime.
+(vide Page 1203, Vol. 58).
+It must not merely be mala prohibita, but the act itself must be inherently immoral.
+It further states that the term moral turpitude "does not refer to conduct which, before it was made punishable as a crime, was not generally regarded as morally wrong or corrupt, as offensive to the moral sense as ordinarily developed".
+Penal statutes always make a distinction between intentional and unintentional acts and the punishments also vary.
+A person may cause the death of another by his rash and negligent driving, which act, though may be an offence, does not involve moral turpitude, but if a person with a deliberate intention drives a vehicle to kill another, it is an offence which involves moral turpitude.
+Though the act and the result of that act may be the same in both, the main and important difference between the two is the lack of intention in the former, and the presence of it in the latter.
+At this stage, we may say that prior to the insertion of Section 138 in the Act, issuance of a cheque without sufficient funds was not made an offence unless it falls within Section 415 of IPC.
+As the act of issuing a cheque without sufficient funds was not generally regarded as morally wrong or corrupt we are fortified in our view, that the offence under Section 138 will not normally involve moral turpitude.
+11.
+One of us (Thomas, J.) had occasion to consider this aspect in Joy v. State of Kerala, 1991(1) KLT 153.
+It was in the wake of conviction under the Kerala Gaming Act when some members of the Board of Directors of a Co- operative Banking Society were declared disqualified.
+Relying on the Supreme Court judgment in re "P" an advocate (AIR 1963 SC 1313) it was pointed out that the expression "moral turpitude" should not receive a narrow construction.
+The position held by the Single Judge in Joy v. State of Kerala (cited supra) is this :  "The position seems to be this: the question whether a particular offence involves moral turpitude or moral delinquency has to be examined on the facts of each case.
+It is not merely the section of offence which matters much.
+Facts on which the offence is made out have also some bearing on the answer to the question."
+12.
+We approve the said principle and hold that the question whether an offence would involve moral turpitude has to be decided on the facts of each case.
+All offences do not necessarily involve moral turpitude.
+Section 138 of the Act is no exception to the said principle.
+On the facts of the case, we find no scope for holding that the offence found against the appellant has any reflection of moral turpitude.
+13.
+It was then contended by counsel for the respondents that appellant should have raised an industrial dispute instead of invoking this Court's jurisdiction under Article 226 of the Constitution.
+But now we see no reason why we should not exercise the power of the High Court under Article 226 of the Constitution, as the order of dismissal has already visited the appellant and as we hold the view that the offence found would not involve moral turpitude.
+There is no need now to direct the appellant to go to other remedies.
+14.
+For the above reasons, we allow this writ appeal and we quash Ext.P.2 order 27.7.1993 and Ext.P.5 dated 1011994.
+We direct the respondents to reinstate the appellant in service forthwith with all consequential benefits without prejudice to the rights of the respondents to proceed against him in any other matter.

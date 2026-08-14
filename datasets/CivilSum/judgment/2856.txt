@@ -1,0 +1,98 @@
+Permod Kohli, J - This appeal is directed against order dated 28.2.2003 passed by the Ist Addl.
+District Judge, Jammu whereby an application for condonation of delay filed by the Union of India under-section 5 of the Limitation Act has been dismissed and consequently an application under Order 9 Rule 13 CPC was also dismissed being barred by time.
+2.
+Mr. JP Singh, learned counsel appearing for the respondents has raised a preliminary objection regarding the maintainability of the appeal.
+According to him no appeal lies against an order dismissing application for condonation of delay.
+Such an order is not appealable either under section 96 or Order 43, Rule 1 CPC, which specifies the appealable orders.
+Reliance is placed on AIR 1986 (P&H) 3 and 1990 KLJ 280.
+This contention of Mr. Singh is contested by Mr. Nanda, appearing for the appellant and he submits that rejection of an application under section 5 of the Limitation Act and consequently rejection of Order 9, Rule 13 CPC application is an appealable order under Order 43(d).
+3.
+I have heard the learned counsel for the parties.
+4.
+An interesting issue has been raised by Mr. Singh regarding maintainability of the appeal.
+It is true that an order passed on an application under section 5 of the Limitation Act seeking condonation of delay is not appealable, in both the situations where the application is allowed or where it is rejected, if considered in isolation.
+The relevant question that falls for consideration is what is the impact of this order on the lis and the rights of the parties as also the consequences that follow the order.
+The provisions of the Limitations Act only govern the question of limitation, whereas the rights of the parties are decided under other substantive laws.
+Right of appeal is also governed under the provisions of the Code of Civil Procedure and not by the Limitation Act.
+6.
+In the present case for the purpose of considering the controversy involved in this petition, section 3 and section 5 of the J&K Limitation Act are relevant.
+The same are accordingly re-produced :-  "3.
+Dismissal of suits, etc. instituted, etc. after period of limitation - Subject to the provisions contained in sections 4 to 25 (inclusive) every suit instituted, appeal preferred, and application made, after the period of limitation prescribed therefore by the first Schedule shall be dismissed, although limitation has been set up as a defence.
+5.
+Extension of period of certain cases - An appeal or an application for a review of a judgment or for leave to appeal or an application to set aside an order of dismissal of a suit for plaintiff's default or an application to set aside a decree passed ex parte in an original suit or appeal or an application to bring the heirs of a deceased party on the record or an application to set aside an order of abatement of a suit or appeal or any other application to which this section may be made applicable by or under an enactment for the time being in force may be admitted after the period of limitation prescribed therefore, when the appellant or applicant satisfies the Court that he had sufficient cause for not preferring the appeal or making the application within such period."
+6.
+Section 3 provides that every suit, appeal and application instituted, preferred or made after the period of limitation prescribed, therefore, shall be dismissed.
+Section 5 empowers the Court to entertain, an appeal and application beyond the period of limitation as prescribed under law subject to the condition that the Court is satisfied that there had been sufficient cause for not preferring an appeal or application, within the prescribed time.
+Section 5 is therefore, an exception to the general rule contained in Section 3.
+In the present case, I am not concerned with the suit where appeal or application is preferred beyond the period of limitation and no application under section 5 is preferred seeking condonation of delay, every such appeal/application is required to be dismissed under section 3 of the Act.
+7.
+Now the question that becomes important is where an application has been filed and rejected whether the consequence will be the same or different.
+Section 5 cannot be read in isolation.
+It has to be read conjunctively with section 3.
+Where application under section 5 is not filed or where application has been filed and rejected the natural consequence would be the dismissal of appeal or application as provided under section 3 of the Limitation Act.
+If the final out-come of the rejection of application under section 5 is dismissal of application under Order 9, Rule 13 of Civil Procedure and the order of dismissal is appealable under Order 43 CPC, there is no reason why such an order will not become appealable, merely because the Court has only rejected application under section 5 of the Limitation Act.
+8.
+Mr. JP Singh, learned counsel for the appellants has relied upon the judgment reported as AIR 1986 (P&H) 3, wherein a Division Bench of the said Court held as under :  "From the language of the Section 5 of the Act of 1963 it is clear that the appeal cannot be admitted to hearing unless the Court finds that there were sufficient grounds for not filing the appeal within time.
+Rule 9 of Order 41 relates to registry of memorandum of appeal and Rule 11 of the same Order to dismiss appeal without serving notice on the respondent or his pleader.
+A conjoint reading of both the rules show that the Court can dismiss an appeal without issuing notice to the other-side, if the memorandum of appeal is admitted for consideration.
+However, if the appeal cannot be admitted for consideration for the reasons that it is barred by limitation, the question of adjudication by the Court on merits under Rule 11 cannot arise.
+Thus, if the appeal is dismissed on the ground of limitation, the question of adjudication by the Court on merits cannot be said to have arisen.
+Therefore, such an order cannot be said [sic]."
+9.
+Though this judgment says that the order passed under section 5 of the Limitation Act is not appealable, the argument that weighed with the Court was that unless application under section 5 is allowed, the main appeal/application is not taken on record and therefore, the same is not decided.
+I respectfully disagree with the argument advanced in the afore-said judgment and the ratio resulting there-from.
+The Hon'ble Judges in the afore- said judgment only took note of section 5 as an independent provision in the Limitation Act.
+However, under the Scheme of the Limitation Act section 5 or for that matter the other provisions contained in the Limitation Act from Sections 4 to 25 cannot be divorced from the principal section i.e.
+Section 3 of the Limitation Act, which is the soul of law of limitation.
+Section 3, is the principal section in the Act which prescribes the consequence of limitation and all other sections from Sections 4 to 25 are only exception to the same, therefore, no provision of law, particularly when it is an exception to the principal provision can be considered in its isolation.
+Therefore, the judgment referred to by Mr. Singh to my mind does not lay down the correct law.
+10.
+The other view which I intend to take in the present case is supported by the Andhra Pradesh High Court.
+Similar issue came up before the said Court in case Babumiyan v. Smt. K Seethayamma, AIR 1985 AP 135.
+In this case a claim petition was filed beyond the period of limitation accompanied with an application for condonation of delay in terms of sub-section (3) of Section 110-A of the Motor Vehicles Act 1939.
+The condonation application came to be rejected by the Court and an appeal was preferred under section 10(d)(i) of the Motor Vehicles Act.
+The maintainability of the appeal was challenged on the same ground that the appeal is not maintainable.
+On consideration of the issue the Court held :  "xx xx xx The order refusing to condone the delay in filing the claim petition has the effect of finally disposing of the original petition.
+Such an order, can therefore, be treated as an award and hence it is appealable.
+But the order condoning the delay will not have the effect of terminating the claim petition.
+Hence, it cannot be treated as an award and such an order is therefore, not appealable."
+11.
+In two recent judgments of the Apex Court a similar question came up for consideration.
+In case Essar Constructions v. NP Rama Krishna Reddy, 2000(3) R.C.R.
+(Civil) 281 : (2000) 6 SCC 94, an application under section 30 of the Arbitration Act of 1940 was filed beyond the period of limitation accompanying with an application under section 5 of the Limitation Act seeking condonation of delay under the Limitation Act of 1963, which was dismissed by the trial Court.
+A revision under section 115 CPC filed before the High Court was allowed and delay was condoned.
+The order of the High Court exercising revisional power was challenged before the Apex Court.
+The question of maintainability of the revision petition also came to be considered by the Apex Court.
+The Hon'ble Supreme Court considered the question of maintainability of the appeal under section 39(1)(vi) of the Arbitration Act where application under section 5 of the Limitation Act for condoning the delay is dismissed.
+The Apex Court accordingly held -  "20.
+Limitation, like the question of jurisdiction may be provided for in a separate statute but it is a defence available in the suit, appeal or application.
+When the defence is upheld it is the suit or the appeal or the application itself which is dismissed.
+Of course, the question as far as appeals are concerned may be debatable having regard to the provisions of Order 41 of the Code of Civil Procedure relating to admission of appeals as an appeal may not be admitted at all because it is barred by limitation.
+We express no final view in the matter.
+But there is no corresponding requirement for admission of applications or suits after overcoming the barriers of limitation.
+A suit which is dismissed on the ground of limitation may be appealed against as a decree.
+By the same token an application under section 30 which is dismissed on the ground of limitation is a refusal to set aside the award."
+21.
+Section 39(1)(vi) of the Arbitration Act, 1940 does not indicate the grounds on which the Court may refuse to set aside the award.
+There is nothing in its language to exclude a refusal to set aside the award because the application to set aside the award is barred by limitation.
+By dismissing the application albeit under section 5, the assailability of the award is concluded as far as the court rejecting the application is concerned.
+Ultimately, therefore, it is an order passed under section 30 of the Arbitration Act though by applying the provisions of the Limitation Act.
+25.
+Reading Section 39(1)(vi) and Section 17 together, it would, therefore, follow that an application to set aside an award which is rejected on the ground that it is delayed and that no sufficient cause has been made out under section 5 of the Limitation Act would be an appealable order."
+12.
+In a similar case reported as Union of India and others v. Manager M/s Jain and Associates, 2001(2) R.C.R.
+(Civil) 119 : (2001) 3 SCC 277, the Apex Court while examining the maintainability of appeal under section 39(1)(vi) of the Arbitration Act, 1940, also held :-  "19.
+Further, large part of the controversy involved in this appeal is covered by the decision rendered by this Court in Essar Construction v. NP Rama Krishan Reddy.
+The Court observed that because of the applicability of Section 5 of the Limitation Act, 1963, if the Court has not pronounced judgment for whatever reason, although the time prescribed for making the application has expired and an application for setting aside the award is made with a prayer for condonation of delay, the Court cannot pronounce judgment until the application is rejected.
+The Court also observed that even after a decree is passed under section 17, an application under section 30 can be entertained provided sufficient cause is established.
+In either case, the rejection of the application would be a refusal to set aside the award.
+In case where such application is rejected on the ground that it is delayed and no sufficient cause has been made out under section 5 of the Limitation Act, it would be an appealable order under section 39(1)(vi) of the Act."
+13.
+After considering the ratio of the judgments referred to above, I am of the opinion that an order rejecting the application under section 5 of the Limitation Ac or for that matter condonation under any other law merges with the order that may be ultimately passed in application or the appeal.
+The consequence of dismissal of condonation application is rejection of application or the appeal as the case may be.
+Therefore, the out-come of such rejection is up-holding an order subject matter of appeal or the application.
+In the present case, rejection of application for condonation of delay has culminated into rejection of application under Order 9, Rule 13 CPC.
+Admittedly, an order rejecting application under Order 9, Rule 13 CPC is appealable under Order 43(d).
+Thus, I am of the considered opinion that the order under appeal is appealable under Order 43(d) of Code of Civil Procedure.
+The appeal is accordingly admitted to hearing.
+Appeal allowed.

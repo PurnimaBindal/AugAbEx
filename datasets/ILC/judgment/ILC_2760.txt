@@ -1,0 +1,57 @@
+IN THE HIGH COURT OF DELHI AT NEW DELHI Reserved on: 16th July 2021 Pronounced on: 21st October 2021 ARB.P.
+164 2021 ISGEC HEAVY ENGINEERING LTD ..... Petitioner Through: Mr. Shambu Sharan Advocate.
+INDIAN OIL CORPORATION LIMITED Through: Mr. Neelanjan Deka Advocate.
+..... Respondent HON BLE MR. JUSTICE SANJEEV NARULA JUDGMENT VIA VIDEO CONFERENCING] SANJEEV NARULA J. The present petition under Section 11 and of the Arbitration and Conciliation Act 1996seeks appointment of an Arbitrator in terms of Clause 9.0.0.0 of the General Conditions of Contract hereinafter ‘GCC’] incorporated by way of reference under a Letter of Award dated 22nd September 2016 whereunder a Work Order was issued to the Petitioner for carrying out the works of “Residual Process Design Engineering Detailed Engineering Procurement Supply Fabrication Inspection Transportation Storage Construction Installation Testing Pre Commissioning Commissioning Performance Guarantee Test Run Operation and Maintenance of 80 TPAPetcoke Fired CFBC Boiler 1 Work Order No. 24875185.
+ARB.P.
+164 2021 at Guwahati Refinery” of the Respondent.
+The arbitration clause contained in the GCC reads as under: “9.0.0.0 ARBITRATION 9100 Subject to the provisions of Clauses 6.7.1.0 6720 and 9110 hereof any dispute arising out of a Notified Claim of the CONTRACTOR included in the Final Bill of the CONTRACTOR in accordance with the provisions of Clause 6.6.3.0 hereof if the CONTRACTOR has not opted for the Alternative Dispute Resolution Machinery referred to in Clause 9.2.0.0 in respect thereof and any dispute arising out of an amount claimed by the OWNER against the CONTRACTOR shall be referred to the arbitration by an Arbitral Tribunal comprised of 3arbitrators selected in accordance with the provisions of the Arbitration & Conciliation Act 1996.
+It is specifically agreed that the OWNER may prefer its Claim(s) against the CONTRACTOR as counter claim(s).
+The CONTRACTOR shall not however be entitled to raise as a set off defence or counter claim any claim which is not a Notified Claim included In the CONTRACTOR s Final Bill in accordance with the provisions of Clause 6.6.3.0 hereof.
+9110 The provisions of the Indian Arbitration & Conciliation Act 1996 and any re enactment(s) and or modification(s) thereof and of the Rules framed thereunder shall apply to arbitration proceedings pursuant hereto subject to the following conditions: a) The Arbitrator shall give his Award separately in respect of each Claim and Counter Claim and b) The Arbitrator shall take into account any decision opinion or determination howsoever expressed which is stated to be final and binding to the CONTRACTOR in terms of the contract documents in Judging any issue or dispute.
+9.1.2.0 The venue of the arbitration shall be New Delhi provided that the Arbitrators may with the consent of the OWNER and the CONTRACTOR agree upon any other venue.” Pursuant to the LoA a ‘Formal Agreement for Work’ dated 26th September 2016 was executed at Guwahatiissued a suspension order dated 06th August 2018 2 which lead to Petitioner ie ISGEC Heavy Electrical Ltd hereinafter ‘ISGEC’] exercising its right to terminate the Contract vide letter dated 24th December 2019.
+Later ISGEC invoked arbitration on 23rd October 2020 and nominated its Arbitrator.
+IOCL replied vide letter dated 23rd November 2020 contending that the invocation was unsustainable and premature.
+In these circumstances ISGEC has filed the present petition.
+CONTENTIONS OF THE PARTIES 5.
+Mr. Neelanjan Deka counsel for IOCL does not dispute the existence of the Arbitration Agreement however he opposes the present petition by making the following submissions: 51 The present petition is not maintainable as this Court does not have the territorial jurisdiction to appoint an Arbitrator.
+In view of Article 4 of the Contract the court of competent jurisdiction would be the civil court at Guwahati and that alone would have jurisdiction to entertain the present petition.
+52 All activities pertaining to the Contract viz. floating of tender allotment of work placing of purchase order signing and execution of Contract execution of work etc. has been carried out in Guwahati There is no connection with New Delhi so as to confer jurisdiction 53 Clause 9.1.2.0 of the GCC stipulates that the ‘venue’ of arbitration 2 Whereby IOCL suspended performance of the Contract work owing to non receipt of approval permission from Pollution Control Board of Assamof the Act to contend that the venue of arbitration can be changed with the consent of the parties.
+Thus it cannot be said that parties have agreed to subject themselves to the exclusive jurisdiction of the court(s) at Delhi.
+The intention of the parties is to confer exclusive jurisdiction on the competent civil courts at Guwahati which is also evident from the afore noted facts.
+Per contra Mr. Shambu Sharan counsel for the Petitioner submits that the jurisdiction to entertain the present petition is with this Court as the seat of arbitration in terms of Clause 9.1.2.0 is at New Delhi.
+He argued that the law on this issue stands settled by the Supreme Court in BGS SGS Soma JV v. NHPC Ltd.3 and the said decision is squarely applicable to the facts of the case.
+He further argued that ‘venue’ provided in the aforenoted clause is akin to defining the seat of arbitration.
+Reliance was also placed upon Inox Renewables Ltd v. Jayesh Electricals Ltd.4 3 4 SCC 234.
+The Court has considered the contentions of the counsels.
+In the ARB.P.
+164 2021 instant case Clause 9.1.2.0 of the GCC provides that the ‘venue’ of arbitration shall be New Delhi.
+The said clause also provides that the Arbitrators may with the consent of the Ownerand the Contractor IGSEC) agree upon any other venue.
+Relevant portion of the aforesaid clause reads as under: “9.1.2.0.
+The venue of arbitration shall be New Delhi provided that the Arbitrators may with the consent of the OWNER and the CONTRACTOR agree upon any other venue Emphasis supplied] There can be no doubt on the proposition that the word ‘seat’ and ‘venue’ have different connotations.
+They are not synonymous in so far as the arbitration proceedings are concerned although they have often been used interchangeably.
+The law on ‘seat’ and ‘venue’ of arbitration proceedings is fairly well defined in view of several judgments of the Supreme Court.
+The Supreme Court has clearly held that where the parties have determined the ‘seat’ in their agreement the same is akin to conferring 5 The expression ‘venue’ and exclusive jurisdiction on the court(s) thereof ‘seat’ do not find any mention under the Act.
+The expression used under the Act is ‘place’ which finds mention under Section 20 of the Act.
+In BALCO v. Kaiser Aluminium Technical Services Inc 6 the Apex Court made it clear that sub sectionsandof Section 20 where the word ‘place’ is used refer to juridical ‘seat’ whereas in sub sectionof Section 20 the word ‘place’ is equivalent to ‘venue’ i.e. the location of the meeting of 4 2021 SCC OnLine SC 448.
+5 See: Indus Mobile Distribution Private Limited v. Datawind Innovations Private Ltd. AIR 2017 SC 2105 and BGS SGS SOMA9 SCC 552.
+7 See: Para 18 of Indus Mobilethe Arbitration Agreement therein provided that “arbitration proceedings shall be held at New Delhi Faridabad”.
+Consequent to disputes between the parties the arbitral process was invoked and the Arbitral Tribunal held proceedings and delivered the award at New Delhi.
+A Section 34 petition was filed by NHPC at Faridabad.
+Later NHPC filed an appeal before the High Court of Punjab and Haryana wherein the same was allowed holding that New Delhi was only the convenient venue for holding arbitral proceedings.
+Before the Supreme Court BGS contended that the Arbitral Tribunal conducted the sittings at Delhi and delivered the award at Delhi thus the juridical ‘seat’ of arbitral proceedings was New Delhi not Faridabad.
+The Supreme Court laid down the test for interpretating the juridical ‘seat’ of arbitration proceedings in para 61 given as under: “61.
+It will thus be seen that wherever there is an express designation of a ‘venue’ and no designation of any alternative place as the ‘seat’ combined with a supranational body of rules governing the arbitration and no other significant contrary indicia the inexorable conclusion is that the stated venue is actually the juridical seat of the arbitral proceeding.” In BGS SGS Somathe Supreme Court after considering the conspectus of judgments therein also noted that whenever in an arbitration clause there is a designation of someplace as being the ‘venue’ of the arbitration proceedings the expression ‘arbitration proceeding’ would make it clear that the venue is really the ‘seat’ of arbitration proceedings8 At the same time in para 82 the court also touched upon the aspect of ‘contrary 8 See: Para 82 of BGS SGS Somaof the Act which provides that notwithstanding anything contained in Section 20 1) and the Arbitral Tribunal can meet at any place it considers appropriate for hearing witnesses experts etc.
+In fact the language used in the present clause seems to be a replication of the language used in Section 20(3).
+For this reason as well the Court is inclined to agree that in the present case Clause 9.1.2.0 of the GCC specifies New Delhi only as a geographically convenient place where Arbitral Tribunal can hold meetings.
+13.
+The above position gets reinforced upon a plain reading of Article 4 of the Contract.
+This clause vests exclusive jurisdiction at the civil court(s) at Guwahati for all actions proceedings including arbitration and reads as under: “ARTICLE 4 JURISDICTION: 41 Notwithstanding any other court or courts having jurisdiction to decide the question(s) forming the subject matter of the reference if the same had been the subject matter of a suit any and all actions and proceedings arising out of or relative to the contract shall lie only in the Court of Competent where this contract has Civil Jurisdiction in this behalf at GUWAHATI been signed on behalf of the Owner) and the said Court(s) shall have jurisdiction to entertain and try such actions and or proceeding(s) to the exclusion of all other Courts.” 14.
+As opposed to the general stipulation in Clause 9.1.2.0 Article 4 is ARB.P.
+164 2021 worded in clear unambiguous and directory terms.
+In fact it serves as the ‘contrary indica’ which further demonstrates that the ‘venue’ in Clause 9.1.2.0 is only a physical place of meeting under Section 20(3) of the Act.
+Article 4 leaves no room that all actions and proceedings arising out of the Contract including arbitration shall have to necessarily be tried by the civil court(s) at Guwahati exclusively and does not lead to jurisdiction being vested in the court(s) at Delhi.
+15.
+For the reasons laid out above this Court is of the view that Clause 9.1.2.0 only provides a ‘venue’ of arbitration and the juridical ‘seat’ shall vest with the civil court(s) at Guwahati.
+In view of the above this Court does not have the jurisdiction to entertain the present petition and accordingly the same is dismissed.
+OCTOBER 21 2021 SANJEEV NARULA J ARB.P.
+164 2021

@@ -1,0 +1,70 @@
+IN THE HIGH COURT OF DELHI AT NEW DELHI Pronounced on: 7th January 2022 CS383 2020 & CC(COMM) 4 2021 KONINKLIJKE PHILIPS N.V.
+Plaintiff Through: Mr. Chander Lall Senior Advocate with Mr. Ashutosh Kumar Mr. Swamil Dey Ms. Vrinda Bagaria Mr. Munesh Sharma Mr. Vinod Chauhan & Ms. Ananya Chugh VIVO MOBILE COMMUNICATION CO. LTD & ORS.
+Through: Mr. Saikrishna Rajagopal Ms. Julien George Ms. Anu Paarcha Mr. Arjun Gadhoke Mr. Avijit Kumar Mr. Aniruddh Bhatia Mr. Skanda Shekhar Ms. N Parvati and Mr. Vivek Ayyagari Advocates for D 1 and D 2 Ms. Nupur Aggarwal and Mr. Maanav Kumar Advocates for D 3 HON BLE MS. JUSTICE ASHA MENON O R D E R IA 3048 2021Act 2018 read with Section 151 CPC seeking discovery by interrogatories and production of certain documents from the defendants No.l and 2) This application has been filed by the plaintiff under Order XI CS383 2020 Rules 2 & 14 CPC as amended by the Commercial CourtsAct 2018 read with Section 151 CPC seeking discovery by interrogatories and production of certain documents from the defendants No1 and 2.
+It may be mentioned here that the plaintiff alleges that the defendants were infringing five of its patents namely Indian Patent Number: IN 275419: A method of operating a radio communication apparatus and a radio communication apparatus ii) Indian Patent Number: IN 271469: A method of multiplexing data packets having different assigned priorities (iii) Indian Patent Number: IN 228133: A method of operating a radio communications system (iv) Indian Patent Number: IN 221703: A method of operating a radio communication system v) Indian Patent Number: IN 211041: A radio communication system and a method for operating the same.relate to four different technologies used in the field of telecommunications namely Universal Mobile Telecommunication System technology (ii) High Speed Packet Access technology Evolved High Speed Packet Access technology and Long Term Evolution LTE) technology.
+These are all technologies which the plaintiff claims have been standardized by Third Generation Partnership ProjectCS383 2020 and adopted by various standard setting organizations Standard Telecommunications Standards Instituteand LTE technologies and result in infringement of the suit patents until the defendants have procured Fair Reasonable and Non Discriminatorylicense from the plaintiff.
+Inter alia damages have also been sought for the past use of all the patents including those that have since expired.
+5.
+Mr. Chander Lall learned senior counsel appearing for the plaintiff has submitted that the defendants in their written statement have stated that they were not liable to make any payment to the plaintiff even under FRAND and as they had obtained their chipsets from Qualcomm and MediaTek the defendants were not liable for any infringement.
+It is in these circumstances the instant application has been moved for production of the license agreements executed between the defendants and Qualcomm and other companies as it would help to determine the truth in the claim of the defendants.
+Thus the lis could be determined from the disclosure made.
+It was submitted that the interrogatories were CS383 2020 therefore to be allowed and the question of relevancy need not be considered at this stage.
+On the other hand learned counsel for the defendants has submitted that an application under Order XI Rules 2 & 14 CPC as amended by the Commercial CourtsAct 2018 read with Section 151 CPC cannot be routinely allowed and the court had to consider whether the answers and documents sought were necessary for the determination of the dispute.
+It was submitted that since it was the case of the plaintiff that their patents were standard essential patents it was necessary to disclose and explain every stage of such mapping of the industry standards with their patents.
+The burden was on the plaintiff to prove its case and the onus could not be shifted by asking questions that also infringed on industry confidentiality by means of the present application.
+The learned counsel submitted that the services that it had advertised as being available on its handset were derived from the chips which were sourced from Qualcomm and MediaTek.
+Therefore if there was any infringement the plaintiff had to question these two companies who have however not been made parties to the present case.
+The more important question would be whether the plaintiff had any arrangement with Qualcomm and or MediaTek and if there was such an agreement the patent would be exhausted and the plaintiff would be foreclosed from claiming further licenses downstream i.e. from manufacturing entities like the defendants.
+CS383 2020 8.
+It is also argued by the learned counsel for the defendants that the plaintiff under the FRAND obligation had to make disclosures before demanding a certain license fee from the defendants to establish that its demand was fair.
+However in the present suit there has been no such disclosure made.
+The defendants had moved IA 8259 2020 for production of third party comparable patent license agreements in a sealed cover which was still pending constitution of a confidentiality Thus it was the contention of the learned counsel for the defendants that the interrogatories and documents were not relevant and the application was liable to be dismissed.
+It was also submitted that in any case a detailed reply had been submitted by the defendants in response to the application where it was clearly mentioned that the defendants did not know the composition of the chip with regard to its software and nothing further was required to be answered.
+I have heard the submissions and have perused the record including the judgments relied upon by both sides.
+11.
+The interrogatories are intended to cut short trial.
+Time and expenses can be saved by interrogatories being served upon the adversary.
+While it is trite that one who asserts must prove and that the burden of proof never shifts however interrogatories may be served upon the adversary if the document or information in its possession and the production of documents and answers to the interrogatories would have a bearing on the determination of the dispute.
+In determining CS383 2020 whether a document should be disclosed or questions answered it would be seen whether the document questions are relevant or would throw some light on the resolution of the dispute.
+It is to be noted that even with the amendment of the CPC pursuant to the enactment of the Commercial Courts Act there is an obligation on parties to produce all documents in their possession and to answer every plea giving reasons as to why a stand contrary to the plea was being taken.
+The salutary provisions are intended only to expedite disposal of commercial suits.
+The only precaution to be taken by the court while exercising its discretion under Order XI Rules 2 & 14 CPC is to ensure that the applicant is not embarking on a roving or fishing inquiry.
+So long as the document sought to be produced would throw light on the subject matter of the suit and the answers sought would assist in the fair disposal of the suit the same ought to be allowed.
+13.
+Before proceeding further it may be seen as to what are the documents sought by the plaintiff from the defendants and what are the questions to which answers have been sought.
+The plaintiff had sought the third party license agreements entered into by the defendants with Qualcomm and other companies relating to 3G or 35 or 4G technologies.
+The questions and the interrogatories to which the answers have been sought are : a) Whether the defendants’ mobile devices comply with the following ETSI Standards relating to UMTS and LTE technologies CS383 2020 SUIT PATENT IN 211041 IN 221703 IN 228133 IN 275419 IN 271469 ETSI STANDARDS 1.
+ETSI TS 125 211 V4.6.0 2002 2009) 2.
+ETSI TS 125 214 V4.6.0 2003 03) 3.
+ETSI TS 125 101 V4.13.01.
+ETSI TS 125 211 V4.6.0 2002 2009) 2.
+ETSI TS 125 214 V4.6.0 2003 03) 3.
+ETSI 125 331 V4.21.0 2012 01) 1.
+ETSI TS 125 211 V6.10.02.
+ETSI TS 125 214 V61103.
+ETSI TS 125 212 V61001.
+ETSI TS 125 211 V71002.
+ETSI TS 125 214 V7.17.03.
+ETSI TR 125 903 V7.0.0 2007 03) 1.
+ETSI TS 136 321 V8.12.02.
+ETSI TS 136 300 V8120b) Whether the defendants’ mobile devices launched since the date of incorporation of the defendant No.2 support comply with the following features of ETSI Standards CS383 2020 i.
+Whether defendants’ mobile devices are capable of supporting LTE Logical Channel Prioritization procedure as specified in 3GPP TS 36.321 ii.
+Whether defendants’ mobile devices are capable of supporting UMTS Compressed Mode as specified in TS 25214 and TS 34.121 1 iii.
+Whether defendants’ mobile devices show behavior of the uplink E DPDCH the uplink DPDCH and the uplink DPCCH transmit power before and after the mobile handset reaches a threshold transmit power according to UMTS standard as detailed in technical documents being TS 25214 iv.
+Whether defendants’ mobile devices are capable of supporting UMTS UL DPCCH Slot Format 4 and whether the same is in conformance with TS 25.211 and TS 25.903 v. Whether defendants’ mobile devices support the behavior of the uplink power change when receiving TPC commands in different patterns and whether the same was in conformance with the UMTS standard as detailed in technical documents being TS 25214 and TS Provision of details as to whether the defendants have entered into a licensing arrangement with Qualcomm and other companies only after the licensors provided evidence of direct infringement feature by feature demonstration of infringement of each and every patent in their respective CS383 2020 Provision of details as to whether defendants’ license agreement(s) with Qualcomm and other companies were executed only after Vivo representatives as well as its appointed external economic expert analyzed ALL third party license agreements entered into by concerned question.
+14.
+Since it has been the consistent stand of the defendants that the patents are incorporated in the chipset and not in the handset whereas the plaintiff has insisted that the standard essential patents are in the handset the third party license agreements executed between the defendants and Qualcomm and other companies would definitely throw light on this 15.
+The contention of the learned counsel for the defendants that it is for the plaintiff to map their patents on to the standard essential features would also be settled by the production of this agreement as it would be evident as to whether the patents work on the chipset or handset and what was the technology transferred by Qualcomm and others to the defendants.
+Of course keeping the necessity of industry confidentiality these documents need not be brought out into the open.
+However as suggested in respect of IA 8259 2020 moved by the defendants for production of third party agreements by the plaintiff to determine FRAND a confidentiality club can be constituted even in respect of these 16.
+With regard to the interrogatories the interrogatories No.(c) and d) seem to be interrogatories that do not lead anywhere and are therefore CS383 2020 disallowed.
+With respect to the interrogatories No(a) andsince they have a direct bearing on the technologies used by the defendants which in turn would have a bearing on the question of infringement as well as FRAND it is considered appropriate to direct the defendants to answer these interrogatories by way of an affidavit.
+17.
+The application is thus partly allowed.
+The affidavit alongwith the third party agreements executed between Qualcomm and the defendants and other companies be filed within three weeks in a sealed cover with a copy to the learned counsel for the plaintiff.
+Once the affidavit is filed the plaintiff may furnish the name of two experts and eight lawyers who would be authorised to inspect the said third party agreements.
+18.
+The application stands disposed of.
+19.
+The order be uploaded on the website forthwith.
+JANUARY 7th 2022 ASHA MENON) CS383 2020

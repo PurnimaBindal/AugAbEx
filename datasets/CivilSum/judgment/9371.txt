@@ -1,0 +1,229 @@
+JC Mishra, J - These references have been made in the above cases to resolve the conflicting decisions of the Single Benches on the controversy, whether a person, who was not an accused in a case, can be summoned under Section 319 of Code of Criminal Procedure on the strength of uncross-examined evidence of a witness/witnesses and without giving opportunity of cross- examination to the accused.
+The question formulated in the reference made by Hon'ble SK Phaujdar, J in Criminal Misc.
+Application No. 1823 of 1995 is incorporated below :-  "Whether the term `evidence' as used in section 319 Cr.P.C could only mean an evidence complete by cross-examination or if the court can take action under this section even on the statement made in examination-in-chief of one or other witnesses ?"
+2.
+Similar reference was made by Hon'ble CA Rahim, J in Criminal Revision No. 447 of 1997.
+The applicants Ram Gopal and Gajadhar in Criminal Misc.
+Application No. 1823 of 1995 were summoned by Ist Additional Sessions Judge, Agra by order dated 27.3.1995 on the basis of evidence of Shri Prasad whose cross-examination could not be completed.
+The accused challenged the order of summoning by filing application under section 482 Cr.PC The arguments were heard by Hon'ble SK Phaujdar, J, who in view of conflicting decisions referred the controversy to larger Bench.
+In Criminal Revision No. 447 of 1997 the evidence of Mehndi Hasan (P.W. 2) was recorded by V Additional Sessions Judge, Etah.
+After completing examination- in-chief the State Counsel filed an application under section 319 Cr.PC The learned Additional Sessions Judge considered the evidence contained in the examination-in-chief of Mehndi Hasan, first information report and case diary, and observed that the revisionists had also committed the offence complained along with six other persons who were facing trial.
+He, therefore, summoned the revisionists and directed issuance of non-bailable warrants.
+Felt aggrieved these accused have preferred revision.
+Hon'ble CA Rahim, J, after hearing the parties referred the controversy to larger Bench.
+3.
+As the controversy in the application under section 482 Cr.PC and criminal revision is same, both references were heard together and are being answered by this order.
+4.
+We have heard Sri V.K.
+Chaturvedi, the learned counsel for the applicants, Sri Sheonath Singh, learned counsel for the revisionists, Sri Jagdish Tewari, learned AGA and Sri Gopal Swarup Chaturvedi, learned senior Advocate also expressed his valuable view on our request.
+5.
+Section 319 Cr.PC gives power to the court to add any person not an accused before it as an accused and direct him to be tried along with other accused provided the evidence on record is sufficient to make out a prima facie case against such a person.
+For convenience section 319 Cr.PC is reproduced below :-  "319.
+Power to proceed against other persons appearing to be guilty of offence :  (1) Where, in the course of any inquiry into, or trial of, an offence, it appears from the evidence that any person not being the accused has committed any offence for which such person could be tried together with the accused, the court may proceed against such person for the offence which he appears to have committed.
+(2) Where such person is not attending the court, he may be arrested or summoned, as the circumstances of the case may require, for the purposes aforesaid.
+(3) Any person attending the court although not under arrest or upon a summons, may be detained by such court for the purpose of the inquiry into, or trial of, the offence which he appears to have committed.
+(4) Where the court proceeds against any person under sub-section (1) then -  (a) the proceedings in respect of such person shall be commenced afresh, and the witnesses reheard;  (b) subject to the provisions of clause (a) the case may proceed as if such person had been an accused person when the court took cognizance of the offence upon which the inquiry or trial was commenced."
+6.
+Section 319 corresponds to section 351 of the repealed Code of Criminal Procedure, 1898.
+That Section must be read in juxtaposition with section 319 of the Code.
+The Law Commission suggested that section 351 should be recast with a view to (i) empowering the Court to summon a person not present in court to stand trial along with the named, accused and (ii) enabling the court to take cognizance against the newly added accused.
+Pursuant to the said recommendations made by the Law Commission section 351 of the old Code was replaced by section 319 in the present Code.
+Section 351 of the old Code empowered detention of any person attending a Criminal court, although not under arrest or upon a summon, for the purpose of inquiry into or trial of any offence of which such court could take cognizance, if it appeared from the evidence so recorded that he may have committed an offence along with others.
+Sub-section (2) of Section 319 came to be inserted in response to the Law Commission's recommendation in paragraph 2480 of the Report to enlarge the court's power to arrest or summon any person who appears to be involved in the commission of the crime along with others but who is not present in court.
+Next, it is significant to note that the words `of which such court can take cognizance' have been omitted by the legislature.
+Instead the newly added sub-section (4)(b) expressly states that the case against the added accused may proceed as if such person had been an accused person when the court took cognizance of the offence.
+This takes care of the Law Commission's recommendation found in paragraph 2481 extracted earlier.
+It is, therefore, manifest that section 319 of the Code is an improved version of section 351 of the old Code; the changes having been introduced therein on the suggestion of the Law Commission to make it comprehensive so that even person not attending the court can be arrested or summoned as the circumstances of the case may require and by deleting the words `of which such court can take cognizance' and by adding clause (b) it is clarified that the impleadment of a new person as an accused in the pending proceedings will not make any difference in so far as taking of cognizance is concerned.
+In other words, it is made clear that cognizance against the added person would be deemed to have been taken as originally against the other co-accused.
+It is thus, clear that the difficulty in regard to taking of cognizance, which would have been experienced by the court have been done away with.
+The section comes into operation at the post-cognizance stage when it appears to the court from the evidence recorded at the trial that any person other than those named as offenders appears to have committed any offence in relation to the incident for which the co-accused are on trial.
+Section 319 can be invoked both by the Court having original jurisdiction as well as the court to which the case has been committed or transferred for trial.
+Kishun Singh v. State of Bihar, 1993(2) SCC 16 : SCC (Cri) 470.
+It was further observed that the scope of section 319 is limited, in that, it is an enabling provision which covers the post-cognizance stage where in the course of an inquiry or trial the involvement or complicity of a person or persons not named by the investigating agency has surfaced which necessitates the exercise of the discretionary power conferred by the said provision.
+This may happen not merely in cases where despite the name of a person figuring in the course of investigation the investigating agency does not send him up for trial but even in cases where the complicity of such a person comes to light for the first time in the course of evidence recorded at the inquiry or trial.
+Thus, section 319 is not exhaustive of all post-cognizance situations and cannot be be interpreted to be repository of all power for summoning such person or persons to stand trial along with others arraigned before the court.
+7.
+There are two alternative modes in which the Criminal Law can be set in motion, by the filing of information with the police under section 154 of the Code or upon receipt of a complaint or information by a Magistrate.
+The former would lead to investigation by the police and may culminate in a police report under section 173 of the Code on the basis whereof cognizance may be taken by the Magistrate under section 190(1)(b) of the Code.
+In the latter case, the Magistrate may either order investigation by the police under section 156(3) of the Code or himself hold an enquiry under section 190(1)(a) or (c), as the case may be, read with section 204 of the Code.
+Once the Magistrate takes cognizance of the offence he may proceed to try the offender (except where the case is transferred under section 191) or commit him for trial under section 209 of the Code if the offence is triable exclusively by a Court of Session.
+Once cognizance of an offence is taken it becomes the Court's duty to find out who the offenders really are `and if the Court finds' that apart from the persons sent up by the police some other persons are involved, it is its duty to proceed against those persons by summoning them because `the summoning of the additional accused is part of the proceeding initiated by its taking cognizance of an offence'.
+Even after the present Code came into force, the legal position has not undergone a change.
+8.
+Section 319 is really an extra-ordinary power which is conferred on the court and should be used very sparingly and only if compelling reasons exist for taking cognizance against the other person against whom action has not been taken.
+If the prosecution can at any stage produce evidence which satisfies the court that the other accused or those who have not been arrayed as accused against whom proceedings have been quashed have also committed the offence, the court can take cognizance against them and try them along with the other accused.
+The mere fact that the proceedings have been quashed under section 482 against some of the accused persons (respondents 2 to 5) will not prevent the court from exercising its discretion if it is fully satisfied that a case for taking cognizance against them has been made out on the additional evidence led before it.
+(Municipal Corpn.
+of Delhi v. Ram Kishan Rohtagi, 1983(1) SCC 1 : 1983 SCC (Cri) 115).
+9.
+In view of the above discussion we find that the power under section 319(1) can be exercised only in those cases where involvement of persons other than those arraigned in the charge sheet comes to light in the course of evidence recorded during the inquiry or trial.
+If evidence of eye witnesses recorded by the court shows that there was enough involvement of some persons in the commission of offence they can be proceeded as accused despite the fact that police had not filed charge sheet against them, Girish Yadav v. State of M.P., 1996(8) SCC 186.
+This power under section 319 does not exclude from its operation an accused who has been released by the police under section 169 Cr.PC Joginder Singh v. State of Punjab, 1979(I) SCC 345.
+10.
+The powers under section 319 should not be confused with section 193 Cr.PC by virtue of which Sessions Judge is empowered to summon a person as an accused without recording evidence if such person is not named in police report under section 173 to stand trial if the material on record annexed to the report under section 173 revealed their involvement.
+It was held in Kishun Singh v. State of Bihar, 1993(1) RCR (Crl.)
+647 : 1993(2) SCC 16 that such person can and should be summoned and arraigned before the court as accused persons along with the accused already named in the charge sheet.
+The reasoning assigned by the Supreme Court is reproduced below :  "The Court of Session had the power under section 193 of the Code to summon the appellants as their involvement in the commission of the crime prima facie appeared from the record of the case.
+Though power was exercised under section 319, there is no reason to interfere with the impugned order as it is well settled that once it is found that the power exists the exercise of power under a wrong provision will not render the order illegal or invalid.
+11.
+Once the Magistrate takes cognizance of the offence he may proceed to try the offender (except where the case is transferred under section 191) or commit him for trial under section 209 to the offence is triable exclusively by a Court of Session.
+Cognizance is taken of the offence and not the offender.
+There is a difference in the language of section 193 of the two Codes, under the old Code the Court of Session was precluded from taking cognizance of any offence as a court of original jurisdiction unless the accused was committed to it whereas under the present Code the embargo is diluted by the replacement of the words, `the accused' by the words `the case'.
+Thus, on a plain reading of section 193, as it presently stands, once the case is committed under section 209 if the Court of Session by a Magistrate under the Code, the restriction placed on the power of the Court of Session to take cognizance of an offence as a Court of original jurisdiction gets lifted thereby investing the Court of Session complete and unfettered jurisdiction of the Court of original jurisdiction to take cognizance of the offence which would include the summoning of the person or persons whose complicity in the commission of the crime can prima facie be gathered from the material available on record.
+For the limited purpose of deciding whether or not to frame a charge against the accused, the judge would be required to examine the record of the case and the documents submitted therewith, which would comprise the police report, the statements of witnesses recorded under section 161 of the Code, the seizure memoranda, etc. Once the Court takes cognizance of the offence (not the offender) it becomes the court's duty to find out the real offenders and if it comes to the conclusion that besides the persons put up for trial by the police some others are also involved in the commission of the crime, it is the court's duty to summon them to stand trial along with those already named, since summoning them would only be a part of the process of taking cognizance."
+12.
+There is no legal bar based on the principle of issue estoppel to proceed under section 319 against a person complained against if on the same material the court had dismissed a complaint under section 203, Cr.PC SS Khanna v. Chief Secretary, 1983(3) SCC 42.
+The scope of this section is wide enough to include cases instituted on private complaint.
+Sohan Lal v. State of Rajasthan, 1990(4) SCC 580.
+13.
+With the background in which section 319 has been incorporated in the new Code of Criminal Procedure in an improved form in the light of the recommendation of the Law Commission and its scope we proceed to examine the controversy referred to us and consider the conflicting decisions of the Court.
+Query from the learned counsel who we had advantage of hearing and our enquiry from the Library and Computer section revealed that there is no direct authority of the Supreme Court on the matter referred to us.
+14.
+Section 319 Cr.PC permits in an inquiry or trial to proceed against any person along with other accused against which it is proceeding, if from the evidence adduced it appears that such person has committed such offence.
+This power can be exercised only when the involvement of such person who is not an accused is indicated from the evidence during the course of inquiry or trial and not otherwise.
+The conflicting decisions arose on account of interpretation of the word "evidence" in sub-section (1) of Section 319 Cr.PC  15.
+In Gulab Singh Majithia v. Nazim Husain, 1987(2) Crimes 307, Mohan Lal v. State of UP, 1990 UP Cr.R 254, decided by Hon.
+SS Ahmad, J, Kali Shanker Srivastava v. State of UP, 1993 CCR 2596 decided by Hon.
+VN Mehtrotra, J, Brij Pal Singh v. State of UP, 1996(34) ACC 34 decided by Hon.
+RN Ray, J, Daleep Singh v. State of UP, 1996(30) ACC 46 (sic); Thakur Prasad v. State of UP and Additional Sessions Judge, Sonebhadra etc., 1996(33) ACC 45; Surendra Kumar Sharma v. State of UP, 1996(33) ACC 51 decided by Hon.
+Gauri Shanker Nath Tripathi, J it was held that unless cross-examination of the witness is complete the court cannot invoke its powers under Section 319 Cr.P.C and consequently the person cannot be summoned on the basis of examination-in-chief of the witness waiting for his cross- examination.
+16.
+In the following cases contrary opinion has been expressed :  1.
+Sarnam Singh v. State of UP, 1987 All WC 1036 decided by Hon.
+BL Yadav, J  2.
+Margoobul Hasan v. State of UP, 1988 Crl.L.J 1467 decided by Hon.
+VP Mathur, J  3.
+Ram Niwas v. State of UP, 1990 Cr.L.J 460.
+4.
+Gulab Singh Majithia v. State of UP, 1995 JIC 33 decided by Hon.
+NB Asthana, J  17.
+Sri V.K.
+Chaturvedi, learned counsel for the revisionist in support of his contention that unless a witness is cross-examined his statement cannot be said to be "Evidence" within the meaning of sub-section (1) of Section 319 Cr.PC referred to Sections 135, 137 and 138 of the Indian Evidence Act and contended that to make a statement of witness "Evidence" the definition of the "Evidence" contained in Indian Evidence Act has to be taken into consideration meaning thereby the whole statement including the cross-examination is to be taken into account.
+He supported his argument by the word "re-heard" contained in sub-section (4), which, according to him, meant that at the earliest stage the witness was heard in full.
+The learned counsel submitted that the purpose for which Section 319 Cr.PC has been enacted is that the person who appears to be guilty from the statement made by a witness or witnesses should be punished.
+Summoning a person on any statement which does not prima facie shows the guilt or on the basis on which he can be convicted is illegal and an abuse of process of Court.
+He contended that on the basis of only statement in examination-in-chief nobody can be summoned as it is not an "Evidence" as is desired by Section 319 Cr.PC nor such statement under examination-in-chief is sufficient to convict any person.
+In other words the contention of the learned counsel is that only that statement can be termed "Evidence" which is sufficient to convict any person if remains un-rebutted.
+18.
+The learned counsel supported his contention referring the provisions contained in sections 231, 242, 244, 246, 247 and 254 Cr.PC  19.
+Similar argument was advanced by Sri Sheonath Singh, learned counsel for the revisionist.
+20.
+Sri Jagdish Tewari, learned Additional Government Advocate and Sri Gopal Swarup Chaturvedi, learned Senior Counsel, who on our request gave their valuable help expressed contrary opinions.
+In their view "Evidence" used in Section 319 Cr.PC has been used in the sense that it should be statement on oath to prima facie indicate the involvement of any other persons in the commission of the offence besides the accused, who are already facing trial.
+21.
+"Evidence" has been defined in the Indian Evidence Act, 1872 in Section 3, according to which "Evidence" means and includes :  (1) all statements which the Court permits or requires to be made before it by witnesses, in relation to matters of fact under inquiry; such statements are called oral evidence;  (2) all documents produced for the inspection of the Court; such documents are called documentary evidence.
+22.
+It cannot be disputed that "Evidence" in sub-section (1) of Section 319 Cr.PC relates only to oral evidence and not the statements under Section 161 Cr.PC nor confession, dying declaration, etc. unless provided by oral evidence under section 161 Cr.PC confession, dying declaration, etc.
+The interpretation clause does not specifically require a witness to be cross- examined before any statement can be treated as "Evidence".
+23.
+Chapter X of the Indian Evidence Act deals with the examination of witnesses.
+The examination of a witness by a party, who calls him, shall be called his examination-in-chief.
+The examination of a witness by the adverse party shall be called his cross-examination.
+The examination of a witness, subsequent to the cross-examination by the party who called him shall be called his re-examination.
+Section 138 of the Indian Evidence Act requires that the witnesses shall be first examined-in-chief then cross-examined, then re-examined.
+24.
+It cannot be disputed that a case, civil or criminal or revenue, cannot be finally decided on oral evidence unless opportunity is given to the other party to cross-examine any witness produced by a party.
+It is a salutary principle of law that no evidence is admissible against a party unless and until it is given opportunity to cross-examine the witness.
+The criminal cases can be decided only after the prosecution witnesses are examined-in- chief and cross-examined or at least opportunity is given in the cross- examination.
+25.
+At the stage of summoning under Section 319 Cr.PC the case is not to be decided but its purpose is to summon some persons, who were not committed to sessions to face trial along with the persons who were already committed and are facing trial.
+It is not disputed that such person can be summoned on the basis of statement on oath if it prima facie indicates involvement of such person in the offence complained.
+The only controversy is whether for summoning such persons it is necessary that the cross-examination must have been concluded by the accused, who were facing trial.
+It is needless to mention that at that time such persons, who are to be summoned under Section 319 Cr.PC are nowhere in picture and they cannot cross-examine any witness.
+It is also obvious that the statements already recorded in absence of such persons cannot be relied on in subsequent proceeding and in view of sub- section (4) of Section 319 Cr.PC all the witnesses will be required to be examined again.
+Sub-section (4) in unambiguous terms provides that where the court proceeds against any person under sub-section (1) then the proceeding in respect of such person shall be commenced afresh and the witnesses are re- heard.
+This provision has been incorporated to ensure that such persons summoned under Section 319 Cr.PC are not prejudiced by the evidence recorded in their absence.
+With this background we proceed to examine what is the import of the word "Evidence".
+Interpretation of "Evidence" by Hon.
+SK Phaujdar, J in the reference order is reproduced below :  "I am now coming to the term "evidence" as used in the Indian Evidence Act, 1972.
+In this Act, the term "evidence" has been defined in section 3 as meaning and including all statements which the court permits or requires to be made before it by witnesses in relation to the matters of fact under enquiry as also all evidence produced for inspection of the court.
+This definition, of course, is not complete as it is silent about any dying-declaration, statement of co-accused, materials produced for inspection or prior admission of a party which are also matters on which the courts do rely to come to a finding and are evidence in the broad sense of the term.
+This term evidence again has been used in various sections of Evidence Act with different connotation.
+Section 33 of the Evidence Act permits evidence given by a witness in a judicial proceeding to be used in a subsequent judicial proceeding or in a later stage of the same judicial proceeding provided the adverse party in the first proceeding had the right of opportunity to cross- examine him.
+We may stop here for the time being.
+If evidence would only mean such statement as has been tested by the cross-examination, then there was no necessity of adding this proviso that the `adverse party in the first proceeding had the right and opportunity to cross-examine'.
+This only suggests that there could be an evidence even without cross-examination, but, for section 33 only, such evidence may not be read at a subsequent stage etc. unless there was a right and opportunity of the other party to cross-examine.
+The Evidence Act forbids acceptance of hearsay evidence.
+If we go by the strict interpretation of the term evidence, that a statement is not evidence unless tested by cross-examination, then in examination-in-chief there should not be any bar to accept a hearsay which could only be discarded after cross- examination.
+Section 58 of the Evidence Act says that the facts admitted need not be proved.
+It only means that when the facts are admitted by the party, either party may not be allowed even to lead evidence on that point, i.e. such evidence may not be admitted in the examination-in-chief or may only be discarded after cross-examination."
+26.
+Scheme of Code of Criminal Procedure indicates that the term "Evidence" has been used in different sense in different sections.
+27.
+Chapter XVIII of the Code of Criminal Procedure deals with trial before a Court of Session.
+There is no doubt that "Evidence" contained in Sections 213 to 231 and 234 means and includes cross-examination since the purpose of the "Evidence" recorded under these provisions is to determine whether the accused facing trial is to be convicted or acquitted.
+28.
+Chapter XIX deals with trial in warrant cases by Magistrates.
+This chapter has been divided into two parts.
+Part (A) deals with warrant cases instituted on a police report.
+Section 242 requires the Magistrate to fix a date of evidence for prosecution if the accused does not plead guilty.
+Sub- section (3) requires the Magistrate to take all such evidence as may be produced in support of the prosecution.
+In this provision the evidence may not necessarily include cross-examination since cross-examination may be deferred at the discretion of the Magistrate.
+The accused may after entering upon his defence apply to the Magistrate to issue any process for compelling attendance of any witness for the purpose of examination or cross-examination and the Magistrate may in his discretion issue such process.
+The word "Evidence" contained in Section 242 Cr.PC does not necessarily include cross-examination.
+29.
+Part (B) of Chapter XIX deals with cases instituted otherwise than on police report, Section 244 requires the prosecution to produce all such evidence, as it requires.
+The word "evidence" in this section does not include cross-examination and re-examination.
+This evidence can be relied on to determine whether any case is made out against the accused.
+Section 245 Cr.PC permits the Magistrate to discharge the accused if he finds that from the evidence recorded no case against the accused has been made out which if un-rebutted could warrant his conviction.
+It is when the Magistrate finds that prima facie a case is made out against the accused he is required to frame charges and thereafter to give opportunity to the accused to cross- examine the witnesses and then proceed to decide the case.
+30.
+The above discussion indicates that the word "evidence" has been used in different sense and its true meaning has to be determined in the background in which that provision has been enacted.
+If evidence is meant for deciding the case finally or to record conviction or acquittal the "evidence" must mean as including the cross-examination.
+On the contrary if the evidence is to be recorded for determining whether any prima facie case is made out for summoning the accused or whether the evidence is if un-rebutted is sufficient to base conviction and thereby requiring the Court to frame charges, or whether the accused can be discharged the "evidence" may not mean as including cross-examination.
+31.
+Chapter XXIII of the Code of Criminal Procedure deals with evidence in inquiries and trials.
+There are some provisions contained in this chapter which permit some evidence to be treated as substantive piece of evidence even though witnesses are not even produced.
+Sections 291, 292, 293, 294, 295 and 296 are relevant provisions in this regard which permit certain documents and affidavits to be treated as evidence.
+32.
+An accused if absconding may be convicted even without opportunity of cross-examination if the witnesses are dead or incapable of giving evidence or beyond the limits of India.
+If it is proved that an accused person has absconded and there is no immediate prospect of arresting him the Court competent to try or commit him for trial may in his absence examine the witnesses produced on behalf of the prosecution and record their deposition.
+Such deposition may on the arrest of such persons be given in evidence against such persons on inquiry into or trial for the offence with which he is charged, if the defendant is dead or incapable of giving evidence or is beyond the limit of India.
+Thus evidence is Section 299 cannot by any stretch of imagination include cross-examination.
+In this provision the evidence only means statement in examination-in-chief.
+33.
+There is thus no doubt that "Evidence" has been used in different context in different sections and, therefore, it should be interpreted in the context in which it has been used in the relevant provision.
+This legal position has not been disputed by Shri VK Chaturvedi, the learned counsel for the revisionist.
+Reference may be made to the following paragraph of the written submission of the revisionist :  "That the word" "Evidence" has been used in various circumstances under various sections and they mean statement under those peculiar circumstances.
+In the procedural law the word `evidence' for the first time appears under Section 200(2) Cr.PC Under Section 202, Cr.PC the word `evidence' means only the examination-in-chief and nothing else."
+We accept this part of argument.
+Statement under Section 200, which is regarded as evidence, is meant only for determining if any prima facie case is made out against the accused.
+Its purpose is not to base conviction.
+At the stage of summoning the Court has to find whether the statement contained in examination-in-chief, if accepted as true, prima facie indicates involvement of the accused in the offence complained.
+There is no doubt that the statement contained in examination-in-chief is to be regarded as evidence in those provisions.
+35.
+Section 319 Cr.PC is meant only for determining whether the evidence recorded in the Court prima facie indicates that some person other than the accused facing trial has committed the offence and in case the evidence indicates the involvement of such person he may be summoned to face trial.
+This provision is similar to Section 204, Cr.PC in which on the strength of the statement recorded in examination-in-chief an accused can be summoned.
+The only difference is that at the stage of Section 204 Cr.PC no other accused is before the Court while at the stage when Section 319 Cr.PC can be invoked when some accused are already facing trial.
+So far as the question of summoning any person under Section 319, Cr.PC is concerned in all respects it is similar to Section 204, Cr.PC Even if the witness or witnesses are cross-examined by the accused who are already facing trial it may not be helpful to the persons who are to be summoned under this provision since the accused facing trial may not be aware of the defence of such accused and the background of the case.
+It would be only waste of time of the Court to permit cross-examination of the witnesses examined as it may not be of any help to the persons summoned.
+Furthermore, in view of the introduction of sub-section (4) on the recommendation of the Law Commission the proceeding in respect of such person is to be commenced afresh and witnesses are re-heard.
+Therefore, summoning of a person under Section 319, Cr.PC may not cause any prejudice to the person summoned.
+This requirement makes it abundantly clear that the "evidence" in sub-section (1) of Section 319 has been used in a limited sense and does not necessarily include cross-examination.
+36.
+This inference is strengthened by the fact that provisions under Section 319 may be utilised at the stage of enquiry, which may not contemplate cross- examination of witnesses produced.
+37.
+The question referred to again arose for consideration before Hon.
+SK Phaujdar, J in Criminal Misc.
+Application No. 4924 of 1997 Niranajn Lal v. State of UP The learned Judge referred to a decision of Supreme Court in Mahant Amar Nath v. State of Haryana reported in, AIR 1983 SC 288, wherein Supreme Court considering the summoning order passed by Session Judge on the basis of evidence of eye-witnesses, examined during trial repelled the argument that persons summoned had not figured in statement under Section 161, Cr.PC indicating that this aspect clearly falls within the domain of appreciation of evidence to be done finally at the end of trial before pronouncing upon guilt or otherwise of the concerned accused and upheld the summoning order on the strength of statement in examination.
+Reference was made to and reliance was placed on a decision of this Court in Irshad v. State of UP reported in 1995 JIC 1012 decided by Hon.
+CA Rahim.
+J wherein in an application under section 482 Cr.PC despite reference made on 591997 the order passed by the trial court summoning the applications under Section 319, Cr.PC on the basis of statement in examination-in-chief was upheld.
+38.
+Similar question arose before one of us (Hon.
+JC Mishra, J) in Criminal Revision No. 1927 of 1987 Ashok Kumar v. State of UP and other connected revisions.
+Relying on the view of Division Bench of this Court in Ambika Singh v. State, 1961 CrLJ 15 that the Court is not precluded to assess the veracity of a witness even in absence of cross-examination, it was held that the trial Court had power to summon any person as accused on the basis of uncross-examined testimony of a witness.
+39.
+In view of the above discussion we approve the views taken in Sarnam Singh v. State of UP, 1987 AWC 1036, Margoobul Hasan v. State of UP, 1988 Crl.L.J 1467, Ram Niwas v. State of UP, 1990 Cr.L.J 460, Gulab Singh Majithia v. State of UP, 1995 JIC 33, Irshad v. State of UP reported in 1995 JIC 1012, Criminal Misc.
+Application No. 4924 of 1997 Niranajn Lal v. State of UP decided on 591997 : 1998(1) All WC 192) and Criminal Revision No. 1927 of 1987, Ashok Kumar v. State of UP and connected revisions decided on 23121997.
+40.
+The contrary view taken in Gulab Singh Majithia v. Nazim Husain, 1987(2) Crimes 307, Mohan Lal v. State of UP, 1990 UP Cr.R 254, decided by Hon SS Ahmad, J, Kali Shanker Srivastava v. State of UP, 1993 CCR 2596 decided by Hon.
+VN Mehrotra, J, Brij Pal Singh v. State of UP, 1996(34) ACC 34 decided by Hon.
+RN Ray, J, Daleep Singh v. State of UP, 1996(30) ACC 46 (sic), Thakur Prasad v. State of UP and Additional Sessions Judge, Sonebhadra etc., 1996(33) ACC 45 and Surendra Kumar Sharma v. State of UP, 1996(33) ACC 51 decided by Hon.
+Gauri Shanker Nath Tripathi, J is not correct and these decision are overruled.
+41.
+The reference is answered as follows :  "The term `Evidence' as used in Section 319, Cr.PC does not mean an `Evidence' complete by cross-examination and the Court can take action under Section 319 Cr.PC even on the statement made in examination-in-chief of one or more witnesses."
+42.
+The record of Criminal Revision No. 447 Suresh Chandra v. State of UP and others and Criminal Misc.
+Application No. 1023 of 1995 Ram Gopal v. State of UP be returned with our answer for decision.
+Order accordingly.

@@ -1,0 +1,13 @@
+The adjudication of res judicata needs the consideration of the pleadings, issues and decision in the previous suit, such a plea is beyond the scope of Order 7 Rule 11 (d), where only the statements in the plaint will have to be considered.
+This was held in the judgement passed by a two member bench of the Supreme Court of India consisting of Justice Dhananjaya Chandrachud and Justice MR Shah in the case of Srihari Hanumandas Totala v Hemant Vithal Kamat [Civil Appeal No. 4665 of 2021] pronounced on 9th August 2021.
+Leela Kamat was originally the title holder of a property in Karnataka.
+Upon her death it was transferred to her legal heirs Hemant Vithal Kamat, who is the respondent no. 1 in this case and his brother.
+Respondent no. 1’s brother took a loan from the Karnataka State Finance Corporation (KSFC) for which the aforementioned property was mortgaged as security for the repayment of the loan.
+Upon failure to repay the loan, KSFC put the property up for auction.
+Respondent no. 3 was declared the highest bidder and as a result a sale deed was executed in favour of him.
+However despite the execution of the sale deed, respondent no. 1 and his brother failed to hand over the property which resulted in respondent no. 3 filing a suit for possession of the property.
+Respondent no.1 argued that his brother had mortgaged the property without his consent and that KSFC accepted the property as security without investigating the title.
+Respondent no. 1 argued that as he had not consented to the property being mortgaged, KSFC did not have the right to do so.
+The trial court held that the sale deed was valid.
+Respondent no. 1 appealed to the High Court against the decree of the Trial Court and during the pendency of the appeal, respondent no3 filed an application under Section 10 of the Code of Civil Procedure for staying the suit proceedings till the disposal of the first appeal.
+The appellant, Srihari Hanumandas Totala purchased the aforementioned property from respondent no. 3, filed the application to reject of the plaint under Order 7 Rule 11 of the Code of Civil Procedures on grounds of not disclosing the cause of action, not paying the court fee and the suit being barred by res judicata since the grounds relating to the validity of the sale deed were and title were raised in the previous suit.

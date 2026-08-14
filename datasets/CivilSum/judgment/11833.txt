@@ -1,0 +1,66 @@
+K T Thomas, Ag.C.J - Whether lay-off compensation is part of "wages" for computing bonus ?
+T L Viswanatha Iyer, J felt that the said question needs consideration by a larger bench and hence the Original Petition in which this question arose has come up before us.
+However, Jagannadha Raju, J, in another Original Petition proceeded to decide the same question and that judgment is challenged in the Writ Appeal before us.
+So we heard both cases together which are being disposed by this judgment.
+2.
+Lay-off is the failure or refusal or inability of an employer to give employment to his workman on account of certain contingencies such as shortage of power or raw material or breakdown of machinery.
+It is so defined in Section 2(kkk) of the Industrial Disputes Act, 1947 (for short 'the ID Act').
+When a workman is laid off, his employer is liable to pay him compensation which shall be 50% of the wages which would have been payable to him had he not been laid off.
+This is the purport of Section 25-C of the ID Act.
+The question, therefore, can be reframed as this : When bonus is computed, should the lay off compensation be counted as wages ?
+3.
+Section 2(21) of the Bonus Act defines "salary or wages" as follows :  "Salary or wages" means all remuneration (other than remuneration in respect of over-time work) capable of being expressed in terms of money, which would, if the terms of employment, express or implied, were fulfilled, be payable to an employee in respect of his employment or of work done in such employment and includes dearness allowance (that is to say, all cash payments, by whatever name called, paid to an employee on account of rise in the cost of living), but does not include - (i) any other allowance which the employee is for the time being entitled to; (ii) the value of any house accommodation or of supply of light, water, medical attendance or other amenity or of any service or of any concessional supply of foodgrains or other articles; (iii) any travelling concession; (iv) any bonus (including incentive, production and attendance bonus); (v) any contribution paid or payable by the employer to any pension fund or provident fund or for the benefit of the employee under any law for the time being in force; (vi) any retrenchment compensation or any gratuity or other retirement benefits payable to the employee or any ex-gratia payment made to him; (vii) any commission payable to the employee.
+It is apposite in this context to point out that the main body of this definition is almost the same as the definition of the word "wages" in the ID Act.
+The difference between the two definitions relates only to certain items included in and certain other items excluded from it.
+But the hub is common that it is "remuneration capable of being expressed in terms of money."
+If lay-off compensation is also remuneration, there is not much difficulty to resolve the point.
+So the further question is what is meant by "remuneration" ?
+4.
+Learned counsel for the appellant/petitioner contended that remuneration is different from compensation.
+The former, according to the learned counsel, is payment made for the services rendered and the latter is recompense for the loss sustained.
+The contention in other words is that all payments made to an employee are not wages.
+5.
+In Black's Law Dictionary the following meanings have been ascribed to the word remuneration: "Reward, recompense, salary, compensation".
+Hence compensation is not altogether outside the ambit of remuneration.
+"Compensation" in general parlance is of course what is given to make up the loss or as substitute for the injury suffered by a person.
+But some times compensation would be in the form of remuneration for services already rendered.
+6.
+Blackburn, J in R v. Postmaster General (1 Q.D.B.
+663) has elaborated "remuneration" as a wider term and held that "whatever consideration of a person gets for giving his services, seems to me a remuneration for them."
+In S & V Stores v. Lee, (1969) 1 W.L.R 626, the word "remuneration" appearing in Contracts of Employment Act, 1963 is understood as including "all that is quantifiable in money and paid to the employee for his work including a weekly payment of a specified sum for expenses in connection with the use of his own motor-car."
+Stroud's Judicial Dictionary shows "remuneration" as a wider term than "salary" and it means a quid pro quo.
+Thus, whatever consideration a person gets for his services is remuneration for him.
+7.
+Under Section 25-C of the ID Act whenever a workman is laid-off, the employer shall pay him compensation which shall be equal to fifty per cent of the basic wages and dearness allowance.
+Second proviso to the section says that it shall be lawful for the employer to retrench a workman after the expiry of 45 days of the lay-off by paying him retrenchment compensation.
+But it has to be noted that in computing the retrenchment compensation, the employer is entitled to deduct lay-off compensation paid or payable to such workman.
+In this context we may point out that retrenchment compensation is excluded from the purview of the definition "wages" under the Bonus Act, whereas lay-off compensation is not excluded.
+This lends assurance in concluding that lay-off compensation is not outside the purview of remuneration as per Section 2(21) of the Bonus Act.
+8.
+Yet another indication can be gathered from Section 14 of the Bonus Act.
+That provision deals with computation of the number of working days for the purpose of calculating minimum bonus.
+Under Section 10 every employer has a duty to pay a minimum bonus which shall be 833 per cent of the salary in certain cases.
+Section 13 stipulates that if an employee has not worked for all the working days in an accounting year, the minimum bonus shall be proportionately reduced.
+Section 14 prescribes that for ascertaining the number of such working days an employee shall be deemed to have worked in the establishment even on these days during which he has been laid-off.
+This indicates that the scheme of the Bonus Act never contemplated lay-off compensation to be detached from remuneration for assessing the bonus payable to an employee.
+9.
+We must bear in mind a principle of interpretation that any ambiguity in the provisions of a social legislation should be interpreted in favour of the class for whose benefit the legislation is made.
+Bonus Act is intended to be beneficial legislation for the working class (vide  10.
+In KCP Employees Association, Madras v. Management of KCP Ltd, 1978(1) L.L.J 332).
+Chalthan Vibhag Sahakari Khand Udyog v. Government Labour Officer (1981(1) L.L.J 450 : AIR 1981 SC 905) Supreme Court considered whether 'retaining allowance' paid to certain seasonal employees of sugar industry for the off-season period should be taken into account in calculating bonus payable to such workmen.
+The contention advanced before the Supreme Court was that since the definition 'wages' excluded any allowance, then retaining allowance would be outside the scope of it.
+But Supreme Court repelled the contention and held that the definition given in Section 2(21) of the Act is wide enough to cover payment of retaining allowance to the workmen.
+"It is nothing but remuneration correlated to service and it would be a misnomer to call it an allowance."
+Supreme Court further observed that the very fact that retaining allowance is paid to the workmen clearly shows that their services are retained and, therefore, the jural relationship of employer and the employee continues.
+11.
+Shri U K Ramakrishnan, learned counsel, invited our attention to the decision of a Full Bench of this Court in ESI Corporation v. Malabar Cashew Nuts 1993(1) K.L.T.
+5 : 1993(1) SCT 97 (Kerala)(FB) wherein wages paid to a workman during holidays as enjoined by Industrial Establishments (National and Festival Holidays) Act was held to be not wages as defined in the Employees' State Insurance Act.
+The principle involved in the National and Festival Holidays Act is different from payment of lay-off compensation.
+At any rate, such amount would be allowances excluded from the purview of the definition in Section 2(21) of the Bonus Act.
+It is true that another Division Bench of this Court declined to include subsistence allowance given to a suspended employee within 'wages' as defined in the ESI Act.
+The Division Bench was of the view that there must be interrelation between the payment and the service rendered.
+In that view it was noted that subsistance allowance is a payment made purely by reason of a statutory obligation.
+So this decision also cannot persuade us to expel lay-off compensation from the purview of 'wages' in Section 2(21) of the Act.
+We, therefore, hold that lay-off compensation is also wages to be counted for determining the bonus payable to a workman.
+In view of the said answer we cannot grant the reliefs prayed for by the petitioners.
+Accordingly, we dismiss the Original Petition and also the Writ Appeal.

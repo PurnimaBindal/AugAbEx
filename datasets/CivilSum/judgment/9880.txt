@@ -1,0 +1,63 @@
+GS Singhvi, J - Whether the Senior Regional Manager, Food Corporation of India is competent to initiate disciplinary proceedings against an official of the rank of Assistant Manager ?
+This is the main issue that arises for adjudication in this petition filed by Shri Rajinder Kumar Chopra for quashing of charge-sheet dated December 30, 1997.
+2.
+Shri VK Jindal argued that the initiation of disciplinary inquiry against the petitioner by the Senior Regional Manager ultra vires to is Regulations 56 of the Food Corporation of India (Staff) Regulations, 1971 (for short the Regulation) because the petitioner had been promoted as Assistant Manager (Quality Control) by the Zonal Manager, who alone can act as disciplinary authority of the petitioner and as such, the impugned charge-sheet and the order appointing the Inquiry Officer are liable to be quashed.
+He relied on the judgment of a learned Single Judge DK Banerjee v. Food Corporation of India, 1986(8) SLR 50.
+3.
+In our opinion, this contention of Shri Jindal is without merit.
+Regulation 56 (unamended as well as amended), 57 and the relevant extract of Appendix-2, referred to in Regulation 56, which have bearing on the contention urged by Shri Jindal are reproduced below:-  Unamended Regulation 56: "56.
+Disciplinary Authorities: The Board or the authority specified in appendix 2 in this behalf or any other authority (higher than the authority specified in Appendix 2) empowered in this behalf by a general or special order of the Board, may impose any of the penalties specified in Regulation 54 on any employee.
+56.
+Amended Regulation 56 (As it stands after 16.10.1987) : Disciplinary Authority: The Board or the authority specified in Appendix 2 in this behalf or any other authority (higher than the authority specified in Appendix 2) empowered in this behalf by a general or special order of the Board, may impose any of the penalties specified in Regulation 54 on any employee.
+Provided that the penalties of reduction in rank, compulsory retirement, removal from service or dismissal from services specified in clauses (v) to (ix) of Regulation 54 shall not be imposed on any employee by an authority lower than the appointing authority.
+Explanation: That "the appointing authority" in relation to an employee for the purpose of this regulation shall be as under:-  (i) The authority empowered to make appointments to the post/grade which the employee for the time being holds; or (ii) the authority which appointed the employee to such post/grade as the case may be; whichever authority is the higher authority.
+57.
+Authority to institute proceedings: (1) The Board or any other authority empowered by general or special order may -  (a) institute disciplinary proceedings against any employee of the Corporation, (b) direct a disciplinary authority to institute disciplinary proceedings against any employee of the Corporation on whom that disciplinary authority is competent to impose under these regulations any of the penalties specified in Regulation 54.
+(2) A disciplinary authority competent under these regulations to impose any of the penalties specified in clauses (i) to (iv) of Regulation 54 may institute disciplinary proceedings against any employee of the Corporation for the imposition of any of penalties specified in clauses (v) to (ix) of Regulation 54 notwithstanding that such disciplinary authority is not competent under these regulations to impose any of the latter penalties.
+Appendix 2 as amended on 16.10.1987  Category of Post, Penalties, Competent authority to impose penalty, Appellate authority  Category II Minor Penalties, SRM  Major Penalties Zonal Manager, Managing Director  4.
+A bare reading of the regulations reproduced above shows that under the unamended Regulation 56 the Board or the authority specified in Appendix-2 or any other authority higher than the authorities specified in Appendix-2 could impose any of the penalties specified in Regulation 54, provided that in the case of an authority higher than the one specified in Appendix-2, the Board must have issued an order empowering such authority to impose punishment.
+Under the amended Regulation 56 the power to impose major penalties like reduction in rank, compulsory retirement, removal or dismissal from service has been conferred exclusively upon the appointing authority.
+However, the amendment made in Regulation 56 is relevant only at the stage of imposition of punishment and it has no bearing on the issue of competence of the authority concerned to initiate disciplinary proceedings.
+This aspect is governed by Regulation 57.
+In terms of the amended Regulation 57(2) the disciplinary authority which is competent to impose any of the minor penalties specified in clauses (i) to (iv) of Regulation 54 can institute disciplinary proceedings for imposition of any of the major penalties specified in clauses (v) to (ix).
+These of non-obtante clause in Regulation 57(2) is sufficient to dispel any misgiving that the disciplinary action can be initiated against an employee only by an authority competent to impose any of the major penalties.
+The amended regulation expressly empowers an authority other than the one which is competent to impose any of the major penalties, to initiate disciplinary proceedings.
+A look at Appendix-2 (amended) shows that Senior Regional Manager is empowered to impose any of the major penalties on an employee holding category-II post.
+The post of Assistant Manager (Quality Control is a category-II post.
+Therefore, the initiation of disciplinary inquiry by the Senior Regional Manager is quite in accordance with Regulation 57(2) read with Appendix-2.
+Hence, it is held that the impugned charge-sheet and the order of appointment of Inquiry Officer are not ultra vires of the Regulations.
+In Transport Commissioner, Madras-5 v. A Radha Krishna Moorthy, : 1995(1) SLR 239 : 1995(1) SCT 728 (SC) the Supreme Court held that although the order of dismissal or removal cannot be made by an authority subordinate to the appointing authority the initiation can be by an officer subordinate to the appointing authority.
+In Inspector General of Police and another v. Thavasiappan, 1996(2) SLR 47 : 1996(3) SCT 681 (SC), the Supreme Court made distinction between an act of instituting disciplinary proceeding and an act of imposing the punishment and held that in the absence of a specific rule it is not necessary that charges should be framed only by an authority competent to impose penalty or that inquiry should be conducted by such authority.
+5.
+In Director General, ESI and another v. T Abdul Razak, (1996)4 SCC 78 : 1996(4) SCT 273 (SC), the delegation of powers by the Director General to an authority subordinate to it has been upheld by the Supreme Court.
+The Apex Court also held that the initiation of inquiry need not be done by the authority competent to impose punishment.
+Some of the observations made in that decision, which have direct bearing on the argument of Shri Jindal are reproduced below:-  "With regard to initiation of disciplinary proceedings by the Regional Director, we find that the legal position is well settled that it is not necessary that the authority competent to impose the penalty must initiate the disciplinary proceedings and that the proceedings can be initiated by any superior authority who can be held to be the controlling authority who may be an officer subordinate to the appointing authority (See: State of M.P. v. Shardul Singh; PV Srinivasa Sastry v. Controller and Auditor General and Inspector General of Police v. Thavasiappan).
+The Regional Director being the officer-in-charge of the region, was the controlling authority in respect of the respondents.
+He could institute the disciplinary proceedings against the respondents even in the absence of specific conferment of a power in that regard."
+In Steel Authority of India and another v. Dr. RK Diwakar and others, 1997(5) SLR 234 : 1997(4) SCT 33 (SC), the delegation of power to the controlling authority to issue charge-sheet has been upheld by the Apex Court.
+The principles which emerge from these decisions are:-  (i) The power to initiate disciplinary proceedings/action is quite distinct from the power to impose punishment.
+(ii) The authority competent to impose punishment can delegate its power to initiate disciplinary proceedings unless the rules prohibit such delegation.
+(iii) Even in the absence of any specific provision, an authority other than the authority competent to impose punishment/appointing authority can initiate disciplinary action against the delinquent employee.
+(iv) The initiation of proceedings can be invalidated only if the rules specifically empower a particular authority to initiate the action and some other authority not empowered to do so institutes the disciplinary action.
+On the basis of above analysis of the regulations and the principles of law laid down by the Supreme Court, we do not find any jurisdictional or legal error in the initiation of disciplinary inquiry against the petitioner Senior Regional Manager.
+6.
+The decision of the learned Single Judge in DK Banerjee's case (supra) does support the case of the petitioner but with great respect, we are unable to agree with the conclusion of the learned Single Judge that the Senior Regional Manager is not competent to initiate disciplinary proceedings against a Class-II employee.
+The facts incorporated in that judgment show that DK Banerjee was working as Assistant Manager (Quality Control) (redesignated as Assistant Manager-Technical).
+He challenged the charge-sheet dated 10121991 issued by the Senior Regional Manager, FCI, Punjab Region, under Regulation 58 read with Regulation 50 of the Regulations.
+In paragraph 6 of the judgment, the learned Single Judge noticed the amendment made in the Regulations and observed that the Senior Regional Manager is competent to inflict minor penalties.
+However, without further analysing the Regulations and without making reference to Regulation 57(2), the learned Single Judge held that the Zonal Manager alone was competent to initiate disciplinary action.
+In our opinion, this is contrary to the plain language of Regulation 57(2) of the Regulations.
+Therefore, we hold that the judgment of the learned Single Judge does not lay down correct law.
+7.
+The second contention urged by Shri Jindal is that the charge-sheet should be quashed on the ground of delay.
+He relied on the decision of the Supreme Court in State of M.P. v. Bani Singh, JT 1990(2) SC 54.
+We have gone through the various documents filed with the writ petition and are of the opinion that the proceedings of inquiry cannot be quashed simply because there is a time gap of about five years between the year of incident and the date of initiation of disciplinary proceedings.
+The petitioner has not placed any evidence on the record of the Court to show that the delay in the initiation of inquiry has caused any prejudice to him.
+Indeed, he has not even pleaded that on account of delay his promotion has been withheld or his service conditions have been adversely affected.
+Therefore, we are unable to agree with the learned counsel that the initiation of disciplinary proceedings should be quashed only on the ground of delay.
+This view of ours is fortified by the observations made by the Supreme Court in BC Chaturvedi v Union of India, 1995(5) SLR 778 : 1996(1) SCT 617 (SC).
+Moreover, the objection of delay can be raised by the petitioner before the inquiring authority and the disciplinary authority at an appropriate stage and he can prove that his difence has been prejudiced due to the delay in the initiation of inquiry.
+It will then be open to the Inquiry Officer to consider this plea and take appropriate decision.
+However, we do not find any justification to invalidate the proceedings of department inquiry at this stage only on the ground of delay.
+For the reasons mentioned above, the writ petition is dismissed.
+Petition dismissed.

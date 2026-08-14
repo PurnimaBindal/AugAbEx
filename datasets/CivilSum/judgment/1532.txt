@@ -1,0 +1,112 @@
+Sanjay Kishan Kaul, J - The question whether continuous service in the year preceding the year in question is a pre-requisite for entitlement of benefit under section 25F of the Industrial Disputes Act, 1947 (hereinafter referred to as the Act) has given rise to the present petition.
+2.
+The petitioners were initially employed by MCD, respondent No. 2 as daily rated class IV employees in 1984 and their services were terminated in September, 1986.
+An industrial dispute was raised which was referred to the Labour Court by the Delhi Administration on 6287.
+An award was passed on 11294 holding that the termination of the services of the petitioners was justified and that the petitioners were not entitled to any relief.
+It is this award which is impugned in the present writ petition.
+3.
+The only issue raised by learned counsel for the petitioners is that the award is erroneous since it is based on mis-reading of section 25B of the Act.
+4.
+The relevant portions of section 25F and 25B are as under :-  "25F.
+Conditions precedent to retrenchment of workman.
+- No workman employed in any industry who has been in continuous service for not less than one year under an employer shall be retrenched by that employer until -  25B.
+Definition of continuous service.
+- For the purposes of this Chapter : (1) a workman shall be said to be in continuous service for a period if he is, for that period, in uninterrupted service, including service which may be interrupted on account of sickness or authorised leave or an accident or as strike which is not illegal, or a lockout or a cessation of work which is not due to any fault on the part of the workman."
+(2) where a workman is not in continuous service within the meaning of clause (1) for a period of one year or six months, he shall be deemed to be in continuous service under and employer - (a) for a period of one year, if the workman, during a period of twelve calendar months preceding the date with reference to which calculation is to be made, had actually worked under the employer for not less than - (i) one hundred and ninety days in the case of a workman employed below ground in a mine; and (ii) two hundred and forty days, in any other case;" (emphasis supplied) 5.
+Learned counsel for the petitioners contended that section 25F requires continuous service for not less than 1 year and the requirement is not continuous service of one year in the preceding year.
+Learned counsel contended that section 25B is only for purposes of computation of continuous service referred to in section 25F of the Act and it is for the aid of the workman.
+Learned counsel for the petitioners referred to para 14 of the impugned award to contend that the basis of the enquiry made by the Labour Court itself was incorrect since it is admitted therein that the enquiry has been made to find out whether the workman actually worked for not less than 240 days during the period of 12 calender months immediately preceding the retrenchment.
+It is stated that the requirement "immediately preceding" is not mandated by any provision of the Act.
+To illustrate what the learned counsel for the petitioners submit would be a great anomaly and inequality, it is contended that if a person has 240 days of service each during a number of years and by reason of artificial breaks by the employer for one particular year the period is reduced to below 240 days, then in terms of the interpretation of the Labour Court it would deny such a person the benefit of provisions of section 25F of the Act.
+The chart of actual working days has been referred to in terms whereof in the year 1984 petitioner No. 1 had worked for 223 days; petitioner No. 2 for 287 days and petitioner No. 3 for 287 days.
+However, the number of days worked in 1985 in all the three cases fell below 240.
+Learned counsel for the petitioners referred to the judgment of the Division Bench of Karnataka High Court in Hutchiah v. Karnataka State Road Transport Corporation, 1983(1) LLJ 30 where such a situation was negatived by the Division Bench and it was held that there was no requirement that the employee should have worked 240 days in the year immediately preceding the date of discharge.
+The Division Bench in para 22 observed as under:  "22.
+Another submission made by Sri Ramesh is that unless an employee had worked for 240 days in the year immediately preceding the date of discharge, he would not be entitled to the benefits of S. 25-F of the Act.
+This submission is also devoid of any merit.
+Before effecting retrenchment of a workman who has completed one or more years of continuous service in terms of S. 25-F(1) of the Act, one month's notice is necessary and according to S. 25-F(b) payment of compensation at the rate of 15 days wages for every completed year of service is mandatory.
+It may be, in a given case, if the workman had not worked for a period of 240 days immediately prior to the date of discharge, or during any other year, it is a matter relevant for consideration for the computation of the amount payable under S. 25-F(b) of the Act.
+He might not be entitled to 15 days salary for such year.
+That does not mean that if for some reason or the other, a workman had not worked for 240 days in the year preceding the date of termination, his past service by the force of which he would be entitled to the notice and payment prescribed in S. 25-F(a) and (b) of the Act would be wiped out."
+6.
+Learned counsel for the petitioners also referred to the judgment of learned Single Judge of Rajasthan High Court in Chief Engineer, Irrigation v. Kamlesh & Ors, 1996 1 CLR 1128 where it was held that the conditions provided in clauses (a) and (b) under section 25F of the Act were mandatory in nature and condition precedent and in case of failure of compliance the retrenchment would be invalid and inoperative.
+The learned Single Judge was of the view that once it is found that the workman is in continuous service as per requirement of clause 1 of section 25B of the Act then it is wholly immaterial whether he is worked for a particular number of days in a particular year.
+It was thus held that the working in the last calendar year was not a material requirement.
+7.
+Learned counsel for the petitioners also referred to the judgment of the Supreme Court in State Bank of India v. Presiding Officer and anr., (1998) 8 SCC 576.
+The Supreme Court observed while denying the benefits to the workman in the said case since the concerned respondent therein had not worked for more than 240 days continuously in `a year' as required under section 25B of the Act he would not be entitled to the benefit.
+At another place in the judgment reference has been made to not putting in 240 days in 'any calendar year' and not in the preceding year.
+8.
+Learned counsel for the petitioners also referred to the judgment of the Supreme Court in Workmen of American Express International Banking Corporation v. Management of American Express International Banking Corporation, (1985)4 SCC 71 to contend that the Act is a welfare legislation and a provision should be construed liberaIly.
+The Supreme Court considered the question whether the working of 240 days would include paid holidays and while interpreting section 25F and 25B of the Act observed as under:  "5.
+Section 25-F of the Industrial Disputes Act is plainly intended to give relief to retrenched workmen.
+The qualification for relief under Section 25-F is that he should be a workman employed in an industry and has been in continuous service for not less than one year under an employer.
+What is continuous service has been defined and explained in Section 25-B of the Industrial Disputes Act.
+In the present case, the provision which is of relevance is Section 25-B(2)(a)(ii) which is to the extent that it concerns us, provides that a workman who is not in continuous service for a period of one year shall be deemed to be in continuous service for a period of one year if the workman, during a period of twelve calendar months preceding the date with reference to which the calculation is to be made, has actually worked under the employer for not less than 240 days.
+The expression which we are required to construe is actually worked under the employer.
+This expression, according to us, cannot mean those days only when the workman worked with the hammer, sickle or pen, but must necessarily comprehend all those days during which he was in the employment of the employer and for which he had been paid wages either under express or implied contract of service or by compulsion of statute, standing orders etc.
+The learned counsel for the Management would urge that only those days which are mentioned in the Explanation to Section 25-B(2) should be taken into account for the purpose of calculating the number of days on which the workmen had actually worked though he had not so worked and on other days.
+We do not think that we are entitled to so constrain the construction of the expression "actually worked under the employer."
+The explanation is only clarificatory, as all explanations are, and cannot be used to limit the expanse of the main provision.
+If the expression "actually worked under the employer" is capable of comprehending the days during which the workman was in employment and was paid wages - and we see no impediment to so construe the expression - there is no reason why the expression should be limited by the explanation.
+To give it any other meaning than what we have done would bring the object of Section 25-F very close to frustration.
+It is not necessary to give examples of how Section 25-F may be frustrated as they are too obvious to be stated."
+9.
+Learned counsel for respondent No. 2, on the other hand, has relied upon the Division Bench judgment of the Andhra Pradesh High Court in G.Yadi Reddy v. The Management of Brooke Bond India Limited and another, 1995(2) SCT 202 (DB) (P&H) : 1994 Lab.IC 186 where the expression cessation of work used under section 25B of the Act was to be interpreted.
+The plea of the management was that for nearly one year prior to the relevant date no work was entrusted to the worker and there was no obligation to pay him either retrenchment dues or to reinduct him in service.
+The Division Bench observed as under :  2 .... "The plea of the appellant before the Labour Court was that he worked for more than two hundred and forty days in every year and, therefore, he was entitled to retrenchment compensation.
+The version put forward by the management was that for nearly one year prior to the accident in question no work was entrusted to the appellant casual worker and, therefore, there was no obligation to pay him either retrenchment compensation or reinduct him into service.
+3 ..... 4 ..... 5 ..... Shri Surendar Rao says that the appellant was not given work although he was willing to take-up work and so the words "cessation of work" in sub-section (1) should be interpreted with reference to the workman but not from the point of view of the company.
+We cannot agree.
+The words "cessation of work" should be interpreted, in our considered opinion, ejusdem generis which implies that when a particular expression precedes a general expression, the latter should be interpreted in the light of the former.
+If so interpreted, the expression "cessation of work" should be interpreted in the light of illegal strike or lock-out and matters of a similar nature which are not difficult to be foreseen like power failure, imposition of curfew, declaration of bandhs, break-down of law and order and related matters.
+Merely because a casual worker was willing to work, there is no obligation on the part of the company to provide him with work even if there is no work.
+Sub- section (1), therefore, has no application to the appellant's case."
+10.
+Learned counsel for the respondent No. 2, also relied on the judgment of the Supreme Court in Mohan Lal v. Management of M/s. Bharat Electronics Limited, (1981)3 SCC 225 where it was held that if immediately preceding the date of termination of service such workman actually worked for not less than 240 days within a period of 12 months under the employer, he would be deemed to be in continuous service for one year and would be entitled to retrenchment compensation under section 25F of the Act.
+11.
+I have heard learned counsel for the parties.
+12.
+In construing and interpreting the provisions of section 25B and 25F of the said Act the observations of the Supreme Court in Workman of American Express International Banking Corporation's case (supra) have to be kept in mind.
+The Act is a welfare legislation and the provisions must be construed liberally.
+The object of section 25F of the Act is to give relief to the retrenched workmen and the workmen should have been in continuous service of not less than one year under the employer.
+The purpose of section 25B of the Act is only to define what is meant by continuous service.
+13.
+If the aforesaid object is kept in mind section 25B cannot be given a restrictive interpretation in so far as the definition of continuous service is concerned.
+In fact the expression used is 12 calendar months.
+Period of 12 calendar months preceding the date and the word "immediately" has not been used.
+There is force in contention of learned counsel for the petitioners that if only immediate previous calendar months are taken into consideration, it will result in an anomalous situation where an employer will be giving artificial breaks in service for the immediate preceding calendar year and deny the workmen the benefits even though the workmen has worked for more than 240 days in preceding calender years though it may not be so in the immediate preceding calendar year.
+The object of section 25B is only for purpose of computation of continuous service and the substantive provision is 25F of the Act.
+The Division Bench of the Karnataka High Court in Hutchiah's case (supra) has negatived the contention which is sought to be advanced by learned counsel for respondent No. 2.
+The view of learned Single Judges of the Rajasthan High Court in Chief Engineer (Irrigation)'s case (supra) is also to the same effect.
+14.
+A clue can also be taken from the observation of the Supreme Court in State Bank of India's case (supra) though the issue has not been directly decided.
+The Supreme Court while negating the claim of a workman, referred to the fact that the workman therein had not worked for more than 240 days continuously in "a year" or "any calendar year".
+The occasion to use these expressions would not have arisen if the requirement was the immediate preceding calendar year.
+15.
+The judgment in Mohan Lal's case (supra) referred to by learned counsel for respondent No. 2 was in the context of the period of 12 months prior to the date of termination and not the concept of calender month.
+In fact in the said judgment a more liberal construction was given in favour of the workman while dealing with the issue of retrenchment under section 25F of the Act by moving backwards for a period of 12 months which is preceding the date of retrenchment for calculation of 240 days and it was held that the same would amount to continuous service for one year and would satisfy the eligibility qualification under section 25F of the Act.
+The Division Bench of the Andhra Pradesh High Court in G Yadi's case (supra) discussed the issue arising from the version of the management that for nearly one year prior to the incident in question no work was entrusted to the cancelled worker and therefore, the management had no obligation to pay him either retrenchment or to reinduct him into service.
+It is in this context that the observations were made by the Division Bench but the question of immediately preceding calender year has not been discussed since the same was not an issue.
+16.
+I am thus of the considered view that period under section 25B read with section 25F of the Act cannot be restricted to immediately preceding calender year and thus the petitioners cannot be denied the benefit on that ground.
+As long as an employee has worked for 240 days in any calender year preceding his termination, the employee would be entitled to the benefit.
+17.
+The chart filed as annexure `M' with the writ petition would show that the petitioners 2 and 3 did complete the minimum requirements of 240 days in the year 1984 though they did not complete the same in 1985 and were terminated in September, 1986.
+However, petitioner No. 1 did not complete 240 days either in 1984 or in the year 1985 and if even the previous 12 months prior to termination is taken into account would not have completed 240 days.
+Thus only petitioners 2 and 3 would meet the requirement and petitioner No. 1 would not meet the necessary requirements.
+18.
+In view of the aforesaid the impugned award of the labour court is set aside in so far as the petitioners 2 and 3 are concerned.
+19.
+The question, however, remains as to what relief should be granted to petitioners 2 and 3.
+In two recent decisions of the Supreme Court namely in Rolston John v. Central Government Industrial Tribunal-cum-Labour Court and Ors, 1995 Supp (4) SCC 548, Ratan Singh v. Union of India & Anr, 1997 II SCC 396 it has been held that in certain cases instead of reinstatement appropriate compensation in lieu thereof would meet the ends of justice.
+This is so specially where there is long lapse of time as in the case of Rolston John's case (supra).
+These decisions of the Supreme Court have been followed by a Division Bench of this court in DTC v. Presiding Officer & anr, 2000 LLR 136 and by the learned Single Judge of this court in Nehru Yuva Kendra Sangathan v. Union of India & Ors, 2000(4) SCT 779 (Delhi) : 2000 IV AD (Delhi) 709 and Madan Lal Arora v. Managing Director, AIIMS & Ors, 1999(4) SCT 827 (Delhi) : 1999 VII AD (Delhi) 38.
+20.
+Petitioners 2 and 3 have worked only for little over 240 days in 1984.
+In fact the total period worked by petitioners 2 and 3 from 1984 to 1986 when their services were terminated is 581 and 569 days respectively.
+There is also a passage of time of almost of 16 years.
+For these reasons the principle set out in the aforesaid judgments including of shorter period of time worked and lapse of long period of time since termination would squarely apply to the facts of the present case.
+Considering the period of time the petitioners have worked and the lapse of times since then, I deem it appropriate that a sum of Rs. 50,000/- each should be paid to the said workmen in lieu of the payment of backwages and claim of reinstatement.
+The award of the labour is modified to the aforesaid extent and the writ petition is disposed of accordingly leaving the parties to bear their own costs.
+Order accordingly.

@@ -1,0 +1,223 @@
+BEFORE THE ADJUDICATING OFFICER SECURITIES AND EXCHANGE BOARD OF INDIA ADJUDICATION ORDER NO. Order AK JS 2021 22 14784] UNDER SECTION 15 I OF SECURITIES AND EXCHANGE BOARD OF INDIA ACT 1992 READ WITH RULE 5 OF SEBIRULES 1995.
+In respect of Arpita Sikaria PAN: FQEPS4347M) In the matter of Dealings in Illiquid Stock Options at BSE BACKGROUND OF THE CASE 1.
+Securities and Exchange Board of Indiaobserved large scale reversal of trades in stock options segment of Bombay Stock Exchange hereinafter referred to as “BSE”).
+SEBI observed that such large scale reversal of trades in stock options lead to creation of artificial volume at BSE.
+In view of the same SEBI conducted an investigation into the trading activities of certain entities in illiquid stock options at BSE for the period April 1 2014 to September 30 2015 hereinafter referred to as "Investigation Period IP").
+2.
+Pursuant to the investigation it was observed that total 2 91 643 trades comprising 8138% of all trades executed in stock options segment of BSE during the Investigation Period were non genuine trades.
+These non genuine trades resulted in creation of artificial volume to the tune of 82621 crore units or 5468% of the total market volume in stock options segment of BSE during the Investigation Period.
+Such trades were observed to be non genuine in nature and created false or misleading appearance of trading in terms of artificial volumes in stock options and therefore alleged to be manipulative and deceptive in nature.
+It was observed that Ms. Arpita Sikariawas one of the various entities which indulged in execution of reversal trades in stock options segment of BSE during the Investigation Period.
+In view of the same SEBI initiated adjudication proceedings against the Noticee for violation of the provisions of Regulations 3(a) (c) 4(1) and 4(2)(a) of SEBIRegulations 2003 and Rule 3 of SEBIRules 1995 vide order dated July 02 2021 to conduct adjudication proceedings in the manner specified under Rule 4 of Adjudication Rules read with section 15I of SEBI Act and if satisfied that penalty is liable impose such penalty as deemed fit in terms of Rule 5 of Adjudication Rules and Section 15HA of SEBI Act.
+SHOW CAUSE NOTICE REPLY AND HEARING 4.
+Show Cause Notice bearing reference no. SEBI HO MRD1 MRD1_DSAP P OW 2021 15221 1 dated July 14 2021was issued to the Noticee under Rule 4(1) of the Adjudication Rules to show cause as to why an inquiry should not be initiated against the Noticee and why penalty should not be imposed upon the Noticee as per Section 15HA of the SEBI Act for the violations alleged to have been committed by the Noticee.
+5.
+It was inter alia alleged in the SCN that the Noticee through her trades had indulged in creation of artificial volume of 5 500 units through 2 non genuine trades in one stock option contract during the investigation period.
+6.
+The SCN dated July 14 2021 issued to the Noticee was sent via Speed Post Acknowledgement Due and via email dated July 14 2021 at the email provided by the Noticee in his KYC application i.e. csingari@ceindia.in.
+7.
+Vide her email reply dated 29 07 2021 the Noticee stated “Due to ongoing COVID 19 pandemic and the lockdown it is very difficult to attend to these proceedings and therefore we request you to grant us 4 weeks’ time to file our reply in the matter” 8.
+The Noticee vide another letter dated 04 08 2021 prayed to implead BSE Ltd in the matter on the ground that the options product ‘LEIPS S&P BSE SENSEX Option was issued by BSE.
+The Noticee inter alia also submitted as under:  The Noticee states that the BSE is a necessary party to the proceedings and that BSE ought to have been joined as a party and the event BSE is not joint as a party to the present proceedings no effective order can be passed at all by Hon ble Adjudicating Officer SEBI  SEBI is called upon to produce the investigation report referred to and relied upon by SEBI before issuing the SCN.
+ BSE had invited the trading members to engage their clients to trade for the 5 days settlement option contract.
+Moreover BSE was providing the trading members with incentives for marketing and engaging its clients for trading in the new F&O product that had a settlement period of 5 days.
+These incentives were revised w.e.f.
+October 2015.  These promotions were within the public domain and no objection was taken by SEBI or even BSE.
+ The constituents were lured to invest in the scheme through SEBI and BSE registered intermediaries who at the relevant time convinced the clients to participate in such transactions and executed trades in the name and code of the constituents like the Noticee.
+ The number of orders executed by the Noticee s trading member in the Noticee s account were only 2 and the same originated from the mind of the trading member.
+The Noticee was under the impression that the transactions executed by the Noticee were within the four corners of the law.
+ The Noticee acted in good faith based on the representations of the broker.
+Pertinently no objection till date has been taken by BSE for such trades.
+ The same model practice was followed by all the trading members at the relevant time and the Noticee was one of such constituents for whom the trading member executed such transactions.
+ The alleged violation are not an instance but a market vide phenomenon.
+However BSE and the trading members have not been called upon to show cause qua their involvement in the episode.
+ The trading member did not collect any margin from the Noticee and no order placement proof of any nature has been referred to and relied upon by SEBI in the SCN while alleging the charges against the Noticee.
+ The profile of the Noticee has not been taken into consideration.
+The Noticee does not understand the nitty gritties of the stock market let alone the intricacies involved in F&O trading.
+ BSE and the trading members who executed such transactions in the account of their clients have not been made a party to the transactions.
+ BSE is the first level regulator and obligations of the transactions having been fulfilled at the relevant time it is not proper to question the validity of the transactions after a period of 6 years.
+ Further the trading member is necessary party to the proceedings as the Noticee was registered as a constituent withLtd.
+client Code 4203] and its orders were executed by them from their terminals.
+The Noticee was not aware about operating features of trading or prevailing liquidity in stock options or spread between buying selling rates or volume.
+The trading member informed the Noticee that the orders would be executed within circuit filters limits then imposed by BSE.
+Hence the Noticee was under bonafide belief that the trading member would not execute order beyond the confines of trite law.
+9.
+Vide another reply dated August 11 2021 the Noticee requested for the following:  Investigation report relied upon by SEBI in paragraph 4 of the SCN  Order placement record of the Noticee relied upon by SEBI  Voice recording of the Noticee relied upon by SEBI  KYC of the Noticee relied upon by SEBI to establish connection for the purpose of fraud  Order logs and trades logs on 16th February 2015 relied upon by SEBI for alleging the violations in the SCN for trades as set out in Annexure 2 of the SCN  Cross examination of Broker BSE Counter Party Broker Counter Parties viz M s Giriraj Stock BrokingLtd and Soltaire Tie Up Pvt Ltd and Kayan Securities Pvt. Ltd.  Copy of client agreement with broker  Copy of complaint filed with SEBI by Soltaire Tie Up Pvt Ltd for fraudulent loss suffered by them against our profit of Rs. 3 57 37075.  Any other statement based upon which SEBI relied that these transactions are  Any other investigation report or incrementing reports or materials to prove that colourable transactions.
+apparent transactions are not real.
+10.
+Vide her reply dated August 30 2021 the Noticee further represented as under:  The Noticee is not a regular trader but is a victim of incentive scheme offered by BSE marketing strategies of broker for their mutual benefit.
+Noticee does not know any integrities of derivative market and does not have derivative pass certificate of BSE.
+Noticee was not informed by broker that such trades are illegal and could attract penalties up to 25 crores.
+We were are registered as a constituent with Giriraj Stock Broking Pvt Ltd.
+Client Code A2O3 and our orders were executed by them from their terminals.
+We were not aware about operating features of trading or prevailing liquidity in stock options or spread between buying selling rates or volume.
+Our brokers informed us that orders would be executed within circuit filters limits then imposed by BSE.
+You are therefore requested that you obtain the relevant verification confirmations statements etc. from the broker.
+ The allegations framed in the SCN relate to the Derivatives trades of February 2015 which are more than six years ago.
+The SCN does not provide any explanation to justify the inordinate and unconscionable delay in initiation of proceedings against Noticee.
+It is respectfully submitted that the initiation of proceedings by SEBI after such a long delay severely prejudices the ability of Noticee to adequately respond to the SCN.
+ In this regard attention of the Hon ble Whole Time Member is drawn to the fact that the requirement to preserve documents under various legislations is not more than Five years for Brokers.
+Hence after September 2020 no broker is obliged to give any documents to SEBI or investor.
+ SEBI has issued SCN in the present case without any direct evidence against the Noticee without allowing the cross examination of trading members and without having any complaints of fraud in 2014 and 2015.  SEBI’s actions beg the question as to how SEBI can issue SCN to investors after 6 years whereas brokers are not required to maintain the records after 5 years and the same is grossly unjustified.
+ The constituents were lured to invest in the scheme through SEBI and BSE registered intermediaries who at the relevant time convinced the clients to participate in such transactions and executed trades in the name and code of the constituents like the Noticee.
+ It is respectfully submitted that the requirement of ‘intention’ is a pre requisite to prove ‘fraud’ for violation of PFUTP Regulations.
+It should be noted that the offences alleged under the PFUTP Regulations in the present case are serious offences against the company which require evidence of ‘fraud or deceit’ to be carved out and attributed against the Noticee as they are not just ordinary civil defaults.
+It is a settled principle recognized by SEBI that “the necessity of ‘intent’ and the element of ‘fraud’ appears to be a pre requisite in all parts of Regulation 3 and 4 of the PFUTP Regulation”.
+Thus for the transaction to be termed fraudulent as per definition of ‘fraud’ there has to be an ‘inducement’ and SEBI has not even alleged inducement.
+The trades in question were in the normal course of business and there is nothing illegal in the trades executed by the Noticee.
+None of the trades are deceptive in nature or have any impact on the investors or their investment decision which is a sine qua non of fraud.
+ The Noticee submits that the present submissions are being made without prejudice to the fact that inspection of documents stands incomplete till date as the documents requested and primarily relied upon by SEBI before initiating the present proceedings have not been provided.
+11.
+Vide another letter dated September 16 2021 the Noticee stated “I say that I have not traded in the contract note viz. “GRSM15FEB360000CE’ dated 16 February 2015 as alleged in the SCN at the paragraph 7&8” The Noticee also sought an opportunity of personal hearing.
+12.
+Prior to the letter dated September 16 2021 of the Noticee with respect to inspection of documents sought by Noticee vide an email dated August 30 2021 the Noticee was informed that the SCN is based on the trade and order log data extract of which had already been provided along with the SCN.
+It was also informed that investigation report contains information about numerous other entities and hence cannot be shared.
+Further in the interest of natural justice the Noticee was granted an opportunity of personal hearing on September 10 2021 at 02:30 pm.
+However the Noticee failed to appear for the said hearing.
+13.
+The Noticee was granted another opportunity of personal hearing on October 26 2021 at 11:00 am vide letter dated October 7 2021.
+The Noticee vide her letter dated 18th October 2021 authorized CA Ram Awatar Dhoot to file replies and to appear before me.
+14.
+The authorized representative of the Noticee appeared before me on the scheduled date and time through WebEx online conference and submitted that there is no case of any violation by the Noticee and no justification for any penalty or punitive action against the Noticee.
+Post hearing the Noticee through her authorized representative quoted many case laws to put the responsibility of the impugned trades on the stock broker and also inter alia submitted the following vide letter dated 26 10 2021 and  Your SCN alleges trade in “GRSM15FEB360000CE’ but contract note is showing trade in “GRSM26FEB2015 360000.
+It seems that the proceedings has been started wrongly.
+SCN should be set aside on this ground only.
+the show cause notice is barred by limitation as the alleged transaction is claimed to have taken on 16 February 2015 however the SEBI has issued the show cause notice on 25 July 2021.
+Moreover in light of the long period which has transpired from the date of the alleged transaction the Noticee is unable to procure any documents to verify the correctness of the alleged transaction.
+the SCN errs in terms of provision of law as the alleged provisions of law were not in force at the time of the alleged transaction.
+That Section 11(2)which provides the Board with the power to levy penalty was introduced in the SEBI Act 1992 by way of the 2019 amendment hence the SCN is bad in law  Regulations 3(a) (c) and 4(1) 4(2)(a) of the SEBI Regulations 2003 itself before 2019 amendment does not apply to investor and is applicable only to persons listed in Section 12 of the SEBI Act 1992 the present show cause notice is violative of Article 20(1) of the Constitution of India as the present show cause notice is trying to penalize the Noticee for violation of a law which was not in force at the time of the alleged transaction.
+CONSIDERATION OF ISSUES AND FINDINGS 15.
+I have carefully perused the charges levelled against the Noticee and the documents material available on record.
+The issues that arise for consideration in the present case are: a) Whether the Noticee has violated regulations 3(a) (c) 4(1) and 4(2)(a) of PFUTP Regulations SEBI Act b) Does the violation if any attract monetary penalty under Section 15HA of the c) If so what would be the quantum of monetary penalty that can be imposed on the Noticee after taking into consideration the factors mentioned in section 15J of the SEBI Act 16.
+Before proceeding further I would like to refer to the relevant provisions of the PFUTP Regulations as below: PFUTP Regulations 3.
+Prohibition of certain dealings in securities No person shall directly or indirectly— a) buy sell or otherwise deal in securities in a fraudulent manner b) use or employ in connection with issue purchase or sale of any security listed or proposed to be listed in a recognized stock exchange any manipulative or deceptive device or contrivance in contravention of the provisions of the Act or the rules or the regulations made there under c) employ any device scheme or artifice to defraud in connection with dealing in or issue of securities which are listed or proposed to be listed on a recognized stock exchange d) engage in any act practice course of business which operates or would operate as fraud or deceit upon any person in connection with any dealing in or issue of securities which are listed or proposed to be listed on a recognized stock exchange in contravention of the provisions of the Act or the rules and the regulations made there under.
+4.
+Prohibition of manipulative fraudulent and unfair trade practices 1) Without prejudice to the provisions of regulation 3 no person shall indulge in a fraudulent or an unfair trade practice in securities.
+2) Dealing in securities shall be deemed to be a fraudulent or an unfair trade practice if it involves fraud and may include all or any of the following namely: indulging in an act which creates false or misleading appearance of trading in the securities market.
+17.
+I note that the allegation against the Noticee is that while dealing in the stock option contracts at BSE during the Investigation period the Noticee had executed reversal trades which were allegedly non genuine trades and the same have resulted in the generation of artificial volume in stock option contracts at BSE.
+Reversal trades are considered to be those trades in which an entity reverses its buy or sell positions in a contract with subsequent sell or buy positions with the same counterparty during the same day.
+The said reversal trades are alleged to be non genuine trades as they are not executed in normal course of trading lack basic trading rationale lead to false or misleading appearance of trading in terms of generation of artificial volumes and hence are deceptive & manipulative.
+18.
+I note from the trade log that the Noticee had executed 2 trades in one contract.
+I further note that the above mentioned trades of the Noticee had resulted in the creation of volume of a total of 5500 units in the said one contract.
+Summary of trades of Noticee is as follows: by Entity Total no. of trades Total no. of trades by entity by entity of Non Entity in the by Entity in the contract Total trades Entity s D F) the Contract of by Entity in the contract to Total Volume in the Contract of non trades of to entity’s 19.
+It is noted that the Noticee had executed trades in one contract wherein percentage of trades of the Noticee in stock options contracts to total trades in the said contracts is 714%.
+Further percentage of volume generated by the Noticee in the contract to the total volume in the contracts is 1078%.
+Trades executed by the Noticee in the above contract had significant differences in buy rates and sell rates considering that the trades were reversed on same day.
+20.
+I note from the trade log that the trades executed by the Noticee in a contract were squared up within a short span of time with his counterparty.
+It is noted that while dealing in the said contract during the Investigation Period the Noticee executed two reversal tradeswith same counterparty viz. Solitaire Tie Up Private Limited on the same day and with significant price differential in buy and sell rate.
+The Noticee on February 16 2015 at 14:25:50:531164 hrs entered into 1 buy trade with counter party viz. Solitaire Tie Up Private Limited for 2750 units at rate of Rs 170 per unit in the contract “GRSM15FEB360000CE”.
+It is pertinent to note that the buy order time and sell order time for this trade was 142550470959 and 142550531164 respectively.
+Thereafter on the same day the Noticee at 14:25:55:531490 hrs entered into one sell trade with same counterparty for 2750 units at the rate of Rs.300 per unit in the same contract.
+The buy order time and sell order time for this trade was 142555531490 and 142555471439 respectively.
+Thus the Noticee through her dealing in the contract viz. “GRSM15FEB360000CE” during the Investigation Period executed two trades which is 714% of the total trades in the market in the said contract during the IP and thereby Noticee generated volume of 5500 units which is 1078% of the volume traded in the said contract from the market during the Investigation Period.
+21.
+The non genuineness of these transactions executed by the Noticee is evident from the fact that there was no commercial basis as to why within a short span of time around five seconds) the Noticee reversed the position with her counterparty with significant price difference.
+I note from the trade log of the Noticee that the time taken by the Noticee for reversing her non genuine trades is around 5 seconds.
+Such a short span of time taken for reversing the trades in an illiquid stock option contract with almost same order placement time both by the Noticee and her counterparty suggests the non genuineness of these trades executed by the Noticee.
+The fact that the transactions in a particular contract were reversed with the same counterparty indicates a prior meeting of mind with a view to execute the reversal trades at a pre determined price.
+Since these trades were done in illiquid option contracts there was hardly any trading in the said contract and hence there was no price discovery in the strictest terms.
+The wide variation in prices of the said contracts within a short span of time is a clear indication that there was pre determination in the prices by the counterparties while executing the trades.
+Thus it is observed that Noticee had indulged in reversal trades with her counterparty in the stock options segment of BSE and the same were non genuine trades.
+22.
+Now I proceed to address the relevant issues raised by the Noticee at various places in her replies.
+i) With regard to contention of Noticee that BSE should have been impleaded as it was instrumental in introducing and incentivizing the five days’ stock option product and the constituents were lured to invest in the scheme through SEBI and BSE registered intermediaries who at the relevant time convinced the clients to participate in such transactions and executed trades in the name and code of the constituents like the noticee I note that mere introduction of a product in the nature of liquidity enhancement to be traded by market participants may not necessarily be an illegal act unless evidence proves it otherwise.
+In the instant matter of illiquid stock option matter there have been genuine trades also albeit a much lower percentage of the whole trade.
+The Noticee is playing the card of a gullible investor however no evidence to support her arguments has been produced before me.
+For example the Noticee has not stated nor has proved that this was the first time she was trading derivatives and that too at the insinuation of her trading member.
+In the absence of evidence to the contrary I am not inclined to accept her arguments.
+ii) The Noticee has pleaded that the number of trades in the alleged transactions are only two and that too were executed by the broker without the consent of the Noticee.
+I note that transactions in derivatives are not supposed to be entered into by unsophisticated investors and for this reason only the minimum lot in derivatives which is substantially higher than the amount required to enter into cash market trading is available for trade.
+The higher notional value of the contract and consequently the higher margin is there to discourage a small investor to enter into derivatives contract.
+The Noticee has neither claimed nor produced any records to indicate that the impugned trades were unauthorized trades and that the Noticee has filed any complaint of unauthorized trading against the stock broker.
+Hence the submissions of the Noticee are not tenable as even single trade can be fraudulent unfair if the circumstances around it indicate the preponderance of such probabilities.
+iii) The Noticee has further made her contention that BSE had provided the trading members with incentives for marketing and engaging its clients for trading in new F&O product.
+Further this product was approved by SEBI and had no margin obligations as per the Noticee.
+This contention of the Noticee however is not acceptable as liquidity enhancements in stocks derivatives etc. is a common phenomenon in market and are sometimes required to create awareness of products.
+However this does not give the Noticee a right to indulge in manipulative practices as alleged in the SCN.
+Collection of margin in the market is for the purpose of risk management and ensuring market integrity however non collection of the same by a trading member does not make a particular trade void.
+Hence I don’t find merit in the arguments of the Noticee that it was okay to trade in the manner in which she did.
+iv) With regard to the documents sought by the noticee as mentioned at para 9 above I note that all the documents which have been relied upon in the SCN were provided to the Noticee along with the SCN the rest of the documents mentioned by the Noticee for example voice records etc. were not relevant for the purpose of SCN as no reliance was placed on documents other than those mentioned in the SCN.
+The evidence collected and relevant for the purpose of this matter is the trading pattern of the Noticee and not the information contained in the KYC.
+Relevant extract of the Trade log of 16th February 2015 has been provided to the Noticee by way of Annexure ‘B’.
+An intimation in this regard was also sent to the Noticee by email dated August 30 2021.
+Hence I do not find any merit in the arguments advanced by the Noticee as far as seeking documents by her is v) The Noticee further contends that no action has been taken against BSE and the trading members involved in the manipulations fraud of illiquid stock option contract is also not correct.
+This is in the nature of grievance suggestions and the Noticee may take this up with SEBI.
+The instant proceeding is with respect to the alleged violations by the Noticee.
+vi) The Noticee’s request for cross examination of Broker counter party broker etc. is uncalled for as there is no reliance placed on such documents as is evident in the Show cause notice issued to the Noticee.
+vii) With regard to the contention of the Noticee that the SCN related to Derivatives trades of February 2015 which are more than six years ago and the SCN did not provide any explanation to justify the inordinate and unconscionable delay in initiation of proceedings against her I note that there are no timelines prescribed in the SEBI Act 1992 for initiating the adjudication proceedings for violation of various provisions of Act and Regulations made thereunder.
+Further I note that the investigation as regards of PFUTP Regulations 2003 is an exhaustive and time consuming process which may require detailed analysis of the case facts.
+Also considering that there were 2 91 643 non genuine trades and over 14000 entities have been charged proceeded against after detailed investigation and the regulatory processes involved for enforcement of such actions the delay is not disproportionate.
+I also note that the Hon’ble SAT in the matter of Bipin R Vora vs SEBI decided on March 22 2006 held “As regards the plea of delay and latches and submission that the show cause notice is barred by limitation I do not find any merit in these contentions as the time and efforts involved in an investigation though may vary from case to case generally investigations per se is a time consuming process which invariably involve collection scrutiny and careful examination of voluminous records order trade details of all the concerned including the exchanges recording of statements etc. and therefore no time limit can be fixed in this regard to enable a regulator to take appropriate disciplinary action for the safeguard and improvement of the system market”.
+viii) The Noticee has mentioned that the requirement of preserving documents under various legislations is not more than five years for broker hence she is not obliged to give any documents to SEBI after September 2020.
+In this regard the legal provisions with regard to the preservation of documents as mentioned in Section 6(2) of the Securities Contracts(Regulation) Act 1956 is for five years however records in this regard have already been collected before the expiry of the five year period as mentioned in the SCN and copy of the relevant record has already been provided to the Noticee.
+There is no new record being sought from the ix) The Noticee vide her reply dated September 16 2021 has contested the veracity of the charges levelled against her by stating that the contract in which she traded and the one which finds mention in the SCN are not the same hence the said SCN is liable to be dismissed.
+On comparison of the contract note provided by the Noticee and the trade details provided in the SCN it can be seen that all the details pertaining to the contract mentioned in the SCN are the same except the “Security Contract Description’.
+The security description mentioned in the SCN is GRSM15FEB360000CE whereas the contract note enclosed by the Noticee has the description SO GRSM26Feb15360000CE.
+The attention of the Noticee is invited to Annexure ‘B’ enclosed with the SCN sent to her.
+The SCN does mention the contract name as GRSM15FEB360000CE however it also specifies the expiry date to be 2015 02 26.
+Also the abbreviation ‘SO’ is for the stock option.
+Hence the contract entered into by the Noticee is the same as the one alleged in the SCN.
+x) The Noticee has also represented that Section 11(2) which provides the Board with the power to levy penalty was introduced in the SEBI Act 1992 by way of the 2019 amendment hence the SCN is bad in law if penalties are levied on the basis of the same.
+In this regard it is clarified that this is an adjudication proceeding u s 15 of SEBI Act against the Noticee and the provisions for the same has been in existence long before the act of commission of the Noticee.
+This fact has also been brought out in the SCN issued to the Noticee.
+xi) One of the contentions made by the Noticee is that amendments to fraudulent trades act came into force on February 2019 where the word intermediary was replaced with individual party.
+The notice has contended that such amendment was prospective in nature and not retrospective.
+I note that certain amendments inter alia were notified in the PFUTP Regulations on February 1 2019 wherein in sub regulationsandof Regulation 4 of PFUTP Regulations the words “persons” were brought in in place of “intermediaries” however the same was in context of circular trading and front running which is not the case here.
+I note that it is clear from the plain reading of the said amendments that these do not pertain to reversal transactions which were executed by the Noticee.
+Therefore I note that contentions of Noticee in this regard are without merits 23.
+I note that it is not mere coincidence that Noticee could match her trades with the same counterparty with whom it had undertaken first leg of the respective trades.
+This is the outcome of meeting of minds elsewhere and it was a deliberate attempt to deal in such a fashion.
+Here I would like to rely on the judgment of Hon’ble Supreme Court in SEBI v Kishore R Ajmerawherein it was held that “…in the absence of direct proof of meeting of minds elsewhere in synchronized transactions the test should be one of preponderance of probabilities as far as adjudication of civil liability arising out of the violation of the Act or provision of the Regulations is concerned.
+The conclusion has to be gathered from various circumstances like that of the volume of the trade effected the period of persistence in trading in the particular scrip the particulars of the buy and sell orders namely the volume thereof the proximity of time between the two and such other relevant factors.
+The illustrations are not exhaustive...” 24.
+The Hon’ble Supreme Court further observed in the same matter that “It is a fundamental principle of law that proof of an allegation levelled against a person may be in the form of direct substantive evidence or as in many cases such proof may have to be inferred by a logical process of reasoning from the totality of the attending facts and circumstances surrounding the allegations charges made and levelled.
+While direct evidence is a more certain basis to come to a conclusion yet in the absence thereof the Courts cannot be helpless.
+It is the judicial duty to take note of the immediate and proximate facts and circumstances surrounding the events on which the charges allegations are founded and to reach what would appear to the Court to be a reasonable conclusion therefrom.
+The test would always be that what inferential process that a reasonable prudent man would adopt to arrive at a 25.
+I note that direct evidence is not forthcoming in the present matter as regards to meeting of minds or collusion of the Noticee with her counterparty.
+However I note that the trading behaviour of the Noticee makes it clear that aforesaid non genuine trades could not have been possible without meeting of minds at some level.
+It is noted that in the screen based trading the manipulative or fraudulent intent can be inferred from various factors such as conduct of the party pattern of transactions etc. Further in the absence of direct proof of meeting of minds the conclusion can be derived from various circumstances like volume of trade period of persistence of trading particulars of buy and sell orders proximity of time and such other relevant factors.
+In this context I deem it appropriate to refer to the Hon’ble SAT order dated July 14 2006 in the case of Ketan Parekh vs. SEBIwherein the Hon’ble SAT has observed that "The nature of transactions executed the frequency with which such transactions are undertaken the value of the transactions the conditions then prevailing in the market are some of the factors which go to show the intention of the parties.
+This list of factors in the very nature of things cannot be exhaustive.
+Any one factor may or may not be decisive and it is from the cumulative effect of these that an inference will have to be drawn."
+26.
+Further I place my reliance on the judgment of Hon’ble Supreme Court in the matter in respect of SEBI v Rakhi Trading Private Limitedin which the Hon’ble Supreme Court observed that “the price discovery system itself was affected by synchronization and rapid reverse trade which also had the impact of excluding other investors from participating in the market.
+The Supreme Court therefore found that the traders having engaged in a fraudulent and unfair trade practice while dealing in securities are hence liable to be proceeded against for violation of Regulations 3(a) 4(1) and 4(2)(a) of PFUTP Regulations”.
+The Apex Court also observed that “Considering the reversal transactions quantity price and time and sale parties being persistent in number of such trade transactions with huge price variations it will be too naive to hold that the transactions are through screen based trading and hence anonymous.
+Such conclusion would be over looking the prior meeting of minds involving synchronization of buy and sell order and not negotiated deals as per the board s circular.
+The impugned transactions are manipulative deceptive device to create a desired loss and or profit.
+Such synchronized trading is violative of transparent norms of trading in securities….” 27.
+Reliance is also placed upon the observations of Hon’ble Supreme Court in the matter of SEBI vs. Rakhi Trading Private Ltd.where the Hon’ble Apex Court stated at Para 35 and Para 41 of that said Order that “The platform of the stock exchange has been used for a non genuine trade.
+Trading is always with the aim to make profits.
+But if one party consistently makes loss and that too in pre planned and rapid reverse trades it is not genuine it is an unfair trade practice” … “The stock market is not a platform for any fraudulent or unfair trade practice.
+The field is open to all the investors.
+By synchronization and rapid reverse trade as has been carried out by the traders in the instant case the price discovery system itself is affected.
+Except the parties who have pre fixed the price nobody is in the position to participate in the trade.
+It also has an adverse impact on the fairness integrity and transparency of the stock market.” 28.
+The trading behaviour of the Noticee confirms that such trades were not normal and the wide variation in prices of the trades in the same contract in almost no time without any basis for such wide variation all indicate that the trades executed by the Noticee were not genuine and being non genuine created an appearance of artificial trading volumes in the said contract.
+In view of the above I find that the allegation of violation of regulations 3(a) (c) 4(1) and 4(2)(a) of PFUTP Regulations by the Noticee stands established.
+The Hon’ble Supreme Court of India in the matter of SEBI Vs. Shri Ram Mutual Fund68 SCL 216(SC) held that “In our considered opinion penalty is attracted as soon as the contravention of the statutory obligation as contemplated by the Act and the Regulations is established and hence the intention of the parties committing such violation becomes wholly irrelevant…”.
+29.
+In view of the same I am convinced that it is a fit case for imposition of monetary penalty on the Noticee under the provisions of Section 15HA of the SEBI Act which reads as under: Penalty for fraudulent and unfair trade practices.
+15HA.
+If any person indulges in fraudulent and unfair trade practices relating to securities he shall be liable to a penalty which shall not be less than five lakh rupees but which may extend to twenty five crore rupees or three times the amount of profits made out of such practices whichever is higher.
+30.
+While determining the quantum of penalty under Section 15HA of the SEBI Act it is important to consider the factors relevantly as stipulated in Section 15J of the SEBI Act which reads as under: Factors to be taken into account by the adjudicating officer.
+15J While adjudging quantum of penalty under section 15 I the adjudicating officer shall have due regard to the following factors namely: a) the amount of disproportionate gain or unfair advantage wherever quantifiable made as a result of the default b) the amount of loss caused to an investor or group of investors as a result of the default c) the repetitive nature of the default.
+Explanation.
+—For the removal of doubts it is clarified that the power of an adjudicating officer to adjudge the quantum of penalty under sections 15A to 15E clausesandof section 15F 15G 15H and 15HA shall be and shall always be deemed to have been exercised under the provisions of this section.
+31.
+Having considered all the facts and circumstances of the case the material available on record the factors mentioned in Section 15J of the SEBI Act and in exercise of the powers conferred upon me under Section 15 I of the SEBI Act read with Rule 5 of the Adjudication Rules I hereby impose a penalty of Rs. 5 00 000on the Noticee viz. Ms Arpita Sikaria under the provisions of Section 15HA of the SEBI Act.
+I am of the view that the said penalty is commensurate with the commission omission on the part of the Noticee.
+32.
+The Noticee shall remit pay the said amount of penalty within 45 days of receipt of this order either by way of demand draft in favour of “SEBI Penalties Remittable to Government of India” payable at Mumbai or online payment facility available on the website of SEBI i.e. www.sebi.gov.in on the following path by clicking on the payment link: ENFORCEMENT > Orders > Orders of AO > PAY NOW.
+In case of any difficulties in payment of penalties the Noticee may contact the support at portalhelp@sebi.gov.in.
+33.
+In case the payment is made by Demand Draft the Noticee shall forward said Demand Draft or the details confirmation of penalty so paid to the “The Division Chief EFD 1 DRA I SEBI SEBI Bhavan 2 Plot No. C 7 “G” Block Bandra Kurla Complex Bandra Mumbai 400 051” The Noticee shall provide the following details while forwarding DD payment information: a) Name and PAN of the entity b) Name of the case matter c) Purpose of Payment Payment of penalty under AO proceedings d) Bank Name and Account Number e) Transaction Number 34.
+In the event of failure to pay the said amount of penalty within 45 days of the receipt of this Order recovery proceedings may be initiated under Section 28A of the SEBI Act for realization of the said amount of penalty along with interest thereon inter alia by attachment and sale of movable and immovable properties.
+35.
+In terms of the provisions of Rule 6 of the Adjudication Rules a copy of this order is being sent to the Noticee and also to the Securities and Exchange Board of India.
+Date: January 25 2022 Place: Mumbai AMIT KAPOOR ADJUDICATING OFFICER

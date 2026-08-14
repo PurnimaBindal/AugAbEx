@@ -1,0 +1,60 @@
+Kurian Joseph, J - Can the legal heirs of a deceased employer be impleaded in proceedings under Section 33C(2) of the Industrial Disputes Act ?
+As far as the impleadment of the legal heirs of the employee is concerned, the question is no more res integra.
+In Gwalior Rayons, Mavoor v. Labour Court (1978(2) LLJ 188) it has been held that on the death of a workman the Labour Court does not cease to exercise jurisdiction as benefits due to the deceased workman can be realised by his legal heirs.
+It was also held that death of the workman would be a factor in moulding the relief in such a case.
+In Rameshwar Manjhi v. Management of Sangramgarh Colliery, 1994(1) SCT 500 (SC) the Supreme Court again considered the issue and held that proceedings do not abate by the death of the workman and the Tribunal does not become functus officio.
+2.
+Section 10(8) of the Industrial Disputes Act read as follows :  "10(8).
+No proceedings pending before a Labour Court, Tribunal or National Tribunal in relation to an industrial, dispute shall lapse merely by reason of the death of any of the parties to the dispute being a workman; and such Labour Court, Tribunal or National Tribunal shall complete such proceeding and submit its award to the appropriate Government."
+Section 18(3)(b) and (c) also make the position clear, which read as follows : Section 18(3).
+A settlement arrived at in the course of conciliation proceedings under this Act or an arbitration award in a case where a notification has been issued under sub-s. (3A) of Section 10A or an award of a Labour Court, Tribunal or National Tribunal which has become enforceable shall be binding on - xxx xxx xxx xxx (b) all other parties summoned to appear in the proceedings as parties to the dispute, unless the Board, Arbitrator, Labour Court, Tribunal or National Tribunal, as the case may be, records the opinion that they were so summoned without proper cause; (c) where a party referred to in Cl. (a) or (b) is an employer, his heirs, successors or assigns in respect of the establishment to which the dispute relates."
+3.
+Section 33C(2) confers jurisdiction on the Labour Court to decide the question "as to the amount of money due or as to the amount at which such benefits should be computed".
+Certainly the amount of money or benefit due is from the employer.
+Since an award or a settlement is binding on an employer, his heirs, successors or assignees in respect of the establishment to which the dispute relates, necessarily the same meaning has to be applied or extended in the case of a procedure under Section 33C(2) also, in respect of the expression "employer" as otherwise it would delay justice and thereby deny justice.
+It is significant to note that under Section 33C(3) the Labour Court is competent to appoint a Commissioner and the Court is to determine the amount of consideration of the report of the Commissioner and "other circumstances of the case".
+4.
+Section 33C provides for recovery of money due from an employer.
+Section 33C(2) provides for determination of the benefit which is capable of being computed in terms of money to be decided by the Labour Court.
+As per Section 33C(3) it is open to the Labour Court even to appoint a Commissioner.
+The relevant provisions read as follows :  "33(2).
+Where any workman is entitled to receive from the employer any money or any benefit which is capable of being computed in terms of money and if any question arises as to the amount of money due or as to the amount at which such benefit should be computed, then question may, subject to any rules, that may be made under this Act, be decided by such Labour Court as may be specified in this behalf by the appropriate Government within a period not exceeding three months.
+Provided that where the presiding officer of a Labour Court considers it necessary or expedient so to do, he may, for reasons to be recorded in writing, extend such period by such further period as he may think fit.
+(3) For the purposes of computing the money value of a benefit, the Labour Court may, if it is so thinks fit, appoint a Commissioner who shall, after taking such evidence as may be necessary, submit a report to the Labour Court and the Labour Court shall determine the amount after considering the report of the Commissioner and other circumstances of the case."
+Rule 62 of the Industrial Disputes (Central) Rules, 1957 deals with application for recovery of dues and Rule 63 regarding the appointment of the Commissioner referred to under Section 33C(3).
+Rule 62 reads as follows : "62.
+Application for recovery of dues.
+- (1) Where any money is due from an employer to a workman or a group of workmen under a settlement or an award or under the provisions of Chap.
+VA, Chap.
+VB, the workman or the group of workmen, as the case may be, may apply in Form K-1 for the recovery of the money due : Provided that in the case of a person authorised in writing by the workman, or in the case of the death of the workman the assignee or heir of the deceased workman, the application shall be made in Form K-2.
+(2) Where any workman or group of workmen is entitled to receive from the employer any money or any benefit which is capable of being computed in terms of money, the workman or the group of workmen, as the case may be, may apply to the specified Labour Court in Form K-3 for the determination of the amount due or, as the case may be, the amount at which such benefit should be computed : Provided that in the case of the death of a workman, application shall be made in Form K-4 by the assignee or heir of the deceased workman."
+The object of the Industrial Disputes Act is mainly to settle industrial disputes.
+A dispute can be sought to be settled only when it is settled absolutely and a dispute is settled absolutely only when the workman gets what is due to him under law.
+The duty of the Labour Court under Section 33C(2) is essentially to see that the workman gets his due under the Act from the employer.
+The only inhibition is that in the process, the Labour Court is not entitled to enlarge the scope of an award or a settlement.
+It is settled law that the intention of the Labour Court under Section 33C is that of a Court executing an order or decree (Victor Oil Co Ltd v. Amarnath Das, 1961(2) LLJ 113 (SC)).
+The executing court is competent and bound to execute the decree as against the judgment debtors and their legal heirs.
+After all, execution is only a procedure and the procedure is designed to facilitate justice.
+Therefore, it shall not appear that in the process of a procedure under Section 33C(2) if the employer dies the Labour Court is rendered powerless to proceed further in the matter.
+That would frustrate the ends of justice.
+Whether the legal heirs of the employer sought to be impleaded have actually inherited the assets of the employer etc. are all matters to be decided in a civil court, it is contended by the petitioner.
+That cannot be appreciated.
+It is for the Labour Court to pass appropriate orders while dealing with the petition under Section 33C(2).
+To hold that the Labour Court has no jurisdiction at all would be patently unreasonable and would be defeating the very purpose of the provision in a welfare legislation.
+Whether it be employer or workman, the proceedings before the Labour Court or Tribunal will not lapse merely by reason of the death of any party.
+5.
+In this context it is profitable to refer to a Bench decision of the Orissa High Court reported in Panchu Mahakud v. PC Mohanty, (1995(1) LLJ 1203) where the Court has considered the question of substitution of legal heirs in proceedings under Section 33C(2) of the Act.
+The Court took the view that substitution is to be permitted.
+To quote Arijit Pasayat, J. (as he then was):  "Procedure is something designed to facilitate justice and further its ends; not a penal enactment for punishment and penalties; not a thing designed to trip people up.
+It is designed for furtherance of justice, and not frustrate it.
+By permitting substitution of the deceased workman or an employer, as the case may be, in a proceeding under Section 33C(2) of the Act the ends of justice shall be furthered.
+We are, therefore, of the view that substitution is permissible in proceeding under Section 33C(2) of the Act, in case of death of workman or employer."
+6.
+In short, Section 33C(2) is a summary procedure for recovery of benefits due to the workman from the employer.
+In the event of death of the employer it is open to the workman to request the court to continue the proceedings as against the legal heirs of the employer.
+7.
+Ext.
+P3 order passed by the Labour Court impleading the legal heirs of the employer is perfectly in order.
+There is no merit in the Original Petition.
+It is dismissed.
+Petition dismissed.

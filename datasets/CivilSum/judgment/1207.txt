@@ -1,0 +1,176 @@
+Mr. S Siri Jagan, J - A very difficult question arises for consideration in this case, on the question of interpretation of Section 14 of the Minimum Wages Act on which there are two conflicting decisions of the Supreme Court, one by a three Member Bench and the other by a two Member Bench.
+The situation arises in the following factual scenario.
+2.
+The petitioners in this original petition filed an application under Section 14 of the Minimum Wages Act before the 1st respondent seeking overtime wages.
+As per the settlements arrived at between the management and the Unions, the workmen were actually getting wages in excess of the minimum wages prescribed as per notifications issued under the Minimum Wages Act.
+The authority under the Minimum Wages Act, by Ext.
+P1 order, following a decision of the Supreme Court in Municipal Council, Hatta v. Bhagat Singh & Others, 1998(1) SCT 676 : 1998(1) LLJ 815, denied jurisdiction on the ground that Section 14 can be invoked only by persons who are getting minimum rate of wages under the Act and not by those getting better wages.
+The petitioners are challenging Ext.
+P1 order.
+3.
+The petitioners' contention is that the decision of the Supreme Court in Bhagat Singh's case (supra), which is rendered by a two Member Bench of the Supreme Court, did not consider the earlier decision of the Supreme Court rendered by a Bench consisting of three Judges in YA Mamarde and others v. Authority under the Minimum Wages Act, AIR 1972 SC 1721, which takes a contrary view.
+According to the learned counsel for the petitioners, in the earlier decision, the Supreme Court has categorically held that a claim under the Minimum Wages Act for overtime wages under Section 14 would lie even where the employee is getting wages in excess of the minimum wages prescribed and therefore the subsequent decision of the Bench consisting of two Judges is per incurium, without knowing the earlier binding judgment of the larger Bench of the Supreme Court.
+She further relies on the decision of the Supreme Court in Central Board of Dawoodi Bohra Community and another v. State of Maharashtra and another, (2005)2 SCC 673, wherein the Supreme Court has held that the law laid down by the Supreme Court in a decision delivered by a Bench of larger strength is binding on any subsequent Bench of lesser or co-equal strength.
+She also refers to the text from Salmond on Jurisprudence on the subject, which would, according to her, show that a lower court can pick and choose between two conflicting decisions of the same court on the same question of law.
+Counsel would alternately submit that in any case the later Supreme Court decision is distinguishable on facts, since in that case, the employees employed were governed by statutory rules under Article 309 of the Constitution of India, which did not provide for payment of overtime wages.
+4.
+I have considered the rival contentions in detail.
+5.
+Section 14 of the Minimum Wages Act reads as under :  "14.
+Overtime.
+(1) Where an employee, whose minimum rate of wages is fixed under this Act by the hour, by the day or by such a longer wage-period as may be prescribed, works on any day in excess of the number of hours constituting a normal working day, the employer shall pay him for every hour or for part of an hour so worked in excess at the overtime rate fixed under this Act or under any law of the appropriate government for the time being in force, whichever is higher.
+(2) Nothing in this Act shall prejudice the operation of the provisions of section 59 of the Factories Act, 1948 (63 of 1948) in any case where those provisions are applicable."
+As is evidence from the Section, the Section enables an employee whose minimum rate of wages is fixed under the Act to claim from the employer overtime wages at the rate fixed under the Act or under any law of the appropriate government for the time being in force, whichever is higher.
+In the Factories Act and Shops and Commercial Establishments Act, there is a specific provision for payment of overtime wages to employees who work beyond the normal working hours.
+According to me, Section 14 is a provision enabling the employees of establishments which are not covered under those Acts in respect of whose employees minimum wages have been notified, also to claim overtime wages.
+Going by the wording in Section 14, it appears that once minimum rate of wages is fixed under the Act for a particular employment, establishments engaged in such employments are liable to pay overtime wages to the employees on the basis of the wages they are receiving, irrespective of whether those wages are in excess of the minimum rate of wages or not.
+Otherwise, the very object of Section 14 would be defeated, in so far as when there are no other enactments enabling the employees to claim overtime wages, he would be deprived of the benefit of Section 14, only on the ground that he is receiving more than the minimum rate of wages fixed for the industry, which cannot be the object of Section 14.
+Further, the words used in the Section are "Where an employee whose minimum rate of wages is fixed under this Act", and not "where an employee who receives minimum wages as fixed under this Act", which would lend credence to the view that what is contemplated is only an employee whose wages are notified under the Act irrespective of whether he is receiving higher wages or not.
+6.
+Further, Rule 28 of the Kerala Minimum Wages Rules also would support this view.
+That Rule reads thus :  "28.
+Extra wages for overtime :- (1) When a worker works in an employment for more than nine hours on any day or for more than forty eight hours in any week, he shall, in respect of overtime work, be entitled to wages - (a) in the case of employment in agriculture at one and a half times the ordinary rate of wages;  (b) in the case of any other scheduled employment at double the ordinary rate of wages;  Explanation :- The expression "ordinary rate of wages" means the basic wages plus such allowances including the cash equivalent of the advantage accruing through the concessional sale to the person employed of food-grains and other articles as the person employed is for the time being entitled to but does not include a bonus.
+(2) A register showing overtime payments shall be kept in Form V by every employer in any scheduled employment other than the Employment in agriculture.
+Overtime work shall be entered up in the register before the expiry of 24 hours from the commencement of such work;  (3) Nothing in this rule shall be deemed to affect the provisions of the Factories Act, 1948."
+This Rule used the expression "one and a half times the ordinary rate of wages."
+The explanation gives the meaning of the term `ordinary rate of wages'.
+The Rule does not refer to minimum rate of wages, but ordinary rate of wages, which would go to support the view that even where the ordinary rate of wages is higher than the minimum wages, Section 14 would apply.
+7.
+In fact, this is exactly what the Supreme Court has held in Mamarde's case (supra).
+In that case, as is clear from paragraph 12 of that decision, counsel for the respondent therein had raised a specific contention that the Act is only concerned with providing for minimum wages and if an employee is being paid more than minimum wages so provided, the Act does not operate and the employer cannot be compelled to pay higher wages.
+For driving home the point, I shall extract the paragraph containing the above contention :  "12.
+It is common ground between the parties that Sunday has been declared to be a day of rest and the normal working hours per day are 9 hours a day or 54 hours a week.
+According to Shri Dhabe the appellants' learned counsel the words "at double the ordinary rate of wages" used in clause (b) of Rule 25 mean double the rate of wages which are actually being paid to the employees concerned and not double the rate of wages fixed under the Act as minimum wages, whereas according to Dr. Barlingay, learned counsel for the respondent, the Act is only concerned with providing for minimum wages and if an employee is being paid more than minimum wages so provided, the Act does not operate and the employer cannot be compelled to pay higher wages.
+The employees of the corporation are already being paid much higher wages than those fixed under the Act as minimum wages and, therefore, so contended Dr. Barlingay there is no legal obligation on the employer to pay higher wages.
+The provision requiring payment at double the ordinary rate of wages contained in Rule 25, must according to the respondent's argument, be read as "the ordinary rate of minimum wages fixed."
+(emphasis supplied)  Dealing with this specific contention, in paragraph 13, the Supreme Court held thus :  "13.
+Let us first deal with this question.
+The Act which was enacted in 1948 has its roots in the recommendation adopted by the International Labour Conference in 1928.
+The object of the Act as stated in the preamble is to provide for fixing minimum rates of wages in certain employments and this seems to under Section to be clearly directed against exploitation of ignorant, less organised and less privileged members of the society by the capitalist class.
+This anxiety on the part of the society for improving the general economic condition of some of its less favoured members appears to be in supersession of the old principle of absolute freedom of contract and the doctrine of laissez faire and in recognition of the new principles of social welfare and common good.
+Prior to our Constitution this principle was advocated by the movement for liberal employment in civilized countries and the Act which is a pre-Constitution measure was the offspring of that movement.
+Under our present Constitution the State is now expressly directed to endeavour to secure to all workers (whether agricultural, industrial or otherwise) not only bare physical subsistence but a living and full enjoyment of leisure.
+This Directive Principle of State Policy being conducsive to the general interest of the public and, therefore, to the healthy progress of the nation as a whole, merely lays down the foundation for appropriate social structure in which the labour will find its enactment been amended on several occasions apparently to make it more and more effective in achieving its object which has since secured more firm support from the Constitution.
+The present rules under Section 30, it may be pointed out, were made in October, 1950 when State was under a duty to apply the Directive Principles in making laws.
+No doubt the Act, according to its preamble, was enacted to provide for fixing minimum rates of wages, but that does not necessarily mean that the language of Rule 25 should not be construed according to its ordinary, plain meaning, provided of course, such construction is not inconsistent with the provisions of the Act and there is no other compelling reason for adopting a different construction.
+A preamble though a key to open the mind of the Legislature, cannot be used to control or qualify the precise and unambiguous language of the enactment.
+It is only in case of doubt or ambiguity that recourse may be had to the preamble to ascertain the reason for the enactment in order to discover the true legislative intendment.
+By using the phrase "double the ordinary rate of wages" the rule making authority seems to us to have intended that the worker should be the receives and not double the rate of minimum wages fixed for him under the Act.
+Had it been intended to provide for merely double the minimum rate of wages fixed under the Act the rule- making authority could have so expressed its intention in clear and explicit words like "double the minimum rate of wages fixed under the Act."
+This intendment would certainly have been stated in the explanation added to Rule 25(1) in which the expression "ordinary rate of wages" has been explained.
+The word "ordinary" used in Rule 25 reflects the actually rather than the worker's minimum entitlement under the Act.
+To accept Dr. Barlingray's suggestion would virtually amount to recasting this phrase in Rule 25 for which we find no justification.
+This rule calls for practical construction which should ensure to the worker an actual increase in the wages which come into his hands for his use and not increase calculated in terms of the amount assured to him as a minimum wages fixed under the Act of the full benefit of the plain language of Rule 25 and in case those workers are actually getting more than or equal to double the minimum wages fixed, this provision would be of no benefit at all.
+This construction not only creates a mere illusory benefit but would also deprive the workers of all inducement to willingly undertake overtime work with the result that it would to the extent fail to advance and promote the cause of increased production.
+We are, therefore, clearly of the view that Rule 25 contemplates for overtime work double the rate of wages which the worker actually receives, including the casual requisites and other advantages mentioned in the explanation.
+This rate, in our opinion, is intended to be the minimum rate of wages for overtime work.
+The extra strain on the health of the worker for doing overtime work may well have weighed with the rule making authority to assure to the worker as minimum wages double the ordinary wage received by him so as to enable him to maintain proper standard of health and stamina.
+Nothing rational or convincing was said at the bar why fixing the minimum wages for overtime work at double the rate of wages actually received by the workmen should be considered to be outside the purpose and object of the Act.
+Keeping in view the overall purpose and object of the Act and viewing in harmoniously with the general scheme of industrial legislation in the country in the background of the Directive Principles contained in our Constitution the minimum rates of wages for overtime work need not as a matter of law be confined to double the minimum wages fixed but may justly be fixed at double the wages ordinarily received by the workmen as a fact.
+The Bombay High Court has no doubt held in Union of India v. BD Rathi (supra) that "ordinary rate of wages" in Rule 25 means the minimum rate for normal work fixed under the Act.
+The learned Judges sought support for the view from Section 14 of the Act and Rule 5 of the Railway Servants (Hours of Employment) Rules 1951.
+The workers there were employees of the Central Railway.
+With all respect we are unable to agree with the approach of the Bombay High Court.
+Section 14 of the Act merely lays down that when the employee, whose minimum rate of wages is fixed a prescribe wage period, works in excess of that period that employer shall pay him for the period so worked in excess at the overtime rate fixed under the Act.
+This section does not militate against the view taken by us.
+Nor does a provision like Rule 5 of the Railway Rules which merely provides for 54 hours employment in a week on the average in any month go against our view.
+The question is not so much of minimum rate as contrasted with the contract rate of wages as it is of how much actual benefit in the form of receipt of wages has been intended to be assumed to the workman for doing overtime work so as to provide adequate inducement to them willingly to do overtime work for the increasing production in a peaceful atmosphere in the industry.
+The problem demands a liberal and rational approach rather than a doctrinaire or technical legalistic approach.
+The contract rate is not being touched by holding that Rule 25 contemplated double that rate of wages which actually come into the workman's hands any more than it is touched by fixing the minimum rate of wages under Sections 3, 4 and 5 of the Act.
+The decision of the Mysore High Court in Municipal Borough, Bijapur v. Gundawan (MN), AIR 1965 Mys.
+317 and of the Madras High Court in Chairman of the Madras Port Trust v. Claims Authority, AIR 1957 Mad 69, also take the same view as the Bombay High Court does.
+We need not, therefore, deal with them separately."
+(Emphasis supplied)  8.
+Rule 28 of the Kerala Minimum Wages Rules is a verbatim reproduction of Rule 25 of the Madhya Pradesh Minimum Wages Rules referred to in the above judgment.
+A reading of the above judgment would make it abundantly clear that notwithstanding the fact that an employee is getting wages in excess of the minimum rate of wages fixed under the Act, Section 14 would be attracted.
+9.
+Going by the above decision of the Supreme Court, I must hold that Ext.
+P1 order by which the authority under the Minimum Wages Act has denied jurisdiction to the petitioners, is clearly unsustainable.
+However, I note that Ext.
+P1 order was passed relying on the Supreme Court decision in Bharat Singh's case (supra).
+In that case, the Supreme Court held thus in paragraph 4 :  "4.
+There is also an amendment to Section 14 by addition of sub-section 1-A under the Minimum Wages (Madhya Pradesh Amendment and Validation) Act, 1961 being Act 23 of 1961.
+Sub-section 1-A which is inserted in Section 14 entitled the State Government by Notification to fix the limit for overtime work in a Scheduled employment.
+This provision is not directly relevant.
+To claim overtime under Section 14, the following conditions must be fulfilled by an employee : (1) the minimum rate of wages should be fixed under the Minimum Wages Act, 1948; and (2) such an employee should work on any day in excess of the number of hours constituting a normal working day.
+Therefore, overtime under Section 14 is payable to those employees who are getting a minimum rate of wage as prescribed under the Minimum Wages Act, 1948.
+These are the only employees to whom overtime under Section 14 would become payable.
+In the present case, the respondents cannot be described as employees who are getting a minimum rate of wages fixed under the Minimum Wages Act, 1948.
+They are getting much more and that too under the Madhya Pradesh Municipal Service (Scales of Pay and Allowances) Rules, 1967.
+Therefore, Section 14 has no application to them.
+We have not been shown any other provision under which they can claim overtime."
+Going by the above decision alone without reference to the earlier decision of a three Member Bench (supra), Ext.
+P1 could not have been faulted.
+But, this decision is without taking note of the decision of the larger Bench in Mamarde's case (supra).
+A Constitution Bench of the Supreme Court has in Central Board of Dawoodi Bohra Community and Another v. State of Maharashtra and another, (2005)2 SCC 673 summarised the legal position on the question of binding nature of a decision of a Bench of larger strength thus :  "10.
+Reference was also made doctrine of stare decisis.
+His Lordship observed by referring to Sher Singh v. State of Punjab, (1983)2 SCC 344 that although the Court sits in divisions of two and three Judges for the sake of convenience but it would be inappropriate if a Division Bench of two Judges starts overruling the decisions of Division Benches of three.
+To do so would be detrimental not only to the rule of discipline and the doctrine of binding precedents but it will also lead to inconsistency in decisions on points of law; consistency and certainty in the development of law and its contemporary status-both would be immediate casualty.
+12.
+Having carefully considered the submissions made by the learned Senior Counsel for the parties and having examined the law laid down by the Constitution Benches in the above said decisions, we would like to sum up the legal position in the following terms :  (1) The law laid down by this Court in a decision delivered by a Bench of larger strength is binding on any subsequent Bench of lesser or coequal strength.
+(2) A Bench of lesser quorum cannot disagree or dissent from the view of the law taken by a Bench of larger quorum.
+In the attention of the Chief Justice and request for the matter being placed for hearing before a Bench of larger quorum than the Bench whose decision has come up for consideration.
+It will be open only for a Bench of coequal strength to express an opinion doubting the correctness of the view taken by the earlier Bench of coequal strength, whereupon the matter may be placed for hearing before a Bench consisting of a quorum larger than the one which pronounced the decision laying down the law the correctness of which is doubted.
+(3) The above rules are subject to two exceptions : (i) the above said rules do not bind the discretion of the Chief Justice in whom vests the power of framing the roster and who can direct any particular matter to be placed for hearing before any particular Bench of any strength; and (ii) in spite of the rules laid down hereinabove, if the matter has already come up for hearing before a Bench of larger quorum and that Bench itself feels that the view of the law taken by a Bench of lesser quorum, which view is in doubt, needs correction or reconsideration then by way of exception (and not as a rule) and for reasons given by it, it may proceed to hear the case examine the correctness of the previous decision in question dispensing with the need of a specific reference or the order of the Chief Justice constituting the Bench and such listing.
+Such was the situation in Raghubir Singh [(1989)2 SCC 754] and Hansoli Devi [(2002)7 SCC 273]".
+10.
+Salmond on Jurisprudence deals with the question of choosing between conflicting decisions of the same court by a subordinate court as follows :  "(4) Inconsistency with earlier decision of higher court.
+It is clear law that a precedent loses its binding force if the court that decided it overlooked an inconsistent decision of a higher court.
+If, for example, the Court of Appeal decides a case in ignorance of a decision of the House of Lords which went the other way, the decision of the Court of Appeal is per incuriam, and is not binding either on itself or on lower courts; on the contrary, it is the decision of the House of Lords that is binding.
+The same rule applies to precedents in other courts, such as the Divisional Court.
+(5) Inconsistency between earlier decisions of the same rank.
+A court is not bound by its own previous decisions that are in conflict with one another.
+This rule has been laid down in the Court of Appeal, Court of Criminal Appeal and Divisional Court and it obviously applies also to the House of Lords.
+There may at first sight seem to be difficulty here : how can a situation of conflict occur, if the court is bound by its own decisions ?
+At least two answers may be given.
+First, the conflicting decisions may come from a time before the binding force of precedent was recognised.
+Secondly, and more commonly, the conflict may have arisen through inadvertence, because the earlier case was not cited in the later.
+Owing to the vast number of precedents, and the heterogeneous ways in which they are reported - or are not reported - it is only too easy for counsel to miss a relevant authority.
+Whenever a relevant prior decision is not cited before the court, or mentioned in the judgment, it must be assumed that the court acts in ignorance or forgetfulness of it.
+If the new decision is in conflict with the old, it is given per incuriam and is not binding on a later court.
+Although the later court is not bound by the decision so given per incuriam, this does not mean that it is bound by the first case.
+Perhaps in strict logic the first case should be binding, since it should never have been departed from, and was only departed from per incuriam.
+However, this is not the rule.
+The rule is that where there are previous inconsistent decisions of its own, the court is free to follow either.
+It can follow the earlier, but equally, if it thinks fit, it can follow the later.
+This rule has been laid down for the Court of Appeal, and it is submitted that it applied also to other courts.
+It will be seen, therefore, that this exception to the binding force of precedent belongs both to the category of abrogation by subsequent facts and to the category of what is here called inherent vice.
+The earlier case can be disregarded because of the subsequent inconsistent decision on the same level of authority, and the later case can be disregarded because of its inherent vice of ignoring the earlier case.
+Where authorities of equal standing are irreconcilably in conflict, a lower court has the same freedom to pick and choose between them as the schizophrenic court itself.
+The lower court may refuse to follow the later decision on the ground that it was arrived at per incuriam, or it may follow such decision on the ground that it is the latest authority.
+Which of these two courses the court adopts depends, or should depend, upon its own view of what the law ought to be.
+However, it takes a somewhat bold judge to disregard a precedent handed down by a court of higher standing on the ground that the decision was per incuriam."
+11.
+Relying on the decision of the Supreme Court in Mathulal v. Radhe Lal, 1974 RCR(Rent) 441 : AIR 1974 SC 1596, a Division Bench of this Court has, in National Insurance Co Ltd v. Regha, 2007(4) KLT 386, held that when there is conflict between two decisions of the Supreme Court, decision of the larger Bench will prevail.
+In the decision of Union of India and another v. KS Subramanian, AIR 1976 SC 2433, Supreme Court has laid down the procedure to be followed in such cases thus :  "......
+The proper course for a High Court, in such a case, is to try to find out and follow the opinions expressed by larger Benches of this Court in preference to those expressed by smaller Benches of the Court.
+This is the practice followed by this Court itself.
+The practice has now crystallized into a rule of law declared by this Court.
+If, however, the High Court was of opinion that the views expressed by larger Benches of this Court were not applicable to the facts of the instant case it should have said so giving reasons supporting its point of view."
+The Supreme Court reiterated this view in State of UP v. Ramchandran Trivedi, AIR 1976 SC 2547 in almost identical words.
+In view of the above legal position, I am of opinion that this Court should follow the earlier larger Bench decision in Mamarde's case (supra) on the subject.
+12.
+Further, as pointed out by the learned counsel for the petitioner, the decision in Bhagath Singh's case (supra) was rendered on the peculiar facts of the case wherein the employees concerned were governed by statutory rules, namely Madhya Pradesh Municipal Services (Scale of Pay and Allowance) Rules, 1967 in which there is no provision for payment of any overtime allowance.
+I am of opinion that, that decision is distinguishable on that ground also.
+In this connection, it may be worthwhile to note a recent decision of the Supreme Court on precedents.
+In Sumatibai v. Paras Finance Co, 2007(4) RCR(Civil) 524 : 2007 (2) RCR(Rent) 471 : 2007(5) R.A.J.
+384 : 2007(4) KLT S.N.
+33 (Case No. 34) (SC), the Supreme Court observed thus :  "The ratio of any decision must be understood in the background of the facts of that case.
+It has been said long time ago that a case is only an authority for what it actually decides, and not what logically follows from it.
+A little difference in facts or additional facts may make a lot of difference in the precedential value of a decision.
+A decision cannot be relied on without disclosing the factual situation.
+Court should not place reliance on decisions without discussing as to how the factual situation fits in with the fact situation of the decision on which reliance is placed.
+Observations of Courts are neither to be read as Euclid's theorems nor as provisions of the statutes and that too taken out of the context.
+These observations must be read in the context in which they appear to have been stated.
+Judgments of Courts are not to be construed as statutes.
+To interpret words, phrases and provisions of a statute, it may become necessary for Judges to embark into lengthy discussion but the discussions is meant to explain and not to define.
+Judges interpret statutes, they do not interpret judgments.
+They interpret words of statutes; their words are not to be interpreted as statutes."
+In view of the above finding, I am of opinion that Ext.
+P1 order denying jurisdiction by the authority under the Minimum Wages Act is clearly unsustainable.
+Accordingly, the same is quashed and the 1st respondent is directed to re-consider the matter on merits and decide whether or not the petitioners are entitled to overtime wages as claimed by them.
+This being an old case, the 1st respondent shall pass fresh orders within three months from the date of receipt of a copy of this judgment.
+However, I make it clear that I have not interfered with the other findings in Ext.
+P1.
+The original petition is disposed of as above.
+Petition allowed.

@@ -1,0 +1,3 @@
+Rules allow for in situ promotion and scale upgrading, with the latter not counting as promotion.
+The petitioner has been directed to be promoted.
+[Paras 8 & 9]

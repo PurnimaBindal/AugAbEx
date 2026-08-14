@@ -1,0 +1,127 @@
+AK Sikri, J - The question which is to be decided in this case relates to the ambit and scope of the powers of the Labour Court under Section 33-C(2) of the Industrial Disputes Act, 1947 (hereinafter referred to as the Act, for short).
+In fact, law on this point is well settled by series of judgments of the Apex Court resting with the judgment in the case of Municipal Corporation of Delhi v. Ganesh Razak, 1995(1) SCC 235 : 1995(1) SCT 408 (SC).
+However, it is the application of principles enunciated in these cases, when applied in specific cases that has caused confusion in the mind of Presiding Officer of Labour Courts.
+Present case is also one such example whereby the Labour Court has dismissed the application vide impugned order dated 1st June, 1998 holding that the said application was not maintainable.
+Therefore it has become necessary to restate the ambit and scope of the provision of Section 33-C(2) of the Act in the light of various pronouncements of the Supreme Court and also to specify how the principles are to be applied in factual situation of a given case.
+2.
+Let us at this stage state the facts which has led to the filing of the present writ petition by the petitioner.
+Petitioner was appointed as Security Supervisor with respondent No. 2 namely, Municipal Corporation of Delhi w.e.f.
+9th February, 1984 after he retired from army.
+From Municipal Corporation of Delhi also petitioner retired w.e.f.
+30th November, 1993.
+However, his claim was that he was entitled to 192 days of leave encashment but respondent No. 2 had paid leave encashment only for four days.
+In these circumstances, he filed application u/s 33-C(2) of the Act and claimed leave encashment for the balance 188 days.
+Respondent No. 2 did not file written statement and therefore on 23rd April, 1984 its defence was struck off.
+The evidence of the petitioner was recorded, arguments heard and ultimately impugned order dated 1st June, 1998 was passed dismissing the application of the petitioner, relying upon the judgment of Supreme Court in Ganesh Razak (supra) case.
+Paras 7 and 8 of the impugned order exhibit mental process of the Labour Court and read as under :-  "Their Lordships of Hon'ble Mr. Justice JS Verma, Hon'ble Mr. Justice SP Bharucha and Hon'ble Mr. Justice KS Paripoornan in Municipal Corporation of Delhi v. Ganesh Razak and another inter alia observed as follows :- "The Labour Court has no jurisdiction to first decide the workman's entitlement and then proceed to compute the benefit so adjudicated on that basis in exercise of it power under Section 33-C(2) of the Act.
+It is only when the entitlement has been earlier adjudicated or recognised by the employer and thereafter for the purpose of implementation or enforcement thereof some ambiguity requires interpretation that the interpretation is treated as incidental to the Labour Court's power under Section 33-C(2) like that of the Executing Court's power to interpret the decree for the purpose of its execution."
+It is clear from the above legal position that without prior adjudication or settlement on the point of entitlement (i.e. entitlement in general, period of entitlement and rate of entitlement) application under Section 33-C(2) of Industrial Disputes Act, 1947 is not maintainable.
+In the present LCA, there is no claim of applicant/petitioner that there is any prior adjudication or settlement as regards entitlement of leave encashment for 188 days as claimed.
+LCA is not maintainable under Section 33-C(2) of Industrial Disputes Act, 1947.
+Hence, the same is dismissed with no order as to costs.
+File be consigned to record room."
+A perusal of the aforesaid order shows that the Labour Court has taken the view that without prior adjudication or settlement on the point of entitlement, the application under Section 33-C(2) of the Act was not maintainable and the petitioner could not show whether there was any prior adjudication or settlement as regards entitlement of leave encashment for 188 days as claimed.
+3.
+In order to examine as to whether the view taken by Labour Court is correct, it would be proper to examine the question of jurisdiction of Labour Court u/s 33-C(2) of the Act.
+The said Sub-section reads as under :-  "Section 33-C : Recovery of Money Due from an Employer -  (1) x x x (2) Where any workman is entitled to receive from the employer any money or any benefit which is capable of being computed in terms of money and if any question arises as to the amount of money due or as to the amount at which such benefit should be computed, then the question may, subject to any rules that may be made under this Act, be decided by such Labour Court as may be specified in this behalf by the appropriate Government (within a period not exceeding three months).
+(3) x x x (4) x x x (5) x x x" For the exercise of jurisdiction by the Labour Court following ingredients are essential :-  (1) Workman should be "entitled to receive" from the employer any money or any benefit capable of being computed in terms of money : (2) the question should have arisen as to :- (a) the amount of money actually due; (b) the amount on which money should be computed.
+The expression "if any question arises as to the amount of money due" embraces within its ambit any one or more of the following kinds of disputes :- (1) whether there is any settlement or award as alleged ?
+(2) whether any workman is entitled to receive from the employer any money at all under any settlement or an award etc. ?
+(3) if so, what will be the rate or quantum of such amount ?
+and (4) whether the amount claimed is due or not ?
+4.
+To invoke the jurisdiction of the Labour Court under the present S 33-C(2) either of the two ingredients must be present.
+The first is that a workman must be entitled to receive from the employer any money or benefit which is capable of being computed in terms of money and the second one is that a question must have arisen as to the amount of money due, or as to the amount at which such benefit should be computed.
+A plain reading of the Section shows that the Labour Court has jurisdiction to decide both these ingredients.
+Thus in a case where both these ingredients are satisfied or either of these ingredients is satisfied, the Labour Court will have jurisdiction to determine the question.
+The legislature has empowered the Labour Court to decide a dispute as to the right of workman to receive from the employer any money or any benefit which is capable of being computed in terms of money and also has authorised it to decide the question as to the amount of money due or as to the amount at which such benefit should be computed.
+(See Ambica Mills Ltd v. Second Labour Court, 1967(II) LLJ 800).
+5.
+Scope of the jurisdiction of the Labour Court u/s 33-C(2) has been considered by the Supreme Court in number of cases, notable among them being Punjab National Bank v. K.L.
+Kharbanda, 1962(1) LLJ 234, Central Bank of India v. PS Rajagopalan, 1963(2) LLJ 89 and Bombay Gas Company Limited v. Gopal Bhiva, 1963(2) LLJ 608.
+In East India Coal Company Limited v. Rameshwar, 1968(1) Lab I.C.
+6 Supreme Court considered the aforesaid three decisions and deduced eight propositions highlighting the ambit and scope of Section 33- C(2).
+Thereafter, the Court further made following pertinent observations :-  "It is clear that the right to the benefit which is sought to be computed must be an existing one, that is to say, already adjudicated upon or provided for and must arise in the course of and in relation to the relationship between an industrial workman and his employer.
+Since the scope of sub-section (2) is wider than that of sub-section (1) and the sub-section is not confined to cases arising under an award, settlement or under the provisions of Chapter V-A, there is no reason to hold that a benefit provided by a statute or a scheme made thereunder without there being anything contrary under such statute or S 33-C(2) cannot fall within sub-section (2).
+Consequently, the benefit provided in the bonus scheme made under the Coal- mines Provident Fund and Bonus Schemes Act, 1948 which remains to be computed must fall under sub- section (2) and the Labour Court, therefore, had jurisdiction to entertain and try such a claim it being a claim in respect of an existing right arising from the relationship of any industrial workman and his employer...." Some of these decisions have again been reviewed by another three-Judge Bench of the Court in Municipal Corporation Delhi v. Ganesh Razak (supra) where, speaking for the Court, Verma, J. stated :  "The ratio of these decisions clearly indicates that where the very basis of the claim or the entitlement of the workman to a certain benefit is disputed, there being no earlier adjudication or recognition thereof by the employer, the dispute relating to the entitlement is not incidental to the benefit claimed and is, therefore, clearly outside the scope of a proceeding under S 33-C(2) of the Act.
+The Labour Court has no jurisdiction to first decide the workman's entitlement and then proceed to compute the benefit so adjudicated on that basis in exercise of its power under S 33-C(2) of the Act.
+It is only when the entitlement has been earlier adjudicated or recognised by the employer and thereafter for the purpose of implementation or enforcement thereof some ambiguity requires interpretation that the interpretation is treated as incidental to the Labour Court's power under S 33-C(2) like that of the executing Court's power to interpret the decree for the purpose of its execution."
+In this case, the daily rated/casual workers of the Delhi Municipal Corporation had claimed the same pay as paid to the regular employees on the principle of `equal pay for equal work' because they were doing the same kind of work as the regular employees.
+The very basis of the claim was disputed by the Corporation as there was no earlier adjudication or recognition of the claim.
+As the dispute relating to entitlement is not incidental to the benefit claimed, it is outside the scope of the proceedings under S 33-C(2).
+The Court has no jurisdiction first to decide the workman's entitlement and then to proceed to compute the benefits so adjudicated on the basis of its power under S 33-C(2).
+The Court observed :  "It is only when the entitlement has been earlier adjudicated or recognised by the employer or thereafter for the purpose of implementation or enforcement thereof some ambiguity requires interpretation, that the interpretation is treated as incidental to the Labour Court's power under S 33-C(2) like that of the executing court's power to interpret the decree for the purpose of its execution."
+Thus the crux of the matter is that the workman can file an application u/s 33-C(2) only when he is "entitled to receive" money, claimed by him.
+His entitlement to receive money is referable to pre-existing right which would be established if it has been earlier adjudicated upon or provided for i.e. recognised by the employer.
+This recognition can be either in the form of settlement or as per the service conditions.
+6.
+The Labour Court in the impugned order has understood the ratio of the judgment in the case of Ganesh Razak (supra) in a narrow sense.
+The Supreme Court has held that the workman shall be entitled to receive money if there is pre-existing right and this entitlement or pre-existing right is found in twin expressions : (i) entitlement has been earlier adjudicated upon; or (ii) entitlement is recognised by the employer.
+The Labour Court in the impugned order while rejecting the application of the petitioner herein as not maintainable had observed that there is no claim of petitioner that there is any prior adjudication or settlement as regards entitlement.
+Thus the entitlement as recognised by the employer is taken in the form of "settlement".
+This is not so.
+There can be recognition of the entitlement by the employer not only in the form of "settlement" but as per service conditions also.
+Thus understanding the expression "recognised by the employer" only when there is settlement is clearly erroneous.
+A person may be entitled to receive money and there may be pre-existing right even in the absence of settlement (here "settlement" is understood as defined u/s 2(p) of the Industrial Disputes Act, 1947) but when such right is recognised as per service conditions."
+7.
+When the claim is based on adjudication or settlement it poses no difficulty.
+However there may be cases where the workman would be held entitled to receive the money as pre-existing right on the basis of the agreement between the employer and employee or as per established service conditions which have culminated into right in favour of the workman.
+Take for example, when a workman is not paid his wages for a particular period, he shall be entitled to file application u/s 33-C(2) of the Act claiming wages for that period as he is entitled to receive the same at the rate agreed upon and at which the employer has been paying to him in the past.
+There is no adjudication or settlement but he is entitled to receive the wages of the period in dispute.
+This is as per the terms of the employment.
+Likewise, in a case where the workman is getting the wages in a graded pay scale, he has a right to receive increment every year.
+But if for a particular year increment is not released by the employer, workman shall be entitled to file application u/s 33-C(2) claiming the said increment as he has pre-existing right and he is entitled to receive such increment which can be stopped only by way of punishment as a result of departmental enquiry or when the workman is not allowed to cross the Efficiency Bar.
+Same may be the position in respect of the payment of minimum bonus.
+Or, where the workman claims overtime wages and the employer does not deny the right to it but only denies the claim on the ground that workman had not worked overtime.
+In such cases the Labour Court will have the jurisdiction to decide the claim (Chandra Extrusion Products, Lucknow v. Kamal Kishore Tripathy, 1986 Lab.
+I.C.
+1478).
+8.
+On the other hand, if entitlement to receive money is in dispute, application u/s 33-C(2) will not be maintainable and the appropriate course would be to seek reference u/s.
+10 of the Act.
+In Ganesh Razak (supra) the workman were being paid on daily rate basis and they claimed same pay as paid to regular employees on the principle of equal pay for equal work.
+It was necessary to first decide as to whether they were entitled to such a claim or not and therefore in the absence of such adjudication it could not be said that they were entitled to receive the same pay as paid to regular employees.
+As per existing terms they were only paid on daily rate basis.
+However, once such a right is adjudicated upon for subsequent proceedings thereafter, application could be filed u/S 33-C(2) of the Act.
+[See Director General, (Works) CPWD v. Ashok Kumar and others, 2000 LLR 67 : 2000(2) SCT 640 (SC)].
+Similarly, if a person is suspended and he is not paid subsistence allowance, say @ 50% of the wages as per the service conditions, he can file application u/S 33-C(2) of the Act, claiming subsistence allowance @ 50% as he is entitled to receive this money as per service conditions and this right is recognised by the employer as per service rules.
+On the other hand if workman claims that suspension is illegal and he is entitled to hundred per cent wages during the period of suspension then such a claim would not be maintainable in an application u/S 33-C(2) of the Act as, there has to be first an adjudication as to whether suspension is legal or illegal before deciding the entitlement of the workman to receive hundred per cent wages during the period of suspension.
+In such cases, instead of filing an application u/S 33-C(2), workman will have to raise industrial dispute by seeking reference u/S 10 of the Act challenging the suspension.
+Therefore, in order to come within the purview of this Section, a workman must be entitled to receive from the employer some `money' or `benefit'.
+This entitlement may depend upon an adjudication of the right or may depend upon interpretation of certain existing rights.
+If this entitlement depends upon an adjudication of the right for the first time, then the adjudication cannot come within the purview of this sub-section.
+The adjudication may also be dependent on interpretation or construction of certain terms on which two reasonable views are possible.
+If, on the other hand, the right is patently there but it has to be found out by reading of any document, settlement or award, that could be done within the purview of this sub-section.
+For instance, where the workman claims what ought to be the relation between him and his employer, remedy does not lie under this provision.
+Likewise, the question of classification of the workmen cannot be decided by the Labour Court under this Section.
+Such a question can be adjudicated on a reference by an Industrial Tribunal under S. 10(1).
+9.
+The point which is emphasised is that entitlement to receive money i.e. pre-existing right can be based on (1) adjudication (2) settlement (3) service conditions.
+If the right to get a particular benefit is there, the application u/S 33-C(2) would be maintainable and jurisdiction of Labour Court will not be barred merely because employer has denied the same.
+10.
+What is the meaning of the expression "entitlement to receive".
+No doubt it is referable to pre-existing right.
+However where the workman claims a benefit flowing from a pre-existing right and approaches the Labour Court u/S 33-C(2) for computation of the right in term of money and the employer disputes the existence of the right, the Labour Court will have the jurisdiction to determine the question, whether the right exists and if the existence of right is established then to proceed to compute the benefit flowing therefrom in terms of money or on its decision recovery proceedings can start [New Taj Mahal Cafe Private Limited v. Labour Court, 1970(2) LLN 51 and East India Coal Company Limited (supra)].
+In deciding the maintainability of the application u/S 33-C(2) what is to be looked at is the claims set up in the application and not what the other side contends in its reply.
+The fact that the employer by his plea raises some dispute, does not mean that jurisdiction of Labour Court to deal with the question is taken away.
+11.
+Now let us apply the aforesaid principles in the present case.
+In this case, petitioner had claimed encashment of leave of 188 days, on his retirement.
+It cannot be disputed that it is one of the service conditions that petitioner on his retirement would be entitled to encash his leave if it is lying to his credit.
+This is one of the service conditions and this service condition is a pre-existing right which entitles workman to get this claim.
+What is disputed is that the leave of 188 days was not due to the petitioner and according to the respondents there was only four days leave to his credit.
+As mentioned above, if the entitlement is based on service conditions, one does not have to take recourse to reference u/S 10 of the Act for adjudication of the matter.
+That situation would have become necessary only if there was a dispute about the entitlement to get the leave encashed.
+The dispute is not about the entitlement to get the leave encashed but about the number of days to which the petitioner is entitled.
+Such a question could have been decided by the Labour Court in these proceedings.
+As mentioned above merely because employer disputes this aspect, is no ground to oust the jurisdiction of Labour Court u/S 33-C(2).
+The matter is to be looked into on the basis of claim made by the petitioner in his application and not the reply filed by the management.
+Once it is accepted that this is one of the service conditions of the workman that he would be entitled to get the leave encashed upto a particular limit, claiming this leave encashment by filing application u/S 33-C(2) would be admissible.
+If there is a dispute as to how much leave was to credit of petitioner which he could encash, such a dispute can be decided in these proceedings which is incidental to the main issue.
+Adjudication can be about the entitlement and not when the claim is based on accepted service conditions.
+The matter was not examined by the Labour Court from this angle at all and therefore I hold that the order of the Labour Court is erroneous.
+The same is accordingly set aside.
+Rule is made absolute.
+It is held that application filed by the petitioner u/S 33-C(2) of the Act is maintainable.
+The matter is accordingly remanded back to the Tribunal to decide the application of the petitioner on merits.
+Case remanded.

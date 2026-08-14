@@ -1,0 +1,93 @@
+Jawahar Lal Gupta, J. (Oral) - Is the condition of eligibility as laid down by the Punjab Government vide notification dated May 6, 2002 for admission to the Masters of Computer Application programme ultra-vires the All India Council for Technical Education Act, 1987 ?
+This is the short question that arises for consideration in this petition.
+A few facts may be noticed.
+2.
+The four petitioners are running technical institutions.
+They are conducting amongst others, a three year course leading to the degree of Master of Computer Application.
+The petitioners allege that the norms and standards for this course have been laid-down by the All India Council for Technical Education (for short, `the Council') in exercise of the powers under the All India Council for Technical Education Act, 1987 (for short `the Act').
+It is the case of the petitioners that Section 10 of he Act authorises the Council to "provide guidelines for admission of students to technical institutions and Universities imparting technical training."
+In exercise of this power, the Council has issued the requisite guidelines and laid-down the qualifications for admission as also the selection procedure.
+These are contained in paragraphs 40 and 50 which reads as under :-  "40 Admission Qualifications Since almost all sectors of industry, commerce, administration are in need of professionals for their computerisation programme the MCA Programme which is targeted to some managerial functions has to necessarily be designed in such a manner that candidates with minimum mathematical background upto 10+2 level and first degrees in any of the disciplines may be able to benefit from this programme.
+The minimum qualifications for MCA Programme is prescribed as a Bachelor's degree of minimum three years duration in any discipline but with mathematics knowledge of 10+2 level; 50 Selection Procedure The admission of the candidate to various programme in computer science, engineering and application should be determined through merit and an admission test should be three conducted by State Government/Autonomous institution/universities.
+The admission test for computer programme should test candidates for mathematical ability and logical reasoning.
+In the admission for MCA programme, the mathematical component be of the level of (10+2) examination and components of logical reasoning at the level of Bachelor's degree examination.
+The selection to MCA course should be on All India basis as per AICTE norms for admission."
+3.
+The petitioners allege that in violation of the guide-lines given by the Council, the State Government has issued a notification dated May 6, 2002.
+It has inter-alia laid down the following conditions of eligibility :-  "A).
+Eligibility Conditions : The minimum qualifications for MCA programme is prescribed as a Bachelor's degree of minimum three years duration in any discipline but with mathematics knowledge of 10+2 level by having passed in the subject of mathematics in the 10+2 examination."
+4.
+According to the petitioners, the above quoted eligibility condition is repugnant to the guide-lines embodies in paragraphs 40 and 50, as reproduced above.
+5.
+Mr. Rupinder S Khosla, learned counsel appearing for the petitioners contends that according to the guidelines issued by the Council, a candidate must have the knowledge of mathematics of 10+2 level.
+It is not essential for him to have passed in the subject of mathematics in the 10+2 examination.
+The condition as laid down by the State Government goes beyond the qualification prescribed by the Council.
+Thus, it is ultra-vires and should be struck down.
+6.
+The Act was promulgated to provide for the establishment of All India Council for Technical Education.
+The object was to ensure paper planning and co-ordinated development of technical education through-out the country.
+The purpose was to improve the quality of technical education.
+Section 10 of the Act delineates the functions of the Council.
+It imposes a duty on the Council "to take all such steps as it may think fit for ensuring co-ordinated and integrated development of technical education and maintenance of standards...." For this purpose, the Council has been authorised to undertake surveys and "lay down norms and standards for courses, curricula, physical and instructional facilities, staff pattern, staff qualifications, quality instructions, assessment and examinations".
+In clause (o), it has been specifically provided that the Council shall be competent to provide "guidelines for admission of students to technical institutions and Universities imparting technical education."
+In the very nature of things, the guidelines laid-down by the Council for admission of students constitute the minimum qualifications that a candidate must fulfil so as to be eligible for joining the course and taking the examination.
+7.
+What is the position in the present case ?
+8.
+The Council, in exercise of its powers under Section 10(o), has inter-alia laid down in paragraph 40 that "candidates with minimum mathematical background upto 10+2 level.....may be able to benefit from this programme."
+Still further, it is stipulated that "the minimum qualification for MCA Programme is prescribed as a Bachelor's degree of minimum three years duration in any discipline but with mathematics knowledge of 10+2 level".
+As the very language of the provision suggests, the Council has laid down the minimum qualifications, which a candidate must possess so as to be eligible for admission to a Master of Computer Application programme.
+9.
+Mr. Kholsa contends that according to the norms laid down by the Council, it is not necessary that a candidate should have passed the 10+2 examination with mathematics as one of the subjects.
+Thus, the provision made by the State Government that the minimum qualifications for admission to a MCA programme will be the Bachelor's degree "with mathematics knowledge of 10+2 level by having passed in the subject of mathematics in 10+2 examination" is illegal.
+10.
+The contention as raised by the counsel cannot be accepted.
+In our view the Council could not have intended that a candidate who has studied mathematics at the 10+2 level shall be eligible for admission even if he had failed in the subject and secured a `Zero'.
+The obvious intention of the relevant portion of paragraph 40 is that the concerned candidate should have a Bachelor's degree with mathematics at the 10+2 level.
+In other words, the intention is that he should have qualified the 10+2 examination with mathematics as one of the subjects.
+This is precisely what the State Government has laid down as a condition of eligibility in paragraph `A'.
+We do not find any repugnance.
+11.
+Mr. Khosla, learned counsel for the petitioners has referred to the decision of their Lordships of the Supreme Court in State of TN and another v. Adhiyaman Educational & Research Institute and others, 1995(4) Supreme Court Cases 104.
+It has been emphasized with reference to the observations in paragraph 32 of the judgment that the State Government could not have laid- down a qualification "higher than the minimum standard", laid down by the Council.
+12.
+A perusal of the judgment in Adhiyaman's case shows that their Lordships were considering the scope of the State Government's power "to grant and withdraw the Central Act".
+In this context, their Lordships had also considered the issue of powers of the Council under the 1987 Act vis-a-vis those of the Tamil Nadu Private Colleges (Regulation) Act.
+The Court also referred to the Madras University Act, 1923.
+It was in the context of this issue that it was contended on behalf of the State that it could lay-down qualifications higher than the minimum standard.
+While considering this aspect of the matter, their Lordships had taken a view that the principle of repugnance would be applicable.
+The issue as raised in Adhiyaman's case has been subsequently considered by the Supreme court in Dr. Preeti Srivastava & Anr. v. The State of Madhya Pradesh & Ors., 1999(4) SCT 133 (SC) : JT 1999(5) SC 498 and Bharathidasan University and another v. All India Council for Technical Education and others, 2001(4) SCT 704 (SC) : AIR 2001 SC 2861.
+For the purpose of the present case, it is clear to us that the State Government has not transgressed the rule as laid down by their Lordships of the Supreme Court.
+Thus, the petitioners can derive no advantage from the decision in Adhiyaman's case.
+13.
+Mr. Khosla has been contended that the knowledge of mathematics has not been prescribed as conditions of eligibility for the three years' course leading to the Degree of Bachelor of Computer Application.
+As such, it could not have been laid down even for the Master's degree.
+It may be so.
+However, the mere fact that knowledge of mathematics is not considered essential at the degree level, cannot mean that it could not have been laid down for a Post- graduate course.
+14.
+Laying-down conditions of eligibility is primarily the prerogative of the academic bodies.
+The Writ court is not normally equipped to lay-down standards for admission etc. to technical courses.
+It does not have the expertise or the knowledge of different subjects.
+So long as a clear case for interference is not made out, the Writ Court normally does not enter the academic thickets.
+In the present case, it appears that the purpose of the provision made by the Council as well as the State Government is identical.
+Both emphasise the need for knowledge of mathematics upto 10+2 level.
+This knowledge can be certified only by passing an examination.
+Thus, the State Government has prescribed a qualification, which is in conformity with the guidelines issued by the Council.
+15.
+Mr. Khosla contends that the selection procedure laid down by the Council provides for assessing the knowledge of mathematics upto 10+2 level.
+Thus, it should have been specifically provided that the candidate should have passed the 10+2 examination with mathematics.
+16.
+We are unable to accept this contention.
+Paragraph 50, as reproduced above, categorically provides that "the mathematical component should be of the level of (10+2) examination...".
+The obvious purpose is to ensure that the examining body should not expect the candidates to know mathematics higher than that laid down for the candidates appearing in the 10+2 examination.
+No more.
+17.
+Mr. Khosla contends that by virtue of the qualification laid down by the State Government, various candidates who may have studied Statistics at the MA level have been eliminated.
+It may or may not be so.
+No facts have been placed before us to show that students, who were eligible, have been excluded.
+No candidate having the qualification of MA in Statistics is the petitioner in this case.
+In the absence of data, the contention cannot be accepted.
+No other pointed has been raised.
+In view of the above, we find no merit in this writ petition.
+It is consequently dismissed in limine.
+Petition dismissed.

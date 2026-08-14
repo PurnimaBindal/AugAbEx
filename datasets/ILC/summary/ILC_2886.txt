@@ -1,0 +1,59 @@
+“Sometimes the contention has neither been rebutted, nor can be thrown out neck and crop”  The assessment year 2006-07, the assessee company filed its return of income declaring nil income after adjustment of brought forward loss of ` 8,18,11,190/-.
+The assessment was completed vide assessment order dated 24.12.08 u/s 143(3) of the Income Tax Act, determining the income at ` 25,32,44,857/-.While doing so, the AO made a disallowance of ` 16,80,66,667/- concerning discount offered by the assessee company to Collections Centres/Franchisees u/s 40(a)(ia) of the IT Act, on the basis that the assessee had not deducted tax thereon under sections 194 H/194 C of the Act.
+ISSUE BEFORE THE COURT: Whether section 194H is applicable to the facts of the present case or not?Whether the supplementary commission retained by the travel agents was in the nature of ‘Commission’ for the purposes of section 194 H of the Act, on which, tax was required to be withheld, or it was in the nature of discount?
+RATIO OF THE COURT: The court stated that section 194 H, brought in from 162001, provides that any person, other than an individual or a Hindu Undivided Family, responsible for paying commission or brokerage to a resident, shall deduct tax at source; and that the tax shall be deducted at the time of credit of such income to the account of the payee or at the time of payment of such income or by issue of a cheque or draft or by any other mode, whichever is earlier.
+To fall within the provisions of section 194 H, the payment received or receivable, directly or indirectly, is to be by a person acting on behalf of another person (i) for services rendered, not being professional services, or (ii) for any services in the course of buying or selling of goods or (iii) in relation to any transaction relating to any asset, valuable article or thing.
+The element of agency is necessarily to be there in cases of all the services or the transactions contemplated by the section, as held in “Mother Dairy India Ltd V ITO”, 28 SOT 42 (Del), “Delhi Milk Scheme v. CIT”, 173 Taxmann 54 (Del), and “ABP Pvt. Ltd. V CIT”, 23 SOT 28 (Kolkata).Where the dealing between the parties is not on a Principal to Agent basis, Section 194 H does not get attracted, as held in “Ahmedabad Stamp Vendor Association v. Union of India”, 257 ITR 202 (Guj), “Kerala Stamp Vendors Association” 282 ITR 7(Ker) and “ACIT v Samaj”, 77 ITD 358 (Cuttack).The court stated that the business working of the assessee is that it signs agreements with the Collection Centres, on a non-exclusive basis.
+It is under these agreements, that the Collection Centres avail the professional services of the assessee regarding testing of samples.
+These Centres operate as authorized Collectors for collecting the samples.
+Now, these Collection Centres are working in this manner with various concerns, of which, the assessee is one.
+The Collection Centre is under no obligation to always forward these samples to the assessee.
+It is only in case the patient/customer insists that the laboratory testing be done by the assessee, that the Collection Centre forwards the sample of such a patient to the assessee, for testing.
+The Collection Centre also fills up the necessary test requisition forms to be sent along with the sample.
+The assessee conducts the test/tests and issues the report with regard thereto, to the Collection Centre. The Collection Centre issues its own bill/invoice to the patient/customer.
+The fees for the testing is collected by the Collection Centre and the receipt is also issued by the Collection Centre.
+The assessee raises its periodical invoices on the Collection Centres.
+The Collection Centre makes the payment to the assessee after TDS u/s 194 J of the Act.
+Under the Agreement, the services are rendered by the assessee in the form of laboratory testing at a discounted price from the price given in the standard price list.
+This discount has been considered by the Authorities below as commission and they have held that tax was required to be deducted thereon u/s 194 H of the Act.Now, it has not been shown that these facts, as canvassed on behalf of the assessee, are not the correct facts.
+It has not been shown that the rates charged by the Collection Centre from its customers are not decided by the Collection Centre, but by the assessee.
+It has not been shown that the Collection Centre is under any obligation to forward the samples for testing only and only by the assessee and not by other laboratories as well.
+The set- ups of the Collection Centres are also entirely different from that of the assessee.
+Their expenditure has also not been shown to be interlacing with that of the assessee.
+The staff of the two are also distinct and separate.The accounts are not either inter-mixed or inter-twined.
+On the other hand, there exists a privity of contract between the Collection Centres and their customers.
+Out of the payment made to the assessee, tax is deducted at source for professional services rendered, u/s 194 J of the Act.
+The receipt by the Collection Centres is not established to be on behalf of the assessee.
+The receipt of the Collection Centres, as such, is the income of the Collection Centres themselves and not that of the assessee.
+To bring home this point, it is enough to consider that the amount, alleged to have been paid by the assessee to the Collection Centres, has not been considered to be deductible expenditure.The assessee’s contention that the Collection Centres have the option to conduct the tests themselves or to out-source their medical services to other laboratories, has been simply brushed aside by the ld.
+CIT(A) stating it to be of no significance.
+This, however, to our mind, is not correct.
+Firstly, this contention has not been disproved.
+It is borne out from the agreements.
+Then, if this averment on behalf of the assesssee is correct, the element of agency in the relationship between the assessee and the Collection Centres goes away.
+True, the Collection Centres have to follow the terms of the contract entered into by them with the assessee.However, no violation of the terms of these agreements has been shown.
+The ld.
+CIT(A) has concluded that the assessee’s contention that the Centres can out-source their services to other laboratories, is factually incorrect.
+This is based on the recital in the agreement that the Collection Centres cannot collaborate with the competitors, even on the termination of the agreement.
+The assessee’s stand in this regard has been that such a restriction was imposed simply to prevent the Collection Centres from divulging the assessee’s specific and confidential know-how which may have come to their notice during their engagement with the assessee, to the competitors of the assessee.In the event of absence of such a covenant in the agreement, there would be no safe-guard against the Centres divulging the assessee’s confidential specific know-how to its competitors, thereby prejudicing the assessee’s business.
+And not only this, the mere existence of such alleged restriction does not, by itself, establish a Principal – Agent relationship between the assessee and the Collection Centres.The court stated on the submission of learned counsel that it is evident that there is no Principal – Agent relationship existing between the assessee and the Collection Centres.
+The findings of the learned CIT(A) in this regard are, therefore, incorrect and we hold so.It is patent on record that the assessee does not pay or credit any amount to the account of the Collection Centres, either directly or indirectly.
+That being so, the provisions of section 194 H of the Act do not get attracted on this score also.
+It is obvious that the obligation of deduction of tax at source u/s 194 H of the Act comes up only at the time of payment or credit of the amount in the books of account of the payer, whichever is earlier.
+Herein, the amount received by the assessee has been credited in its books of account.This is based on the invoices raised by the assessee on the Collection Centres.
+No debit in the books of account of the assessee for any discount and/or commission paid towards the Collection Centres has been shown to exist.
+On the contrary, the assessee has been taxed on the gross receipt of ` 5042 crores, which stands reflected in the books of account of the assessee.The court contended while referring to Apropos “CIT v. Singapore Airlines Ltd.” (supra), it was observed, inter alia, that in the area of travel business, the airline appoints agents who are accredited with IATA.
+These agents maintain blank ticket stock of the airline.
+The agents are authorized to issue tickets to passengers against collection of consideration.
+When a ticket is issued by the agent, a contract comes into existence between the passenger and the airline, for carrying the passenger on the scheduled flight(for which the ticket is booked).
+The amounts collected by the agents are credited to the airlines on a fortnightly basis.
+The agent receives a pre-agreed commission, which is fixed for the industry as a whole, after deducting tax at source under section 194 H of the Act.
+In that view of the matter, there is no dispute that there is a Principal – Agent relationship between the airline on the one hand and travel agent on the other.In the present case, however, there is no Principal – Agent relationship that subsists between the assessee and the Collection Centres.
+On the contrary, it is the assessee which renders lab testing services to the Collection Centres, on which necessary tax is deducted under section 194 J of the Act.In the present case, on the contrary, the collection center has no authority to bind the assessee in any form.
+The collection centers, acting in their own right, engage the assessee for lab testing services and do not, in any manner, act as agents of the assessee.
+That being so, ‘Director, Prasar Bharti’ (supra), does not come to the aid of the revenue.The court observed the grievance of the assessee to be perfectly justified.
+This court hold that (i) there is no Principal-Agent relationship between the assessee and the Collection Centres and that being so, the provisions of section 194 H of the Act have been wrongly invoked; (ii) The provisions of section 194 H of the Act could, even otherwise, not have been met, since no payment has been shown to have been made by the assessee to the Collection Centres; (iii) The payment made to the assessee by the Collection Centres was at the rates agreed to inter se between them; and (iv) The ld.
+CIT(A) erred in confirming the disallowance of ` 11,78,24,030/- made u/s 40(a)(ia) of the Act for the alleged failure of TDS by the assessee u/s 194 H of the Act.GroundNo3 states that the ld.
+CIT(A) erred in not adjudicating the challenge of the assessee to the AO’s findings that the discount offered by the assessee to the Collection Centres was in the nature of payment for work, on which, tax was deductible u/s 194 C of the Act.
+Since the claim of the assessee has been allowed as above, there remains no requirement to go into this aspect of the matter and this court not doing so.
+DECISION HELD BY COURT: At last the court stated that the appeal filed by the assessee is allowed.

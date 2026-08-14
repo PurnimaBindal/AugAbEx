@@ -1,0 +1,82 @@
+RP Sethi, CJ.
+- The point of law required to be settled in these appeals is :  "Whether in case where order of dismissal of a workman is proved to have been passed without holding any inquiry and consequently is justified by the management, before the Labour Court, the workman would be entitled to back wages from the date of dismissal till the date of the award or the order of dismissal would become effective from the date it is passed notwithstanding the non-holding of the domestic inquiry ?"
+In support of the rival contentions the learned Counsel for the parties have relied upon the judgments of the Apex Court in :  1.
+PH Kalyani v. M/s Air France, Calcutta, AIR 1963 SC 1756.
+2.
+The Oriental Textile Finishing Mills v. The Labour Court, Jullundur and others, AIR 1972 SC 277.
+3.
+The Workmen of M/s Firestone Tyre & Rubber Co of India Pvt Ltd. v. The Management and others, AIR 1973 SC 1227.
+4.
+DC Roy v. The Presiding Officer, Labour Court and others, AIR 1976 SC 1760.
+5.
+Gujarat Steel Tubes Ltd v. Gujarat Steel Tubes Mazdoor Sabha & others, AIR 1980 SC 1896.
+6.
+Desh Raj Gupta v. Industrial Tribunal IV UP Lucknow & another, 1991(1) S.C.T.
+86 : AIR 1990 SC 2174.
+7.
+R Thiruvirkolam v. Presiding Officer and another, AIR 1997 SC 633 : 1997(2) SCT 5 (SC).
+8.
+Punjab Dairy Development Corporation Ltd and another v. Kala Singh etc., 1997(3) SCT (SC) 580.
+2.
+In PH Kalyani's case the Supreme Court held that :  "Where the employer has held an enquiry which is not defective and has passed an order of dismissal and seeks approval of that order, the Labour Court has only to see whether there was a prima facie case for dismissal, and whether the employer had come to the bona fide conclusion that the employee was guilty of misconduct.
+Thereafter on coming to the conclusion that the employer had bona fide come to the conclusion that the employee was guilty i.e., there was no unfair labour practice and no victimisation, the Labour Court would grant the approval which would relate back to the date from which the employer had ordered the dismissal.
+If the inquiry is defective for any reason, the Labour Court would also have to consider for itself on the evidence adduced before it whether the dismissal was justified.
+However, on coming to the conclusion on its own appraisal of evidence adduced before it that the dismissal was justified, its approval of the order of the dismissal made by the employer in a defective inquiry would still relate back to the date when the order was made."
+In this case the order of dismissal was based on defective inquiry and the Labour Court accorded approval in terms of Section 33 of the Industrial Disputes Act ("the Act" for short).
+It is worth remembering that in Kalyani's case Supreme Court did not deal with case where no inquiry at all was held before passing the order of dismissal.
+In The Oriental Textile Finishing Mills' case the Apex Court after referring to its earlier judgment in Hindustan General Electrical Corporation Ltd v. Bishwanath Prasad, AIR 1971 SC 2417 held that the management had a right to justify and substantiate its action of dismissal on evidence duly placed before the Labour Court or Tribunal.
+Similarly in The Workman of M/s Firestone Typre & Rubber Co of India Pvt Ltd.'s case it was held that mere fact that no inquiry or defective inquiry had been held by the employer did not by itself render the dismissal as illegal.
+Following PH Kalyani's case the Supreme Court in DC Roy's case held that where domestic inquiry was found to be defective and the dismissal order was justified before the Labour Court, the judgment of the Labour Court may relate back to the date on which the order of dismissal was passed.
+The Court however held that the law laid down in PH Kalyani's case was not exhaustive and the occasion may arise where the Court may deem it proper to carve out exception to the ratio of PH Kalyani's case.
+It held that :  "The second contention must also therefore fail.
+We would, however, like to add that the decision in PH Kalyani's case is not be construed as a charter for employers to dismiss employees after the pretence of an inquiry.
+The inquiry in the instant case does not suffer from defects so serious or fundamental as to make in non est.
+On an appropriate occasion, it may become necessary to carve an exception to the ratio of Kalyani's case so as to exclude from its operation at least that class of cases in which under the facade of a domestic inquiry, the employer passes an order gravely detrimental to the employee's interest like an order of dismissal.
+An inquiry blatantly and consciously violating principles of natural justice may well be equated with the total absence of an inquiry so as to exclude the application of the `relation back' doctrine.
+But we will not pursue the point beyond this as the facts before us do not warrant a closer consideration thereof."
+The Court approved its earlier decision in M/s Sasa Musa Sugar Works (P) Ltd. v. Shobrati Khan and others, AIR 1959 SC 923 where despite approval of the order of dismissal the Court held the workman entitled to wages during the period of suspension upto the date of the award of the Industrial Tribunal confirming the action of the dismissal passed by the management.
+In Gujarat Steel Tubes Ltd' case it was held that :  "Kalyani (1963) 1 Lab LJ was cited to support the view of relation back of the Award to the date of the employer's termination orders.
+We do not agree that the ratio of Kalyani corroborates the proposition propounded.
+Jurisprudentially, approval is not creative but confirmatory and therefore relates back.
+A void dismissal is just void and does not exist.
+If the Tribunal, for the first time, passes an order recording a finding of misconduct and thus breathes life into the dead shell of the Management's order, pre-dating of the nativity does not arise.
+The reference to Sasa Musa case (supra) in Kalyani enlightens this position.
+The latter case of DC Roy v. Presiding Officer, Madhya Pradesh Industrial Court, Indore (supra) specifically refers to Kalyani's case and Sasa Musa's case and holds that where the Management discharges a workman by an order which is void for want of an enquiry or for blatant violation of rules of natural justice, the relation-back doctrine cannot be invoked.
+The jurisprudential difference between a void order, which by a subsequent judicial resuscitation comes into being de novo, and an order, which may suffer from some defects but is not still-born or void and all that is needed in the law to make it good is a subsequent approval by a tribunal which if granted, cannot be obfuscated."
+3.
+In Des Raj Gupta's case the Supreme Court had held that :  "The second ground urged in support of the appeal appears to be well founded.
+The learned Counsel is right in relying on the observations in Gujarat Steel Tubes Ltd v. Gujarat Steel Tubes Mazdoor Sabha, 1980(2) SCR 146 at p. 215, that if the order of punishment passed by the management is declared illegal and the punishment of upheld subsequently by a labour tribunal, the date of dismissal cannot relate back to the date of the illegal order of the employer.
+The appellant is, therefore, entitled to his salary from 1681976 to 2071980 and the entire amount should be paid by the respondent-Bank within a period of three months from today.
+If the amount is not paid or offered to the appellant as directed, the respondent-Bank will be liable to pay interest thereon at the rate of 12% per annum for the future period commencing on the date of expiry of three months from today till the same is realised."
+4.
+However in R Thiruvirkolam's case (supra) a Division Bench comprising of two Judges apparently held that the law laid down in Des Raj Gupta's case could not be treated as an authority on the point, which requires determination by us in these appeals.
+The order of punishment was directed to become operative from the date when it was made by the employer and not from the date of Labour Court's award.
+In Thiruvirkolam's case the Court again considered the effect of the order of dismissal passed in consequence of a defective inquiry and not a consequence of no domestic inquiry.
+Referring to Kalyani's case the Court noted the distinction between the two types of cases and on facts of the case held that the matter was covered by Kalyani's case.
+The Court dealt with Kalyani's case, Gujarat Steel Tubes Ltd's case, DC Roy's case, Des Raj Gupta's case and Rambahu Vyankuji Kheragade v. Mahrashtra Road Transport Corporation, 1995 Supp(4) SCC 157 and concluded that, in the case of a defective inquiry the order of dismissal relates back to the date when the management passes such order and does not become effective only from the date of the award of the Labour Court.
+5.
+In Punjab Dairy Development Corporation Ltd & another v. Kala Singh etc., a Division Bench comprising of two Judges held that the view expressed in Des Raj Gupta's case supra was not correct.
+Following the judgment of the Constitution Bench that on the Labour Court's record a finding that the domestic inquiry was defective, it was held that :  "......... On the Labour Court's recording a finding that the domestic enquiry was defective and giving opportunity to adduce the evidence by the Management and the workman and recording of the finding that the dismissal by the management was valid, it would relate back to the date of the original dismissal and not from the date of the judgment of the Labour Court."
+It was however observed that the Court had the power to mould the relief with the aid of Section 11-A of the Act.
+6.
+Dealing with the similar circumstances and after referring to the various pronouncements of the Apex Court this Court in Abdul Gani v. The General Manager, Vishweshwaraiah Iron and Steel Ltd. and others, WA No. 7 of 1996 c/w W.WA No. 4362/95 decided on 471997 settled the position of law in this regard by holding that :  "While this would be the position, where there was a domestic enquiry which was found defective and the justification made in the Labour Court, herein, in the present case, the service of the workman had been terminated without there being an enquiry.
+It was for the first time before the Labour Court that the employer, on leading evidence, justified the termination of services of the workman.
+Such a case ought to be covered by the principle enunciated in Sasa Musa Sugar Works (P) Ltd. case.
+As earlier noted, the Constitution Bench in Kalyani, while referring to the relevant observations in Sasa Musa Sugar Works (P) Ltd., pointed out as to how there had been no previous enquiry whatsoever that had been held by the employer, and as to how the case for dismissal had been made out for the first time in the proceedings under Section 33 before the Labour Court.
+It was in those circumstances that the Constitution Bench noted that the employees in Sasa Musa Sugar Works (P) Ltd., would be entitled to their wages till the decision on the application under Section 33 ie, till the decision by the Labour Court.
+While making this distinction, the Constitution Bench in Kalyani also observed that the matter would have been different if, in that case, an enquiry had been held, and if the employer had come to the conclusion that the dismissal was the proper punishment and had thereafter applied for permission under Section 33(1).
+The Constitution Bench observed that in those circumstances, that permission would have related back to the date when the employer came to the conclusion after an enquiry, that the dismissal was the proper punishment and had applied for the removal of the ban by an application under Section 33(1).
+In other words, if circumstances similar to Sasa Musa Sugar Works (P) Ltd., existed i.e., if the order of termination is without an enquiry as in the present case, then, until termination is justified before the Labour Court culminating in the award of the Labour Court, the workman concerned would be entitled to wages.
+This is the position duly recognised in Kalyani and DC Roy also, when the circumstances relating to Sasa Musa Sugar Works (P) Ltd., were distinctly set out and Sasa Musa Sugar Works (P) Ltd. was distinguished.
+In view of what has been discussed above it is held that (1) in a case where a defective enquiry is held before termination of services of the workman, the management has a right to justify their action by leading evidence before the Labour Court under the Act.
+In such a case if the action of the management is upheld, the order of dismissal would relate back to the date when it was actually passed by the Management, but (2) in a case where the order of dismissal is passed without holding any enquiry and the action is justified by the management before the Labour Court after adducing evidence, the order of dismissal would become effective from the date of the order of the Labour Court and in that event the workman would be entitled to the grant of full back wages from the date of termination of his services till the date of award of the Labour Court.
+7.
+Such a position of law is in consonance with the principles of natural justice and the objects sought to be achieved by the Industrial Laws enacted for protecting the interests of the workmen.
+In the absence of an enquiry as mandated under the Act, Rules, Bye-laws and Standing Orders governing the service conditions of the workman the order of dismissal should be deemed to be non-existent and not operating against the interest of the workman till it is justified in a legal manner by adducing evidence before the Labour Court, inasmuch as the workman, dismissed in complete disregard to the principles of law and awaiting verdict of the Court, would be deprived of the wages even for the period he awaits a judgment.
+The position in the case of defective enquiry would be totally different because the workman in that case would take a chance to prove that the enquiry though held was defective but in a case where no enquiry was held he would be justified to presume that the action of the respondent was liable to be quashed being contrary to law.
+For the fault and inaction of the management and in the hope of seeking justice the workman could not be deprived of the wages of the period he remains out of job and employment presumably on account of the pendency of the case in a Court of law.
+8.
+In view of the position of law as noticed hereinabove, we do not find any merit in these appeals filed by the management against the orders of the learned Single Judge.
+In the absence of the domestic enquiry, the learned Single Judge was justified in issuing the appropriate directions vide the orders impugned in these appeals.
+There is no merit in these appeals, which are accordingly dismissed with costs assessed at Rs. 500/- per Writ Appeal.
+Appeals dismissed.

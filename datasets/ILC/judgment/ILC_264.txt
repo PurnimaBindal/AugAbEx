@@ -1,0 +1,153 @@
+IN THE HIGH COURT OF DELHI AT NEW DELHI Judgment delivered on: 26102021 OMP503 2019 BHARAT SANCHAR NIGAM LTD Petitioner M S VINDHYA TELELINKS PVT. LTD.
+Advocates who appeared in this case: Respondent For the Petitioner Ms Ruchi Gour Narula Advocate with Ms Sangeeta Sondhi and Mr Gorang Goyal Advocates.
+Mr Narendra M Sharma Mr Abhishek Sharma Mr Siddhartha Jain Advocates.
+For the Respondent HON’BLE MR JUSTICE VIBHU BAKHRU VIBHU BAKHRU J Bharat Sanchar Nigam Ltd has filed the present petition under Section 34 of the Arbitration and Conciliation Act 1996impugning an Arbitral Award dated 13.06.2019 delivered by an Arbitral Tribunal comprising of JusticeVijender Jain former Chief Justice of Punjab and Haryana High Court as the Sole Arbitrator hereafter the ‘Arbitral Tribunal’).
+OMP503 2019 The impugned award was rendered in the context of disputes that had arisen between the parties in respect of the contract for supply and purchase of Polyethylene Insulated Jelly Filled Cableshad agreed to supply PIJF Cables to BSNL.
+Since the element of copper constitutes the main raw material for manufacture of the PIJF Cables the parties had agreed that the prices of the PIJF Cables to be supplied would be suitably adjusted to accommodate the increase or decrease in the price of copper wire rod.
+BSNL had agreed to issue monthly circulars regarding the price of copper for the purpose of calculation of the price variation.
+It had issued provisional circulars and provisional payments were made accordingly.
+Subsequently after the supplies were completed BSNL issued a final circular setting out the monthly base prices of copper for the period April 2005 to August 2006.
+VTPL had contested the calculation of the price of copper as fixed by BSNL and the said dispute is central to the controversy.
+It claimed that the price of copper as fixed was not comparable with the base price of copper as it was reduced by the element of customs duty which was included in the base price of copper.
+VTPL raised claims for the differential payments which were allowed by the Arbitral Tribunal.
+Factual Context BSNL is a Public Sector Undertaking.
+It is engaged in providing telecom services in India except in Delhi and Mumbai.
+BSNL had issued a Notice Inviting Tender dated 12012005 inviting OMP503 2019 inquiries for the procurement of “120 LCKM PIJF Cables”per MT excluding Excise Duty as on January 2005.
+Price variation will be applicable on copper as per standard Price variation table given in Section XI of the Bold Document.” Section XI of the Instructions to Bidders included a table setting out the corresponding increase and decrease in price for every increase decrease of price of raw materials by ₹100 per metric ton for PIJF cables of different sizes specifications.
+Noteto the said table is relevant and is set out below: “ Note:(1) The price variation will be calculated on the Basic Price element of the approved rate and the same shall be used to arrive at the composite price to be offered to all the vendors.
+The composite price of each size of cable shall be worked out accordingly or monthly basis based upon the Copper Price Circular issued by BSNL.
+OMP503 2019 This price variation shall be applicable within original delivery schedule.” The petitioner as well as various other bidders submitted their bid on the basis of the base price of copper as indicated.
+It is VTPL’s case that the same also included customs duty at the rate of 15% which was applicable at the material time.
+VTPL was declared as one of the successful bidders however the price quoted by it was not accepted.
+VTPL claims that it entered into price negotiations with BSNL and thereafter BSNL had made a counter offer in the form of an Advance Purchase Order dated 10062005.
+The said Advance Purchase Order was not accepted and subsequently a revised Advance Purchase Order dated 30072005 hereafter ‘the APO’) was placed on VTPL.
+The APO also included a price variation clause.
+Clause 3(i) of the APO is relevant and set out “3.
+PRICE VARIATION: The price variation will be calculated on the basic price element of copper base price indicated in the bid document and the same shall be used to arrive at the composite price.
+The composite price of each size of cable shall be worked out accordingly on monthly basis based upon the monthly Copper Price Circular issued by BSNL.
+However a ready reckoner is enclosed as per annexure III.” It is relevant to state that Annexure III included a table for calculation of the price variation for every month for deriving the revised composite price.
+Noteto the said table stated that the price OMP503 2019 variation on base price“are the values of PV on copper for different sizes of cables to be computed every month as per the BSNLMonthly Price Circular and PV Table503 2019 12.
+VTPL requested BSNL to correct the circular to enable it to furnish invoices for the differential amount which it quantified at ₹4 50 48 097 .
+13.
+Thereafter on 20.04.2007 VTPL issued a notice calling upon BSNL to pay the differential amount of ₹4 50 48 097 together with interest at the rate of 18% per annum failing which to appoint an arbitrator in terms of the arbitration agreement503 2019 17.
+Before the Arbitral Tribunal VTPL filed a Statement of Claims.
+Paragraph 19 of the Statement of Claims sets out the claims made by VTPL and is reproduced below: “19.
+The claimant circumstances is entitled for the following amounts: the aforesaid in all facts and Amount4 50 48 097.00 2 17 71 190.00 6 68 19 287.00 The differential amount on account of revision of copper wire rod priceRs.4 50 48 097 wef.
+21.08.2006 till 2742009 18% pa. Crores Sixty Eight Lacs Two Hundred Eight Seven only) The claimant is further entitled for pendentelite and future interest @ 18% pa. besides cost of Arbitration.
+It is submitted that if the respondent pursuant to the petition filed by the claimant under Section 9makes payment of the admitted amount the claim of the claimant to that extent shall be revised 18.
+BSNL contested VTPL’s claim.
+It stated that BSNLhad been adopting the rate of copper as declared by M s Hindustan Copper Ltd Kolkata which is also a Government of India Enterprise.
+It claimed that BSNL would issue monthly circulars based on the price of “CC Rod 8mm Dia503 2019 declared by HCL for the previous month.
+BSNL stated that in the past HCL had declared a base price and used a multiplication factor of 122 for arriving at the price of the said commodity CC Rod.
+It claimed that on examination of the price circular received from HCL for the month of March 2005 it was observed that HCL had adopted a multiplication factor of 117 for the price of CC Rod instead of 122 as used earlier.
+BSNL asserted that the multiplication factor had been derived by accounting for reduced customs duty at the rate of 10%.
+19.
+BSNL requested HCL to issue a specific price circular for the telecom sector as customs duty for the telecom sector had been reduced to ‘zero’ in the Union Budget for the year 2005 06.
+HCL did not do so but advised BSNL to declare its own price.
+Accordingly BSNL issued the final circular after reducing the impact of customs duty by applying a multiplication factor derived on the basis of the multiplication factors used by HCL and adjusting the same for reduction in customs duty to nil.
+20.
+The principal dispute between the parties relates to the computation of the final monthly price of copper as declared by BSNL for the months of April 2005 to August 2006 in terms of its circular dated 21.08.2006.
+According to VTPL no adjustment in customs duty was warranted as the base price declared by BSNL on the basis of which bidders including VTL had bid a composite price included an element of customs duty.
+Alternatively it was contended by VTPL that the base price should also be adjusted to reduce the element of customs duty thus providing for a comparable price for determination of the OMP503 2019 copper.
+Impugned Award price variations in the composite price commensurate with the price of 21.
+The Arbitral Tribunal considered the aforesaid claims and found in favour of VTPL.
+During the course of the arbitral proceedings BSNL paid a sum of ₹36 32 734 out of an amount of ₹59 97 504 which according to VTPL were admittedly due and payable by BSNL.
+BSNL also assured that the balance sum of ₹24 64 780 would be processed.
+VTPL had stated that in the event it was done within the stipulated period it would not claim any interest.
+Accordingly the Arbitral Tribunal had directed that in the event BSNL paid an amount of ₹24 64 780 within a period of four weeks from 14042010 VTPL would not claim any interest on the delayed payment insofar as that amount is concerned.
+However the said payments were not made within the stipulated period.
+22.
+The Arbitral Tribunal considered the rival contentions and accepted VTPL’s claim that the base price of copper as indicated in the bid documents and the APO were not comparable with the final prices as set out by BSNL in the circular dated 21.08.2006.
+23.
+The customs duty of copper wire rod for the telecom sector had been reduced to zero pursuant to the Finance Bill tabled in the Parliament along with the Union Budget for the year 2005 06.
+Prior to that the rate of customs duty of copper wire was 15%.
+The APO had OMP503 2019 been placed on VTPL after the customs duty had been reduced for manufacturing for the telecom sector but the base price of copper as mentioned included the element of customs duty.
+Since the prices of copper as fixed by BSNL in its circular dated 21.08.2006 did not include an element of customs duty therefore they were not comparable.
+24.
+Accordingly the Arbitral Tribunal allowed VTPL’s claim and awarded a sum of ₹4 14 15 363 503 2019 Tribunal had proceeded on the basis of the Advanced Purchase Order dated 10062005 which was not accepted.
+Thus the impugned award is based on a non existent contract.
+Next she submitted that the Arbitral Tribunal had grossly erred in holding that BSNL had breached the terms of the Agreement by not issuing monthly circulars declaring the price of copper wire.
+She submitted that the Arbitral Tribunal has held that BSNL had violated the terms of the Agreement and thus VTPL was entitled to higher amounts as claimed by it.
+She submitted that BSNL had issued provisional circulars as due to the peculiar circumstances it could not issue the final price circulars at the material time.
+However that did not constitute a breach of its obligations under the Contract.
+28.
+She submitted that the Arbitral Tribunal had erred in proceeding on the basis that since BSNL had issued price circulars in line with the price circulars issued by HCL in the past VTPL would be entitled to receive the composite price calculated at a higher price of copper which included the component of customs duty.
+29.
+Next she contended that the Arbitral Tribunal failed to appreciate that VTPL had given its unequivocal and unconditional acceptance to the APOby its letter dated 11082005 despite being aware that BSNL was already issuing provisional circulars since April 2005 which did not include the component of customs duty.
+She contended that if VTPL had viewed the provisional circulars as a breach of the Agreement it ought not to have accepted the OMP503 2019 APO.
+She submitted that even if BSNL had issued monthly circulars declaring the final price the same would nevertheless be computed on the same basis as the provisional circulars which did not include the component of customs duty.
+30.
+Lastly Ms Narula relied on the arbitral award rendered by another arbitral tribunal in a similar matter award dated 07052018 in Sterlite Technologies Ltd v. Bharat Sanchar Nigam Ltd whereby the arbitral tribunal had accepted BSNL’s contentions and rejected similar claims made by the claimant.
+In the written note of submissions filed by Ms. Narula learned counsel appearing for BSNL the same also referred to the decisions of the Supreme Court in Bharat Coking Coal Ltd v. Annapurna Construction: AIR 2003 SC 660 Union of India v. Jain Associates: 1994) 4 SCC 665 Food Corporation of India v. AM Ahmed & Co: AIR 2007 SC 829 and PSA Sical Terminals Pvt. Ltd. v. The Board of Trustees of V O Chidambranar Port Trust Tuticorin & Ors.: Civil Appeal no. 3699 and 3700 2018 decided on 28072021.
+32.
+Mr. Sharma learned counsel appearing for VTPL countered the aforesaid submissions advanced by Ms. Narula.
+He submitted that none of the contentions advanced on behalf of BSNL fall within the grounds as set out in Section 34(2) or Section 34(2A) of the A&C Act.
+He also submitted that none of the contentions as advanced were pleaded.
+Thus no interference with the Arbitral Award was warranted.
+OMP503 2019 33.
+He pointed out that BSNL had not challenged the quantification of the claim and the decision of the Arbitral Tribunal on the construction of the contract by the Arbitral Tribunal requires no interference.
+He also contested the contention that the Arbitral Tribunal had not considered the revised APO dated 30072005 as urged on behalf of BSNL.
+Reasons and Conclusion It is apparent from the tender documentsthat the bidders were required to quote a consolidated composite price for the PIJF Cables.
+As noted above since the element of copper constitutes a substantial value of the said product the agreement also provided a mechanism for adjusting the composite price commensurate with the variationin the price of copper.
+The tender documents specified a base price of ₹1 83 366 .
+The Instructions to Bidders as well as the APO set out a tabular statement indicating the base price of copper wire for various sizes specifications.
+The price of copper as indicated was also a consolidated price and did not separately indicate the elements that constituted that price.
+The base price did not indicate whether it was inclusive of customs or other duties.
+However it is conceded that the base price included an element of customs duty and was based on the prices as declared by HCL.
+The price circulars issued by HCL also did not specify the value of customs duty as included in the price.
+The said circulars used a multiplication factor and according to BSNL the said multiplication factor was in direct proportion to the element of customs duty.
+OMP503 2019 35.
+Although the base price indicated an element of customs duty the final monthly prices which were declared by BSNL by its circular dated 21.08.2006 were based on the price declared by HCL and derived by BSNL by reducing the element of customs duty.
+BSNL did this by suitably altering the multiplication factor on the declared price.
+It is also not in dispute that the APO had been issued much after the customs duty on copper for the telecom sector had been reduced to ‘Nil’.
+This was by way of a special concession as the customs duty on copper for other sectors had not been reduced to Nil.
+Notwithstanding that the customs duty for telecom sector had been reduced to Nil the base price included the same.
+In the given circumstances VTPL’s contention that base prices of copper were merely required to provide a scale for adjusting the composite price of PGIF Cables and therefore the elements that constitute the base price were also required to be included in the monthly prices declared thereafter cannot be stated to be unreasonable.
+VTPL’s contention that there was no scope to reduce the element of customs duty as there was no change in the customs duty after the issuance of the APO is also not insubstantial.
+37.
+The Arbitral Tribunal had accepted the said claim.
+Plainly the view of the Arbitral Tribunal is a plausible view and warrants no interference by this Court in this proceeding.
+The said view does not fall foul of any fundamental policy of Indian Law.
+38.
+The arbitral award rendered by another arbitral tribunal503 2019 Ltd v. Bharat Sanchar Nigam Ltd is of little assistance to BSNL.
+Merely because another arbitral tribunal had accepted BSNL’s contentions cannot be construed to mean that the view expressed by the Arbitral Tribunal in this case is patently illegal or in conflict with the Public Policy of India.
+It is now far too well settled that this Court does not sit in appeal over the decision of an Arbitral Tribunal it cannot re evaluate and re appreciate the evidence and supplant its opinion over that of the Arbitral Tribunal 1 SCC 656 M s Dyna Technologies Pvt Ltd v M s Crompton Greaves Ltd:20 SCC 1 Associate Builders v Delhi Development Authority:3 SCC 49].
+Thus this Court is not called upon to determine whether the view of the arbitral tribunal in Sterlite Technologies Ltd v. Bharat Sanchar Nigam Ltdor the decision of the Arbitral Tribunal in this case is erroneous.
+An arbitral award cannot be set aside on the ground that it is erroneous.
+In order to interfere with an arbitral award this Court must conclude that the award is vitiated by patent illegality apparent on the face of the award.
+In Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation Ltd: 2021 SCC OnLine SC 695 the Supreme Court had explained the import of the expression ‘patent illegality’ as used in Section 34(2A) of the A&C Act in the following words: “25.
+Patent illegality should be illegality which goes to the root of the matter.
+In other words every error of law committed by the Arbitral Tribunal would not fall within OMP503 2019 the expression ‘patent illegality’.
+Likewise erroneous application of law cannot be categorised as patent illegality.
+In addition contravention of law not linked to public policy or public interest is beyond the scope of the expression ‘patent illegality’.
+What is prohibited is for courts to re appreciate evidence to conclude that the award suffers from patent illegality appearing on the face of the award as courts do not sit in appeal against the arbitral award.
+The permissible grounds for interference with a domestic award under Section 34(2 A) on the ground of patent illegality is when the arbitrator takes a view which is not even a possible one or interprets a clause in the contract in such a manner which no fair minded or reasonable person would or if the arbitrator commits an error of jurisdiction by wandering outside the contract and dealing with matters not allotted to them.
+An arbitral award stating no reasons for its findings would make itself susceptible to challenge on this account.
+The conclusions of the arbitrator which are based on no evidence or have been arrived at by ignoring vital evidence are perverse and can be set aside on the ground of patent illegality.
+Also consideration of documents which are not supplied to the other party is a facet of the expression falling within It is also contended on behalf of BSNL that the Arbitral Award would result in unjust enrichment of VTPL at the cost of public money and therefore the Arbitral Award is in conflict with the Public Policy of India.
+This contention is without any merit.
+The Agreement between BSNL and VTPL is a commercial contract and the disputes before the Arbitral Tribunal were limited to examining VTPL’s claims in terms of their contract.
+The Arbitral Tribunal has allowed VTPL’s claim and merely because the price as claimed by VTPL is higher than OMP503 2019 what according to BSNL is payable does not render the impugned award contrary to Public Policy of India.
+As noticed above VTPL’s claim that since the composite price of the PGIF Cables was to be adjusted on a scale of copper price the integrity of that scale was required to be maintained is not without merit.
+BSNL had indicated a base price including the element of customs duty even though the APO had been issued after the customs duty for telecom sector had been reduced to ‘zero’.
+Clearly BSNL cannot now fault the impugned award by contending that inclusion of customs duty in the price of copper is contrary to the Public Policy of Indian Law.
+In the opening arguments Ms. Narula learned counsel appearing for BSNL had contended that the Arbitral Tribunal had grossly erred in proceeding on the basis of the Advance Purchase Order dated 10062005 and by completely ignoring that the Advance Purchase Order dated 10062005 was not accepted and a revised Advance Purchase Order dated 30072005 was issued.
+The said contention is erroneous as the arbitral record indicates that this issue was clarified by the Arbitral Tribunal by an order dated 15012018.
+The impugned award also indicates that the Arbitral Tribunal had decided the disputes in reference to the APO503 2019 customs duty and if VTPL had any grievance in this regard it ought not to have accepted the APO.
+The said contention is unpersuasive.
+Even if the said contention is accepted it would not warrant any interference with the impugned award as the same does not fall within the scope of the grounds available under Section 34 of the A&C Act.
+44.
+Having stated that it is also necessary to observe that the contention is based on a patently erroneous premise that the provisional circulars issued by BSNL since April 2005 did not include an element of customs duty.
+The said contention appears to be contrary to BSNL’s own case set up in its Counter Statement filed before the Arbitral Tribunal.
+In its Counter Statement BSNL had expressly stated that it used to issue circulars based on the price circular issued by HCL.
+In the month of March 2005 it was observed by BSNL that HCL had adopted a multiplication factor of 117 for pricing of CC Rod which was less than the multiplication factor of 122 applied earlier.
+BSNL noticed that the multiplication factor of 117 was derived by taking 10% customs duty into account instead of zero percent and had thereafter taken up the matter with HCL.
+The tabular statement set out in paragraph 3 of the Counter Statement of Facts indicates the prices finally determined by BSNL.
+These indicates that the provisional prices as conveyed to supplier were based entirely on the prices conveyed by HCL which admittedly included the element of customs duty.
+45.
+The Arbitral Tribunal had also considered the aforesaid aspect and noted that BSNL’s witness had in his cross examination accepted that the provisional price of copper was inclusive of the OMP503 2019 customs duty.
+Question no. 20 put to the said witness and his response to the same are unambiguous.
+The same are reproduced below: “Q.20 Whether the finalized copper price as finalized vide BSNL Circular dated 21.08.2006 Exh CW ¼ was inclusive of customs duty or exclusive of custom duty Ans.
+It was inclusive of custom duty.
+However the custom duty applicable for telecom sector was 0%.” In view of the above the present petition is unmerited and accordingly dismissed.
+VIBHU BAKHRU J OCTOBER 26 2021 OMP503 2019

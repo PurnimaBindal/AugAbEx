@@ -1,0 +1,11 @@
+An order terminating an arbitral proceeding under Section 25(a) of the Arbitration &amp; Conciliation Act is not an award and an application under Section 34 of the Act to set aside the said order is not maintainable.
+The assertion was supported by the Delhi High Court presided by J Vibhu Bakhru in the case of PCL SUNCON vs. National Highway Authority of India [O.M.P.
+(T)(COMM.)
+80/2020] In this case, the petitioner and the NHAI entered into the process of arbitration to resolve a dispute, when the impugned order was passed by the arbitrators expressly stating that the arbitral proceedings were being terminated under Section 32(2)(c) of the A&amp;C Act, as in their view, it has become impossible to continue the said proceedings as there was no arbitrator on behalf of the petitioner.
+Taking into account Section 14 of the Act, that unless otherwise agreed by parties, a party could apply to a court to decide on the question of termination of the mandate, if a controversy remains concerning any of the grounds of termination, the petitioner pleaded before the court.
+The honorable High Court in the instant case held, “It is also relevant to note that the impugned order has been passed by two arbitrators, as the functioning of the Arbitral Tribunal had been stalled due to the vacancy caused by resignation of the petitioner‘s nominated arbitrator.
+The impugned order is an expression of the view of the arbitrators that they are unable to continue with the proceedings on account of the default on the part of the petitioner to fill the vacancy caused by the resignation of Justice E Padmanabhan (Retd.
+).” The court further contended that, “It is also important to note that even though NHAI has preferred certain counter claims, it too did not take any steps to ensure that the said vacancy is filled.
+It was also open for NHAI to apply to the Court for the appointment of an arbitrator; however, NHAI also chose not to do so.
+Having stated the above, it cannot be denied that the petitioner is responsible for the delay in the proceedings as it had inordinately delayed the appointment of an arbitrator.
+Whilst this Court is of the view that the petitioner ought not be rendered remediless to urge its claims, NHAI‘s contention that the petitioner must be visited with costs is merited.”

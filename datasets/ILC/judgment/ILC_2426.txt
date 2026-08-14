@@ -1,0 +1,189 @@
+BEFORE THE ADJUDICATING OFFICER SECURITIES AND EXCHANGE BOARD OF INDIA ADJUDICATION ORDER NO. Order GG VV 2021 22 14989 UNDER SECTION 15 I OF THE SECURITIES AND EXCHANGE BOARD OF INDIA ACT 1992 READ WITH RULE 5 OF THE SECURITIES AND EXCHANGE BOARD OF INDIARULES In respect of: SANJANA BOHRA PAN: AVJPB4769K) In the matter of Dealings in Illiquid Stock Options at BSE A BACKGROUND OF THE CASE 1.
+Securities and Exchange Board of India conducted an investigation into the trading activity in illiquid stock options on Bombay Stock Exchange Limitedfor the period from April 01 2014 to September 30 2015 after observing large scale reversal of trades in the stock options segment of the BSE.
+2.
+Pursuant to a preliminary examination conducted in the Illiquid Stock Options matter an Interim order was passed by SEBI on August 20 2015 against 59 entities which were confirmed vide Orders dated July 30 2016 and August 22 2016.
+Meanwhile SEBI initiated a detailed investigation relating to trading in stock options segment of BSE which was completed in the year 2018.
+The investigation findings revealed that Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE of all trades executed in the stock options segment of BSE during the Investigation Period 8138% of the trades that is 2 91 643 trades were trades which involved a reversal of buy and sell positions by the clients and counterparties in a contract.
+The investigation revealed that 14 720 entities were involved in executing non genuine trades in BSE’s stock options segment during the investigation period.
+The proceedings initiated against the first set of 59 entities vide the aforementioned Interim Order were disposed of vide final Order dated April 05 2018 without any further directions observing that the Adjudicating Officer shall continue the proceedings in accordance with the SEBI Act 1992 and SEBI Rules 1995 and pass appropriate order on merits.
+It was also recorded therein that SEBI has decided to take appropriate action against all 14720 entities in phases.
+The captioned proceedings initiated against the Noticee is part of the aforesaid mass action initiated by SEBI against the large number of entities.
+In the meantime the Hon’ble Securities Appellate Tribunal vide its Order dated October 14 2019 in the case of R S Ispat Ltd Vs SEBI inter alia observed that “SEBI may consider holding a Lok Adalat or adopting any other alternative dispute resolution process with regard to the Illiquid Stock Options”.
+Thereafter a Settlement Scheme was framed under the SEBI Regulations 2018 which provided a one time opportunity for settlement of proceedings in the Illiquid Stock Options matter.
+The said scheme was kept open from August 01 2020 till December 31 2020.
+Finally adjudication proceedings were initiated against those entities who had not availed of the opportunity of settlement.
+Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE It was observed that 13 186 entities had not availed of the opportunity of settlement and therefore Adjudication proceedings were initiated against the entities in a phased manner.
+In order to duly expedite the Adjudication proceedings against the entities SEBI had appointed additional Adjudicating officers to adjudicate against the said entities.
+However owing to the huge number of alleged entities the adjudication proceedings are being conducted in a phased manner that would require adequate time to complete the proceedings against all entities.
+It was observed that Sanjana Bohra(hereinafter referred to as the “Noticee”) was one of the entities who did not seek settlement under the Settlement Scheme in 2020 and whose reversal trades allegedly involved squaring off of open positions with a significant price difference without any basis.
+The aforesaid reversal trades allegedly contributed to the generation of artificial volumes leading to allegations that the Noticee had violated the provisions of Regulations 3(a) (c) and Regulation 4(1) and 4(2) of the SEBI Regulations 2003read with Rule 3 of the SEBIRules 1995vide communication dated November 12 2021 to inquire into and adjudge under section 15HA of the SEBI Act with respect to the allegations against the Noticee.)
+Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE C SHOW CAUSE NOTICE REPLY AND HEARING 8.
+A show cause notice dated December 01 2021was served upon the Noticee under Rule 4(1) of the SEBI Adjudication Rules to show cause as to why an inquiry should not be initiated against the Noticee and thereafter penalty imposed against him under section 15HA of the SEBI Act for the alleged violation of the provisions of Regulations 3((a)(c)4(1) and 4(2)(a) of the PFUTP Regulations.
+The SCN issued to the Noticee inter alia alleged that the Noticee engaged in 4 trades through 2 unique contracts on 1 day viz. 07 07 2015 through 2 counterparties viz. Rakesh Kumar Dugar and Mangalchand Property and Investments Private Limited which led to generation of artificial volume of 5000 units.
+The 4 trades each entered into by the Noticee were reversed on the same day with the same counterparties at a substantial price difference without there being any rationale.
+The summary of the dealings of the Noticee in the two stock option contracts in which the Noticee allegedly executed the 4 trades during the investigation period is as follows: Table 1 Summary of dealings of Noticee in 2 stock option contracts Contract Name ewhich is as follows: a) During the investigation period in the said contract the Noticee on 07 07 2015 has executed 2 trades for a total volume of 1000 units with counterparty viz. Rajesh Kumar Dugar.
+b) While dealing in the said contract on 07 07 2015 the Noticee executed one buy trade at 12:13:40.64 hrs for 500 units at the rate of Rs. 30875 per unit with counterparty viz. Rakesh Kumar Dugar.
+In 01:01:53 hrs after the aforementioned buy trade the Noticee reversed the trade by executing one sell trade at 13:15:3316 hrs for 500 units at the rate of Rs. 52875 per unit with the same counterparty.
+c) From the above it is noted that while dealing in aforesaid contract during the investigation period the Noticee executed a total of 2 trades(b) (d) and 4(1) 4(2)(a) of the PFUTP Regulations text of which is reproduced below: PFUTP Regulations 3.
+Prohibition of certain dealings in securities No person shall directly or indirectly— a) buy sell or otherwise deal in securities in a fraudulent manner b)use or employ in connection with issue purchase or sale of any security listed or proposed to be listed in a recognized stock exchange any manipulative or deceptive device or contrivance in contravention of the provisions of the Act or the rules or the regulations made there under c) employ any device scheme or artifice to defraud in connection with dealing in or issue of securities which are listed or proposed to be listed on a recognized stock exchange d)engage in any act practice course of business which operates or would operate as fraud or deceit upon any person in connection with any dealing in or issue of securities which are listed or proposed to be listed on a recognized stock exchange in contravention of the provisions of the Act or the rules and the regulations made there under.
+4.
+Prohibition of manipulative fraudulent and unfair trade practices 1) Without prejudice to the provisions of regulation 3 no person shall indulge in a fraudulent or an unfair trade practice in securities.
+2) Dealing in securities shall be deemed to be a fraudulent or an unfair trade practice if it involves fraud and may include all or any of the following namely :— a) indulging in an act which creates false or misleading appearance of trading in the securities market … 13.
+The Noticee had not replied to the SCN issued vide Speed post with acknowledgement dueand by email.
+A hearing Notice dated December 16 2021 was then issued to the Noticee vide SPAD granting an opportunity of personal hearing on December 23 2021.
+Subsequently the Noticee had submitted a reply to the aforesaid SCN vide email dated December 18 2021 attaching a reply letter dated December 17 2021 in response to the SCN Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE interlia seeking an opportunity of hearing.
+The most relevant part of the submissions made by the Noticee are reproduced below: That at the outset it is affirmed that the allegations observations contained in the SCN are That the impugned trades of the Noticee were genuine and bona fide conducted by and on denied by the Noticee in toto.
+the advice of a recognised Stockbroker.
+The trades were conducted on the screen based anonymous trading platform of the Stock Exchange without any knowledge of the counterparty further the prices for buy and sell were very much within the range permitted by the Stock Exchange SEBL and the settlement took place through the recognized Clearing Corporation.
+The impugned trades arc more than sixyears old and no records for the same are readily at the time of trading.
+There was simply no occasion for the Noticee to know that the said stock option was "illiquid" The trading in call & put options by its very nature is extremely volatile with very fast momentum and the price movement is highly unpredictable.
+The investor broker is required to be nimble footed and make quick transactions including reversal of trades in a short span of time depending on the market momentum and outlook to be able to maximise profit minimise loss.
+The total buy sell volume was only 1 000 units and 4 000 units respectively in the two contracts which cannot be said to be "substantial" in derivative trading.
+It is submitted that the Noticee is not in any way related connected to the counterparty.
+The trades conducted by the Noticee constituted 100% of the total market volume in the said contract.
+As can be seen the Noticee s trades by themselves are not substantial however considering that the base.
+i.e„ the total volume itself was small the Noticee s trades reflect a comparatively higher value in percentage terms.
+This cannot be a ground to allege that Noticee intended to generate artificial volumes.
+That the trades were executed on the basis of the broker s advice.
+Had the Noticee actually intended to rig the market and create artificial volumes it would have done many more trades involving higher volumes on several days which is not the case here.
+Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE In the first contract the Noticee has earned a nominal profit of Rupees ninety thousandonly.
+Similarly.
+in the second contract the Noticee has earned a nominal profit of Rupees one lakh ten thousandonly.
+That during the Investigation Period the Stock Exchange and SEBI were in fact actively promoting the upcoming derivative option segmentby providing various incentives to trading members and other participants with a view to increase retail participation in this segment Reference in this regard is invited to BSE s Notice dated 28012014 in respect of Liquidity Enhancement incentive Programme for Derivativesfrom whom an email dated December 21 2021 was received requesting for adjournment of the hearing granted on December 23 2021 to the first week of January stating that the AR was out of station.
+A second hearing Notice dated Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE December 29 2021 was sent to the Noticee vide SPAD and by email granting an opportunity of personal hearing on January 06 2022.
+The AR vide an email dated December 30 2021 requested for further adjournment of the hearing granted on January 06 2022 to the second week of January stating that the AR was out of station.
+An email dated December 30 2021 was sent to the Noticee AR granting a third opportunity of hearing on January 11 2022.
+15.
+The AR vide email dated January 11 2022 confirmed attendance for the hearing through video conference which was an option given due to the Covid 19 pandemic situation.
+The AR of the Noticee Dr Manas Shankar Ray Advocate appeared for the hearing.
+The AR during the hearing made his submissions reiterating the facts brought out in his reply letter dated December 17 2021.
+The AR further interalia submitted that the case proceedings were initiated with a delay of 6 years and was hit by the law of limitation.
+He stated that the trades were executed by the broker and that the quantum traded was less in terms of total units of the derivatives market.
+He submitted that the alleged trades were done on an automated order matching system and that there was no collusion or meeting of minds with the counterparty of all the alleged trades.
+The AR sought further time to file additional submissions and was granted time till January 27 2022 for the same.
+16.
+The AR made additional submissions vide email dated February 01 2022 enclosing letter dated January 31 2022 wherein he had made additional submissions along with of reference of related case laws.
+A summary extract of his submissions is reproduced below: that in the case of illiquid options there are more chances of getting the trades squared off with the same counterparty and the Noticee cannot be held responsible for the same.
+Also in the existing trading platform at that point in time it was possible that the counterparty to trades could be the same without the knowledge of the concerned entities.
+This has been Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE specifically accepted by the SEBI Adjudicating Officer vide Order No. Order PB 2021 22 14749 dated January 20 2022in a similar matter of dealings in Illiquid Stock Options at BSE in the case of Ms. Neha Sethi.
+In the first contract the Noticee s buy order was placed at 12:13:40.64 hrs and the counterparty s buy order was placed at 12:13:41.63 hrs and the buy trade was executed at 12:13:41.63 hrs.
+Further the Noticee s sell order was placed at 13:15:32.98 hrs and the counterparty s sell order was placed at 13:15:3316 hrs and the sell trade was executed at 13:15:3316 hrs.
+This shows that there was a gap of about over 1 hour and 2 minutes between the buy sell orders of the noticee and the counterparty.
+Also there was a gap of 1 hour and 2 minutes between the execution of the buy and sell trades.
+Similarly in the second contract the Noticee s buy order was placed at 12:23:22.20 hrs and the counterparty s buy order was placed at 12:23:28.22 hrs and the buy trade was executed at 12:23:28.22 hrs.
+Further the Noticee s sell order was placed at 13:04:11.98 hrs and the counterparty s sell order was placed at 13:04:1215 hrs and the sell trade was executed at 13:04:1215 hrs.
+This shows that there was a gap of about over 41 minutes between the buy sell orders of the Noticee and the counterparty.
+Also there was a gap of 41 minutes between the execution of the buy and sell trades.
+Such gap by no stretch of imagination can be said to be abnormal in derivative trading.
+So the inference in the SCN of violation of the PFUTP Regulations by the Noticee is completely unwarranted.
+c) Without prejudice it is submitted that the said transaction appears to have been executed by the Stockbroker without any reference to the Noticee.
+the SCN should be dropped following the principle of res judicata.
+e) Under Section 101 of the Indian Evidence Act 1872 the burden of proof lies on the person making any claim or asserting any fact.
+It is humbly submitted that allegations as serious as fraud and market manipulation ought to be backed up by credible evidence and a finding of actual indulgence in fraud.
+The onus to prove the allegations levelled in the SCN against the Noticee lies squarely on SEBI.
+f) For an action to constitute a breach of the PFUTP Regulations there has to be an element of mala fide or willful intent to defraud.
+Also for a structured or synchronized trade to happen there has to be a meeting of minds or common intent between the concerned parties.
+Any action which is devoid of these elements and in compliance with regulatory measures ought not be viewed as an act of fraud or a manipulation.
+However in this case there is not even an allegation of mens rea or willful intent in the SCN.
+Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE g) The proceedings are barred in light of the inordinate delay and on account of the doctrine of h) As per the stand taken by SEBI before the Joint Parliamentary Committeeon Stock Market Scam and matters related thereto 2001 and accepted by the JPC "synchronized deals are ipso facto not illegal".
+i) The Apex Court in the case of SEBI v. Kishore R Ajmera has held that the mere proximity of time between the buy and sell orders may not be conclusive in an isolated case.
+j) That a lenient view may be taken and a minimum penalty may be levied following the doctrine of proportionality.
+In this regard it is brought to your kind notice that in a similar matter of dealing in Illiquid Stock Options at BSE in the case of Abhideep Global Finance Private Limited Hon ble Adjudicating Officer SEBI vide Order dated November 30 2021 has levied a lesser penalty of Rs.3 lakh only.
+17.
+The submissions made by the Noticee and by the AR of the Noticee in entirety have been taken into consideration.
+D CONSIDERATION OF ISSUES 18.
+The Noticee has contended that the present proceedings have been initiated with a delay of more than 6 years.
+It may be noted that the factors leading to the time taken for investigation and adjudication in the instant case have been brought out in the introductory paragraphs of this order and is also a matter on record.
+I observe that the period of alleged delay includes the time taken for the investigation against the initial set of 59 entities the subsequent set of 22 entities and finally the time taken to identify the entire universe of 14270 entities who had done similar violations in the market following the principle of parity in initiation of enforcement action.
+The time taken was also due to the Board having framed a Settlement Scheme keeping it open in the first instance from August 01 2020 to October 31 2020 and further extending it to 31st December 2020.
+In this connection it is worth mentioning that Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE since several entities did not go in for settlement.
+Finally Adjudication proceedings were initiated against those 13 186 entities who did not go in for settlement.
+I have been assigned more than 700 such proceedings and delay is merely because of the huge number of entities involved in the matter.
+On merits of the contention of delay I feel that the propensity for the violation exhibited by these many entities in the illiquid stock option segment of BSE at the relevant time is such that delay cannot by itself be treated as vitiating the proceedings.
+I have taken into consideration the facts of the case and the material on record and I now proceed to consider the issues that arise in this case.
+The core issue that arises for consideration in the instant matter is whether the trading in illiquid stock options done by the Noticee during the Investigation Period was in violation of Regulations 3(a) (c) 4(1) and 4(2)(a) of the PFUTP Regulations If yes whether the Noticee is liable for Monetary penalty to be levied under section 15HA of the SEBI Act or not and how much should be the quantum of penalty I have observed in detail the trading of the Noticee in the illiquid stock options segment during the Investigation Period.
+I see that the Noticee is alleged to have entered into 4 non genuine trades on one day viz. 07 07 2015 through 2 unique contracts viz. “TCSL15JUL3150.00PEW2 and TECM15JUL600.00PEW on 1 day viz. 07 07 2015 through with 2 counterparties viz. Rakesh Kumar Dugar and Mangalchand Property and Investments Private Limited which led to generation of artificial volume of 5000 units.
+I have brought out the details of the Noticee’s trades for each contract in two tables shown hereunder culling out the relevant fields from Annexure II to the SCN for analysis.
+Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE Table No.2 Summary of dealings of Noticee in contract TCSL15JUL3150.00PEW2 Name of Name of CP Order Trade Timeno.
+of I note from Table 2 above that on 07 07 2015 the Noticee bought 500 units at 12:13:41.63 hrs at the rate of Rs. 30875 per unit with counterparty Rakesh Kumar Dugar.
+Thereafter at 13:15:32.98 hrs the Noticee had sold a quantum of 500 units for a price of Rs. 52875.
+The Noticee has reversed his buy trade by placing a sell trade for the exact quantity of 500 units with a substantial difference in rate of Rs. 220.
+The buy and sell trade was reversed in 1:01:53 hrs of time however I note that the Noticee and the counterparty have placed their buy orders and sell orders within a difference of seconds that show synchronization of time in placing orders.
+Further I note that the Noticee and the counterparty had placed the buy and sell orders at exactly the same rates and quantity.
+I observe that the Noticee and the counterparty had placed orders with synchronization of time with identical rate and quantity that led to execution of trades between them.
+I observe from the trade log that the Noticee’s buy order rate was at Rs. 30875 and the last trade rate placed by the counterparty was Rs. 30875 which was corresponding.
+Therefore the buy order rate and sell order rate placed by the Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE Noticee were placed following the rates placed by the counterparty.
+Further I observe that though the trades were reversed with a difference of 1:01:53 hrs time there was substantial difference of Rs. 220 between the buy and sell order rates placed by the Noticee.
+I observe that the substantial price difference in a short span of an hour does not seem to be genuine for the said contract that was illiquid.
+Furthermore the trades placed by the Noticee were 100% of the market volume of trades placed in this contract.
+24.
+The Noticee by reversing the buy and sell trades with substantial difference of Rs. 220 for 500 units had made profits to the extent of Rs.1 10 000 .
+The counterparty has made an equivalent loss.
+I also observe that the rates at which the sell order and buy order were placed by the counterparty was neither rational nor genuine.
+Moreover the Noticee’s trades did result in transfer of rights of 500 units in the contract as he bought and then sold the same quantum of units thereby creating an artificial volume in the contract.
+25.
+Furthermore the aspects of the Noticee’s trades such as the exactness of the quantity that got reversed between the two parties the proximity in the time of the reversal of trades and above all the absence of rationale to justify the variation in the sell and buy price placed within an hour certainly go to show that these are non genuine artificial trades.
+26.
+Likewise I observe a similar pattern of trading in the second contract entered by the Noticee as given in the table 3 : Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE Table No.3 Summary of dealings of Noticee in contract TECM15JUL600.00PEW Name of Name of CP Order Trade no the client TimeCP 07 07 2015 Sanjana no. of 07 07 2015 Mangalcha Property & s Private client I note from Table No. 3 above that the Noticee had adopted the same strategy of buying at a high rate and selling at a negligibly low rate.
+In the second contract the trades are placed by the Noticee with the counter party Mangalchand Property and Investments Private Limited.
+It is also relevant to note that the Noticee’s transactions i.e. one sell trade and one buy trade in the second contract had taken place on the same day i.e on 07 07 2015 with a difference in time of around 40 minutes or less than an hour as the Noticee executed the buy trade at 12:23:28.22 hrs and then reversed it with a sell trade at 13:04:1215 hrs.
+I note that the difference in price of the Noticee’s trades i.e. the buy price at Rs.89.95 and the sell price at Rs.134.95 is not justified as there is a noteable rise in price of Rs. 45 within a 40 minute span of time.
+Also the buy order and sell order quantities between the Noticee and the counter party were for 2000 units each that were identical.
+Therefore it is evident that the Noticee and Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE the counterparty had both placed orders with synchronization of time with identical rates and quantity that led to execution of trades between them in the second contract.
+28.
+Furthermore I note that the Noticee by reversing the buy and sell trades with substantial difference of Rs. 45 for 2000 units had made profits to the extent of Rs.90 000 .
+The counterparty has made an equivalent loss.
+The Noticee’s trades did not result in any transfer of rights of 2000 units in the contract as he bought and then sold the same quantum of units merely generating an artificial volume in the contract.
+I note that the second contract has been executed by the Noticee in the same time lines and in the same pattern as the first contract.
+The trades are ex facie pre meditated to book profits for the Noticee and for the counterparty to bear losses in both the contracts.
+I observe that by reversing the trades in both the contracts the Noticee has made profits to a total of Rs. 2 00 000 in less than one hours time in one trading day.
+30.
+When I take a look at the contribution of trading by the Noticee in the stock option segment of BSE during the investigation period I find that in both the contracts the Noticee had contributed to 100% of the market volume.
+I note that the Noticee synchronized the order time order rate and order quantity with the counterparty to execute trades with substantial price variations with short span of time thereby making profits reversing the non genuine trades.
+Thus I find that the Noticee by executing the non genuine trades had created an appearance of artificial trading in the segment thereby contributing to market abuse.
+31.
+From the facts brought out in Tables Nos. 2 and 3 I am convinced that the trades were a consequence of pre meditated decision of both parties and hence are unfair trades for the purpose of SEBIRegulations.
+Hence the trades fall into the category of non genuine trades entered by two parties on the stock exchange platform Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE by mutual understanding thereby attracting the prohibition against fraudulent or manipulative and unfair trade practices contained in SEBIRegulations.
+In this context it is relevant to quote the judgment of the Hon’ble Supreme Court in the matter of Rakhi Trading India”.
+Their Lordships have considered similar transactions in the same segment “38.
+….The repeated reversals and predetermined arrangement to book profits and losses respectively made it clear that the parties were not trading in the normal sense and ordinary course.
+Resultantly there has clearly been a restriction on the free and fair operation of market forces in the instant case.” “41 ….The stock market is not a platform for any fraudulent or unfair trade practice.
+The field is open to all the investors.
+By synchronization …in the instant case the price discovery system itself is affected.
+Except the parties who have pre fixed the price nobody is in the position to participate in the trade.
+It also has an adverse impact on the fairness integrity and transparency of the stock market.
+”12 SCC 152 wherein it was inter alia observed: “Market abuse” impairs economic growth and erodes investor’s confidence.” “42.
+Where certain unscrupulous elements are trying to manipulate the market to serve their own interest it becomes imperative on the part of SEBI to intervene and to curb further mischief and to take necessary action to maintain public confidence in the integrity of the securities market…” I observe that SEBI had passed circulars to promote the stock options segment with the intention of boosting market growth as contended by the Noticee.
+However such regulatory measures adopted to boost liquidity in the derivative segment are not intended to promote illegal or spurious non genuine market trades.
+34.
+Finally to answer the question as to whether these trades fall within the ambit of Regulations 3(a) (c) 4(1) and 4(2)(a) of the PFUTP Regulations I would like to rely on the following extract of the judgment of the Hon’ble Supreme Court in the matter of Rakhi Trading: 40.
+Regulation 3(a)expressly prohibits buying selling or otherwise dealing in securities in a fraudulent manner.
+Under Regulation 4(2) dealing in securities shall be deemed to be fraudulent if the trader indulges in an act which creates a false or misleading appearance of trading in the securities market.
+It is a deeming provision.
+Such trading also involves an act amounting to manipulation of the price of the security in the sense that the price has been artificially and apparently prefixed.
+The price does not at all reflect the value of the underlying asset.
+It is also Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE a transaction in securities entered into without any intention of performing it and without any intention of effecting a change of ownership of such securities ownership being understood in the limited sense of the rights of the contract.”the Hon’ble “20.
+From the aforesaid cumulative analysis of the reversed transactions with the counter party quantity time and significant variation of the price clearly indicates that the trades were non genuine and had only misleading appearance of trading in the securities market without intending to transfer the beneficial ownership.
+One finds it to be naïve to presume that the perception of the two counter parties to a trade changed within few seconds minutes and positions were interchanged and the contracts were changed where one party made profit and the other party ended up making losses every time without prior meeting of mind.
+It is not a mere coincidence that the Appellants could match the trades with the counter party with whom he had undertaken the first leg of respective trade.
+In our opinion the trades were non genuine trades and even though direct evidence is not available Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE in the instant case but in the peculiar facts and circumstances of the present case there is an irresistible inference that can be drawn that there was meeting of minds between the Appellants and the counter parties and collusion with a view to trade at a predetermined price.” 37.
+From the above position in law and facts it follows that the Noticee’s transactions in question falls within the mischief of unfair and fraudulent or manipulative trade practice as contemplated in the SEBIRegulations.
+Hence I am inclined to impose monetary penalty on the Noticee.
+38.
+As regards the quantum of penalty leviable the AR of the Noticee has placed reliance on an Order dated November 30 2021 passed by another AO in the matter of Abhideep Global Finance Private Limited and sought remission in the minimum monetary penalty.
+I however note that the AO in the aforesaid case has considered remission as the alleged violation was committed prior to the Amendment of Section 15HA vide the Securities Laws Act 2014 which came into force on 08 09 2014 which provides that the penalty shall not be less than five lakh rupees.
+In the instant case the violation took place on 07 07 2015 and hence the decision cited by the AR does not apply.
+Moreover in view of the aforesaid Amendment an Adjudicating Officer is not in a position to consider imposing a lesser penalty than the stipulated statutory minimum penalty.
+39.
+As regards the quantum of penalty to be levied I have considered the contribution of the Noticee’s non genuine trades to the market volume and note that the same was to the extent of 100% for the two contracts traded.
+It is pertinent to mention that the Noticee had incurred profits by the execution of non genuine trades that cannot be disputed.
+However I note the contentions submissions and prayer of the Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE Noticee to take a lenient view to levy a minimum penalty following the doctrine of 40.
+Therefore considering all the facts and circumstances in this matter and bearing in mind the parameters laid down in section 15J I am inclined to impose a minimum penalty against the Noticee as provided under section 15HA of the SEBI Act.
+E. ORDER 41.
+Therefore in exercise of powers conferred upon me under section 15 Iof the SEBI Act read with rule 5 of the Adjudication Rules I hereby impose a penalty of Rs 5 00 000 upon the Noticee i.e. Sanjana Bohraunder section 15HA of the SEBI Act for violation of Regulations 3(a) b) (d) 4(1) and 4(2)(a) of the PFUTP Regulations.
+42.
+The Noticee shall remit pay the said amount of penalty within 45 days of receipt of this order either by way of demand draft in favor of “SEBI Penalties Remittable to Government of India” payable at Mumbai or through online payment facility available on the SEBI website www.sebi.gov.in on the following path by clicking on the payment link.
+ENFORCEMENT → ORDERS → ORDERS OF AO → PAY NOW In case further assistance would be required in payment of penalties the Noticee may contact the support at portalhelp@sebi.gov.in.
+Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE 43.
+The Noticee shall forward the said demand draft or the details confirmation of penalty so paid through e payment to the Division Chief Enforcement Department I DRA DI SEBI in the format given in table below: Case name Name of payee Date of payment Amount paid Transaction no Bank details in which payment is made Payment is made for In terms of rule 6 of the SEBI Adjudication Rules copies of this order are sent to the Noticee and also to SEBI.
+Date: February 16 2022 GEETHA G Place: Mumbai ADJUDICATING OFFICER Adjudication Order in respect of Sanjana Bohra in the matter of dealings in Illiquid Stock Options at BSE

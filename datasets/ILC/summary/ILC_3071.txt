@@ -1,0 +1,18 @@
+It is only in exceptional cases that the courts will interfere with the machinery of irrevocable obligations assumed by banks.
+They are the life-blood of international commerce.
+Letter of Credit is an irrevocable obligation undertaken by the issuing bank.
+Therefore, the courts have recognized only two exceptions to the aforesaid principle where courts would pass an injunction in respect of payments under an LC i.e. in cases of ‘egregious fraud and irretrievable injustice’.
+‘Egregious fraud’ has to be a fraud of the kind which goes to the very root of the matter.
+These were stated by High Court of Delhi, consisting Justice Amit Bansal in the case of Satish Kansal vs. Synergy Tradeco NV &amp; Anr. [CS(COMM) 29/2022] on 17012022.
+The facts of the case are that sale orders for certain goods/materials were placed by the plaintiff on 13th September, 2021 and 5th October, 2021 with the defendant no.1 and Letters of Credit (LCs) were drawn for the same on defendant no.2.
+On 2nd December, 2021 and 18th December, 2021, when the goods/materials, which was a subject matter of LCs were received by the plaintiff, they were found to be defective.
+Reliance was placed on the e-mails to contend that the defendant no.1 acknowledged the fact that the goods supplied by him to plaintiff were defective.
+By way of the present application under Order XXXIX Rule 1 &amp; 2 of the Code of Civil Procedure, 1908 (CPC), the plaintiff seeks restraint order against payments to the defendant no.1 of amounts covered under the Letter of Credit (LC).
+The Counsel for the plaintiff contended that the description of goods/materials supplied by the defendant no.1 did not match the description mentioned in the LCs as also the partial shipment was not allowed in terms of the LCs.
+Therefore, it was submitted that fraud has been played upon the plaintiff by the defendant no. 1.
+It was further contended that irretrievable injustice would be caused if the aforesaid amounts under the LCs are remitted to the defendant no.1.
+The Counsel for the defendants submitted that the case pleaded by the plaintiff is not that of egregious fraud and irretrievable injustice.
+The case of the plaintiff is that out of the four containers supplied by the defendant no.1 to the plaintiff, of which, only two containers had defective goods.
+Therefore, at best, the case made out by the plaintiff was with regard to breach of contract and not fraud.
+It was further submitted by the counsel that Articles 5, 16(a), (c) and (f) of the Uniform Customs And Practices For Documentary Credits (UCP 600), which are rules agreed upon by the International Chamber of Commerce that apply to financial institutions for issuing LCs, says that honouring of LCs in terms of the conditions contained in the LCs is essential for the continuation of international trade and commerce.
+It was therefore, contended that SBI, Antwerp has already added its confirmation to the LCs and therefore, SBI, Antwerp has become liable to pay the defendant no.1 and consequently, to draw upon the account of defendant no.2 for the amounts under the LC.

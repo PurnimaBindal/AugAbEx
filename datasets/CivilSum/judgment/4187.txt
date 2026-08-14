@@ -1,0 +1,71 @@
+RA Sharma, J - The appellant, who is an employee of a private Trading Company (respondent No. 1) filed a writ petition challenging the order of his reversion from the post of a clerk grade I to the post of Watchman.
+This writ petition has been dismissed by a learned Single Judge on two grounds, namely, (i) the writ petition is not maintainable; and (ii) the appellant has an alternative remedy before the Labour Court.
+Hence this appeal.
+2.
+Writ petition lies against the order of "any person or authority".
+It is settled now by decisions of the Supreme Court that such a person or authority need not necessarily be a statutory authority or the instrumentality of the State.
+It may also include the person discharging statutory public duty.
+Supreme Court in Praga Tools Corporation v. CB Emanual, AIR 1969 SC 1306 has laid down that a mandamus can issue even to a private person or a Company to carry out the statutory duties imposed upon him/it; but if the duty imposed upon such a person/authority is not statutory/public duty, writ cannot be issued against it.
+It was accordingly laid down that :  "Thus an application for mandamus will not lie for an order of reinstatement to an office which is essentially of a private character nor can such a an application be maintained to secure performance of obligations owned by a Company towards its workmen or to resolve any private dispute" 3.
+For the same reason in Arun Madan v. Oriental Bank of Commerce, 1987 (Supp) SCC 535 writ petition filed by an employee of a Bank before its nationalisation against the order of termination of his service was held as not maintainable.
+4.
+Learned counsel for the appellant has, however, contended that in order to maintain the writ petition it is not necessary that "Person or authority" should be statutory or public authority and writ petition can be filed even for enforcing the right created by a contract.
+In support of his contention he placed reliance on Sri Anadi Mukta Sadguru v. VR Rudani, AIR 1989 SC 1607: 1989 Lab.
+IC 1550 and Synthetics and Chemicals Ltd v. GC Kumar, 1972(25) FLR 146 (All) DB.
+None of these cases is of any help to the learned counsel.
+5.
+In Sri Anadi Mukta Sadguru v. VR Rudani (supra) it has been laid down as under:-  "If the rights are purely of a private character no mandamus can issue.
+If the management of the college is purely a private body with no public duty mandamus will not lie.
+Those are two exceptions to mandamus.
+But once these are absent and when the party has no other equally convenient remedy mandamus cannot be denied."
+6.
+As regards the person or authority against whom the writ can be issued, Supreme Court held that such a person or authority need not be statutory authority or the instrumentality of the State and any person or authority performing the public duty is amenable to writ jurisdiction of the High Court.
+It accordingly held that:  "The form of the body concerned is not very much relevant.
+What is relevant is the nature of the duty imposed on the body.
+The duty must be judged in the light of positive obligation owed by the person or authority to the affected party.
+No matter by what means the duty is imposed.
+If a positive obligation exists mandamus cannot be denied."
+7.
+As regards the public duty for the purpose of which mandamus can issue Supreme Court laid down as under:  "Here again we may point out that mandamus cannot be denied on the ground that duty to be enforced is not imposed by the statute.
+Commenting on the development of this law Prof. D Smith states: "to be enforceable by mandamus a public duty does not necessarily have to be one imposed by statute.
+It may be sufficient for the duty to have been imposed by charter, common law, custom, or even contract."
+(Judicial Review of Administrate Act, 4th Ed. P. 540).
+We share this view."
+Relying on the passage of Prof. D Smith quoted in the above judgment the contention of the learned counsel is that even if no obligation has been imposed by a contract, writ petition would lie if there is a breach of it.
+Such a submission cannot be accepted.
+A Full Bench of Andhra Pradesh High Court in Sri Konaseema Co-operative Central Bank Ltd, Amalapuram v. N Seetharama Raju, AIR 1990 Andhra Pradesh 171 : 1990 Lab IC NOC 63 (AP) has, after explaining in detail the case of Sri Anadi Mukta Sadguru v. VR Rudani (supra), laid down as follows :-  "We are, therefore, of the opinion that paragraph 21 in Rudani, AIR 1989 SC 1607 : 1989 Lab IC 1550 cannot be understood as laying down general proposition that a mandamus lies to enforce a non-statutory contract.
+Indeed, in paragraph 14 it was affirmed that, if the rights sought to be enforced are purely of private character, no mandamus can issue.
+It was also observed that where there is no public duty imposed upon a body, a mandamus would not lie.
+The statement in paragraph 21 must, therefore, be read consistent with that is stated in paragraph 14, and if the judgment is read as a whole and consistent with the decision specially referred to, and affirmed therein, it only means that for a mandamus to issue, there must be a public duty.
+All that was stated was that such public duty need not necessarily be imposed by a statute; it can be imposed by common law, custom, or even a statutory contract.
+This aspect has already been dealt with by us in para (sic) supra."
+Writ petition may lie only if there is a breach of an obligation imposed by statutory contract; but no writ can issue to remedy the breach of non- statutory contract.
+In Bareilly Development Authority, Bareilly v. Ajai Pal Singh, AIR 1989 SC 1076 Supreme Court has, in this connection, laid down as under:  "There is a line of decisions where the contract entered into between the State and the persons aggrieved is non-statutory and purely contractual and the rights are governed only by the terms of the contract, no writ or order can be issued under Article 226 of the Constitution of India so as to compel the authorities to remedy a breach of contract pure and simple : Radhakrishna Agarwal v. State of Bihar, (1977) 3 SCR 249 : AIR 1977 SC 1496, Premji Bhai Parmar v. Delhi Development Authority, (1980) 2 SCR 704 : AIR 1980 SC 738 and FO v. Biswanath Tea Co Ltd, (1981) 3 SCR 662 : AIR 1981 SC 1368.
+Same principle was reiterated by the Supreme Court in State of Gujarat v. Meghji Pethraj Shah Charitable Trust, 1994(3) SCT 162(SC) : 1994(2) UPLBEC 1327 in which the Supreme Court has laid down as follows : "We are unable to see any substance in the argument that the termination of arrangement without observing the principle of natural justice (audi alteram partem) is void.
+The termination is not a quasi-judicial act by any stretch of imagination; hence it was not necessary to observe the principles of natural justice.
+It is not also an executive or administrative act to attract the duty to act fairly.
+It was as has been repeatedly urged by Sri Ramaswamy - a matter governed by a contract, the writ petition is not maintainable since it is a public law remedy and is not available in private law field, e.g., where the matter is governed by a non-statutory contract."
+In Assistant Excise Commissioner v. Issa Peter, JT 1994(2) SC 140 Supreme Court has further laid down that doctrine of fairness and reasonableness is not applicable to contractual obligations even if the contract is governed by statutory provisions.
+8.
+In Synthetics and Chemicals Ltd v. GC Kumar, 1972 (25) FLR 146 (All.)
+(supra) Division Bench of this Court held that the post of Labour Welfarae Officer is an office created by a legislative enactment and its conditions of service are governed by UP Factories Welfare Officers' Rules, 1955, which have statutory force.
+It was accordingly held that a writ of mandamus can issue to the Company to restore the service of the Labour Welfare Officer.
+It is well settled that a writ can issue even to a private person or Company to carry out the duties imposed on them by the statutory provisions.
+In this connection reference may be made to Praga Tools Corporation v. GB Emanuel.
+9.
+The appellant is an employee of a private trading organisation, which is neither a statutory nor a public body nor was it discharging any public/statutory duty when reverting the appellant by the impugned order.
+It is a matter, which is governed by private law and is, therefore, not amenable to the writ Jurisdiction of this Court.
+10.
+It is not disputed that the appellant is a workman and he has a remedy by way of reference to the Labour Court under Industrial Disputes Act for redressal of his grievance.
+Remedy before the Labour Court is an efficacious remedy and it is not open to the workman to file the writ petition without invoking the jurisdiction of the Labour Court.
+Supreme Court in Assistant Collector of Central Excise v. Dunlop India Ltd, AIR 1985 SC 330 has in this connection laid down as under:  "Art. 226 is not meant to short circuit or circumvent statutory procedures.
+It is only where statutory remedies are entirely ill- suited to meet he demands of extraordinary situations as for instance where the very vires of the statute is in question or where private or public wrongs are so inextricably mixed up and the prevention of public injury and the vindication of public justice require it that recourse may be had to Article 226 of the Constitution.
+But then the Court must have good and sufficient reason to by-pass the alternative remedy provided by statute."
+A Full Bench of this Court in Chandrama Singh v. Managing Director, UP Cooperative Union, Lucknow, 1992(1) SCT 465 (Allh.
+)(FB) : 1991(2) UPLBEC 898, has laid down that unless a person pleads and proves that a remedy before the Labour Court is not adequate and efficacious, it is not open to him to file the writ petition before this Court under Article 226 of the Constitution of India.
+In the present case the appellant has not pleaded and proved that the remedy before the Labour Court is not efficacious.
+The appellant's Writ Petition was rightly dismissed.
+No exception can be taken to the impugned judgment of the learned Single Judge.
+This appeal is accordingly dismissed.
+There shall be no order as to costs.
+Appeal dismissed.

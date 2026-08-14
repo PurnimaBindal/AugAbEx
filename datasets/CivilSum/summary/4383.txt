@@ -1,0 +1,4 @@
+The Civil Procedure Code, Order 7 Rule 11 and Order 6 Rule 16 dictate how a plaint can be rejected or pleadings struck out, and also govern partial rejection of pleadings.
+When deciding whether to reject a plaint under Order 7 Rule 11, the Court is limited to the averments made in the plaint and the documents filed with it, not considering the defendant's written statement or documents filed by them.
+The Court cannot partially reject pleadings under Order 7 Rule 11 as it can under Order 6 Rule 16, and must consider the cumulative effect of the pleadings and documents in support of the plaint and cause of action.
+[Paras 6, 7, 13, 17, 19 and 20]

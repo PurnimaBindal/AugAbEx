@@ -1,0 +1,15 @@
+When a sanction letter has been changed by the lending bank, it cannot make any changes whereby the processing fees that were initially refundable within a certain period of time would be treated non-refundable after the borrower has already paid those charges.
+This was decided in the case of Pearson Drums &amp; Barrels Pvt. Ltd vs. Reserve Bank of India and others [WPA No. 21710 of 2017] in the High Court of Calcutta by Hon’ble Justice Sabyasachi Bhattacharyya.
+The facts of the case are that the petitioner is a company engaged in the business of manufacture and supply of MS Barrels to the Oil Sector The 4th respondent, IndusInd Bank granted “in-principle” sanction, for credit facility worth Rs.25.05 crore to the petitioner.
+ However, it was mentioned that petitioner would have to pay processing fee to avail financial assistance which was worth Rs14 lacks.
+ Also, there was a condition that the acceptance letter must be given within 30 days of sanction of credit and failure to do so would so make the processing fees non-refundable.
+The petitioner issued a communication to the respondent seeking refund of the processing fees  against delay and non-receipt of final sanction letter as it had jeopardized the petitioner’s financial.
+But the bank refused to pay the processing fee, calling it non-refundable as per terms of sanction.
+The petitioner approached the reiterated its claim for the processing fees several times Due to lack of response, he filed the present writ petition asking for a refund of 100 percent of the processing fee.
+The counsel for the petitioner submitted that it was clearly mentioned in the e-mail demanding processing fees that if the sanction did not go through from the bank’s end, the bank would refund the processing fees.
+Since the fresh sanction issued by the bank was delayed and defeated the purpose of the credit facilities and in view of the several deviations from the in-principle sanction, the petitioner refused to accept such fresh sanction.
+Thus, in view of the bank having failed to adhere to the terms and conditions of the in-principle sanction, the refusal regarding such sanction was from the bank’s end.
+The court analyzed the facts of the case and the contentions put forth and observed that if it were assumed that the said clause in the fresh sanction was binding on the petitioner, it clearly envisages that the processing fees would be non-refundable “post-acceptance of the sanction letter”.
+Such post-facto clause could not have referred to the previous in-principle sanction letter but had to be read in the context of the fresh sanction, which was never accepted by the petitioner.
+Thus, the term “post-acceptance” does not apply at all in the present case, which would render the processing fees non-refundable.
+Even discounting the ground of delay taken in such refusal letter, the variance between the fresh and in-principle sanctions is sufficient ground to come to a finding that the petitioner was not at fault but it was the Bank which issued a fresh sanction on terms different from the in-principle sanction, thereby seeking a novation of the offer for all practical purposes.

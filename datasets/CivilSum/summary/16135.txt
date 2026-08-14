@@ -1,0 +1,3 @@
+Condition for declaring results for improvement exams requires that if a student gets a better score in the subject after appearing for an improvement exam, then their result must be declared.
+However, the condition that the student must receive more than 55% aggregate marks is invalid.
+[Paras 3 and 4]

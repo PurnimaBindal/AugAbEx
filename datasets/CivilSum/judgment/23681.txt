@@ -1,0 +1,24 @@
+This appeal by special leave is directed against the judgment of the High Court of Punjab and Haryana affirming.the decision of the single Judge in a writ petition.
+The short question that came before the High court for consideration was whether the Directors of a private limited company had personal liability to meet the demand of contribution arising under the Employees' State Insurance Act, 1948.
+Their liability depended upon the correct interpretation of the term 'principal employer' appearing in S. 2(17) of the Act.
+The definition reads thus :  "2(17) "Principal employer'means (i) in a factory, the owner or occupier and includes the managing agent of such owner or occupier, the legal representative of a deceased owner or occupier, and where a person has been named as the manager of the factory under the Factories Act, 1948 (63 of 1948), the person so named; (ii) in any establishment under the control of any department of any Government of India, the authority appointed by such Government in this behalf or where no authority is so appointed, the head of the Department; (iii) in any other establishment, any person responsible for the supervision and control of the establishment."
+2.
+There is no dispute that clause (ii) does not apply.
+What is relevant to consider is whether the liability of Director is covered under clause (1) and if it is, clause (iii) being residuary would not apply and in case it is not covered by clause (i), the matter would be regulated by clause (iii).
+Admittedly the company had a factory and it is not in dispute that the occupier of the factory had been duly named.
+It is also not in dispute that it had a manager too.
+In view of the clear terms in the definition, we are of the view that Director did not come within clause (i) but the occupier being there, clause (i) applied and in that view of the matter, clause (iii) could have no application.
+3.
+Learned counsel for the appellant relied upon two decisions as precedents.
+In the case of the Bombay High Court in Suresh Tulsidas Kalichand v. Collector of Bombay (1980) 2 Lab LJ 81, the Court found liability by relying upon Cl. (ii) of the definition without first ascertaining whether the matter was covered by clause (i).
+Now on our finding in the instant case that clause (i) applied we do not have to go to clause (iii) where the liability is of the person who is responsible for the supervision and control of the establishment.
+The other decision on which reliance has been placed is in the case of BM Chatterjec v. State of West Bengal, AIR 1970 Cal 290.
+That was a case where a learned single Judge proceeded on the footing that the Directors were owners of the company.
+We called upon the learned counsel for the appellant to substantiate the proposition that Directors in the absence of anything more would have to be treated owners of the company and he has candidly accepted the position that in the absence of facts and proof of actual position, Directors cannot be treated ipso fascto as owners.
+Thus no support is available from the precedents.
+We are of the view that the High Court was right in its conclusion that the liability was of the company and in the event of their being an occupier, he was liable to meet the demand.
+4.
+Counsel has no information as to whether any action has been taken against the company for recovery of the amount as suggested in the impugned judgment of the High Court.
+The appeal fails and is dismissed.
+There shall be no order as to costs on account of the fact that there is no appearance on behalf of the respondents.
+Appeal dismissed.

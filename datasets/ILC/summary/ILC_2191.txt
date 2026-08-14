@@ -1,0 +1,24 @@
+Section 86(1)(f) vests a statutory jurisdiction with the State Electricity Commission to adjudicate upon disputes between licensees and generating companies and to refer any dispute for arbitration.
+therefore, the appointment of arbitrators by the commission overrides the appointment of arbitrators by the High Court.
+This judgment was passed in the case of Chief General Manager (IPC) M P Power Trading Co Ltd &amp; Anr. vs. Narmada Equipments Pvt. Ltd. [C.A.No.1051/2021] by a Bench consisting of Hon’ble Justice Dr. Dhananjaya Y Chandrachud, Hon’ble Justice M R Shah, and Hon’ble Justice Sanjiv Khanna.
+The present appeal arose from a judgment passed by the MP High Court where it appointed an Arbitrator in the dispute between the parties, in an application filed by the respondent under Section 11(6) of the Arbitration and Conciliation Act 1996.
+The MP Electricity Board entered into a Power Purchase Agreement (PPA) in 1999 with the respondent and the latter was to establish a mini hydroelectric project on a built and operate basis.
+However, the PPA was terminated in 2001 by the Board.
+The respondent initially filed a writ petition challenging the termination of the PPA, wherein the High Court, declined to entertain the petition in view of an arbitration agreement or clause in the PPA.
+the respondent filed a review petition which was also dismissed by the High Court.
+the respondent, therefore, issued a notice to the board seeking to resolve the dispute by mutual discussion.
+Since the respondent did not receive a reply to the notice in 2011, the respondent issued another notice to the Board.
+The respondent stated that if the Board did not act upon the notice within 30 days of its receipt, it would approach the High Court under Section 11(6) of the 1996 Act.
+having received no reply, the respondent approached the High Court.
+The appointed arbitrators refused to initiate the proceeding since their fees had not been paid.
+The respondents filed an AC under which the Single Judge held that remedies under Section 86(1)(f) of the 2003 Electricity Act and under Section 11(6) of the 1996 Act are independent of each other, and it was open to the High Court to exercise its jurisdiction under Section 11(6).
+Therefore the Appellant appealed before the Supreme Court.
+The Supreme Court observed that section 86(1)(f) of the 2003 Act, is a special provision that overrides the general provisions contained in Section 11 of the 1996 Act.
+Section 86(1)(f) vests a statutory jurisdiction with the State Electricity Commission to adjudicate upon disputes between licensees and generating companies and to refer any dispute for arbitration.
+Further Section 174 of the Electricity Act, provides an overriding effect to the 1996 Act notwithstanding anything inconsistent contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than the 2003 Act itself.
+The Supreme Court further held that if there is an inherent lack of jurisdiction, the plea can be taken at any stage and also in collateral proceedings.
+The Court reiterated a well-established principle that a decree passed by a court without subject matter jurisdiction is a nullity, and that its invalidity could be set up whenever and wherever it is sought to be enforced or relied upon.
+Such a defect of jurisdiction cannot be cured even by the consent of the parties.
+Therefore the State Electricity Commission had jurisdiction to appoint the arbitrator since Section 86(1)(f) refers to disputes only between licensees and generating companies.
+Thus, the order of the High Court appointing an arbitrator under Section 11(6) of the 1996 Act is unsustainable.
+Accordingly, the appeal was allowed and the order of the High Court was set aside.

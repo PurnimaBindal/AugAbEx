@@ -1,0 +1,68 @@
+N K Sodhi, J - Whether the residuary provisions of Article 137 of the Limitation Act, 1963 providing a period of three years of limitation apply to a reference under Section 10 of the Industrial Disputes Act, 1947 (hereinafter called 'the Act') and if they do not apply, whether delay is a valid ground to decline a reference under Section 10 of the Act are in essence the two questions of law which we are called upon to decide.
+The Motion Bench while admitting this petition has, of course, formulated the following six questions but when examined in their true perspective answers to these two questions will cover all of them :  (1) Whether termination of services can be challenged after expiry of 3 years by raising an industrial dispute and seeking reference to Labour Court for its decision ?
+(2) Whether Article 137 of the Indian Limitation Act, 1963, would be applicable in case of dismissal of an employee who challenged it by raising an industrial dispute and dismissal can be challenged after expiry of three years ?
+(3) Whether Article 137 would be applicable to Labour Courts or to Industrial dispute or Tribunals ?
+(4) Whether the State can refuse to make reference to Labour Courts on the stale claim ?
+(5) Whether State can refuse to make reference on the ground of laches ?
+(6) Whether question of laches can be decided by a Labour Court alone ?
+2.
+When this petition came up for motion hearing it was stated at the Bar that there was no precedent shedding any light on the questions raised and since the questions were of some public importance likely to arise in a large number of cases, the present case was admitted to be heard by a Division Bench.
+This is how the matter has been placed before us for final disposal.
+3.
+As the questions raised are purely legal, it is not necessary to refer to the facts of the case at this stage.
+The relevant part of Section 10(1) of the Act under which a reference of an Industrial dispute can be made by an appropriate Government to any of the adjudicating authorities mentioned therein reads as under :  "10.
+Reference of disputes to Boards, Courts or Tribunals :- (1) Where the appropriate Government is of opinion that any industrial dispute exists or is apprehended, it may at any time by order in writing,  (a) refer the dispute to a Board for promoting a settlement thereof; or  (b) refer any matter appearing to be connected with or relevant to the dispute to a Court for inquiry;  (c) refer the dispute or any matter appearing to be connected with, or relevant to, the dispute, if it relates to any matter specified in the Second Schedule, to a Labour Court for adjudication, or  (d) refer the dispute or any matter appearing to be connected with, or relevant to, the dispute, whether it relates to any matter specified in the Second Schedule or the Third Schedule, to a Tribunal for adjudication :  Provided, xx, xx xx.
+Provided, xx, xx, xx."
+It would be relevant to note the provisions of Article 137 of the Schedule to the Limitation Act as well which reads as under :-  Description of suit, Period of limitation, Time from which period begins to run.
+137.
+Any other application for which no period of limitation is provided elsewhere in this Division, Three years, When the right to apply accrues.
+Sub-section (1) of Section 10 quoted above empowers the appropriate Government to make a reference of an industrial dispute to the authorities enumerated therein by an order in writing.
+Reference can be made by the appropriate Government at any time if it is of the opinion that an industrial dispute is either existing or is apprehended.
+There is no period of limitation prescribed in the Act for making a reference under Section 10(1).
+It is for the appropriate Government which is the sole arbiter to consider as to whether it is expedient or not to make a reference.
+The words 'at any time' used in the Section do not admit of any limitation of time in making an order of reference.
+The scheme of industrial adjudication does not, indeed, permit the application of the laws of limitation as in the matter of deciding the question as to whether a stale claim should be entertained or not, it is always the industrial peace that has to be kept in view as the object of the Act is to maintain such peace.
+It is difficult to lay down a uniform rule as to when a belated claim should be entertained or not.
+It has to be borne in mind that the object of the Act is that for the maintenance of good relations between the management and its employees and also for the benefit of the concerned industry, the industrial disputes are settled at the earliest and it is for this purpose alone that a detailed machinery for the settlement of disputes had been provided in the Act.
+There may, however, be cases where settlement of disputes between an employer and his employees becomes necessary in the interest of industrial peace, no matter that the claim is belated but it will be in very rare cases.
+To achieve this objective of early settlement of disputes, it will be, thus, open to the appropriate government in the exercise of its discretion not to make a reference when a claim has become stale.
+4.
+Article 137 of the Limitation Act which is the residuary clause in the Schedule provides for a period of limitation in a case for which no period of limitation is provided elsewhere in the IIIrd division of the Schedule.
+This Article, as held by their Lordships of the Supreme Court in Kerala State Electricity Board v. T P Kumhaliumma, AIR 1977 SC 282 "will apply to any petition or application filed under any Act to a Civil Court."
+A reference made to an adjudicating authority under Section 10(1) of the Act cannot by any process of reasoning be deemed to be an application or a petition under the Act and at any rate, it is not made to a civil Court.
+It is by now well settled that a Labour Court or an Industrial Tribunal is not a civil Court as understood under the Code of Civil Procedure.
+Article 137 of the Limitation Act is, therefore, clearly not attracted.
+The questions raised in this petition need not be examined any further as they stand answered by the Apex Court authoritatively in a number of reported decisions.
+In Bombay Union of Journalists v. The State of Bombay, AIR 1964 SC 1617, Justice Gajendragadkar (as his Lordship then was) while dealing with the power of the Government to make or refuse a reference under Section 10(1) read with Section 12(5) of the Act observed as under :  "But it would not be possible to accept the plea that the appropriate Government is precluded from considering even prima facie the merits of the dispute when it decides the question as to whether its power to make a reference should be exercised under Section 10(1) read with Section 12(5), or not.
+If the claim made is patently frivolous, or is clearly belated, the appropriate Govt. may refuse to make a reference."
+(emphasis supplied).
+Again in Inder Singh and Sons Ltd v. Their Workmen, 1961-II LLJ 89, Justice K C Das Gupta while dealing with the question of delay in raising an industrial dispute observed as under :-  "It is true that laws of limitation which might bar any civil court from giving remedy in respect of lawful rights are not and should not be applied by the industrial tribunals.
+On the other hand, it is a well-accepted principle of industrial adjudication that overstale claims should not generally be encouraged or allowed, unless there is a satisfactory explanation for the delay.
+Apart from the obvious risk to industrial peace from the entertainment of claims after a long lapse of time, it is necessary also to take into account the unsettling effect this is likely to have on the employer's financial arrangements.
+Whether a claim has become too stale or not will depend on the circumstances of each case.
+In Jhagrakhand Collieries Ltd v. Central Government Industrial Tribunal (1960-II L.L.J.
+71) where a claim for extra wages under Clause (2) of this very Korea award came up for consideration, this Court held that it would not be fair or just to allow the workmen the benefit of an increase directed by the award even prior to the date of the demand.
+A similar view was taken in this Court's judgment in United Collieries Ltd v. Its Workmen (1961-II LLJ 75) (ante).
+While these cases do not lay down an absolute proposition as suggested on behalf of the respondent that relief can in no case be granted for a period prior to the demand they do strongly support the proposition that in deciding on the date from which the relief should be given the industrial tribunal ought to pay particular attention to the date when the demand was first made."
+Thus, to sum up, it must be held that no period of limitation is prescribed for making of a reference under Section 10(1) of the Act and that provisions of Articles 137 of the Limitation Act do not apply but nevertheless the appropriate Government should refer the disputes at the earliest and it is open to the said Government to decline a reference if it is belated or sought to be raised after a long lapse of time.
+As to when a dispute becomes stale so as to justify the Government to decline to refer the same for adjudication will depend upon the facts and circumstances of each case of which the appropriate Government would be the sole judge subject, of course, to judicial review by this Court under Article 226 of the Constitution.
+In other words, it cannot be laid down as a proposition of law that the Government can in no case decline a belated reference and that it is for the adjudicating authority only to mould its relief in the light of the delay made in making the reference.
+If, however, the Government refers a dispute after a long lapse of time it would be equally upon to the affected party to challenge the same in appropriate proceedings including a petition under Article 226 of the Constitution.
+In the event of a belated reference being made and adjudicated, the adjudicating authority while granting the relief, if any, will so mould it so as not to grant any for the period prior to the date on which the dispute was raised.
+5.
+Having discussed the legal position, we may now refer to the facts of the present case, services of petitioner No. 1 were terminated on May 15, 1986 and he served a demand notice and sought to raise an industrial dispute on November 30, 1989 almost after a lapse of three and a half years.
+Similarly, services of petitioner No. 2 were terminated in August, 1984 and he served the demand notice in March, 1990 after nearly six years.
+Petitioner No. 3 was removed from service in August, 1987 and he served the demand notice in June, 1990 after about three years.
+Conciliation proceedings were held and they proved abortive.
+The State Government declined to refer the disputes sought to be raised by the petitioners solely on the ground of delay.
+In view of the legal position discussed above, it was open to the Government to reject the demands on the ground that they were belated.
+No illegality could be pointed out in the impugned orders passed by the State Government declining to refer the disputes.
+No explanation much less satisfactory explanation was given before the authorities during the course of conciliation proceedings.
+Even before us, learned counsel for the petitioners could not furnish any plausible explanation for the delay caused by the petitioners in raising the disputes regarding their non-employment.
+6.
+It was urged on behalf of the petitioners that the State Government could not decline to make a reference on the ground of delay and that it was a matter for the adjudicating authority to consider while granting the relief, it any.
+In view of the aforesaid discussion there is no merit in this contention.
+It is true, as already observed above that if stale claim is referred for adjudication, the adjudicating authority will not grant any relief prior to the date of demand but it does not follow that the State Government is bound to refer a belated claim.
+No other point was raised.
+In the result, there is no merit in the writ petition which stands dismissed with no order as to costs.
+Petition dismissed.

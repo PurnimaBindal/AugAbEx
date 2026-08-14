@@ -1,0 +1,16 @@
+Repetition of a bailable offence by a person can render the bail granted as cancelled and he/she can be arrested by the police.
+This was laid down by Hon’ble Justice Sreenivas Harish Kumar in the case Aluka Sundra Orewa vs. State of Karnataka [Criminal Petition 6286 of 2020] in the High Court of Karnataka.
+In the instant case, the petition for granting bail was filed by a foreigner living on a student visa, who was accused of an offence punishable under Sections 66C and 66D of the Information Technology Act.
+The complainant had lost Rs90000 from her bank account that was withdrawn from an ATM counter.
+It was discovered in the course of the investigation that the accused had used a forged ATM card made by using a skimmer and withdrew the money from the bank account of the complainant.
+The main task for the court was to decide the relevant provisions that cover the aforesaid crime and whether it fell under the category of bailable or non-bailable offences.
+This required a close analysis of the nature of the crime committed.
+The counsel for the petitioner stated that the allegations made do not fall under section 420 of IPC and cannot be considered cheating as there had been no dishonest inducement.
+On the other hand, the government pleader highlighted the fact that the accused has been involved in some other 60 cases of similar nature.
+He called the petitioner a habitual offender who would most likely repeat the crime if left unchecked.
+Moreover, the pleader also attempted to frame charges on the accused under Section 420 and Section 468 of the IPC by creating a link between ‘fixing the device to the ATM’ and ‘cheating’.
+The court made an interesting observation with respect to the grant of bail.
+It said even when bail is related to the liberty of an individual this liberty cannot be misused.
+The court relied on the case of Supreme Court- Ratilal Bhanji Mithani vs Assistant Collector of Customs [AIR 1967 SC 1639] where it was held “cancellation of bail by the High Court under its inherent power does not deprive the personal liberty of an individual if his conduct subsequent to grant of bail hampers the trial” After listening to both sides of the arguments the court proceeded to decide in favor of the petitioner.
+The court stated that even though the act amounts to cheating and dishonest inducement after the IT Act came into the picture, the court shall apply the provisions of the latter Act here.
+This implies that the offence is bailable nature and she was granted bail.
